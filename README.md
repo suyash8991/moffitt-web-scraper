@@ -1,6 +1,6 @@
-# Moffitt Cancer Center Researcher Data Scraper
+# Moffitt Cancer Center Researcher Data Scraper (COMPLETED)
 
-This project scrapes researcher profiles from the Moffitt Cancer Center website and structures the data for use in a Retrieval-Augmented Generation (RAG) system. It extracts researcher information including biographies, research interests, publications, education, and grants.
+This project scrapes researcher profiles from the Moffitt Cancer Center website and structures the data for use in a Retrieval-Augmented Generation (RAG) system. It extracts researcher information including biographies, research interests, publications, education, and grants. The scraping phase has been successfully completed with all 127 researcher profiles processed.
 
 ## Project Structure
 
@@ -80,6 +80,7 @@ The scraper extracts the following information from each researcher profile:
   - Title/Position
   - Primary Program
   - Research Program
+  - Department
 
 - Research Information
   - Overview/Biography
@@ -121,6 +122,7 @@ The JSON format follows this structure:
   "title": "Professional Title",
   "primary_program": "Research Program",
   "research_program": "Program Affiliation",
+  "department": "Department",
   "overview": "Biography text in markdown",
   "research_interests": ["Interest 1", "Interest 2"],
   "associations": ["Association 1", "Association 2"],
@@ -166,10 +168,3 @@ This scraper:
 - Respects robots.txt
 - Only extracts publicly available information
 - Is intended for research and educational purposes only
-
-## Next Steps
-
-Phase 2 of this project will involve:
-1. Building a vector database using the extracted data
-2. Creating embeddings for semantic search
-3. Implementing an Agentic RAG system for natural language queries
