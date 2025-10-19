@@ -40,21 +40,23 @@ def normalize_url(url):
     return urlunparse(parsed)
 
 
-def read_urls_from_excel(file_path, url_column=None):
+def read_urls_from_excel(file_path, url_column=None, dept_column=None):
     """
-    Read researcher URLs from an Excel file.
+    Read researcher URLs and departments from an Excel file.
 
     Args:
         file_path (str): Path to the Excel file
         url_column (str, optional): Name of the column containing URLs.
                                    If None, tries to auto-detect.
+        dept_column (str, optional): Name of the column containing department information.
+                                    If None, tries to auto-detect.
 
     Returns:
-        list: List of URLs
+        dict: Dictionary with URLs as keys and department info as values
     """
     if not os.path.exists(file_path):
         logger.error(f"Excel file not found: {file_path}")
-        return []
+        return {}
 
     try:
         # Read the Excel file
@@ -79,20 +81,71 @@ def read_urls_from_excel(file_path, url_column=None):
                 logger.info(f"Auto-detected URL column: {url_column}")
             else:
                 logger.error("Could not auto-detect URL column")
-                return []
+                return {}
 
-        # Extract URLs
-        urls = df[url_column].dropna().astype(str).tolist()
+        # If department column name not provided, try to auto-detect
+        if dept_column is None:
+            # Look for columns that might contain department info
+            possible_dept_columns = [col for col in df.columns if any(
+                keyword in col.lower() for keyword in ['department', 'dept', 'division', 'section']
+            )]
 
-        # Normalize URLs
-        normalized_urls = [normalize_url(url) for url in urls]
+            if possible_dept_columns:
+                dept_column = possible_dept_columns[0]
+                logger.info(f"Auto-detected Department column: {dept_column}")
+            else:
+                # If we can't find a department column by keyword, check all columns
+                for col in df.columns:
+                    if 'department' in col.lower():
+                        dept_column = col
+                        logger.info(f"Found Department column: {dept_column}")
+                        break
 
-        logger.info(f"Read {len(normalized_urls)} URLs from {file_path}")
-        return normalized_urls
+                # If still not found, log a warning
+                if dept_column is None:
+                    logger.warning("Could not auto-detect department column")
+
+            # Force the exact column name if we know it should be there
+            if 'Department' in df.columns:
+                dept_column = 'Department'
+                logger.info(f"Using exact Department column match: {dept_column}")
+
+        # Create a dictionary mapping URLs to departments
+        result = {}
+
+        for idx, row in df.iterrows():
+            if pd.notna(row[url_column]):
+                url = normalize_url(str(row[url_column]))
+
+                # Extract department with better error handling
+                dept = ""
+                if dept_column:
+                    try:
+                        dept_value = row.get(dept_column)
+                        if pd.notna(dept_value):
+                            dept = str(dept_value).strip()
+                    except Exception as e:
+                        logger.warning(f"Error extracting department for {url}: {e}")
+
+                # Add to result dictionary
+                result[url] = dept
+
+                # Log for debugging
+                if dept:
+                    logger.info(f"URL: {url} -> Department: {dept}")
+
+        logger.info(f"Read {len(result)} URL-department pairs from {file_path}")
+
+        # Log specific researcher for debugging
+        for url, dept in result.items():
+            if "ahmad-tarhini" in url.lower():
+                logger.info(f"DEBUG: Ahmad Tarhini URL: {url} -> Department: {dept}")
+
+        return result
 
     except Exception as e:
         logger.error(f"Error reading Excel file: {e}")
-        return []
+        return {}
 
 
 def get_researcher_urls(file_path='researcher_links.xlsx'):
@@ -104,14 +157,15 @@ def get_researcher_urls(file_path='researcher_links.xlsx'):
                                    Defaults to 'researcher_links.xlsx'.
 
     Returns:
-        list: List of URLs
+        dict: Dictionary with URLs as keys and department info as values
     """
     return read_urls_from_excel(file_path)
 
 
 if __name__ == "__main__":
     # Test the module
-    urls = get_researcher_urls()
-    for i, url in enumerate(urls[:5]):  # Print first 5 URLs as sample
-        print(f"{i+1}. {url}")
-    print(f"Total URLs: {len(urls)}")
+    url_dept_dict = get_researcher_urls()
+    print("First 5 URLs with their departments:")
+    for i, (url, dept) in enumerate(list(url_dept_dict.items())[:5]):  # Print first 5 URL-department pairs
+        print(f"{i+1}. {url} -> Department: {dept}")
+    print(f"Total URL-Department pairs: {len(url_dept_dict)}")

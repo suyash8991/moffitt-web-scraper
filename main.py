@@ -71,12 +71,13 @@ class MoffittResearcherScraper:
         self.crawler = ResearcherCrawler(output_dir=self.output_dirs["raw_html"])
         self.parser = ResearcherProfileParser()
 
-    async def process_researcher(self, url):
+    async def process_researcher(self, url, department=""):
         """
         Process a single researcher URL.
 
         Args:
             url (str): URL of the researcher profile
+            department (str, optional): Department the researcher belongs to
 
         Returns:
             dict: Processed researcher data or None if failed
@@ -102,7 +103,17 @@ class MoffittResearcherScraper:
             logger.info(f"Saved markdown to {markdown_filename}")
 
             # Step 3: Parse markdown to structured data
-            researcher_data = self.parser.parse_markdown(crawl_result['markdown'], url)
+            researcher_data = self.parser.parse_markdown_file(markdown_filename, url)
+
+            # Add researcher_name and department to the data
+            researcher_data['researcher_name'] = researcher_name.replace('-', ' ').title()
+
+            # Add department from Excel if available, otherwise use empty string
+            researcher_data['department'] = department
+
+            # Remove the unused name field if it exists
+            if 'name' in researcher_data:
+                del researcher_data['name']
 
             # Step 4: Save structured data to JSON
             json_filename = os.path.join(self.output_dirs["processed"], f"{researcher_name}.json")
@@ -116,17 +127,18 @@ class MoffittResearcherScraper:
             logger.error(f"Error processing {url}: {str(e)}")
             return None
 
-    async def process_researchers(self, urls, limit=None):
+    async def process_researchers(self, urls_data, limit=None):
         """
-        Process multiple researcher URLs.
+        Process multiple researcher URLs with their associated department information.
 
         Args:
-            urls (list): List of researcher profile URLs
+            urls_data (dict): Dictionary mapping URLs to department information
             limit (int, optional): Limit the number of URLs to process
 
         Returns:
             list: List of processed researcher data
         """
+        urls = list(urls_data.keys())
         if limit and limit > 0:
             urls = urls[:limit]
 
@@ -135,7 +147,11 @@ class MoffittResearcherScraper:
         # Process URLs sequentially to be respectful to the server
         results = []
         for url in urls:
-            result = await self.process_researcher(url)
+            # Get department from the dictionary
+            department = urls_data.get(url, "")
+
+            # Process the researcher with the department info
+            result = await self.process_researcher(url, department)
             if result:
                 results.append(result)
 
@@ -191,6 +207,7 @@ async def main():
     parser = argparse.ArgumentParser(description="Scrape researcher profiles from Moffitt Cancer Center")
     parser.add_argument("--excel", help="Path to Excel file with researcher URLs", default="researcher_links.xlsx")
     parser.add_argument("--url", help="Single researcher URL to scrape")
+    parser.add_argument("--department", help="Department for the single URL (when using --url)")
     parser.add_argument("--limit", type=int, help="Limit the number of researchers to process")
     args = parser.parse_args()
 
@@ -198,17 +215,50 @@ async def main():
     scraper = MoffittResearcherScraper()
 
     if args.url:
-        # Process a single URL
-        await scraper.process_researcher(args.url)
+        # Always get department from Excel file first, fall back to command line argument
+        urls_data = read_urls_from_excel(args.excel)
+        department = urls_data.get(args.url, args.department or "")
+        # Process a single URL with department from Excel or command line
+        result = await scraper.process_researcher(args.url, department)
+
+        # Make sure the department field is included in the JSON
+        if result and not result.get('department'):
+            # Add department from Excel data if available
+            result['department'] = department
+            # Update the JSON file
+            researcher_name = args.url.rstrip('/').split('/')[-1]
+            json_filename = os.path.join(scraper.output_dirs["processed"], f"{researcher_name}.json")
+            with open(json_filename, 'w', encoding='utf-8') as f:
+                json.dump(result, f, indent=2)
+            print(f"Updated JSON file with department field: {department}")
     else:
-        # Read URLs from Excel file
-        urls = read_urls_from_excel(args.excel)
-        if not urls:
+        # Read URLs and department info from Excel file
+        urls_data = read_urls_from_excel(args.excel)
+        if not urls_data:
             logger.error(f"No URLs found in Excel file: {args.excel}")
             return
 
-        # Process URLs
-        researchers = await scraper.process_researchers(urls, args.limit)
+        # Process URLs with their department info
+        researchers = await scraper.process_researchers(urls_data, args.limit)
+
+        # Make sure all processed files have the department field
+        for url, department in urls_data.items():
+            researcher_name = url.rstrip('/').split('/')[-1]
+            json_filename = os.path.join(scraper.output_dirs["processed"], f"{researcher_name}.json")
+
+            if os.path.exists(json_filename):
+                try:
+                    with open(json_filename, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+
+                    # Add department if missing
+                    if not data.get('department'):
+                        data['department'] = department
+                        with open(json_filename, 'w', encoding='utf-8') as f:
+                            json.dump(data, f, indent=2)
+                        print(f"Updated {researcher_name}.json with department: {department}")
+                except Exception as e:
+                    logger.error(f"Error updating department for {researcher_name}: {e}")
 
         # Generate summary
         summary = scraper.generate_summary(researchers)

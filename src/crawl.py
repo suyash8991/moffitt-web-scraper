@@ -154,7 +154,7 @@ class ResearcherCrawler:
             result['error'] = error_msg
             return result
 
-    async def crawl_urls(self, urls):
+    async def   crawl_urls(self, urls):
         """
         Crawl multiple URLs with rate limiting and error handling.
 

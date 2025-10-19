@@ -6,6 +6,7 @@
   "required": [
     "researcher_id",
     "name",
+    "researcher_name",
     "program",
     "department",
     "profile_url",
@@ -20,6 +21,10 @@
     "name": {
       "type": "string",
       "description": "Full name of the researcher"
+    },
+    "researcher_name": {
+      "type": "string",
+      "description": "Name of the researcher"
     },
     "title": {
       "type": "string",
