@@ -191,20 +191,60 @@ def extract_publications(self, markdown: str) -> List[Dict[str, str]]:
         pub_entries = re.findall(r'\s*\*\s+(.*?)(?=\s*\*\s+|\Z)', publications_text, re.DOTALL)
 
         for entry in pub_entries:
-            pub = {"title": ""}
+            pub = {"title": "", "authors": ""}
 
-            # Extract publication details
-            # - PubMed ID
-            # - PMC ID
-            # - Year
-            # - Journal
-            # - Title and authors
-            # ...
+            # Extract PubMed ID if available
+            pubmed_match = re.search(r'Pubmedid:\s*\[(.*?)\]', entry)
+            if pubmed_match:
+                pub["pubmed_id"] = pubmed_match.group(1)
+
+            # Extract PMC ID if available
+            pmc_match = re.search(r'Pmcid:\s*(PMC\d+)', entry)
+            if pmc_match:
+                pub["pmc_id"] = pmc_match.group(1)
+
+            # Extract year and publication date
+            year_match = re.search(r'(\d{4})\s+(\w+)\.', entry)
+            if year_match:
+                pub["year"] = year_match.group(1)
+                pub["publication_date"] = f"{year_match.group(1)} {year_match.group(2)}"
+
+            # Extract authors, title, and journal
+            if year_match:
+                citation_text = entry[:year_match.start()].strip()
+
+                # Find all periods that separate major components
+                periods = [m.start() for m in re.finditer(r'\.', citation_text)]
+
+                if len(periods) >= 2:
+                    # First period separates authors from title
+                    first_period = periods[0]
+                    # Second period separates title from journal
+                    second_period = periods[1]
+
+                    # Extract authors (text before first period)
+                    pub["authors"] = citation_text[:first_period].strip()
+
+                    # Extract title (text between first and second period)
+                    pub["title"] = citation_text[first_period+1:second_period].strip()
+
+                    # Extract journal (text after second period)
+                    journal_text = citation_text[second_period+1:].strip()
+                    journal_parts = re.match(r'([^0-9]+)(\s+\d+\(.*\))?', journal_text)
+                    if journal_parts:
+                        pub["journal"] = journal_parts.group(1).strip()
 
             publications.append(pub)
 
     return publications
 ```
+
+The publication extraction now uses a more sophisticated approach to separate the different components of a citation:
+- Authors are extracted from the text before the first period
+- Title is extracted from the text between the first and second periods
+- Journal name is extracted from the text after the second period
+- Publication date and year are properly extracted
+- Journal details (volume, issue) are separated from the journal name
 
 ### 6.3 Grants Information
 
@@ -222,18 +262,70 @@ def extract_grants(self, markdown: str) -> List[Dict[str, str]]:
         grant_entries = re.findall(r'\s*\*\s+(.*?)(?=\s*\*\s+|\Z)', grants_text, re.DOTALL)
 
         for entry in grant_entries:
+            # Keep the full entry as description for backwards compatibility
             grant = {"description": entry.strip()}
 
-            # Extract grant details
-            # - Grant ID
-            # - Funding source
-            # - Amount
-            # - Period
-            # ...
+            # Extract title using the Title: prefix
+            title_match = re.search(r'Title:\s*(.*?)(?=\s*Award Number:|$)', entry, re.DOTALL)
+            if title_match:
+                grant["title"] = title_match.group(1).strip()
+
+            # Extract award number using the Award Number: prefix
+            award_match = re.search(r'Award Number:\s*(.*?)(?=\s*Sponsor:|$)', entry, re.DOTALL)
+            if award_match:
+                award_number = award_match.group(1).strip()
+                if award_number != "N/A":  # Skip N/A values
+                    grant["award_number"] = award_number
+
+            # Extract sponsor information
+            sponsor_match = re.search(r'Sponsor:\s*(.*?)(?=\s*\w+,\s*\w\.|\Z)', entry, re.DOTALL)
+            if sponsor_match:
+                grant["sponsor"] = sponsor_match.group(1).strip()
+
+            # Extract investigator information
+            investigators_match = re.search(r'Sponsor:.*?\n(.*?)$', entry, re.DOTALL)
+            if investigators_match:
+                investigators_text = investigators_match.group(1).strip()
+                if investigators_text:
+                    # Extract all investigators with roles
+                    investigators = []
+                    for inv_match in re.finditer(r'(\w+,\s*\w\.)\s*\((.*?)\)', investigators_text):
+                        investigators.append({
+                            "name": inv_match.group(1).strip(),
+                            "role": inv_match.group(2).strip()
+                        })
+                    if investigators:
+                        grant["investigators"] = investigators
+
+            # Extract amount if mentioned with $ sign
+            amount_match = re.search(r'\$\s*([\d,]+)', entry)
+            if amount_match:
+                grant["amount"] = amount_match.group(1)
+
+            # Extract period information
+            period_match = re.search(r'Period:\s*(\d{4}-\d{4}|\d{4}-\d{2})', entry)
+            if period_match:
+                grant["period"] = period_match.group(1)
 
             grants.append(grant)
 
     return grants
+```
+
+The grant extraction has been significantly improved to parse structured grant information:
+- Grant titles are extracted from the "Title:" prefix
+- Award numbers are extracted from the "Award Number:" prefix
+- Sponsor information is extracted from the "Sponsor:" prefix
+- Investigator information is parsed into a structured array with names and roles
+- Maintains the original description field for backward compatibility
+- Improves period extraction to avoid matching on grant numbers
+- The extraction handles the specific format used in the grant entries:
+
+```
+Title: [Grant Title]
+Award Number: [ID]
+Sponsor: [Funding Organization]
+[Investigators with roles]
 ```
 
 ## 7. Main Parsing Function
@@ -343,17 +435,39 @@ The final output is a comprehensive JSON object with the following structure:
   ],
   "publications": [
     {
-      "title": "Long GV, Nair N, Marbach D, ...",
-      "pubmed_id": "40993242",
+      "authors": "Long GV, Nair N, Marbach D, Scolyer RA, Wilson S, Cotting D, Staedler N, Amaria RN, Ascierto PA, Tarhini AA, Robert C, Hamid O, Gaudy-Marqueste C, Lebbe C, Munoz-Couselo E, Menzies AM, Pages C, Curigliano G, Mandala M, Jessop N, Bader U, Perdicchio M, Teichgräber V, Muecke M, Markert C, Blank C",
+      "title": "Neoadjuvant PD-1 and LAG-3-targeting bispecific antibody and other immune checkpoint inhibitor combinations in resectable melanoma: the randomized phase 1b/2 Morpheus-Melanoma trial",
+      "journal": "Nat Med",
+      "publication_date": "2025 Sep",
       "year": "2025",
-      "authors": ""
+      "pubmed_id": "40993242"
     },
     ...
   ],
   "grants": [
     {
-      "description": "Title: Predictors of Immunotherapeutic Benefits...",
-      "source": "COMMUNITY FOUNDATION OF TAMPA"
+      "description": "Title: Predictors of Immunotherapeutic Benefits in Patients with Advanced Solid Tumors Treated with Immune Checkpoint Inhibitors\nAward Number: N/A\nSponsor: COMMUNITY FOUNDATION OF TAMPA\nTarhini, A. (PD/PI)",
+      "title": "Predictors of Immunotherapeutic Benefits in Patients with Advanced Solid Tumors Treated with Immune Checkpoint Inhibitors",
+      "award_number": "N/A",
+      "sponsor": "COMMUNITY FOUNDATION OF TAMPA",
+      "investigators": [
+        {
+          "name": "Tarhini, A.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Inherited genetic variation as a predictor of the risk of immune related adverse events and the likelihood of clinical benefit\nAward Number: 22B09\nSponsor: Florida Department of Health\nTarhini, A. (PD/PI)",
+      "title": "Inherited genetic variation as a predictor of the risk of immune related adverse events and the likelihood of clinical benefit",
+      "award_number": "22B09",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Tarhini, A.",
+          "role": "PD/PI"
+        }
+      ]
     },
     ...
   ],
