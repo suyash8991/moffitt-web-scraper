@@ -467,6 +467,34 @@ class ResearcherProfileParser:
                         if standard_id_match:
                             grant["id"] = standard_id_match.group(1)
 
+                # Extract sponsor information
+                sponsor_match = re.search(r'Sponsor:\s*(.*?)(?=\s*\w+,\s*\w\.|\Z)', entry, re.DOTALL)
+                if sponsor_match:
+                    grant["sponsor"] = sponsor_match.group(1).strip()
+
+                    # For backward compatibility, also keep the source field
+                    funding_sources = ["NIH", "NCI", "NSF", "DOD", "American Cancer Society",
+                                       "DOE", "DARPA", "CDC", "Foundation"]
+                    for source in funding_sources:
+                        if source in grant["sponsor"]:
+                            grant["source"] = source
+                            break
+
+                # Extract investigator information
+                investigators_match = re.search(r'Sponsor:.*?\n(.*?)$', entry, re.DOTALL)
+                if investigators_match:
+                    investigators_text = investigators_match.group(1).strip()
+                    if investigators_text:
+                        # Extract all investigators with roles
+                        investigators = []
+                        for inv_match in re.finditer(r'(\w+,\s*\w\.)\s*\((.*?)\)', investigators_text):
+                            investigators.append({
+                                "name": inv_match.group(1).strip(),
+                                "role": inv_match.group(2).strip()
+                            })
+                        if investigators:
+                            grant["investigators"] = investigators
+
                 # Keep existing extraction for amount
                 amount_match = re.search(r'\$\s*([\d,]+)', entry)
                 if amount_match:
