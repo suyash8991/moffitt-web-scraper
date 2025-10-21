@@ -447,30 +447,36 @@ class ResearcherProfileParser:
             grant_entries = re.findall(r'\s*\*\s+(.*?)(?=\s*\*\s+|\Z)', grants_text, re.DOTALL)
 
             for entry in grant_entries:
+                # Keep the full entry as description for backwards compatibility
                 grant = {"description": entry.strip()}
 
-                # Try to extract grant ID if present (often in format "R01 CA123456")
-                grant_id_match = re.search(r'([A-Z]\d+\s+[A-Z]{2}\d+)', entry)
-                if grant_id_match:
-                    grant["id"] = grant_id_match.group(1)
+                # Extract title using the Title: prefix
+                title_match = re.search(r'Title:\s*(.*?)(?=\s*Award Number:|$)', entry, re.DOTALL)
+                if title_match:
+                    grant["title"] = title_match.group(1).strip()
 
-                # Try to extract funding source (NIH, NSF, etc.)
-                funding_sources = ["NIH", "NCI", "NSF", "DOD", "American Cancer Society",
-                                 "DOE", "DARPA", "CDC", "Foundation"]
-                for source in funding_sources:
-                    if source in entry:
-                        grant["source"] = source
-                        break
+                # Extract award number using the Award Number: prefix
+                award_match = re.search(r'Award Number:\s*(.*?)(?=\s*Sponsor:|$)', entry, re.DOTALL)
+                if award_match:
+                    award_number = award_match.group(1).strip()
+                    if award_number != "N/A":  # Skip N/A values
+                        grant["award_number"] = award_number
 
-                # Try to extract amount if mentioned with $ sign
+                        # For backward compatibility, also keep the id field if it looks like a standard grant ID
+                        standard_id_match = re.search(r'([A-Z]\d+\s+[A-Z]{2}\d+)', award_number)
+                        if standard_id_match:
+                            grant["id"] = standard_id_match.group(1)
+
+                # Keep existing extraction for amount
                 amount_match = re.search(r'\$\s*([\d,]+)', entry)
                 if amount_match:
                     grant["amount"] = amount_match.group(1)
 
-                # Try to extract years/dates
-                year_match = re.search(r'(\d{4})-(\d{4}|\d{2})', entry)
-                if year_match:
-                    grant["period"] = year_match.group(0)
+                # Improved period extraction that avoids matching on grant numbers
+                # Look for explicit period mentions
+                period_match = re.search(r'Period:\s*(\d{4}-\d{4}|\d{4}-\d{2})', entry)
+                if period_match:
+                    grant["period"] = period_match.group(1)
 
                 grants.append(grant)
 
