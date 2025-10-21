@@ -322,30 +322,47 @@ class ResearcherProfileParser:
                 if year_match:
                     pub["year"] = year_match.group(1)
 
-                # Extract journal (text between year and Pubmedid)
-                if pubmed_match and year_match:
-                    year_pos = year_match.start()
-                    pubmed_pos = pubmed_match.start()
-                    if pubmed_pos > year_pos:
-                        journal_text = entry[year_pos:pubmed_pos].strip()
-                        journal_match = re.search(r'\d{4}\s+\w+\.(.*?)\.', journal_text)
-                        if journal_match:
-                            pub["journal"] = journal_match.group(1).strip()
+                # We will handle journal extraction in the title/author section
+                # This section is no longer needed as we extract the journal alongside authors and title
 
-                # Extract title and authors (everything before the year)
+                # Extract authors, title, and journal (everything before the year)
                 if year_match:
-                    title_authors_text = entry[:year_match.start()].strip()
-                    # The last period before year typically separates title from authors
-                    last_period = title_authors_text.rfind('.')
-                    if last_period > 0:
-                        pub["title"] = title_authors_text[:last_period].strip()
-                        pub["authors"] = title_authors_text[last_period+1:].strip()
-                    else:
-                        # If no clear separation, use the whole text as title
-                        pub["title"] = title_authors_text
+                    citation_text = entry[:year_match.start()].strip()
+
+                    # Find all periods that separate major components
+                    periods = [m.start() for m in re.finditer(r'\.', citation_text)]
+
+                    if len(periods) >= 2:  # We have at least two periods (Authors. Title. Journal)
+                        # First period separates authors from title
+                        first_period = periods[0]
+                        # Second period separates title from journal
+                        second_period = periods[1]
+
+                        # Extract authors (text before first period)
+                        pub["authors"] = citation_text[:first_period].strip()
+
+                        # Extract title (text between first and second period)
+                        pub["title"] = citation_text[first_period+1:second_period].strip()
+
+                        # Extract journal (text after second period until end or next period)
+                        if len(periods) > 2:
+                            pub["journal"] = citation_text[second_period+1:periods[2]].strip()
+                        else:
+                            pub["journal"] = citation_text[second_period+1:].strip()
+
+                    elif len(periods) == 1:  # Only one period (possibly Authors. Title/Journal)
+                        first_period = periods[0]
+                        pub["authors"] = citation_text[:first_period].strip()
+                        pub["title"] = citation_text[first_period+1:].strip()
+
+                    else:  # No periods found
+                        # If we can't parse correctly, use the whole text as title
+                        pub["title"] = citation_text
+                        pub["authors"] = ""
                 else:
                     # If no year found, use the whole entry as title
                     pub["title"] = entry
+                    pub["authors"] = ""
 
                 publications.append(pub)
 
