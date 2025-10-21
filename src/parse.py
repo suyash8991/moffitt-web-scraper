@@ -317,10 +317,16 @@ class ResearcherProfileParser:
                 if pmc_match:
                     pub["pmc_id"] = pmc_match.group(1)
 
-                # Extract year
-                year_match = re.search(r'(\d{4})\s+\w+\.', entry)
+                # Extract year and publication date information
+                year_match = re.search(r'(\d{4})\s+(\w+)\.', entry)
                 if year_match:
                     pub["year"] = year_match.group(1)
+                    pub["publication_date"] = f"{year_match.group(1)} {year_match.group(2)}"
+                else:
+                    # Try alternative year format (just the year)
+                    alt_year_match = re.search(r'(\d{4})\.', entry)
+                    if alt_year_match:
+                        pub["year"] = alt_year_match.group(1)
 
                 # We will handle journal extraction in the title/author section
                 # This section is no longer needed as we extract the journal alongside authors and title
@@ -345,10 +351,19 @@ class ResearcherProfileParser:
                         pub["title"] = citation_text[first_period+1:second_period].strip()
 
                         # Extract journal (text after second period until end or next period)
+                        journal_text = ""
                         if len(periods) > 2:
-                            pub["journal"] = citation_text[second_period+1:periods[2]].strip()
+                            journal_text = citation_text[second_period+1:periods[2]].strip()
                         else:
-                            pub["journal"] = citation_text[second_period+1:].strip()
+                            journal_text = citation_text[second_period+1:].strip()
+
+                        # Clean up journal to separate actual journal name from volume/issue info
+                        # Journal format is usually: "Journal Name" or "Journal Name Volume(Issue)"
+                        journal_parts = re.match(r'([^0-9]+)(\s+\d+\(.*\))?', journal_text)
+                        if journal_parts:
+                            pub["journal"] = journal_parts.group(1).strip()
+                            if journal_parts.group(2):
+                                pub["journal_details"] = journal_parts.group(2).strip()
 
                     elif len(periods) == 1:  # Only one period (possibly Authors. Title/Journal)
                         first_period = periods[0]
