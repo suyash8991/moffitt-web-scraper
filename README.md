@@ -1,4 +1,4 @@
-# Moffitt Cancer Center Researcher Data Scraper (COMPLETED)
+# Moffitt Cancer Center Researcher Data Scraper 
 
 This project scrapes researcher profiles from the Moffitt Cancer Center website and structures the data for use in a Retrieval-Augmented Generation (RAG) system. It extracts researcher information including biographies, research interests, publications, education, and grants. The scraping phase has been successfully completed with all 127 researcher profiles processed.
 
