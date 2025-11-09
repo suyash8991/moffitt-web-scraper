@@ -135,11 +135,24 @@ class ResearcherProfileParser:
             # Look for program affiliations
             program_matches = re.findall(r'\*\*Program:\*\*\s+(.*?)\n', title_section)
             if program_matches:
-                result["primary_program"] = program_matches[0].strip()
+                primary_program = program_matches[0].strip()
+                # Remove " Program" suffix if present
+                if primary_program.endswith(' Program'):
+                    primary_program = primary_program[:-8].strip()
+                result["primary_program"] = primary_program
 
             research_program_matches = re.findall(r'\*\*Research Program:\*\*\s+(.*?)\n', title_section)
             if research_program_matches:
-                result["research_program"] = research_program_matches[0].strip()
+                research_program = research_program_matches[0].strip()
+                # Remove " Program" suffix if present (can be comma-separated list)
+                # Split by comma, clean each, and rejoin
+                programs = [p.strip() for p in research_program.split(',')]
+                cleaned_programs = []
+                for prog in programs:
+                    if prog.endswith(' Program'):
+                        prog = prog[:-8].strip()
+                    cleaned_programs.append(prog)
+                result["research_program"] = ', '.join(cleaned_programs)
 
         return result
 
