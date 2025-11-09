@@ -105,11 +105,11 @@ class MoffittResearcherScraper:
             # Step 3: Parse markdown to structured data
             researcher_data = self.parser.parse_markdown_file(markdown_filename, url)
 
-            # Add researcher_name and department to the data
-            researcher_data['researcher_name'] = researcher_name.replace('-', ' ').title()
+            # Add researcher_name and department to the data (converted to lowercase)
+            researcher_data['researcher_name'] = researcher_name.replace('-', ' ').lower()
 
-            # Add department from Excel if available, otherwise use empty string
-            researcher_data['department'] = department
+            # Add department from Excel if available, otherwise use empty string (converted to lowercase)
+            researcher_data['department'] = department.lower() if department else ""
 
             # Remove the unused name field if it exists
             if 'name' in researcher_data:
@@ -223,8 +223,8 @@ async def main():
 
         # Make sure the department field is included in the JSON
         if result and not result.get('department'):
-            # Add department from Excel data if available
-            result['department'] = department
+            # Add department from Excel data if available (converted to lowercase)
+            result['department'] = department.lower() if department else ""
             # Update the JSON file
             researcher_name = args.url.rstrip('/').split('/')[-1]
             json_filename = os.path.join(scraper.output_dirs["processed"], f"{researcher_name}.json")
@@ -251,9 +251,9 @@ async def main():
                     with open(json_filename, 'r', encoding='utf-8') as f:
                         data = json.load(f)
 
-                    # Add department if missing
+                    # Add department if missing (converted to lowercase)
                     if not data.get('department'):
-                        data['department'] = department
+                        data['department'] = department.lower() if department else ""
                         with open(json_filename, 'w', encoding='utf-8') as f:
                             json.dump(data, f, indent=2)
                         print(f"Updated {researcher_name}.json with department: {department}")

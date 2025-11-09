@@ -139,7 +139,8 @@ class ResearcherProfileParser:
                 # Remove " Program" suffix if present
                 if primary_program.endswith(' Program'):
                     primary_program = primary_program[:-8].strip()
-                result["primary_program"] = primary_program
+                # Convert to lowercase
+                result["primary_program"] = primary_program.lower()
 
             research_program_matches = re.findall(r'\*\*Research Program:\*\*\s+(.*?)\n', title_section)
             if research_program_matches:
@@ -151,7 +152,7 @@ class ResearcherProfileParser:
                 for prog in programs:
                     if prog.endswith(' Program'):
                         prog = prog[:-8].strip()
-                    cleaned_programs.append(prog)
+                    cleaned_programs.append(prog.lower())  # Convert to lowercase
                 result["research_program"] = ', '.join(cleaned_programs)
 
         return result
