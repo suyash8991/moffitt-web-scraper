@@ -1,8 +1,119 @@
 # Moffitt Cancer Center Web Scraper: Data Extraction Process
 
+> **New to parsing?** This document explains how the scraper transforms text into structured data. For a beginner-friendly overview, start with [How It Works (Simple)](how_it_works_simple.md).
+
+## Quick Links
+
+- [Introduction for Beginners](#for-beginners-what-is-data-extraction)
+- [Recent Improvements (Nov 2025)](#recent-improvements-november-2025)
+- [Technical Details](#1-data-extraction-overview)
+
+---
+
+## For Beginners: What is Data Extraction?
+
+**Data extraction** is the process of finding specific pieces of information in unstructured text and organizing them into a database-friendly format.
+
+**Analogy**: Imagine you have a stack of business cards with different layouts. Data extraction is like reading each card and filling out a standardized contact form:
+- Find the name (wherever it appears)
+- Find the phone number (various formats)
+- Find the email (might be anywhere on the card)
+- Put everything in the same structured format
+
+In this scraper, we:
+1. **Read** markdown files (cleaned-up text from web pages)
+2. **Find** specific information using patterns (name, publications, grants, etc.)
+3. **Extract** and organize it into JSON format
+4. **Validate** that we got the data correctly
+
+**Why is this hard?** Because not all researcher profiles follow the exact same format. Some have 5 publications, others have 100. Some list grant sponsors, others don't. The parser needs to handle all these variations.
+
+---
+
+## Recent Improvements (November 2025)
+
+This section summarizes the major enhancements made to the data extraction logic in November 2025.
+
+### 1. Enhanced Publication Parsing
+
+**What changed**: Publications are now properly separated into `authors`, `title`, and `journal` fields.
+
+**How it works**: Uses the first two periods (`.`) in a citation as delimiters:
+```
+Smith J, Doe A. New treatment approaches. Nature Med. 2024.
+          ^                            ^
+    1st period                    2nd period
+
+authors: "Smith J, Doe A"
+title: "New treatment approaches"
+journal: "Nature Med"
+```
+
+**Why**: The old approach used the last period, which failed when journal details contained periods.
+
+**Code location**: [Section 6.2](#62-publications) and [src/parse.py:213-247](../src/parse.py)
+
+---
+
+### 2. Structured Grant Extraction
+
+**What changed**: Grants now have structured fields instead of a single text blob.
+
+**New fields**:
+- `title` - Grant title (from "Title:" prefix)
+- `award_number` - Grant ID (from "Award Number:" prefix)
+- `sponsor` - Funding organization (from "Sponsor:" prefix)
+- `investigators` - Array of investigators with roles
+
+**Example**:
+```
+Before (text blob):
+"Title: Cancer research\nAward Number: R01CA123\nSponsor: NCI..."
+
+After (structured):
+{
+  "title": "Cancer research",
+  "award_number": "R01CA123",
+  "sponsor": "NCI",
+  "investigators": [{"name": "Smith, J.", "role": "Principal Investigator"}]
+}
+```
+
+**Why**: Enables querying by sponsor, tracking by award number, identifying collaborations.
+
+**Code location**: [Section 6.3](#63-grants-information) and [src/parse.py:265-329](../src/parse.py)
+
+---
+
+### 3. Data Normalization
+
+**What changed**: All program names, departments, and researcher names are now lowercase.
+
+**Why**: Ensures "Immunology" and "immunology" are treated as the same category for grouping and filtering.
+
+**Example**:
+```
+Before: primary_program: "Immunology Program"
+After:  primary_program: "immunology"
+```
+
+**Code location**: [src/parse.py:143, 155](../src/parse.py)
+
+---
+
+### 4. Program Name Cleanup
+
+**What changed**: Removes redundant " Program" suffix from program names.
+
+**Why**: The field name already indicates it's a program. Removing the suffix prevents duplicates ("immunology" vs "immunology program").
+
+**Code location**: [src/parse.py:135-156](../src/parse.py)
+
+---
+
 ## 1. Data Extraction Overview
 
-The data extraction functionality is implemented in `src/parse.py` through the `ResearcherProfileParser` class. This module is responsible for extracting structured information from markdown content that was previously converted from HTML.
+The data extraction functionality is implemented in [src/parse.py](../src/parse.py) through the `ResearcherProfileParser` class. This module is responsible for extracting structured information from markdown content that was previously converted from HTML.
 
 ## 2. Parser Architecture
 

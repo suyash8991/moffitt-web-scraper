@@ -1,5 +1,122 @@
 # Moffitt Cancer Center Web Scraper: Data Storage and File Structure
 
+> **New to data storage?** This document explains how the scraper organizes and saves data. For a beginner-friendly overview, start with [How It Works (Simple)](how_it_works_simple.md).
+
+## Quick Links
+
+- [Introduction for Beginners](#for-beginners-what-is-data-storage)
+- [Recent Changes (Nov 2025)](#recent-changes-november-2025)
+- [Technical Details](#1-data-storage-overview)
+
+---
+
+## For Beginners: What is Data Storage?
+
+**Data storage** in this context means how and where the scraper saves information at each stage of processing.
+
+**Analogy**: Think of cooking a meal:
+1. **Shopping list** (Excel file) - What ingredients to get
+2. **Raw ingredients** (HTML files) - What you bought from the store
+3. **Prepped ingredients** (Markdown files) - Vegetables chopped, meat marinated
+4. **Finished dish** (JSON files) - The final meal, ready to serve
+
+Each stage serves a purpose:
+- **Raw ingredients** let you start over if you mess up cooking
+- **Prepped ingredients** save time if you want to try a different recipe
+- **Finished dish** is what you actually eat
+
+Similarly, the scraper saves data at three stages so we can:
+- Go back to the original if we improve our extraction logic
+- Review the cleaned-up text for quality control
+- Use the final structured data in AI systems
+
+---
+
+## Recent Changes (November 2025)
+
+### 1. Lowercase Normalization
+
+**What changed**: All categorical fields are now stored in lowercase.
+
+**Affected fields**:
+- `primary_program` → "immunology" (not "Immunology")
+- `research_program` → "cancer biology, drug discovery"
+- `department` → "thoracic oncology"
+- `researcher_name` → "john smith"
+
+**Why**: Ensures consistent grouping and filtering. Without this, "Immunology" and "immunology" would be treated as different programs.
+
+**Impact**: Makes queries case-insensitive and enables accurate counting/grouping.
+
+**Example**:
+```json
+Before:
+{
+  "researcher_name": "John Smith",
+  "primary_program": "Immunology Program",
+  "department": "Thoracic Oncology"
+}
+
+After:
+{
+  "researcher_name": "john smith",
+  "primary_program": "immunology",
+  "department": "thoracic oncology"
+}
+```
+
+**Code location**: [main.py:109,112,227,256](../main.py) and [src/parse.py:143,155](../src/parse.py)
+
+---
+
+### 2. Program Name Cleanup
+
+**What changed**: Removed redundant " Program" suffix from all program names before storage.
+
+**Why**: The field is already called `primary_program`, so "Program" is redundant. Removing it prevents duplicates like "immunology" and "immunology program" being counted separately.
+
+**Example**:
+```json
+Before:
+{
+  "primary_program": "Immunology Program",
+  "research_program": "Cancer Biology Program, Drug Discovery Program"
+}
+
+After:
+{
+  "primary_program": "immunology",
+  "research_program": "cancer biology, drug discovery"
+}
+```
+
+**Code location**: [src/parse.py:135-156](../src/parse.py)
+
+---
+
+### 3. Enhanced JSON Schema
+
+**What changed**: JSON now includes additional fields for publications and grants.
+
+**New publication fields**:
+- `authors` - Comma-separated author list
+- `title` - Publication title
+- `journal` - Journal name
+- `journal_details` - Volume, issue, page numbers
+- `publication_date` - Year and month
+
+**New grant fields**:
+- `title` - Grant title
+- `award_number` - Grant identifier (e.g., "R01CA123456")
+- `sponsor` - Funding organization
+- `investigators` - Array of investigators with roles
+
+**Why**: Enables structured queries like "Find all researchers funded by NIH" or "Show publications from 2024".
+
+**See also**: [Understanding the Data](understanding_the_data.md) for complete field documentation.
+
+---
+
 ## 1. Data Storage Overview
 
 The Moffitt Cancer Center Web Scraper implements a multi-level storage approach that preserves data in three different formats at various stages of processing. This design enables easier debugging, data validation, and provides flexibility for future enhancements.

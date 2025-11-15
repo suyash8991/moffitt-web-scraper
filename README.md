@@ -1,6 +1,42 @@
-# Moffitt Cancer Center Researcher Data Scraper (COMPLETED)
+# Moffitt Cancer Center Researcher Data Scraper
 
-This project scrapes researcher profiles from the Moffitt Cancer Center website and structures the data for use in a Retrieval-Augmented Generation (RAG) system. It extracts researcher information including biographies, research interests, publications, education, and grants. The scraping phase has been successfully completed with all 127 researcher profiles processed.
+> Automatically collect and structure researcher information from Moffitt Cancer Center for AI-powered research assistance
+
+This project scrapes researcher profiles from the Moffitt Cancer Center website and transforms them into structured data for use in AI systems (specifically, Retrieval-Augmented Generation or RAG). It extracts comprehensive researcher information including biographies, research interests, publications, education, and grants.
+
+**Status**: ✅ Scraping completed with all 127 researcher profiles processed
+
+## Quick Links
+
+**👋 New to Web Scraping?**
+- [Introduction for Beginners](docs/0_introduction_for_beginners.md) - Start here if you're new to web scraping (10 min read)
+- [Getting Started Guide](docs/getting_started_guide.md) - Step-by-step installation and first run (20-30 min)
+- [Glossary](docs/glossary.md) - Understand all the technical terms used in this project
+- [FAQ](docs/FAQ.md) - Quick answers to common questions
+
+**📖 Using the Scraper**
+- [Installation & Usage](#installation) - Quick setup and command reference
+- [Data Model](#data-model) - What data is collected and how it's structured
+- [Output Format](#output-format) - Understanding the three file formats (HTML, Markdown, JSON)
+
+**🔧 Technical Documentation**
+- [System Overview](docs/1_system_overview.md) - Architecture and design
+- [Crawling Mechanism](docs/2_crawling_mechanism.md) - How data is fetched from the web
+- [Data Extraction](docs/3_data_extraction.md) - How HTML is parsed into structured data
+- [Data Storage](docs/4_data_storage.md) - File formats and organization
+- [Main Script](docs/5_usage_and_main_script.md) - Pipeline orchestration
+
+## Recent Improvements (November 2025)
+
+This scraper has been recently enhanced with significant improvements:
+
+- **🎯 Enhanced Publication Parsing**: Now correctly separates authors, titles, and journal names using intelligent period detection
+- **📊 Structured Grant Data**: Extracts grant titles, award numbers, sponsors, and investigator roles
+- **🔤 Data Normalization**: All program names, departments, and researcher names are lowercase for consistency
+- **🧹 Cleaner Program Names**: Automatically removes redundant "Program" suffixes
+- **📚 Comprehensive Documentation**: New beginner-friendly guides and technical references
+
+See the [CHANGELOG](docs/changelog.md) for detailed information about recent changes.
 
 ## Project Structure
 
@@ -107,59 +143,83 @@ The scraper extracts the following information from each researcher profile:
 
 ## Output Format
 
-Data is stored in three formats:
-1. Raw HTML: The original HTML content from the website
-2. Markdown: Converted content in markdown format
-3. JSON: Structured data extracted from the markdown
+Data is stored in **three formats** for maximum flexibility:
 
-The JSON format follows this structure:
+1. **Raw HTML** (`data/raw_html/`) - The original HTML content from the website (for archival and re-parsing)
+2. **Markdown** (`data/markdown/`) - Human-readable converted content (for easy review and text search)
+3. **JSON** (`data/processed/`) - Structured data ready for AI systems and databases
+
+### Why Three Formats?
+
+Each format serves a specific purpose:
+- **HTML**: Preserves the original source in case we need to re-parse with improved logic
+- **Markdown**: Easy to read and edit by humans, useful for quality control
+- **JSON**: Machine-readable structured data perfect for RAG systems, databases, and analysis
+
+### JSON Structure
+
+All field names use lowercase for consistency. Here's the structure:
 
 ```json
 {
-  "researcher_id": "unique_identifier",
-  "name": "Researcher Full Name",
-  "degrees": ["MD", "PhD"],
-  "title": "Professional Title",
-  "primary_program": "Research Program",
-  "research_program": "Program Affiliation",
-  "department": "Department",
-  "overview": "Biography text in markdown",
-  "research_interests": ["Interest 1", "Interest 2"],
-  "associations": ["Association 1", "Association 2"],
+  "researcher_id": "unique-identifier",
+  "researcher_name": "researcher full name",
+  "degrees": ["md", "phd"],
+  "title": "professional title",
+  "primary_program": "cancer biology",
+  "research_program": "immunology, drug discovery",
+  "department": "thoracic oncology",
+  "overview": "Biography text in markdown format...",
+  "research_interests": ["interest 1", "interest 2"],
+  "associations": ["association 1", "association 2"],
   "education": [
     {
       "type": "Graduate",
       "institution": "University Name",
       "degree": "Ph.D.",
-      "field": "Field of Study"
+      "field": "Molecular Biology"
     }
   ],
   "publications": [
     {
-      "title": "Publication Title",
-      "authors": "Authors list",
-      "journal": "Journal name",
-      "year": "Publication year",
-      "pubmed_id": "PubMed ID"
+      "authors": "Smith J, Doe A, Johnson B",
+      "title": "Novel approaches to cancer treatment",
+      "journal": "Nature Medicine",
+      "journal_details": "15(3):234-245",
+      "year": "2024",
+      "pubmed_id": "12345678",
+      "publication_date": "2024 Mar"
     }
   ],
   "grants": [
     {
-      "description": "Grant description",
-      "id": "Grant ID",
-      "source": "Funding source",
-      "period": "Funding period"
+      "title": "Mechanisms of immune evasion in melanoma",
+      "award_number": "R01CA123456",
+      "sponsor": "National Cancer Institute",
+      "investigators": [
+        {
+          "name": "Smith, J.",
+          "role": "Principal Investigator"
+        },
+        {
+          "name": "Doe, A.",
+          "role": "Co-Investigator"
+        }
+      ],
+      "description": "Full grant description..."
     }
   ],
   "contact": {
-    "contact_url": "Contact form URL"
+    "contact_url": "https://www.moffitt.org/contact/..."
   },
-  "photo_url": "URL to profile photo",
-  "profile_url": "Original profile URL",
-  "content_hash": "Hash for change detection",
-  "last_updated": "ISO timestamp"
+  "photo_url": "https://www.moffitt.org/media/...",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/...",
+  "content_hash": "sha256_hash_for_change_detection",
+  "last_updated": "2025-11-15T10:30:00"
 }
 ```
+
+**Note**: Recent improvements (Nov 2025) added structured extraction for publications (separate authors, title, journal) and grants (title, award number, sponsor, investigators). See [Data Extraction documentation](docs/3_data_extraction.md) for technical details.
 
 ## Ethical Considerations
 
