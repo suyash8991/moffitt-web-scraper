@@ -32,6 +32,8 @@ This scraper has been recently enhanced with significant improvements:
 
 - **🎯 Enhanced Publication Parsing**: Now correctly separates authors, titles, and journal names using intelligent period detection
 - **📊 Structured Grant Data**: Extracts grant titles, award numbers, sponsors, and investigator roles
+- **🧪 Clinical Trials Integration**: Captures participating clinical trials with trial ID, title, condition, intervention, and status
+- **🔬 Lab Pages & Scholar Profiles**: Extracts personal lab page URLs and Google Scholar profile links
 - **🔤 Data Normalization**: All program names, departments, and researcher names are lowercase for consistency
 - **🧹 Cleaner Program Names**: Automatically removes redundant "Program" suffixes
 - **📚 Comprehensive Documentation**: New beginner-friendly guides and technical references
@@ -140,6 +142,9 @@ The scraper extracts the following information from each researcher profile:
   - Photo URL
   - Contact Information
   - Profile URL
+  - Lab Page URL
+  - Google Scholar Profile
+  - Participating Clinical Trials
 
 ## Output Format
 
@@ -214,12 +219,29 @@ All field names use lowercase for consistency. Here's the structure:
   },
   "photo_url": "https://www.moffitt.org/media/...",
   "profile_url": "https://www.moffitt.org/research-science/researchers/...",
+  "lab_page_url": "https://lab.moffitt.org/researcher/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=...",
+  "participating_trials": [
+    {
+      "trial_id": "23320",
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23320/",
+      "title": "Phase 2 Study of Novel Treatment Approach",
+      "condition": "Malignant Hematology",
+      "intervention": "Drug X (); Drug Y ()",
+      "status": "Open"
+    }
+  ],
   "content_hash": "sha256_hash_for_change_detection",
   "last_updated": "2025-11-15T10:30:00"
 }
 ```
 
-**Note**: Recent improvements (Nov 2025) added structured extraction for publications (separate authors, title, journal) and grants (title, award number, sponsor, investigators). See [Data Extraction documentation](docs/3_data_extraction.md) for technical details.
+**Note**: Recent improvements (Nov 2025) added:
+- Structured extraction for publications (separate authors, title, journal)
+- Structured grant data (title, award number, sponsor, investigators)
+- Lab page URLs, Google Scholar profiles, and participating clinical trials
+
+See [Data Extraction documentation](docs/3_data_extraction.md) for technical details.
 
 ## Ethical Considerations
 
