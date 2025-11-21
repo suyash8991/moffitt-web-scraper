@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/alex-soupir",
-  "last_updated": "2025-10-21T16:36:43.500514",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/alex-soupir/",
+  "last_updated": "2025-11-21T22:50:22.439338",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "molecular medicine",
   "overview": "My research focuses on developing computational frameworks that transform spatially-resolved molecular and imaging data into actionable insights for cancer diagnosis, prognosis, and therapy. By integrating spatial transcriptomics, multiplex immunofluorescence, spatial metabolomics, and digital pathology, I investigate the spatial organization of the tumor microenvironment\u2014particularly immune-tumor interactions\u2014at single-cell resolution. This interdisciplinary work bridges bioinformatics, biostatistics, and systems immunology, with an emphasis on algorithm development and spatial statistics to identify spatial biomarkers that inform treatment strategies. A central goal of my research is to build clinically adaptable tools and workflows that prioritize interpretability, reproducibility, and translational utility across cancer types.",
   "research_interests": [
     "I am broadly interested in computational methods for spatial biology, with a focus on understanding how the spatial organization of cells and molecules within the tumor microenvironment contributes to cancer progression and response to therapy. My research integrates spatial transcriptomics, multiplex immunofluorescence, and spatial metabolomics with statistical modeling, machine learning, and deep learning to uncover spatial biomarkers and functional tissue architecture. A central focus of my work is the development of open-source software that simplifies the analysis and interpretation of spatial omics data. These tools are designed to enable researchers to explore tumor architecture, benchmark spatial methods, and apply new analyses to their own datasets. I am particularly interested in optimizing algorithms for real-time performance on large-scale, single-cell multiplex imaging data and in developing methods that are accessible and reproducible across research settings. My current applications are anchored in kidney and ovarian cancer. In kidney cancer, I work with patient tumor samples to study how the tumor microenvironment changes in response to immunotherapy. In ovarian cancer, I analyze tissues from large epidemiologic cohorts to explore immune-tumor dynamics across diverse populations. These projects serve as key platforms for method development and evaluation. Ultimately, my research aims to bridge high-resolution spatial discovery with clinical and translational relevance, using spatially-informed computational tools to guide therapeutic insights and improve patient outcomes.\n  *"
@@ -110,9 +110,12 @@
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SoupirAlex_27969.jpg",
   "contact": {},
-  "content_hash": "b5c3e04108f150ca2a2bc020c4bee085823e35fe6b64953efeb11ac0afeb158b",
-  "researcher_name": "Alex Soupir",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "5e554a8e90f8b38eb8ba1e21441d5973afa9f4ae5797eb3ad25d2ae39867d3a8",
+  "researcher_name": "alex soupir",
+  "department": "biostatistics and bioinformatics"
 }

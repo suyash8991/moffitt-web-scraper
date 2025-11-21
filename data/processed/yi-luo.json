@@ -1,0 +1,158 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/yi-luo/",
+  "last_updated": "2025-11-21T22:50:27.443829",
+  "researcher_id": "30472",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "machine learning",
+  "research_program": "health outcomes & behavior",
+  "overview": "Dr. Luo\u2019s research interests focus on machine learning and systems informatics and their application to health outcomes, decision support, interpretable and credible models at both the individual and community levels for precision medicine, health equity, and healthcare quality. He will be joining the Health Outcomes & Behavior Program to advance applications of AI/ML in areas related to improving cancer outcomes through social determinants and reducing care disparity through implementation of Fair AI.",
+  "research_interests": [
+    "Dr. Luo\u2019s research interests focus on machine learning and systems informatics and their application to health outcomes, decision support, interpretable and credible models at both the individual and community levels for precision medicine, health equity, and healthcare quality. He will be joining the Health Outcomes & Behavior Program to advance applications of AI/ML in areas related to improving cancer outcomes through social determinants and reducing care disparity through implementation of Fair AI.\n  *"
+  ],
+  "associations": [
+    "Machine Learning",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Mississippi State University, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Arizona, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Michigan",
+      "specialty": "Environment and Sustainability"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Michigan",
+      "specialty": "Radiation Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Using Bayesian Networks to Predict Urgent Care Visits in Patients Receiving Systemic Therapy for Non-Small Cell Lung Cancer",
+      "pubmed_id": "40939115",
+      "pmc_id": "PMC12483286",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Gonzalez BD, Li X, Gudenkauf LM, Pullukkara JJ, Oswald LB, Hoogland AI, Le T, El Naqa I, Saltos AN, Haura EB, Luo Y",
+      "journal": "JCO Clin Cancer Inform"
+    },
+    {
+      "title": "Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data",
+      "pubmed_id": "40111867",
+      "pmc_id": "PMC11986816",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y",
+      "journal": "JNCI Cancer Spectr"
+    },
+    {
+      "title": "Impact of Intraoperative Blood Transfusions on Survival Rates in Ovarian Cancer Patients",
+      "pubmed_id": "40294239",
+      "pmc_id": "PMC12038196",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Benyahia S, Avila M, Coughlin E, Mahil A, Riveron A, Luo Y, Wenham R, Huang J",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "Intricacies of human-AI interaction in dynamic decision-making for precision oncology",
+      "pubmed_id": "39881134",
+      "pmc_id": "PMC11779952",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Niraula D, Cuneo KC, Dinov ID, Gonzalez BD, Jamaluddin JB, Jin JJ, Luo Y, Matuszak MM, Ten Haken RK, Bryant AK, Dilling TJ, Dykstra MP, Frakes JM, Liveringhouse CL, Miller SR, Mills MN, Palm RF, Regan SN, Rishi A, Torres-Roca JF, Yu HM, El Naqa I",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "A narrative review of the relationship between head and neck cancer and obstructive sleep apnea: Clinical studies and statistical analysis",
+      "pubmed_id": "39368140",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Le T, Huynh P, Sharma A, Setty A, Blanchard M, Ng HKT, Luo Y, Le T",
+      "journal": "Sleep Med Rev"
+    },
+    {
+      "title": "Intricacies of Human-AI Interaction in Dynamic Decision-Making for Precision Oncology: A Case Study in Response-Adaptive Radiotherapy",
+      "pubmed_id": "38746238",
+      "pmc_id": "PMC11092730",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Niraula D, Cuneo KC, Dinov ID, Gonzalez BD, Jamaluddin JB, Jin JJ, Luo Y, Matuszak MM, Ten Haken RK, Bryant AK, Dilling TJ, Dykstra MP, Frakes JM, Liveringhouse CL, Miller SR, Mills MN, Palm RF, Regan SN, Rishi A, Torres-Roca JF, Yu HM, El Naqa I",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "Translation of AI into oncology clinical practice",
+      "pubmed_id": "37684407",
+      "year": "2023",
+      "publication_date": "2023 Oct",
+      "authors": "El Naqa I, Karolak A, Luo Y, Folio L, Tarhini AA, Rollison D, Parodi K",
+      "journal": "Oncogene"
+    },
+    {
+      "title": "Artificial intelligence (AI) and machine learning (ML) in precision oncology: a review on enhancing discoverability through multiomics integration",
+      "pubmed_id": "37660402",
+      "pmc_id": "PMC10546458",
+      "year": "2023",
+      "publication_date": "2023 Oct",
+      "authors": "Wei L, Niraula D, Gates EDH, Fu J, Luo Y, Nyflot MJ, Bowen SR, El Naqa IM, Cui S",
+      "journal": "Br J Radiol"
+    },
+    {
+      "title": "Interpretable artificial intelligence in radiology and radiation oncology",
+      "pubmed_id": "37493248",
+      "pmc_id": "PMC10546466",
+      "year": "2023",
+      "publication_date": "2023 Oct",
+      "authors": "Cui S, Traverso A, Niraula D, Zou J, Luo Y, Owen D, El Naqa I, Wei L",
+      "journal": "Br J Radiol"
+    },
+    {
+      "title": "A clinical decision support system for AI-assisted decision-making in response-adaptive radiotherapy (ARCliDS)",
+      "pubmed_id": "37002296",
+      "pmc_id": "PMC10066294",
+      "year": "2023",
+      "publication_date": "2023 Mar",
+      "authors": "Niraula D, Sun W, Jin J, Dinov ID, Cuneo K, Jamaluddin J, Matuszak MM, Luo Y, Lawrence TS, Jolly S, Ten Haken RK, El Naqa I",
+      "journal": "Sci Rep"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Identifying Community-based Interventions to Improve Florida African American Eligible Patients Participation and Adherence to Lung Cancer Screening in Their Screening Deserts and Incidence Hotspots based on Fair Artificial Intelligence and Geospatial Analysis  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nLuo, Y. (PD/PI), Byrne, M. (Co-PD/PI)",
+      "title": "Identifying Community-based Interventions to Improve Florida African American Eligible Patients Participation and Adherence to Lung Cancer Screening in Their Screening Deserts and Incidence Hotspots based on Fair Artificial Intelligence and Geospatial Analysis",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Luo, Y.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Byrne, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/luo/",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers/LuoYi_30472.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=30472"
+  },
+  "content_hash": "eeed966f447376bf41b136012c56edfa2f6441fee5a05baf11ce6344160d1100",
+  "researcher_name": "yi luo",
+  "department": "machine learning"
+}

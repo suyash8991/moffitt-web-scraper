@@ -1,0 +1,128 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/tracey-oconnor/",
+  "last_updated": "2025-11-21T22:50:27.196223",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "breast oncology",
+  "research_program": "health outcomes & behavior",
+  "overview": "My research interests include breast cancer management in the older patient, understanding and minimizing treatment toxicity, and modifiable lifestyle factors such as physical activity and diet that can influence quality of life and prognosis.",
+  "research_interests": [
+    "I am collaborating on a project examining respiratory muscle training to mitigate toxicity during neo/adjuvant chemotherapy. I am submitting an application (LOI accepted) to the Gateway Foundation for a project looking at de-escalation of neoadjuvant therapy in older adults with HER 2 positive breast cancer. \n  *"
+  ],
+  "associations": [
+    "Breast Oncology",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Feasibility, Acceptability, and Outcomes of Project Rally: Pilot Study of a YMCA-Based Pickleball Program for Cancer Survivors",
+      "pubmed_id": "39942445",
+      "pmc_id": "PMC11817839",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Parker NH, de Cerqueira Santos A, Mintrone R, Turner K, Sutton SK, O'Connor T, Huang J, Lael M, Cruff S, Grassia K, De Vera MT, Bean M, Carmella R, Vadaparampil ST, Vidrine JI",
+      "journal": "Healthcare (Basel)"
+    },
+    {
+      "title": "Addressing the Needs of Breast Cancer Survivors",
+      "pubmed_id": "40512438",
+      "pmc_id": "PMC12423176",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Sarfraz H, Zahra FT, Joshi U, O'Connor T",
+      "journal": "Curr Oncol Rep"
+    },
+    {
+      "title": "A Real-World Single-Center Cohort Study on the Tolerability of Trastuzumab Deruxtecan for HER2+ Metastatic Breast Cancer",
+      "pubmed_id": "40759100",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Basta A, Lien K, Sun W, Whiting J, Armitage M, Soyano AE, Armaghani A, Loftus L, O Apos Connor T, Dvir K, Han HS, Soliman H, Czerniecki BJ, Costa RLB",
+      "journal": "Oncology-Basel"
+    },
+    {
+      "title": "Falls prechemotherapy and toxicity-related hospitalization during adjuvant chemotherapy for breast cancer in older women: Results from the prospective multicenter HOPE trial",
+      "pubmed_id": "37962093",
+      "pmc_id": "PMC10922500",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Ji J, Bae M, Sun CL, Wildes TM, Freedman RA, Magnuson A, O'Connor T, Moy B, Klepin HD, Chapman AE, Tew WP, Dotan E, Fenton MA, Kim H, Katheria V, Gross CP, Cohen HJ, Muss HB, Sedrak MS",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Palbociclib in adults aged 70 years and older with advanced breast cancer: A phase 2 multicenter trial (Alliance A171601)",
+      "pubmed_id": "38852379",
+      "pmc_id": "PMC11259237",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Sedrak MS, Lee MK, Ji J, Satele DV, Freedman RA, Poorvu PD, O'Connor T, Williams GR, Hopkins JO, Muss HB, Cohen HJ, Partridge AH, Carey LA, Chow SL, Subbiah N, Le-Rademacher J, Jatoi A",
+      "journal": "Geriatr Oncol"
+    },
+    {
+      "title": "Functional decline in older breast cancer survivors treated with and without chemotherapy and non-cancer controls: results from the Hurria Older PatiEnts (HOPE) prospective study",
+      "pubmed_id": "38678525",
+      "pmc_id": "PMC11324395",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Sedrak MS, Sun CL, Bae M, Freedman RA, Magnuson A, O'Connor T, Moy B, Wildes TM, Klepin HD, Chapman AE, Tew WP, Dotan E, Fenton MA, Kim H, Katheria V, Muss HB, Cohen HJ, Gross CP, Ji J",
+      "journal": "J Cancer Surviv"
+    },
+    {
+      "title": "Low-Intensity Adjuvant Chemotherapy for Breast Cancer in Older Women: Results From the Prospective Multicenter HOPE Trial",
+      "pubmed_id": "36455189",
+      "pmc_id": "PMC9839299",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Sedrak MS, Sun CL, Ji J, Cohen HJ, Gross CP, Tew WP, Klepin HD, Wildes TM, Dotan E, Freedman RA, O'Connor T, Chow S, Fenton MA, Moy B, Chapman AE, Dale W, Katheria V, Kuderer NM, Lyman GH, Magnuson A, Muss HB",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "A phase II study of palbociclib plus letrozole plus trastuzumab as neoadjuvant treatment for clinical stages II and III ER+ HER2+ breast cancer (PALTAN)",
+      "pubmed_id": "36609389",
+      "pmc_id": "PMC9822956",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Ademuyiwa FO, Northfelt DW, O'Connor T, Levine E, Luo J, Tao Y, Hoog J, Laury ML, Summa T, Hammerschmidt T, Guo Z, Frith A, Weilbaecher K, Opyrchal M, Aft R, Clifton K, Suresh R, Bagegni N, Hagemann IS, Iglesia MD, Ma CX",
+      "journal": "NPJ Breast Cancer"
+    },
+    {
+      "title": "Impact of 10-Day Fulbright Specialist Program and Project Pink Blue Education Sessions on Medical Oncology Knowledge Among Physicians Who Treat Cancer in Nigeria",
+      "pubmed_id": "35838882",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Martin MG, Chidebe RCW, Nwaneri MO, Miller E, Okoye I, Esiaka DK, Olasinde TA, Durosinmi-Etti FA, Igbinoba F, Adegboyega BC, Adenjii A, Aruah CS, Orjiakor TC, Abubakar BM, Atuwo D, O'Connor T",
+      "journal": "J Cancer Educ"
+    },
+    {
+      "title": "Real world outcomes with alpelisib in metastatic hormone receptor-positive breast cancer patients: A single institution experience",
+      "pubmed_id": "36338738",
+      "pmc_id": "PMC9631302",
+      "year": "2022",
+      "publication_date": "2022 Oct",
+      "authors": "Alaklabi S, Roy AM, Attwood K, George A, O'Connor T, Early A, Levine EG, Gandhi S",
+      "journal": "Front Oncol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23393/",
+      "trial_id": "23393",
+      "title": "A Phase 2, Open-Label Study of PCS6422 with Capecitabine in Patients with Advanced or Metastatic Breast Cancer",
+      "condition": "Breast",
+      "intervention": "PCS6422 (); Xeloda (capecitabine); capecitabine ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/OConnorTracey_37304.jpg",
+  "contact": {},
+  "content_hash": "90a228b90a2161a5d08c9359af4b00188c47b52f999afff8bf611dc08a4402a2",
+  "researcher_name": "tracey oconnor",
+  "department": ""
+}

@@ -1,0 +1,88 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/l.-michael-carastro/",
+  "last_updated": "2025-11-21T22:50:25.203623",
+  "researcher_id": "2583",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer epidemiology",
+  "overview": "",
+  "research_interests": [
+    "Cancer Epidemiology Program"
+  ],
+  "associations": [
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Miami School of Medicine, Miami, FL, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The Salk Institute for Biological Studies",
+      "specialty": "Gene Expression"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "H. Lee Moffitt Cancer Center & Research Institute",
+      "specialty": "Interdisciplinary Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Polyphenon E Effects on Gene Expression in PC-3 Prostate Cancer Cells",
+      "pubmed_id": "36430806",
+      "pmc_id": "PMC9697490",
+      "year": "2022",
+      "publication_date": "2022 Nov",
+      "authors": "Carastro LM, Vallebuona EJ, Cordova R, Gannon AN, Kim SJ, Costello CM, Declet-Bauzo RA, Kumar N, Park JY",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Assessing stakeholder perceptions of the american society for biochemistry and molecular biology accreditation program for baccalaureate degrees",
+      "pubmed_id": "30369038",
+      "year": "2018",
+      "publication_date": "2018 Sep",
+      "authors": "Dean DM, Martin D, Carastro LM, Kennelly PJ, Provost JJ, Tansey JT, Wolfson AJ",
+      "journal": "Biochem Mol Biol Educ"
+    },
+    {
+      "title": "Role of p73 Dinucleotide Polymorphism in Prostate Cancer and p73 Protein Isoform Balance",
+      "pubmed_id": "25097786",
+      "pmc_id": "PMC4109114",
+      "year": "2014",
+      "publication_date": "2014 Aug",
+      "authors": "Carastro LM, Lin HY, Park HY, Kim D, Radlein S, Hampton KK, Hakam A, Zachariah B, Pow-Sang J, Park JY",
+      "journal": "Prostate Cancer"
+    },
+    {
+      "title": "Differential regulation of human YY1 and caspase 7 promoters by prohibitin through E2F1 and p53 binding sites",
+      "pubmed_id": "16918502",
+      "pmc_id": "PMC1698671",
+      "year": "2007",
+      "publication_date": "2007 Jan",
+      "authors": "Joshi B, Rastogi S, Morris M, Carastro L, DeCook C, Seto E, Chellappan S",
+      "journal": "Biochem J"
+    },
+    {
+      "title": "Strudwick S, Carastro L, Stagg T, Lazarus P. Differential Transcription-Coupled Translational Inhibition of Human p53 Expression: A Potentially Important Mechanism of Regulating p53 Expression inNormal versus Tumor Tissue. Mol Cancer Res. 2003.1:463-474. Pubmedid: [12692266](https://www.ncbi.nlm.nih.gov/pubmed/12692266).",
+      "pubmed_id": "12692266",
+      "year": "2003",
+      "authors": ""
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2583"
+  },
+  "content_hash": "30536bd32bb983dfe248b9f55dae3c6b5396d7a88e81b788caf01130dbf0cf34",
+  "researcher_name": "l. michael carastro",
+  "department": ""
+}

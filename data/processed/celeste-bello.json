@@ -1,0 +1,141 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/celeste-bello/",
+  "last_updated": "2025-11-21T22:50:23.137758",
+  "researcher_id": "4648",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Bello is an active researcher in the field and can often offer her patients several options for clinical trials in addition to the standard therapies. She is very involved with the education of medical students and residents at the University of South Florida and at Moffitt Cancer Center. She is also a frequent lecturer on lymphomas for both medical and lay audiences, including presenting at Lymphoma Research Foundation events.",
+  "research_interests": [
+    "Dr. Bello's research is primarily directed toward the clinical evaluation of novel therapies in the treatment of Hodgkin's and non-Hodgkin's lymphoma.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Molecular Medicine Program",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, MSPH"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University of South Florida",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of South Florida",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida",
+      "specialty": "Hematology/Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Autologous Hematopoietic Cell Transplantation Consolidation for First Response is Associated With Longer Survival Among Patients With Nodal Peripheral T Cell Lymphoma",
+      "pubmed_id": "38740140",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Zhang Y, Rose A, Khadka S, Cao B, Eatrides J, Saeed H, Shah BD, Chavez J, Bello C, Lazaryan A, Khimani F, Ibarz JP, Liu HD, Locke FL, Jain MD, Zhang L, Kharfan-Dabaja MA, Kim J, Ayala E, Nishihori T, Sokol L",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Evaluation of prognostic factors in patients with high-risk classical Hodgkin lymphoma undergoing autologous transplantation",
+      "pubmed_id": "39213424",
+      "pmc_id": "PMC11532746",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Epperla N, Huang Y, Cashen AF, Vaughn JL, Hanel W, Badar T, Barta SK, Caimi PF, Sethi TK, Reddy N, Karmali R, Bello C, Chavez JC, Kothari SK, Hernandez-Ilizaliturri FJ, Svoboda J, Lansigan F, Glenn MJ, Cohen JB, Sorge C, Christian B, Herrera AF, Hamadani M, Costa LJ, Xavier AC",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Bendamustine and rituximab as frontline therapy in extranodal marginal zone lymphoma: a single-institution experience",
+      "pubmed_id": "38827319",
+      "pmc_id": "PMC11136690",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Logothetis CN, Horvat NP, Kurian T, Bello C, Chavez J, Isenalumhe L, Shah B, Sokol L, Saeed H, Pinilla J, Gaballa S",
+      "journal": "Oncol Res"
+    },
+    {
+      "title": "Long-term follow up of the combination of ofatumumab, high-dose methylprednisolone, and lenalidomide for untreated chronic lymphocytic leukemia with biomarker analysis",
+      "pubmed_id": "38508880",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Chavez JC, Grajales A, Sandoval-Sus J, Turba E, Nodzon L, Uriepero-Palma A, Ammad-Ud-Din M, Sahakian E, Komrokji R, Sokol L, Locke FL, Shah B, Lancet J, Sotomayor EM, Kharfan-Dabaja MA, Bello C, Pinilla-Ibarz J",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "B-cell maturation antigen expression and clinical features of plasmablastic lymphoma",
+      "pubmed_id": "38406544",
+      "pmc_id": "PMC10887266",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Dong N, Zhang H, Song J, Mammadova J, Shah B, Saeed H, Gaballa S, Grajales-Cruz A, Isenalumhe L, Bello C, Sokol L, Pinilla J, Chavez J",
+      "journal": "EJHaem"
+    },
+    {
+      "title": "Outcomes of marginal zone lymphoma treated with ibrutinib in the first-line setting in the United States: a real-world analysis",
+      "pubmed_id": "38091577",
+      "pmc_id": "PMC10835265",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Epperla N, Zhao Q, Moyo T, Watkins MP, Tavakkoli M, Bello C, Torka P, Reddy N, Thomas C, Annunzio K, Christian B, Barta SK, Shouse G, Olszewski AJ, Bartlett NL",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Frontline treatment approaches in TP53-aberrant mantle cell lymphoma",
+      "pubmed_id": "36301721",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Shah NN, Castillo-Tokumori F, Whiting J, Boulware D, Sandoval-Sus J, Knepper TC, Hussaini M, Tao J, Chavez JC, Isenalumhe L, Gaballa S, Saeed H, Bello C, Sokol L, Pinilla-Ibarz J, Shah BD",
+      "journal": "Leuk Lymphoma"
+    },
+    {
+      "title": "Postibrutinib relapse outcomes for patients with marginal zone lymphoma",
+      "pubmed_id": "36269847",
+      "pmc_id": "PMC9827027",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Epperla N, Zhao Q, Mullick Chowdhury S, Shea L, Moyo T, Reddy N, Sheets JW, Weiner DM, Ramakrishnan Geethakumari P, Kandarpa M, Jordan Bruno X, Thomas C, Churnetski MC, Hsu A, Zurbriggen LD, Tan XC, Lindsey KG, Maakaron J, Caimi PF, Torka P, Bello C, Ayyappan S, Oh TS, Karmali R, Kim SH, Kress A, Kothari S, Sawalha Y, Christian B, David KA, Greenwell IB, Janakiram M, Kenkre VP, Olszewski AJ, Cohen JB, Palmisiano N, Umyarova ER, Wilcox RA, Awan FT, Alderuccio JP, Barta SK, Grover NS, Ghosh N, Bartlett NL, Herrera AF, Shouse G",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Toxicity of a Modified PEG-Asparaginase-Based SMILE Regimen Is Comparable to L-Asparaginase-Based SMILE in a Non-Asian Population",
+      "pubmed_id": "37210271",
+      "year": "2023",
+      "publication_date": "2023 Aug",
+      "authors": "Azem A, Caddell R, Nelson R, Isenalumhe L, Gaballa S, Chavez J, Bello C, Pinilla J, Sokol L, Shah B, Saeed H",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "Predictive factors and outcomes for ibrutinib in relapsed/refractory marginal zone lymphoma: a multicenter cohort study",
+      "pubmed_id": "35842643",
+      "pmc_id": "PMC9287914",
+      "year": "2022",
+      "publication_date": "2022 Jul",
+      "authors": "Epperla N, Zhao Q, Chowdhury SM, Shea L, Moyo TK, Reddy N, Sheets J, Weiner DM, Geethakumari PR, Kandarpa M, Bruno XJ, Thomas C, Churnetski MC, Hsu A, Zurbriggen L, Tan C, Lindsey K, Maakaron J, Caimi PF, Torka P, Bello C, Ayyappan S, Karmali R, Kim SH, Kress A, Kothari S, Sawalha Y, Christian B, David KA, Greenwell IB, Janakiram M, Kenkre VP, Olszewski AJ, Cohen JB, Palmisiano N, Umyarova E, Wilcox RA, Awan FT, Alderuccio JP, Barta SK, Grover NS, Ghosh N, Bartlett NL, Herrera AF, Shouse G",
+      "journal": "J Hematol Oncol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BelloCeleste_4648.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4648"
+  },
+  "content_hash": "ba7db920394217b1443952e2dc9df17b93825defc67a692aecb57562cd601bfd",
+  "researcher_name": "celeste bello",
+  "department": ""
+}

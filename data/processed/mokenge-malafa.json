@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/mokenge-malafa",
-  "last_updated": "2025-10-21T16:37:23.311772",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mokenge-malafa/",
+  "last_updated": "2025-11-21T22:50:25.964460",
   "researcher_id": "2725",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Gastrointestinal Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "gastrointestinal oncology",
+  "research_program": "molecular medicine",
   "overview": "Discovery, identification, and characterization of the role of bioactive vitamin E compounds in regulating biological processes in the cancer cell.",
   "research_interests": [
     "Dr. Malafa's research group focuses on vitamin E signaling pathways and biomarkers in pancreatic cancer. Previously his group demonstrated vitamin E succinate inhibition of oncogenic Ras signaling pathways (Donapaty et al, Molecular Cancer Therapeutics, 2006). Following up on this work, his group identified the most bioactive vitamin E analogue, delta-tocotrienol, in pancreatic cancer cells and reported that therapeutic levels of delta-tocotrienol was achieved in mice pancreas following oral administration. Dr. Malafa and his collaborators have embarked on a strategy to comprehend signaling pathways active in pancreatic cancer cells and targeted by vitamin E delta-tocotrienol, employing affinity chromatography, chemical proteomics, and mass spectrometry to identify direct interacting proteins. They identified nearly 20 different protein targets of delta-tocotrienol. One of the targets, hCAS, was shown to be a relevant target of delta-tocotrienol action and a valid novel target in pancreatic and colorectal cancers. Future directions in the lab consist of using small molecule-protein binding interactions to define the biochemical target(s) of vitamin E tocotrienol anticancer activity and thereby identify novel targets for the prevention of malignancy\n  *"
@@ -91,14 +91,6 @@
       "journal": "Transl Gastroenterol Hepatol"
     },
     {
-      "title": "Emerging Trends in Gastrointestinal Cancer Targeted Therapies: Harnessing Tumor Microenvironment, Immune Factors, and Metabolomics Insights",
-      "pubmed_id": "38759843",
-      "year": "2024",
-      "publication_date": "2024 Oct",
-      "authors": "Rauth S, Malafa M, Ponnusamy MP, Batra SK",
-      "journal": "Gastroenterology"
-    },
-    {
       "title": "Elevated Urinary Levels of Fungal and Environmental Toxins in Patients with Pancreatic Ductal Adenocarcinoma",
       "pubmed_id": "39419859",
       "pmc_id": "PMC11486816",
@@ -106,6 +98,14 @@
       "publication_date": "2024 Oct",
       "authors": "Rodriguez VI, Mammadova J, Permuth JB, Luthra A, Pena L, Friedman M, Dam A, Cappelle S, Malafa MP, Hallmon C, Miranda C, Mok SRS",
       "journal": "J Gastrointest Cancer"
+    },
+    {
+      "title": "Emerging Trends in Gastrointestinal Cancer Targeted Therapies: Harnessing Tumor Microenvironment, Immune Factors, and Metabolomics Insights",
+      "pubmed_id": "38759843",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Rauth S, Malafa M, Ponnusamy MP, Batra SK",
+      "journal": "Gastroenterology"
     },
     {
       "title": "The Evolving Role of Neoadjuvant Radiation Therapy in Pancreatic Adenocarcinoma",
@@ -165,11 +165,14 @@
       "description": ""
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MalafaMokenge_2725.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2725"
   },
-  "content_hash": "9e225c77aea1bd140e398815e70d9cb13b89b95251620eb0043181dd5eadddc1",
-  "researcher_name": "Mokenge Malafa",
-  "department": "Drug Discovery"
+  "content_hash": "8d874436754eff99f2a93ee9d0892a4a4d9983ce2e949ce21f35895ff19632ab",
+  "researcher_name": "mokenge malafa",
+  "department": "drug discovery"
 }

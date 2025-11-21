@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/natarajan-raghunand",
-  "last_updated": "2025-10-21T16:36:54.406035",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/natarajan-raghunand/",
+  "last_updated": "2025-11-21T22:50:26.042238",
   "researcher_id": "14306",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Metabolism and Physiology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "metabolism and physiology",
+  "research_program": "molecular medicine",
   "overview": "Quantitative image analytics and machine learning on radiologic and digital pathology images.",
   "research_interests": [
     "Dr. Natarajan Raghunand's research focus is on the development of clinically translatable radiologic biomarkers for the management of cancer. Collaborative clinical-translational research projects in his group include machine learning analysis of multiplexed immunofluorescence data from pre-operative biopsy tissue to predict upstaging of DCIS, deep learning to predict optimal dose maps for stereotactic radiosurgery of breast cancer metastases to the brain, prospective radiologic imaging in cancer clinical trials, and imaging biomarkers to guide adaptive therapy of recurrent high-grade glioma and metastatic Ewing sarcoma.\n  *"
@@ -72,21 +72,21 @@
       "journal": "Cancers (Basel)"
     },
     {
-      "title": "Tumor Response to Stroma-Modifying Therapy: Magnetic Resonance Imaging Findings in Early-Phase Clinical Trials of Pegvorhyaluronidase alpha (PEGPH20)",
-      "pubmed_id": "37720027",
-      "pmc_id": "PMC10503830",
-      "year": "2023",
-      "publication_date": "2023 Sep",
-      "authors": "Arias-Lorza AM, Costello JR, Hingorani SR, Von Hoff DD, Korn RL, Raghunand N",
-      "journal": "Res Sq"
-    },
-    {
       "title": "Rules-based Volumetric Segmentation of Multiparametric MRI for Response Assessment in Recurrent High-Grade Glioma",
       "pubmed_id": "37790451",
       "pmc_id": "PMC10543497",
       "year": "2023",
       "publication_date": "2023 Sep",
       "authors": "Ravi H, Hawkins SH, Stringfield O, Pereira M, Chen DT, Enderling H, Michael Yu HH, Arrington JA, Sahebjam S, Raghunand N",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Tumor Response to Stroma-Modifying Therapy: Magnetic Resonance Imaging Findings in Early-Phase Clinical Trials of Pegvorhyaluronidase alpha (PEGPH20)",
+      "pubmed_id": "37720027",
+      "pmc_id": "PMC10503830",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Arias-Lorza AM, Costello JR, Hingorani SR, Von Hoff DD, Korn RL, Raghunand N",
       "journal": "Res Sq"
     },
     {
@@ -147,11 +147,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://lab.moffitt.org/raghunand/",
+  "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=B9q_8xkAAAAJ&view_op=list_works&sortby=pubdate",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/RaghunandNatarajan_14306.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14306"
   },
-  "content_hash": "ef6e3be258bb236783e20afbc95589b5ed73c0edac0c0212474e61da1532df70",
-  "researcher_name": "Natarajan Raghunand",
-  "department": "Metabolism and Physiology"
+  "content_hash": "346614378e6b2dbc57cb702240a31e56e2c77bc457612da1a4eaca05905a08a9",
+  "researcher_name": "natarajan raghunand",
+  "department": "metabolism and physiology"
 }

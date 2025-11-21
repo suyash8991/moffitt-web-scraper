@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/michael-vogelbaum",
-  "last_updated": "2025-10-21T16:37:54.317786",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/michael-vogelbaum/",
+  "last_updated": "2025-11-21T22:50:25.848804",
   "researcher_id": "23364",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Neuro-Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "neuro-oncology",
+  "research_program": "molecular medicine",
   "overview": "Dr. Vogelbaum is a clinical/translational research scientist with particular expertise and academic interest in stereotactic (image-guided) brain surgery, radiosurgery, the biology of brain tumors, and the development of novel anti-cancer treatments. He has received support and funding from the American Cancer Society, the National Institutes of Health and the Wolf Family Foundation.",
   "research_interests": [
     "Dr. Vogelbaum is a clinical/translational research scientist with particular expertise and academic interest in stereotactic (image-guided) brain surgery, radiosurgery, the biology of brain tumors, and the development of novel anti-cancer treatments. He has received support and funding from the American Cancer Society, the National Institutes of Health and the Wolf Family Foundation.\n  *"
@@ -160,9 +160,9 @@
       ]
     },
     {
-      "description": "Title: NRG Oncology Network Group Operations Center  \nAward Number: 5U10CA180868-11  \nSponsor: National Cancer Institute (NCI)  \nVogelbaum, M. (PD/PI)",
+      "description": "Title: NRG Oncology Network Group Operations Center  \nAward Number: 5U10CA180868-11S2  \nSponsor: National Cancer Institute (NCI)  \nVogelbaum, M. (PD/PI)",
       "title": "NRG Oncology Network Group Operations Center",
-      "award_number": "5U10CA180868-11",
+      "award_number": "5U10CA180868-11S2",
       "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
       "investigators": [
@@ -176,11 +176,23 @@
       "description": ""
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22563/",
+      "trial_id": "22563",
+      "title": "A randomized, open-label, multicentric, two-arm pivotal trial of SonoCloud-9 combined with carboplatin (CBDCA) vs standard of care lomustine (CCNU) or temozolomide (TMZ) in patients undergoing planned resection for first recurrence glioblastoma",
+      "condition": "Neurologic Oncology",
+      "intervention": "Lomustine (CeeNU); Paraplatin (carboplatin); Temodal (Temozolomide); Temozolomide (); carboplatin ()",
+      "status": "OPEN (SUSPENDED)"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/VogelbaumMichael_23364.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=23364"
   },
-  "content_hash": "76b2bc785482612ef7f903f199859e2155bb889a64b2c0ac8085b28fae364ac1",
-  "researcher_name": "Michael Vogelbaum",
-  "department": "Machine Learning"
+  "content_hash": "6978f888be14aaa899370ad7629d4894a09a8b51dcf5df0ab38834950007e460",
+  "researcher_name": "michael vogelbaum",
+  "department": "machine learning"
 }

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson",
-  "last_updated": "2025-10-21T16:36:03.926044",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson/",
+  "last_updated": "2025-11-21T22:50:26.022530",
   "researcher_id": "6730",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Dr. Gillis is a molecular epidemiologist with a primary focus on hematologic malignancies and precision medicine.",
   "research_interests": [
     "Dr. Gillis is a molecular epidemiologist with a background in pharmacogenomics and precision medicine. Her research focuses on the use of genetic biomarkers to predict risk, adverse events, and outcomes in the setting of cancer, with an emphasis on myeloid pre-leukemic conditions, such as clonal hematopoiesis (CH or CHIP), clonal cytopenias (CCUS), and myelodysplastic syndromes (MDS). Her translational research program aims to inform interventions and management strategies that can be implemented in clinical settings to improve outcomes for patients affected by these conditions. \n  *"
@@ -33,6 +33,24 @@
     }
   ],
   "publications": [
+    {
+      "title": "Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes",
+      "pubmed_id": "40950448",
+      "pmc_id": "PMC12424905",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "qcCHIP: an R package to identify clonal hematopoiesis variants using cohort-specific data characteristics",
+      "pubmed_id": "40973027",
+      "pmc_id": "PMC12466928",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Liu X, Tang YH, Blachly J, Edge S, Jakubek YA, McCarter M, Naqash AR, Nepple KG, Osman A, Reilley MJ, Riedlinger G, Salhia B, Schneider BP, Shriver C, Churchman ML, Rounbehler RJ, Teer JK, Gillis N, Teng M",
+      "journal": "Bioinformatics"
+    },
     {
       "title": "Peripheral blood somatic mosaicism and clonal hematopoiesis across ancestry backgrounds",
       "pubmed_id": "40166537",
@@ -102,24 +120,6 @@
       "publication_date": "2023 Oct",
       "authors": "Gillis N, Padron E, Wang T, Chen K, DeVos JD, Spellman SR, Lee SJ, Kitko CL, MacMillan ML, West J, Tang YH, Teng M, McNulty S, Druley TE, Pidala JA, Lazaryan A",
       "journal": "Transplant Cell Ther"
-    },
-    {
-      "title": "Discordant pathologic diagnoses of myelodysplastic neoplasms and their implications for registries and therapies",
-      "pubmed_id": "37552083",
-      "pmc_id": "PMC10582385",
-      "year": "2023",
-      "publication_date": "2023 Oct",
-      "authors": "Gorak E, Otterstatter M, Al Baghdadi T, Gillis N, Foran JM, Liu JJ, Bejar R, Gore SD, Kroft SH, Harrington AM, Saber W, Starczynowski DT, Rollison DE, Zhang L, Moscinski LC, Wilson SH, Thompson J, Borchert C, Sherman S, Hebert D, Walker ME, Padron E, DeZern A, Sekeres MA",
-      "journal": "Blood Adv"
-    },
-    {
-      "title": "Differences in epigenetic age by HIV status among patients with a non-AIDS defining cancer",
-      "pubmed_id": "37467055",
-      "pmc_id": "PMC10538418",
-      "year": "2023",
-      "publication_date": "2023 Nov",
-      "authors": "Dickey BL, Putney RM, Suneja G, Kresovich JK, Spivak AM, Patel AB, Teng M, Extermann M, Giuliano AR, Gillis N, Berglund A, Coghill AE",
-      "journal": "Aids"
     }
   ],
   "grants": [
@@ -187,11 +187,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "http://scholar.google.com/citations?user=dDvCN1IAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JohnsonNancyGillis_6730.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=6730"
   },
-  "content_hash": "6ff2c5e5fba0931a6c2df1185a6f9dec7f8b983c0ac73707a5420d594777b7d7",
-  "researcher_name": "Nancy Gillis Johnson",
-  "department": "Cancer Epidemiology"
+  "content_hash": "0ee4b2c68141e6ef951f3ae9f8399d5729f75ef39c15b1aedb703e40f7732273",
+  "researcher_name": "nancy gillis johnson",
+  "department": "cancer epidemiology"
 }

@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/troy-quast/",
+  "last_updated": "2025-11-21T22:50:27.209198",
+  "researcher_id": "26326",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "health outcomes & behavior",
+  "overview": "",
+  "research_interests": [
+    "Health Outcomes & Behavior Program"
+  ],
+  "associations": [
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Florida, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Texas, MS"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Stepped-Care Cognitive Behavioral Therapy in Children on the Autism Spectrum with Co-occurring Anxiety",
+      "pubmed_id": "36239830",
+      "pmc_id": "PMC9561323",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Storch EA, Schneider SC, Olsen SM, Ramirez AC, Berry LN, Goin-Kochel RP, McNeel M, Candelari AE, Guzick AG, Cepeda SL, Weinzimmer S, Voigt RG, Quast T, Goodman WK, Salloum A",
+      "journal": "J Autism Dev Disord"
+    },
+    {
+      "title": "Economic Analyses of Obsessive-Compulsive Disorder Interventions: A Systematic Review",
+      "pubmed_id": "36840747",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Strouphauer ER, Morris OJ, Soileau KJ, Wiese AD, Quast T, Goodman WK, Sheth SA, Wojcik KD, Guzick AG, Storch EA",
+      "journal": "Pharmacoeconomics"
+    },
+    {
+      "title": "Years of life lost associated with COVID-19 deaths in the USA during the first year of the pandemic",
+      "pubmed_id": "33839789",
+      "pmc_id": "PMC8083296",
+      "year": "2022",
+      "publication_date": "2022 Mar",
+      "authors": "Quast T, Andel R, Gregory S, Storch EA",
+      "journal": "J Public Health (Oxf)"
+    },
+    {
+      "title": "Economic Evaluation of Dupilumab Versus Endoscopic Sinus Surgery for the Treatment of Chronic Rhinosinusitis With Nasal Polyps",
+      "pubmed_id": "34874120",
+      "year": "2022",
+      "publication_date": "2022 Jun",
+      "authors": "Parasher AK, Gliksman M, Segarra D, Lin T, Rudmik L, Quast T",
+      "journal": "Int Forum Allergy Rhinol"
+    },
+    {
+      "title": "Intervention cost-effectiveness for pediatric anxiety and OCD: A systematic review and integrated database model",
+      "pubmed_id": "34728286",
+      "year": "2022",
+      "publication_date": "2022 Feb",
+      "authors": "De Nadai AS, Quast T, Little TB, Westerberg K, Patyk KC, Monahan MF, Storch EA, Gregory ST",
+      "journal": "J Affect Disord"
+    },
+    {
+      "title": "The relationship between abortion rates and economic fluctuations",
+      "pubmed_id": "35338909",
+      "year": "2022",
+      "publication_date": "2022 Aug",
+      "authors": "Gonzalez F, Quast T",
+      "journal": "Econ Hum Biol"
+    },
+    {
+      "title": "Stepped Care Versus Standard Care for Children After Trauma: A Randomized Non-Inferiority Clinical Trial",
+      "pubmed_id": "35032578",
+      "pmc_id": "PMC9273807",
+      "year": "2022",
+      "publication_date": "2022 Aug",
+      "authors": "Salloum A, Lu Y, Chen H, Quast T, Cohen JA, Scheeringa MS, Salomon K, Storch EA",
+      "journal": "J Am Acad Child Adolesc Psychiatry"
+    },
+    {
+      "title": "Years of life lost associated with COVID-19 deaths in the USA during the first 2 years of the pandemic",
+      "pubmed_id": "35640260",
+      "pmc_id": "PMC9213874",
+      "year": "2022",
+      "publication_date": "2022 Aug",
+      "authors": "Quast T, Andel R, Gregory S, Storch EA",
+      "journal": "J Public Health (Oxf)"
+    },
+    {
+      "title": "Excess Mortality Associated With COVID-19 by Demographic Group: Evidence From Florida and Ohio",
+      "pubmed_id": "34436948",
+      "pmc_id": "PMC8579393",
+      "year": "2021",
+      "publication_date": "2021 Aug",
+      "authors": "Quast T, Andel R",
+      "journal": "Public Health Rep"
+    },
+    {
+      "title": "Years of life lost associated with COVID-19 deaths in the United States",
+      "pubmed_id": "32894287",
+      "pmc_id": "PMC7499646",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Quast T, Andel R, Gregory S, Storch EA",
+      "journal": "J Public Health (Oxf)"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=26326"
+  },
+  "content_hash": "37778581c67d9ec47e0f4a6a02cb53b77753b67fa148663e0245db3f91ab1579",
+  "researcher_name": "troy quast",
+  "department": ""
+}

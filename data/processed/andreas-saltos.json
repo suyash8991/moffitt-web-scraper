@@ -1,0 +1,198 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/andreas-saltos/",
+  "last_updated": "2025-11-21T22:50:22.659342",
+  "researcher_id": "21325",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "thoracic oncology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Saltos' focus is on clinical research aiming to find better treatments for lung cancers, including using new strategies for targeted therapy and immunotherapy. He is currently leading and developing clinical trials investigating novel drugs or treatment combinations which either target the specific genetic features of lung cancers or recruit the immune system to combat cancer.",
+  "research_interests": [
+    "I am a clinical investigator and medical oncologist, with an interest in clinical and translational research toward developing novel targeted therapies and immunotherapies in lung cancer. Since joining the Thoracic Department at Moffitt as a clinical investigator in 2018, I have served as PI for and/or led design of multiple investigator-initiated clinical trials, as well as served as site PI for more than 15 cooperative-group and industry-sponsored clinical trials for treatment of lung cancers at Moffitt. My specific areas of emphasis include antibody-drug conjugates, targeted therapy combinations, and novel immunotherapies. I have an established relationship and experience working with several collaborators across our center including on these trials for their development as well as analysis of correlative biospecimens and measures, within Molecular Medicine, Drug Discovery, Immunology, Biostatistics and Bioinformatics and Health Outcomes and Behavior. I also serve as the Clinical Research Medical Director for the Thoracic Oncology Department at Moffitt. In this role I oversee clinical trials staff and manage prioritization of the department\u2019s research portfolio, as well as represent the department for research related committees and regulatory matters. \n  *"
+  ],
+  "associations": [
+    "Thoracic Oncology",
+    "Molecular Medicine Program",
+    "Lung Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Maryland School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Maryland Medical Center",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida Moffitt Cancer Center",
+      "specialty": "Hematology and Medical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Medical Oncology",
+      "certification": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Using Bayesian Networks to Predict Urgent Care Visits in Patients Receiving Systemic Therapy for Non-Small Cell Lung Cancer",
+      "pubmed_id": "40939115",
+      "pmc_id": "PMC12483286",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Gonzalez BD, Li X, Gudenkauf LM, Pullukkara JJ, Oswald LB, Hoogland AI, Le T, El Naqa I, Saltos AN, Haura EB, Luo Y",
+      "journal": "JCO Clin Cancer Inform"
+    },
+    {
+      "title": "Reply to: Osimertinib Plus Antiangiogenic Agents: A Promising New Paradigm With Uncertain Results",
+      "pubmed_id": "39993244",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Le X, Hernandez M, Heeke S, Saltos A, Heymach JV",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Skoulidis F, Araujo HA, Do MT, Qian Y, Sun X, Cobo AG, Le JT, Montesion M, Palmer R, Jahchan N, Juan JM, Min C, Yu Y, Pan X, Arbour KC, Vokes N, Schmidt ST, Molkentine D, Owen DH, Memmott R, Patil PD, Marmarelis ME, Awad MM, Murray JC, Hellyer JA, Gainor JF, Dimou A, Bestvina CM, Shu CA, Riess JW, Blakely CM, Pecot CV, Mezquita L, Tabb\u00f3 F, Scheffler M, Digumarthy S, Mooradian MJ, Sacher AG, Lau SCM, Saltos AN, Rotow J, Johnson RP, Liu C, Stewart T, Goldberg SB, Killam J, Walther Z, Schalper K, Davies KD, Woodcock MG, Anagnostou V, Marrone KA, Forde PM, Ricciuti B, Venkatraman D, Van Allen EM, Cummings AL, Goldman JW, Shaish H, Kier M, Katz S, Aggarwal C, Ni Y, Azok JT, Segal J, Ritterhouse L, Neal JW, Lacroix L, Elamin YY, Negrao MV, Le X, Lam VK, Lewis WE, Kemp HN, Carter B, Roth JA, Swisher S, Lee R, Zhou T, Poteete A, Kong Y, Takehara T, Paula AG, Parra Cuentas ER, Behrens C, Wistuba II, Zhang J, Blumenschein GR, Gay C, Byers LA, Gibbons DL, Tsao A, Lee JJ, Bivona TG, Camidge DR, Gray JE, Leighl NB, Levy B, Brahmer JR, Garassino MC, Gandara DR, Garon EB, Rizvi NA, Scagliotti GV, Wolf J, Planchard D, Besse B, Herbst RS, Wakelee HA, Pennell NA, Shaw AT, J\u00e4nne PA, Carbone DP, Hellmann MD, Rudin CM, Albacker L, Mann H, Zhu Z, Lai Z, Stewart R, Peters S, Johnson ML, Wong KK, Huang A, Winslow MM, Rosen MJ, Winters IP, Papadimitrakopoulou VA, Cascone T, Jewsbury P, Heymach JV. Author Correction: CTLA4 blockade abrogates KEAP1/STK11-related resistance to PD-(L)1 inhibitors. N ...",
+      "authors": ""
+    },
+    {
+      "title": "A Multicenter Open-Label Randomized Phase II Study of Osimertinib With and Without Ramucirumab in Tyrosine Kinase Inhibitor-Na\u00efve EGFR-Mutant Metastatic Non-Small Cell Lung Cancer (RAMOSE trial)",
+      "pubmed_id": "39378386",
+      "pmc_id": "PMC11776886",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Le X, Patel JD, Shum E, Baik C, Sanborn RE, Shu CA, Kim C, Fidler MJ, Hall R, Elamin YY, Tu J, Blumenschein G, Zhang J, Gibbons D, Gay C, Mohindra NA, Chae Y, Boumber Y, Sabari J, Santana-Davila R, Rogosin S, Herzberg B, Creelan B, Pellini B, Tanvetyanon T, Heeke S, Hernandez M, Gray JE, Saltos A, Heymach JV",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "CTLA4 blockade abrogates KEAP1/STK11-related resistance to PD-(L)1 inhibitors",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Skoulidis F, Araujo HA, Do MT, Qian Y, Sun X, Cobo AG, Le JT, Montesion M, Palmer R, Jahchan N, Juan JM, Min C, Yu Y, Pan X, Arbour KC, Vokes N, Schmidt ST, Molkentine D, Owen DH, Memmott R, Patil PD, Marmarelis ME, Awad MM, Murray JC, Hellyer JA, Gainor JF, Dimou A, Bestvina CM, Shu CA, Riess JW, Blakely CM, Pecot CV, Mezquita L, Tabb\u00f3 F, Scheffler M, Digumarthy S, Mooradian MJ, Sacher AG, Lau SCM, Saltos AN, Rotow J, Johnson RP, Liu C, Stewart T, Goldberg SB, Killam J, Walther Z, Schalper K, Davies KD, Woodcock MG, Anagnostou V, Marrone KA, Forde PM, Ricciuti B, Venkatraman D, Van Allen EM, Cummings AL, Goldman JW, Shaish H, Kier M, Katz S, Aggarwal C, Ni Y, Azok JT, Segal J, Ritterhouse L, Neal JW, Lacroix L, Elamin YY, Negrao MV, Le X, Lam VK, Lewis WE, Kemp HN, Carter B, Roth JA, Swisher S, Lee R, Zhou T, Poteete A, Kong Y, Takehara T, Paula AG, Parra Cuentas ER, Behrens C, Wistuba II, Zhang J, Blumenschein GR, Gay C, Byers LA, Gibbons DL, Tsao A, Lee JJ, Bivona TG, Camidge DR, Gray JE, Lieghl N, Levy B, Brahmer JR, Garassino MC, Gandara DR, Garon EB, Rizvi NA, Scagliotti GV, Wolf J, Planchard D, Besse B, Herbst RS, Wakelee HA, Pennell NA, Shaw AT, J\u00e4nne PA, Carbone DP, Hellmann MD, Rudin CM, Albacker L, Mann H, Zhu Z, Lai Z, Stewart R, Peters S, Johnson ML, Wong KK, Huang A, Winslow MM, Rosen MJ, Winters IP, Papadimitrakopoulou VA, Cascone T, Jewsbury P, Heymach JV",
+      "journal": "Nature"
+    },
+    {
+      "title": "Implementation of a High-Accuracy Targeted Gene Expression Panel for Clinical Care",
+      "pubmed_id": "38777037",
+      "pmc_id": "PMC11299514",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Alontaga AY, Cano P, Ozakinci H, Puskas JA, Stewart PA, Welsh EA, Yoder SJ, Hicks JK, Saltos AN, Bossler AD, Haura EB, Koomen JM, Boyle TA",
+      "journal": "J Mol Diagn"
+    },
+    {
+      "title": "Trastuzumab deruxtecan in patients with metastatic non-small-cell lung cancer (DESTINY-Lung01): primary results of the HER2-overexpressing cohorts from a single-arm, phase 2 trial",
+      "pubmed_id": "38547891",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Smit EF, Felip E, Uprety D, Nagasaka M, Nakagawa K, Paz-Ares Rodr\u00edguez L, Pacheco JM, Li BT, Planchard D, Baik C, Goto Y, Murakami H, Saltos A, Pereira K, Taguchi A, Cheng Y, Yan Q, Feng W, Tsuchihashi Z, J\u00e4nne PA",
+      "journal": "Lancet Oncol"
+    },
+    {
+      "title": "A phase I/IB trial of binimetinib in combination with erlotinib in NSCLC harboring activating KRAS or EGFR mutations",
+      "pubmed_id": "37499521",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Saltos AN, Creelan BC, Tanvetyanon T, Chiappori AA, Antonia SJ, Shafique MR, Ugrenovic-Petrovic M, Sansil S, Neuger A, Ozakinci H, Boyle TA, Kim J, Haura EB, Gray JE",
+      "journal": "Lung Cancer"
+    },
+    {
+      "title": "Osimertinib vs",
+      "pubmed_id": "38090314",
+      "pmc_id": "PMC10713299",
+      "year": "2023",
+      "publication_date": "2023 Nov",
+      "authors": "Gilardone S, Thapa R, Laborde J, Shafique M, Saltos A, Creelan B, Tanvetyanon T, Chiappori A, Simon G, Haura EB, Gray JE, Chen DT, Melzer D, Pellini B",
+      "journal": "afatinib as first-line treatment for patients with metastatic non-small cell lung cancer with an EGFR exon"
+    },
+    {
+      "title": "Dose-Limiting Pulmonary Toxicity in a Phase 1/2 Study of Radiation and Chemotherapy with Ipilimumab Followed by Nivolumab for Patients With Stage 3 Unresectable Non-Small Cell Lung Cancer",
+      "pubmed_id": "36657497",
+      "year": "2023",
+      "publication_date": "2023 Jul",
+      "authors": "Liveringhouse CL, Latifi K, Asous AG, Lam NB, Rosenberg SA, Dilling TJ, MacMillan GV, Chiappori AA, Haura EB, Creelan B, Gray JE, Tanvetyanon T, Shafique MR, Saltos AN, Weiner AA, Clarke J, Kelsey CR, Kim S, Caudell JJ, Rose TA, Conejo-Garcia JR, Li J, Schell MJ, Antonia SJ, Perez BA",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20530/",
+      "trial_id": "20530",
+      "title": "NAUTIKA1: A MULTICENTER, PHASE II, NEOADJUVANT AND ADJUVANT STUDY OF MULTIPLE THERAPIES IN BIOMARKER-SELECTED PATIENTS WITH RESECTABLE STAGES IB-III NON-SMALL CELL LUNG CANCER",
+      "condition": "Thoracic",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21399/",
+      "trial_id": "21399",
+      "title": "Phase I Study of MEM-288 Oncolytic Virus in Solid Tumors Including Non-Small Cell Lung Cancer (NSCLC)",
+      "condition": "Thoracic",
+      "intervention": "BMS-936558 (Nivolumab); MEM-288 (); Nivolumab (Opdivo); Pembrolizumab (Keytruda); Taxotere (docetaxel); docetaxel ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21586/",
+      "trial_id": "21586",
+      "title": "LEADER Neoadjuvant Screening Trial: LCMC4 Evaluation of Actionable Drivers in EaRly Stage Lung Cancer",
+      "condition": "Thoracic",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23094/",
+      "trial_id": "23094",
+      "title": "A Randomized, Double-Blind Phase 2/3 Study of Fianlimab (Anti-LAG-3 antibody) in Combination with Cemiplimab (Anti-PD-1 antibody) versus Cemiplimab Monotherapy in First-Line Treatment of Patients with Advanced Non-Small Cell Lung Cancer (NSCLC) with Tumors Expressing PD-L1 >=50%",
+      "condition": "Thoracic",
+      "intervention": "Cemiplimab (); Fianlimab (); Placebo (); REGN2810 (Cemiplimab)",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23549/",
+      "trial_id": "23549",
+      "title": "A Phase 1/1b Study of VET3-TGI Administered Alone and in Combination with Atezolizumab in Patients with Advanced Solid Tumors",
+      "condition": "Thoracic",
+      "intervention": "Atezolizumab (Tecentriq); VET3-TGI ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23576/",
+      "trial_id": "23576",
+      "title": "A Phase II/III, multisite, randomized master protocol for a global trial of BNT327 in combination with chemotherapy and other investigational agents in first-line non-small cell lung cancer",
+      "condition": "Thoracic",
+      "intervention": "Alimta (Pemetrexed); BNT327 (); Paraplatin (carboplatin); Pembrolizumab (Keytruda); Pemetrexed (); Taxol (paclitaxel); carboplatin (); paclitaxel ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23583/",
+      "trial_id": "23583",
+      "title": "Randomized, Open-Label, Phase 3 Clinical Trial of N-803 Plus Tislelizumab and Docetaxel Versus Docetaxel Monotherapy in Participants With Advanced or Metastatic Non-Small Cell Lung Cancer who Have Acquired Resistance to Immune Checkpoint Inhibitor Therapy",
+      "condition": "Thoracic",
+      "intervention": "N-803 (); Taxotere (docetaxel); Tislelizumab (); docetaxel ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23656/",
+      "trial_id": "23656",
+      "title": "A Phase 3 open-label, randomized, active-controlled, multicenter trial to evaluate the efficacy and safety of orally administered BAY 2927088 compared with standard of care as a first-line therapy in patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with HER2-activating mutations.",
+      "condition": "Thoracic",
+      "intervention": "Alimta (Pemetrexed); BAY 2927088 (); Paraplatin (carboplatin); Pembrolizumab (Keytruda); Pemetrexed (); carboplatin (); cisplatin ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SaltosAndreas_21325.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=21325"
+  },
+  "content_hash": "d7fcf40797106e63d316b3303a9aa9eee3048326eff2fc4e476c7e736222547e",
+  "researcher_name": "andreas saltos",
+  "department": ""
+}

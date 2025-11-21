@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/liang-wang",
-  "last_updated": "2025-10-21T16:36:23.162206",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/liang-wang/",
+  "last_updated": "2025-11-21T22:50:25.345648",
   "researcher_id": "25224",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Tumor Microenvironment and Metastasis",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "tumor microenvironment and metastasis",
+  "research_program": "cancer epidemiology",
   "overview": "Cancer genetic and epigenetic biomarkers",
   "research_interests": [
     "Dr. Wang\u2019s research seeks to identify, validate and functionally characterize biomarkers that will inform the assessments of cancer risk, the detection of early-stage cancers, and the response and outcomes of our patients. His current research efforts are focused on the detection and quantification of cell-free and circulating nucleic acids as predictors of therapy response and survival, especially in the context of prostate cancer.\n  *"
@@ -40,7 +40,7 @@
   ],
   "publications": [
     {
-      "title": "Fine Mapping Regulatory Variants by Characterizing Native CpG Methylation with Nanopore Long-Read Sequencing",
+      "title": "Fine mapping regulatory variants by characterizing native CpG methylation with nanopore long-read sequencing",
       "pubmed_id": "41109954",
       "year": "2025",
       "publication_date": "2025 Oct",
@@ -92,14 +92,6 @@
       "journal": "JNCI Cancer Spectr"
     },
     {
-      "title": "Integrating Multi-Omics Data to Uncover Prostate Tissue DNA Methylation Biomarkers and Target Genes for Prostate Cancer Risk",
-      "pubmed_id": "39400371",
-      "year": "2025",
-      "publication_date": "2025 Jan",
-      "authors": "Liu S, Zhu J, Green D, Zhong H, Long Q, Wu C, Wang L, Deng Y, Wu L",
-      "journal": "Mol Carcinogen"
-    },
-    {
       "title": "Plasma DNA Methylation-Based Biomarkers for MPNST Detection in Patients With Neurofibromatosis Type 1",
       "pubmed_id": "39600120",
       "pmc_id": "PMC11636586",
@@ -109,13 +101,12 @@
       "journal": "Mol Carcinogen"
     },
     {
-      "title": "Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study",
-      "pubmed_id": "40075682",
-      "pmc_id": "PMC11898942",
+      "title": "Integrating Multi-Omics Data to Uncover Prostate Tissue DNA Methylation Biomarkers and Target Genes for Prostate Cancer Risk",
+      "pubmed_id": "39400371",
       "year": "2025",
-      "publication_date": "2025 Feb",
-      "authors": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y",
-      "journal": "Cancers (Basel)"
+      "publication_date": "2025 Jan",
+      "authors": "Liu S, Zhu J, Green D, Zhong H, Long Q, Wu C, Wang L, Deng Y, Wu L",
+      "journal": "Mol Carcinogen"
     },
     {
       "title": "Epigenetic modifications of cfDNA in liquid biopsy for the cancer care continuum",
@@ -125,6 +116,15 @@
       "publication_date": "2025 Feb",
       "authors": "Wong J, Muralidhar R, Wang L, Huang CC",
       "journal": "Biomed J"
+    },
+    {
+      "title": "Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study",
+      "pubmed_id": "40075682",
+      "pmc_id": "PMC11898942",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y",
+      "journal": "Cancers (Basel)"
     }
   ],
   "grants": [
@@ -243,11 +243,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WangLiang_25224.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=25224"
   },
-  "content_hash": "322f8549f8d38a0c09093edbe222fce66d0eab44c38ca0113ded814181eda127",
-  "researcher_name": "Liang Wang",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "9ab66fc520653d4519ef549b64eb440e2f470cddc787a469bd6d60a020afd9c9",
+  "researcher_name": "liang wang",
+  "department": "tumor microenvironment and metastasis"
 }

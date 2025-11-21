@@ -1,0 +1,186 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kamran-ahmed/",
+  "last_updated": "2025-11-21T22:50:24.984915",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "radiation oncology",
+  "research_program": "immuno-oncology",
+  "overview": "Dr. Kamran Ahmed is an Associate Member with Tenure in the Department of Radiation Oncology and Department of Immunology at Moffitt Cancer Center and an Associate Professor in the Department of Oncologic Sciences at the University of South Florida. He is the Vice Chair for Clinical Research in the Department of Radiation Oncology and the Section Chief for the Breast Radiotherapy Service at Moffitt Cancer Center. He is also the Program Director for the Advanced Radiation Oncology Research Fellowship. Dr. Ahmed received his medical degree from the Mayo Clinic Alix School of Medicine in Rochester, MN and completed an internship at Baylor College of Medicine before completing his radiation oncology residency at Moffitt Cancer Center. His clinical focus is the management of patients with breast cancer. Dr. Ahmed\u2019s primary research interest is in studying the synergism between combinations of immunologic and targeted agents with radiation therapy to improve clinical outcomes. He is the principal investigator of several multicenter clinical trials in the management of brain metastases and leptomeningeal disease with novel therapeutics and radiation therapy. He is also interested in studying personalized radiation delivery through genomic and radiomic approaches to tailor therapy to the patient. He serves on multiple journal editorial boards. Dr. Ahmed has published over 100 peer-reviewed manuscripts and has presented his research nationally and internationally.",
+  "research_interests": [
+    "Dr. Ahmed's research interests include studying combinations of radiation therapy and immunologic and targeted agents in the management of malignancies. Dr. Ahmed is also interested in studying the delivery of personalized radiation treatment utilizing genomics and radiomics.\n  *"
+  ],
+  "associations": [
+    "Radiation Oncology",
+    "Immunology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Mayo Clinic College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Baylor College of Medicine",
+      "position": "Intern",
+      "specialty": "Internal Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "Moffitt Cancer Center",
+      "specialty": "Radiation Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Disparities in the Surgical Management of the Axilla by Self-Identified Race in the Multicenter Neoadjuvant I-SPY2 Trial",
+      "pubmed_id": "40699532",
+      "pmc_id": "PMC12494629",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Kaur M, Dimitroff K, Boughey JC, Esserman LJ, Yau C, Tchou J, Quirarte A, Lee MC, Howard-McNatt MM, Switalla K, Kuerer H, Sauder C, Postlewait LM, Arciero C, Rao R, Wallace A, Reyna C, Ahmed K, Gutnik L, Taunk N, Perlmutter J, DeMichele A, Yee D, Hylton NM, Symmans WF, Rugo HS, Shatsky RA, Isaacs C, Rudra S, Pohlmann P, Ewing C, Wong J, Alvarado M, Jaskowiak N, Prionas N, Golshan M, Piltin MA, Olopade OI, Mukhtar RA",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Impact of Neoadjuvant Chemotherapy on Surgical Outcomes and Conversion to Node-Negativity in Invasive Lobular Breast Cancer: Analysis of Molecularly High-Risk Tumors by Histologic Subtype on the I-SPY2 Clinical Trial",
+      "pubmed_id": "40705266",
+      "pmc_id": "PMC12494636",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Mukhtar RA, Dimitroff K, Yau C, Chien AJ, Connolly EP, Howard-McNatt M, Rao R, Ladores V, Golshan M, Sauder CA, Ahmed K, Lancaster R, Fox J, Gutnik L, Lee MC, Tchou J, Prionas N, Arciero CA, Reyna C, Kuerer H, Switalla K, Taunk N, Tuttle TM, Moran MS, Postlewait LM, Perlmutter J, DeMichele A, Yee D, Hylton N, Symmans WF, Rugo HS, Shatsky R, Isaacs C, Esserman LJ, Van't Veer L, Boughey JC",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Association between transcriptomic metrics of exogenous antigen presentation and adaptive immunity with locoregional recurrence in localized estrogen receptor negative breast cancer: retrospective review of multi-institutional datasets",
+      "pubmed_id": "40361136",
+      "pmc_id": "PMC12070507",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Robinson TJ, Liveringhouse CL, Wilson C, Friedman S, Nakashima J, Mills MN, Purcell JD, Figura NB, Dongliang D, Thapa R, Welsh E, Ahmed KA, Grass GD, Fridley BL, Diaz R",
+      "journal": "Breast Cancer Res"
+    },
+    {
+      "title": "Atezolizumab and Stereotactic Body Radiation in Metastatic, Recurrent, or Persistent Cervical Cancer: Results From a Phase 2 Multi-Institutional Study",
+      "pubmed_id": "40379142",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Ahmed KA, Quick AM, Chon HS, Chern JY, Bixel K, Kim Y, Li J, Montejo ME, Dowell RA, Kim S, Fernandez DC, Lam CA, Hakam A, Rosa M, Shafique M, Shahzad MM, Wenham RM",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Executive Summary of the American Radium Society Appropriate Use Criteria: Regional Nodal Irradiation for Breast Cancer",
+      "pubmed_id": "39761648",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Choi JI, Freedman GM, Guttmann DM, Ahmed K, Gao W, Walker EM, Harris EE, Gonzalez V, Ye J, Nead K, Taunk N, Tadros AB, Dang CT, Daroui P, Novick K",
+      "journal": "Am J Clin Oncol"
+    },
+    {
+      "title": "Phase II trial of brain MRI surveillance in stage IV breast cancer",
+      "pubmed_id": "39851040",
+      "pmc_id": "PMC12309701",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Ahmed KA, Kim Y, Armaghani AJ, Arrington JA, Costa RL, Czerniecki BJ, Diaz R, Dowell RA, Extermann M, Forsyth PA, Lee KT, Loftus L, Mills MN, Phuoc VH, Rosa M, Soliman HH, Sam CS, Washington IR, Soyano AE, Han HS",
+      "journal": "Neurooncol"
+    },
+    {
+      "title": "ASO Visual Abstract: Impact of Neoadjuvant Chemotherapy on Surgical Outcomes and Conversion to Node-Negativity in Invasive Lobular Breast Cancer: Analysis of Molecularly High-Risk Tumors by Histologic Subtype on the I-SPY2 Clinical Trial",
+      "pubmed_id": "40849378",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Mukhtar RA, Dimitroff K, Yau C, Chien AJ, Connolly EP, Howard-McNatt M, Rao R, Ladores V, Golshan M, Sauder CA, Ahmed K, Lancaster R, Fox J, Gutnik L, Lee MC, Tchou J, Prionas N, Arciero CA, Reyna C, Kuerer H, Switalla K, Taunk N, Tuttle TM, Moran MS, Postlewait LM, Perlmutter J, DeMichele A, Yee D, Hylton N, Symmans WF, Rugo HS, Shatsky R, Isaacs C, Esserman LJ, van 't Veer L, Boughey JC",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Definitive intensity-modulated radiotherapy for organ preservation in vulvar cancer: A multicenter study",
+      "pubmed_id": "40513383",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Rishi A, Albuquerque KV, Jhingran A, Donovan EK, Horne ZD, Ludwig MS, Pathak P, Goldsberry R, Glaser SM, Garg A, Yin V, Fernandez DC, Beriwal S, Ahmed KA, Montejo ME",
+      "journal": "Gynecol Oncol"
+    },
+    {
+      "title": "Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses",
+      "pubmed_id": "40888040",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA",
+      "journal": "Neurooncol"
+    },
+    {
+      "title": "Nivolumab and stereotactic radiosurgery for patients with breast cancer brain metastases: long-term results and biomarker analysis from a non-randomized, open-label, phase Ib study",
+      "pubmed_id": "40295143",
+      "pmc_id": "PMC12039042",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Ahmed KA, Kim Y, Kim S, Wang MH, DeJesus M, Arrington JA, Soyano AE, Armaghani AJ, Costa RLB, Loftus LS, Rosa M, Caudell JJ, Diaz R, Etame AB, Tran ND, Soliman H, Czerniecki BJ, Forsyth PA, Yu HM, Han HS",
+      "journal": "J Immunother Cancer"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Phase II Study of Risk Adaptive Screening in High-Risk Breast Cancer Patients  \nAward Number: N/A  \nSponsor: FLORIDA BREAST CANCER  \nAhmed, K. (PD/PI)",
+      "title": "Phase II Study of Risk Adaptive Screening in High-Risk Breast Cancer Patients",
+      "sponsor": "FLORIDA BREAST CANCER",
+      "investigators": [
+        {
+          "name": "Ahmed, K.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20487/",
+      "trial_id": "20487",
+      "title": "Phase I/II Study of Radiation Therapy Followed by Intrathecal Trastuzumab/Pertuzumab in the Management of HER2+ Breast Leptomeningeal Disease",
+      "condition": "Breast",
+      "intervention": "Herceptin (Trastuzumab); Pertuzumab (); Radiotherapy (); Trastuzumab (); rhuMAb HER2 (Trastuzumab)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20899/",
+      "trial_id": "20899",
+      "title": "Phase I/II Study of Stereotactic Radiation and Abemaciclib with or without Imlunestrant in the Management of Hormone Receptor Positive HER2 Negative Breast Cancer Brain Metastases (STRONG Trial)",
+      "condition": "Breast",
+      "intervention": "Abemaciclib (); Endocrine Therapy (); Imlunestrant (); LY2835219 (Abemaciclib); Radiotherapy ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21676/",
+      "trial_id": "21676",
+      "title": "Phase I/II Study of Stereotactic Radiation and Sacituzumab Govitecan with Zimberelimab in the Management of Metastatic Triple Negative Breast Cancer with Brain Metastases (TARGET-TNBC)",
+      "condition": "Breast",
+      "intervention": "Sacituzumab Govitecan (); Zimberelimab ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21757/",
+      "trial_id": "21757",
+      "title": "Phase II Study of Genomically Guided Radiation Dose Personalization in the Management of Triple Negative Breast Cancer",
+      "condition": "Breast",
+      "intervention": "Radiotherapy ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23433/",
+      "trial_id": "23433",
+      "title": "Phase II Study of Systemic Screening in Pathologic Node Positive Breast Cancer following Neoadjuvant Chemotherapy and Surgery",
+      "condition": "Breast",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AhmedKamran_18329.jpg",
+  "contact": {},
+  "content_hash": "aa626a8bd0444bc198d92ad897f7c0377f051c1e4fd4a27bc960dea32d43ad8a",
+  "researcher_name": "kamran ahmed",
+  "department": "immunology"
+}

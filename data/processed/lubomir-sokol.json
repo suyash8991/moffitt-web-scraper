@@ -1,0 +1,186 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lubomir-sokol/",
+  "last_updated": "2025-11-21T22:50:25.435822",
+  "researcher_id": "2681",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Sokol's laboratory research has been recognized in the field of molecular biology of primary polycythemias and more recently also in the pathobiology of bone marrow failure disorders including T-cell LGL leukemia and MDS.",
+  "research_interests": [
+    "T/NK cell lymphoma/leukemia, Large Granular Lymphocytic Leukemia, Blastic Plasmacytoid Dendritic Cell Neoplasm, Polycythemia/Familial Erythrocytosis, Myelodysplastic syndromes, Paroxysmal Nocturnal Hemoglobinuria \n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Center for Immunization & Infection Research in Cancer",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Charles University of Prague, Czechoslovakia, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Charles University of Prague, Czechoslovakia",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Charles University of Prague, Czechoslovakia",
+      "specialty": "Radiation Oncology"
+    },
+    {
+      "type": "Residency",
+      "institution": "Louisiana State University, Lafayette, LA",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Charles University of Prague, Czechoslovakia",
+      "specialty": "Radiation Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Charles University of Prague, Czechoslovakia",
+      "specialty": "Clinical Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Czechoslovak Academy of Sciences, Prague, Czechoslovakia",
+      "specialty": "Molecular Genetics"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Alabama, Birmingham, AL",
+      "specialty": "Molecular Biology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida, Tampa, FL",
+      "specialty": "Medical Oncology/Hematology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Hematology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Expanded CD4+CD57+ T-large granular lymphocytes: A diagnostic pitfall in blood staging of mycosis fungoides/S\u00e9zary syndrome",
+      "pubmed_id": "40972673",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Zhang Y, Qin D, Ozoya O, Glass F, Sokol L, Ryder CB",
+      "journal": "Am J Clin Pathol"
+    },
+    {
+      "title": "Cutaneous manifestations of large granular lymphocytic leukemia: A case report and systematic review",
+      "pubmed_id": "40466343",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Hammami MB, Qasim A, Shah A, Zhang H, Haver MK, Sokol L",
+      "journal": "Leuk Res"
+    },
+    {
+      "title": "Cutaneous manifestations as the presenting signs of diffuse large B-cell lymphoma/high-grade B-cell lymphoma with MYC and BCL2 rearrangements",
+      "pubmed_id": "39790106",
+      "pmc_id": "PMC11714132",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Pi\u00f1ero-Crespo G, Kucharik AH, Chen WS, Idi\u00e1quez DW, Doenges J, Zhang Y, Sokol L, Glass F",
+      "journal": "JAAD Case Rep"
+    },
+    {
+      "title": "Haematogenous seeding in mycosis fungoides and S\u00e9zary syndrome: current evidence and clinical implications",
+      "pubmed_id": "39545505",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Gniadecki R, Guenova E, Querfeld C, Nicolay JP, Scarisbrick J, Sokol L",
+      "journal": "Br J Dermatol"
+    },
+    {
+      "title": "ASTCT and USCLC clinical practice recommendations for allogeneic stem cell transplant in mycosis fungoides and S\u00e9zary syndrome",
+      "pubmed_id": "40199382",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Goyal A, O'Leary D, Dabaja B, Weng WK, Zain J, Cutler C, Guitart J, Kim YH, Geskin LJ, Hoppe RT, Wilson LD, Beaven AW, Horwitz S, Allen PB, Barta SK, Bohjanen K, Brammer JE, Carter JB, Comfere N, DeSimone JA, Dusenbery K, Duvic M, Huen A, Jagadeesh D, Kelsey CR, Khodadoust MS, Lechowicz MJ, Mehta-Shah N, Moskowitz AJ, Olsen EA, Poh C, Pro B, Querfeld C, Sauter C, Sokol L, Sokumbi O, Wilcox RA, Zic JA, Gru A, Hamadani M, Foss F",
+      "journal": "J Am Acad Dermatol"
+    },
+    {
+      "title": "Autologous Hematopoietic Cell Transplantation Consolidation for First Response is Associated With Longer Survival Among Patients With Nodal Peripheral T Cell Lymphoma",
+      "pubmed_id": "38740140",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Zhang Y, Rose A, Khadka S, Cao B, Eatrides J, Saeed H, Shah BD, Chavez J, Bello C, Lazaryan A, Khimani F, Ibarz JP, Liu HD, Locke FL, Jain MD, Zhang L, Kharfan-Dabaja MA, Kim J, Ayala E, Nishihori T, Sokol L",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Phase 2 trial of the farnesyltransferase inhibitor tipifarnib for relapsed/refractory peripheral T-cell lymphoma",
+      "pubmed_id": "38991123",
+      "pmc_id": "PMC11401221",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Witzig TE, Sokol L, Kim WS, de la Cruz F, Martin Garcia-Sancho AM, Advani RH, Roncero Vidal JM, De O\u00f1a R, Marin-Niebla A, Izquierdo AR, Terol MJ, Domingo-Domenech E, Saunders A, Bendris N, Mackey J, Leoni M, Foss FM",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "ASTCT and USCLC Clinical Practice Recommendations for Allogeneic Stem Cell Transplant in Mycosis Fungoides and S\u00e9zary Syndrome",
+      "pubmed_id": "39222792",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Goyal A, O'Leary D, Dabaja B, Weng WK, Zain J, Cutler C, Guitart J, Kim YH, Geskin LJ, Hoppe RT, Wilson LD, Beaven AW, Horwitz S, Allen PB, Barta SK, Bohjanen K, Brammer JE, Carter JB, Comfere N, DeSimone JA, Dusenbery K, Duvic M, Huen A, Jagadeesh D, Kelsey CR, Khodadoust MS, Lechowicz MJ, Mehta-Shah N, Moskowitz AJ, Olsen EA, Poh C, Pro B, Querfeld C, Sauter C, Sokol L, Sokumbi O, Wilcox RA, Zic JA, Hamadani M, Foss F",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Lived experiences of lymphoma patients with sexual dysfunction and related sexual distress during cancer treatment",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Durosier Mertilus DS, Rodriguez CS, Lengacher CA, Donovan KA, Sokol L, Tinsley-Vance SM, Szalacha LA",
+      "journal": "Discov Public Health"
+    },
+    {
+      "title": "Bendamustine and rituximab as frontline therapy in extranodal marginal zone lymphoma: a single-institution experience",
+      "pubmed_id": "38827319",
+      "pmc_id": "PMC11136690",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Logothetis CN, Horvat NP, Kurian T, Bello C, Chavez J, Isenalumhe L, Shah B, Sokol L, Saeed H, Pinilla J, Gaballa S",
+      "journal": "Oncol Res"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21143/",
+      "trial_id": "21143",
+      "title": "A Single-Arm, Open-Label, Pilot Study of Concurrent Phototherapy and POTELIGEO (mogamulizumab-kpkc) in Early Stage Mycosis Fungoides (PLIGHT)",
+      "condition": "Malignant Hematology",
+      "intervention": "KW-0761 (Mogamulizumab); Mogamulizumab ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21970/",
+      "trial_id": "21970",
+      "title": "A multicenter, open-label, first-in human (FIH), multiple expansion cohort, Phase 1/2 study to evaluate the safety and efficacy of DR-01 in adult subjects with large granular lymphocytic leukemia",
+      "condition": "Malignant Hematology",
+      "intervention": "DR-01 ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SokolLubomir_2681.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2681"
+  },
+  "content_hash": "dedb09afc9a515b7c1225839e8e43aa2fce7c78b1327377f5835a1a35467fc0a",
+  "researcher_name": "lubomir sokol",
+  "department": ""
+}

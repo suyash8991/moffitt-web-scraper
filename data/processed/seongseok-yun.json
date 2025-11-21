@@ -1,17 +1,17 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/seongseok-yun",
-  "last_updated": "2025-10-21T16:38:13.281223",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/seongseok-yun/",
+  "last_updated": "2025-11-21T22:50:26.846512",
   "researcher_id": "21916",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Malignant Hematology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
   "overview": "As a physician-scientist, with clinical and basic research expertise in hematologic malignancies, Dr. Yun's scientific career is dedicated to understanding and targeting molecular circuits that contribute to the development, maintenance, drug-induced cytotoxicity and resistance of Acute Leukemia.",
   "research_interests": [
-    "The current focus of my laboratory is defining the oncogenic mechanisms of MYC in the development and maintenance of myeloid neoplasms including acute myeloid leukemia (AML) and myelofibrosis (MF), specifically focusing on MYC-directed epigenetic regulation of DNA methyl- and hydroxy-methylation, as well as MYC-induced alarmins and their roles in chronic inflammation in both normal hematopoietic stem cells and cancer cells. \n  *"
+    "The current focus of my laboratory is defining the oncogenic mechanisms of MYC in the development and maintenance of myeloid neoplasms including acute myeloid leukemia (AML) and myelofibrosis (MF), specifically focusing on MYC-directed epigenetic regulation of DNA methyl- and hydroxy-methylation, as well as MYC-induced alarmins and their roles in chronic inflammation in both normal hematopoietic stem cells and cancer cells.\n  *"
   ],
   "associations": [
     "Malignant Hematology",
@@ -154,11 +154,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://www.yun-lab.com/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=TFRi028AAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/YunSeongseok_21916.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=21916"
   },
-  "content_hash": "6252dc6a64e66521f2288d600ffb6ad619d9edcea00d9f217df1b5a35a055bfd",
-  "researcher_name": "Seongseok Yun",
-  "department": "Molecular Oncology"
+  "content_hash": "ea2b84cc190b136df39125364bf391a1e65b86aea88dfc12e0826399d32855ea",
+  "researcher_name": "seongseok yun",
+  "department": "molecular oncology"
 }

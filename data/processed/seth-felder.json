@@ -1,0 +1,137 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/seth-felder/",
+  "last_updated": "2025-11-21T22:50:26.863588",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "gastrointestinal oncology",
+  "research_program": "cancer epidemiology",
+  "overview": "To improve the understanding of rectal cancer patients who achieve a complete clinical response after receiving neoadjuvant treatment and are then able to undergo a non-operative \u201cwatch-and-wait\u201d observation strategy.",
+  "research_interests": [
+    "The paradigm of rectal cancer treatment has drastically changed over the past decade. Now, almost 1/3rd to 1/2 may defer or avoid radical rectal resection following neoadjuvant treatment. The ability to predict a complete response (tumor biology), as well as select accurately a patient that has obtained a complete response (imaging, endoscopy, tumor markers) remains suboptimal. Better tools to predict, personalize treatment to maximize organ preservation, and accurately select patients is the future of rectal cancer treatment\n  *"
+  ],
+  "associations": [
+    "Gastrointestinal Oncology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of South Florida",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Cedars-Sinai Medical Center",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Minnesota",
+      "specialty": "Colon and Rectal Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Memorial Sloan Kettering",
+      "specialty": "Advanced Colorectal Surgical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Assessing outcomes of full-thickness resection in piecemeal polypectomy scar consolidation of colon adenomas containing cancer",
+      "pubmed_id": "40932816",
+      "pmc_id": "PMC12417760",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Radosavljevic I, Dam A, Luthra AK, Pena L, Cappelle S, Permuth JB, Felder S, Sanchez J, Stefanou A, Friedman M, Mok SR",
+      "journal": "Endosc Int Open"
+    },
+    {
+      "title": "Incomplete Resection Is Twice as Likely in Locally Advanced Mucinous Compared to Nonmucinous Rectal Adenocarcinoma: A National Propensity-Matched Analysis",
+      "pubmed_id": "39658830",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Hendrick LE, Naffouje S, Imanirad I, Pereira AL, Biachi T, Sanchez J, Dessureault S, Stefanou A, Dineen SP, Felder S",
+      "journal": "J Surg Oncol"
+    },
+    {
+      "title": "Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles",
+      "pubmed_id": "40126181",
+      "pmc_id": "PMC12234169",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Practice Patterns and Survival Outcomes of Immunotherapy for Metastatic Colorectal Cancer",
+      "pubmed_id": "40111368",
+      "pmc_id": "PMC11926646",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Bari S, Matejcic M, Kim RD, Xie H, Sahin IH, Powers BD, Teer JK, Chan TA, Felder SI, Schmit SL",
+      "journal": "JAMA Netw Open"
+    },
+    {
+      "title": "Radiation Therapy for Anal Squamous Cell Carcinoma: An ASTRO Clinical Practice Guideline",
+      "pubmed_id": "40023252",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Feng M, Hallemeier CL, Almada C, Aranha O, Dorth J, Felder S, Goodman KA, Holliday EB, Jethwa KR, Kachnic LA, Miller ED, Murphy JD, Pollom E, Sio TT, Thomas H, Lindsay P, Bradfield L, Helms AR, Czito BG",
+      "journal": "Pract Radiat Oncol"
+    },
+    {
+      "title": "Short- and Intermediate-Term Morbidity Following Total Pelvic Exenteration in Colorectal Cancer",
+      "pubmed_id": "39848249",
+      "pmc_id": "PMC11758541",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Guske C, Immen N, Conant D, Laborde J, Linscott J, Hayes M, Jazayeri SB, Fazili A, Siegel E, Dessureault S, Sanchez J, Stefanou A, Manley B, Felder S",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "Cytoreductive Surgery and Hyperthermic Intraperitoneal Chemotherapy Is NOT a Last Resort: Rationale for Early Surgical Referral",
+      "pubmed_id": "39418624",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Hendrick LE, Felder S, Imanirad I, Dineen SP",
+      "journal": "JCO Oncol Pract"
+    },
+    {
+      "title": "Building research infrastructure to advance precision medicine in colorectal cancer",
+      "pubmed_id": "40111849",
+      "pmc_id": "PMC12140009",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Schmit SL, Loro\u00f1a NC, Sobieski D, Matejcic M, Nguyen NT, Hoehn HJ, Diaz DB, Shankar K, Cockman EM, Jean-Baptiste E, Tsai YY, Buchalter RB, Brito K, Wilson R, Coppola D, Fulmer C, Saglam O, Tassielli AF, Beato F, Dai R, Freedman JA, Purrington K, Hu B, Mcgrail D, Gibson H, Jiang K, Mu\u00f1oz-Antonia T, Flores I, Gordian E, Oliveras Torres JA, Cheng I, Van Blarigan EL, Felder SI, Sanchez JA, Fleming JB, Siegel EM, Cress D, Thompson P, Stern MC, Teer JK, Figueiredo JC",
+      "journal": "JNCI Cancer Spectr"
+    },
+    {
+      "title": "Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric, Version 3",
+      "pubmed_id": "39689429",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Hodan R, Gupta S, Weiss JM, Axell L, Burke CA, Chen LM, Chung DC, Clayback KM, Felder S, Foda Z, Giardiello FM, Grady W, Gustafson S, Hagemann A, Hall MJ, Hampel H, Idos G, Joseph N, Kassem N, Katona B, Kelly K, Kieber-Emmons A, Kupfer S, Lang K, Llor X, Markowitz AJ, Prats MM, Niell-Swiller M, Outlaw D, Pirzadeh-Miller S, Samadder NJ, Shibata D, Stanich PP, Swanson BJ, Szymaniak BM, Welborn J, Wiesner GL, Yurgelun MB, Dwyer M, Darlow S, Diwan Z"
+    },
+    {
+      "title": "The role of rectal magnetic resonance imaging in accurate localization and designation of colorectal cancer for optimal management: Case study",
+      "pubmed_id": "38745979",
+      "pmc_id": "PMC11091459",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Ogunleye O, Feuerlein S, Ahmed A, Parsee A, Jeong D, Henning J, Frakes J, Stefanou A, Sanchez J, Hoffe S, Dessureault S, Felder S, Costello J",
+      "journal": "Radiol Case Rep"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/FelderSeth_18368.jpg",
+  "contact": {},
+  "content_hash": "ba0ba970f64cb45aa4a2949dabafd353da5afb093cacd33a310af926bebcf6ea",
+  "researcher_name": "seth felder",
+  "department": ""
+}

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/justin-lopchuk",
-  "last_updated": "2025-10-21T16:37:15.210500",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/justin-lopchuk/",
+  "last_updated": "2025-11-21T22:50:24.970888",
   "researcher_id": "17775",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Drug Discovery",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "drug discovery",
+  "research_program": "molecular medicine",
   "overview": "1) The acceleration of drug discovery through development of new methods in organic synthesis. 2) The practical and scalable synthesis of bioactive natural products as leads in medicinal chemistry. 3) The creation of new methods and reagents for the covalent targeting of proteins with small molecules.",
   "research_interests": [
     "Our research program is grounded in synthetic organic chemistry with a specific focus on the development of new reactions, the design of new reagents, and the total synthesis of natural products with anti-cancer activity. In collaboration with other research groups at Moffitt, we will apply our chemistry to synthesize chemical probes designed to interrogate the function of key oncoproteins and immune-regulatory proteins, while ultimately seeking to develop these probes and lead compounds into novel anti-cancer drugs. Methodology. In our ongoing quest to facilitate the rapid synthesis of bioactive molecules, we aim to develop new reactions and easy-to-use reagents centered around the deliberate use of radicals and other reactive intermediates for C\u2013C, C\u2013N, and C\u2013S bond formation. Each method is designed to enable the construction of small building blocks, the modification of natural products, and the late-stage functionalization of complex molecules. Toward our goal of exploring underutilized chemical space, we will focus our attention on designing reagents which allow for the simple installation of a variety of bioisosteres. Total Synthesis. For some anti-cancer natural products, total synthesis remains the best strategy for obtaining sufficient amounts of compounds for a thorough biological evaluation, let alone the prospect of clinical trials. After carefully selecting our targets, our lab will focus on developing routes which are short, scalable, and designed to deliver multigram quantities of material for biological study, as well as the ability to synthesize libraries of analogs. Drug Discovery. Moffitt\u2019s highly collaborative environment allows us to regularly engage with numerous biologists, chemists, and clinicians in both the Department of Drug Discovery and the Chemical Biology and Molecular Medicine Program. Here we will incorporate our new methodologies in fragment-based drug discovery, the design of chemical probes, and the chemoselective modification or tagging of bioactive molecules. The newly developed reagents and methods for installation of bioisosteres will be available for collaborators and their own lead compounds.\n  *"
@@ -32,8 +32,9 @@
     {
       "title": "PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo",
       "pubmed_id": "40376796",
+      "pmc_id": "PMC12353786",
       "year": "2025",
-      "publication_date": "2025 May",
+      "publication_date": "2025 Nov",
       "authors": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J",
       "journal": "Mol Cancer Ther"
     },
@@ -180,11 +181,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LopchukJustin_17775.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17775"
   },
-  "content_hash": "99786d3414583c229120dfc891a6100a89e4962623f8dc4d7432e273723d2253",
-  "researcher_name": "Justin Lopchuk",
-  "department": "Drug Discovery"
+  "content_hash": "9820f9967fac8a5a0ec7117bf54698efb64e2e45abf024eb39eec49c43b78a30",
+  "researcher_name": "justin lopchuk",
+  "department": "drug discovery"
 }

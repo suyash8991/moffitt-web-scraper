@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/alexander-anderson",
-  "last_updated": "2025-10-21T16:33:38.541945",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/alexander-anderson/",
+  "last_updated": "2025-11-21T22:50:22.458338",
   "researcher_id": "4617",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Integrated Mathematical Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "integrated mathematical oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Our goal is to develop truly integrated models of specific cancers that can have both predictive and therapeutic potential.",
   "research_interests": [
     "Mathematical models, in general, have suffered greatly due to a lack of true experimental parameterization and derivation with the new Integrated Mathematical Oncology division at Moffitt we hope to address this issue and develop truly integrated models of specific cancers that can have both predictive and therapeutic application. Cancer is a complex, multiscale process, in which genetic mutations occurring at a subcellular level manifest themselves as functional changes at the cellular and tissue scale. The multiscale nature of cancer requires mathematical modelling approaches of a similar nature. The Hybrid-Discrete Continuum (HDC) model developed initially in application to nematode movement (1996), and subsequently applied to tumor angiogenes (1998), invasion (2000, 2005, 2006) and Dictyostelium dynamics (2002) is one such multiscale approach. The HDC technique is both simple and powerful, allowing discrete individuals and continuous variables to interact at the scales they naturally occur. However, we are open to utilising any tool or technique be it individual, hybrid, or purely continuum based in order to better capture the complexity of cancer and address the specific aspect under consideration. One aspect of Cancer that is currently of great interest is that of tumor cell/microenvironment interactions since both the immediate microenvironment (cell-cell or cell-matrix interactions) and the extended microenvironment (e.g. vascular bed, stroma) are thought to play crucial roles in both tumor progression and suppression. Much of my current work on tumor invasion examines the key role of the microenvironment as a selective force in the growth and evolution of cancer. The evolutionary dynamics of the tumor population have almost solely been considered at the genetic scale and very little work has considered the phenotype scale. My work focuses in part on the link between between these scales, the so called genotype to phenotype mapping and in part on how tumor cell phenotypes behave under different microenvironmental conditions and the impact this has on tumor morphology. An important aspect of this work is to understand how best to link, using mathematical models, the wealth of gene expression data that currently exist with the phenotypes that create the tumor. Thus creating a cell centered bridge between genetic change and clinical outcome.\n  *"
@@ -46,12 +46,21 @@
       "journal": "Bull Math Biol"
     },
     {
-      "title": "Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer",
+      "title": "Evolutionary Double-Bind Treatment Using Radiation Therapy and Natural Killer Cell-Based Immunotherapy in Prostate Cancer",
       "pubmed_id": "40998270",
       "year": "2025",
       "publication_date": "2025 Sep",
       "authors": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C",
       "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Evolutionary antifragile therapy",
+      "pubmed_id": "41000654",
+      "pmc_id": "PMC12458151",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "West J, Desai B, Strobl M, Gallaher J, Robertson-Tessi M, Marusyk A, Anderson ARA",
+      "journal": "bioRxiv"
     },
     {
       "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
@@ -79,15 +88,6 @@
       "journal": "Commun Biol"
     },
     {
-      "title": "Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers",
-      "pubmed_id": "40313737",
-      "pmc_id": "PMC12045365",
-      "year": "2025",
-      "publication_date": "2025 Apr",
-      "authors": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A",
-      "journal": "Res Sq"
-    },
-    {
       "title": "Deriving Optimal Treatment Timing for Adaptive Therapy: Matching the Model to the Tumor Dynamics",
       "pubmed_id": "40236415",
       "pmc_id": "PMC11998818",
@@ -97,6 +97,15 @@
       "journal": "medRxiv"
     },
     {
+      "title": "Multifactorial stroma-mediated resistance is a major contributor to residual disease under targeted therapies in lung cancers",
+      "pubmed_id": "40313737",
+      "pmc_id": "PMC12045365",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Desai B, Miti T, Prabhakaran S, Miroshnychenko D, Henry M, Marusyk V, Kumar P, Ozakinci H, Gatenbee C, Bui M, Boyle TA, Scott J, Altrock PM, Haura E, Anderson ARA, Basanta D, Marusyk A",
+      "journal": "Res Sq"
+    },
+    {
       "title": "Spatial interactions modulate tumor growth and immune infiltration",
       "pubmed_id": "39349537",
       "pmc_id": "PMC11442770",
@@ -104,15 +113,6 @@
       "publication_date": "2024 Sep",
       "authors": "Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J",
       "journal": "NPJ Syst Biol Appl"
-    },
-    {
-      "title": "Modeling tumors as complex ecosystems",
-      "pubmed_id": "39280631",
-      "pmc_id": "PMC11402243",
-      "year": "2024",
-      "publication_date": "2024 Sep",
-      "authors": "Aguad\u00e9-Gorgori\u00f3 G, Anderson ARA, Sol\u00e9 R",
-      "journal": "iScience"
     },
     {
       "title": "A novel combination therapy for ER+ breast cancer suppresses drug resistance via an evolutionary double-bind",
@@ -237,11 +237,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages.moffitt.org/andersona/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=Do5WhvYAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AndersonAlexander_4617.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4617"
   },
-  "content_hash": "33e7b9a9713c3882ab1dec6be2808cba64df25598dd1313572a17b99c4a08ef8",
-  "researcher_name": "Alexander Anderson",
-  "department": "Integrated Mathematical Oncology"
+  "content_hash": "ecf4766dc87574d944104d0ea98db00a884d7a083292525275454e1811627dc3",
+  "researcher_name": "alexander anderson",
+  "department": "integrated mathematical oncology"
 }

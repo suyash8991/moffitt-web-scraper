@@ -1,0 +1,118 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/libin-ye/",
+  "last_updated": "2025-11-21T22:50:25.366678",
+  "researcher_id": "24068",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "molecular medicine",
+  "overview": "",
+  "research_interests": [
+    "Molecular Medicine Program"
+  ],
+  "associations": [
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Unraveling a Receptor-Mediated Bioluminescence Signaling Pathway in Red Tide Algae",
+      "pubmed_id": "40228789",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "McFarland A, Fenton M, Madsen JJ, Ye L",
+      "journal": "J Mol Biol"
+    },
+    {
+      "title": "Structure and function of a near fully-activated intermediate GPCR-G\u03b1\u03b2\u03b3 complex",
+      "pubmed_id": "39875358",
+      "pmc_id": "PMC11775185",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Bi M, Wang X, Wang J, Xu J, Sun W, Adediwura VA, Miao Y, Cheng Y, Ye L",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Structure and function of a ligand-free GPCR-G\u03b1\u03b2\u03b3 intermediate complex",
+      "pubmed_id": "38978591",
+      "pmc_id": "PMC11230506",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Bi M, Wang X, Wang J, Xu J, Sun W, Adediwura VA, Miao Y, Cheng Y, Ye L",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Structure and function of an intermediate GPCR-G\u03b1\u03b2\u03b3 complex",
+      "pubmed_id": "38617296",
+      "pmc_id": "PMC11014534",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Bi M, Wang X, Wang J, Xu J, Sun W, Adediwura VA, Miao Y, Cheng Y, Ye L",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "Intermediate-state-trapped mutants pinpoint G protein-coupled receptor conformational allostery",
+      "pubmed_id": "36899002",
+      "pmc_id": "PMC10006191",
+      "year": "2023",
+      "publication_date": "2023 Mar",
+      "authors": "Wang X, Neale C, Kim SK, Goddard WA, Ye L",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "A 19F-qNMR-Guided Mathematical Model for G Protein-Coupled Receptor Signaling",
+      "pubmed_id": "37907352",
+      "pmc_id": "PMC10739436",
+      "year": "2023",
+      "publication_date": "2023 Dec",
+      "authors": "Giraldo J, Madsen JJ, Wang X, Wang L, Zhang C, Ye L",
+      "journal": "Mol Pharmacol"
+    },
+    {
+      "title": "19F NMR: A promising tool for dynamic conformational studies of G protein-coupled receptors",
+      "pubmed_id": "36130592",
+      "year": "2022",
+      "publication_date": "2022 Oct",
+      "authors": "Ye L, Wang X, McFarland A, Madsen JJ",
+      "journal": "Structure"
+    },
+    {
+      "title": "Mechanistic basis of GPCR activation explored by ensemble refinement of crystallographic structures",
+      "pubmed_id": "36134696",
+      "pmc_id": "PMC9601807",
+      "year": "2022",
+      "publication_date": "2022 Nov",
+      "authors": "Madsen JJ, Ye L, Frimurer TM, Olsen OH",
+      "journal": "Protein Sci"
+    },
+    {
+      "title": "An in-membrane NMR spectroscopic approach probing native ligand-GPCR interaction",
+      "pubmed_id": "35318080",
+      "year": "2022",
+      "publication_date": "2022 May",
+      "authors": "Wang X, Bushra N, Muschol M, Madsen JJ, Ye L",
+      "journal": "Int J Biol Macromol"
+    },
+    {
+      "title": "Disinfection and Electrostatic Recovery of N95 Respirators by Corona Discharge for Safe Reuse",
+      "pubmed_id": "34570480",
+      "year": "2021",
+      "publication_date": "2021 Nov",
+      "authors": "K S Narayanan SS, Wang X, Paul J, Paley V, Weng Z, Ye L, Zhong Y",
+      "journal": "Environ Sci Technol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24068"
+  },
+  "content_hash": "396462885d7ee77cc957612bba06af1db04b4653f7e64f9f1133ba9335d5be51",
+  "researcher_name": "libin ye",
+  "department": ""
+}

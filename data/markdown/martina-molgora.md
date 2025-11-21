@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/martina-molgora)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/martina-molgora)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -496,9 +495,9 @@ Identity and function of TREM2 macrophages in tumors: During my postdoctoral res
     * Di Luccia B, Molgora M, Khantakova D, Jaeger N, Chang HW, Czepielewski RS, Helmink BA, Onufer EJ, Fachi JL, Bhattarai B, Trsan T, Rodrigues PF, Hou J, Bando JK, da Silva CS, Cella M, Gilfillan S, Schreiber RD, Gordon JI, Colonna M. TREM2 deficiency reprograms intestinal macrophages and microbiota to enhance anti-PD-1 tumor immunotherapy. Sci Immunol. 2024 May.9(95):eadi5374. Pubmedid: [38758808](https://www.ncbi.nlm.nih.gov/pubmed/38758808). Pmcid: PMC11299520. 
     * Peng V, Trsan T, Sudan R, Bhattarai B, Cortez VS, Molgora M, Vacher J, Colonna M. Inositol phosphatase INPP4B sustains ILC1s and intratumoral NK cells through an AKT-driven pathway. J Exp Med. 2024 Mar.221(3). Pubmedid: [38197946](https://www.ncbi.nlm.nih.gov/pubmed/38197946). Pmcid: PMC10783437. 
     * Timperi E, Croizer H, Khantakova D, Rana M, Molgora M, Guerriero JL, Mechta-Grigoriou F, Romano E. At the Interface of Tumor-Associated Macrophages and Fibroblasts: Immune-Suppressive Networks and Emerging Exploitable Targets. Clin Cancer Res. 2024 Dec.30(23):5242-5251. Pubmedid: [39311702](https://www.ncbi.nlm.nih.gov/pubmed/39311702). 
-    * Park MD, Reyes-Torres I, LeBerichel J, Hamon P, LaMarche NM, Hegde S, Belabed M, Troncoso L, Grout JA, Magen A, Humblin E, Nair A, Molgora M, Hou J, Newman JH, Farkas AM, Leader AM, Dawson T, D'Souza D, Hamel S, Sanchez-Paulete AR, Maier B, Bhardwaj N, Martin JC, Kamphorst AO, Kenigsberg E, Casanova-Acebes M, Horowitz A, Brown BD, De Andrade LF, Colonna M, Marron TU, Merad M. TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer. Nat Immunol. 2023 May.24(5):792-801. Pubmedid: [37081148](https://www.ncbi.nlm.nih.gov/pubmed/37081148). Pmcid: PMC11088947. 
     * Molgora M, Liu YA, Colonna M, Cella M. TREM2: A new player in the tumor microenvironment. Semin Immunol. 2023 May.67:101739. Pubmedid: [36989543](https://www.ncbi.nlm.nih.gov/pubmed/36989543). 
     * Brioschi S, Belk JA, Peng V, Molgora M, Rodrigues PF, Nguyen KM, Wang S, Du S, Wang WL, Grajales-Reyes GE, Ponce JM, Yuede CM, Li Q, Baer JM, DeNardo DG, Gilfillan S, Cella M, Satpathy AT, Colonna M. A Cre-deleter specific for embryo-derived brain macrophages reveals distinct features of microglia and border macrophages. Immunity. 2023 May.56(5):1027-1045.e8. Pubmedid: [36791722](https://www.ncbi.nlm.nih.gov/pubmed/36791722). Pmcid: PMC10175109. 
+    * Park MD, Reyes-Torres I, LeBerichel J, Hamon P, LaMarche NM, Hegde S, Belabed M, Troncoso L, Grout JA, Magen A, Humblin E, Nair A, Molgora M, Hou J, Newman JH, Farkas AM, Leader AM, Dawson T, D'Souza D, Hamel S, Sanchez-Paulete AR, Maier B, Bhardwaj N, Martin JC, Kamphorst AO, Kenigsberg E, Casanova-Acebes M, Horowitz A, Brown BD, De Andrade LF, Colonna M, Marron TU, Merad M. TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer. Nat Immunol. 2023 May.24(5):792-801. Pubmedid: [37081148](https://www.ncbi.nlm.nih.gov/pubmed/37081148). Pmcid: PMC11088947. 
     * Timperi E, Gueguen P, Molgora M, Magagna I, Kieffer Y, Lopez-Lastra S, Sirven P, Baudrin LG, Baulande S, Nicolas A, Champenois G, Meseure D, Vincent-Salomon A, Tardivon A, Laas E, Soumelis V, Colonna M, Mechta-Grigoriou F, Amigorena S, Romano E. Lipid-Associated Macrophages Are Induced by Cancer-Associated Fibroblasts and Mediate Immune Suppression in Breast Cancer. Cancer Res. 2022 Sep.82(18):3291-3306. Pubmedid: [35862581](https://www.ncbi.nlm.nih.gov/pubmed/35862581). 
     * Nour J, Moregola A, Molgora M, Mantovani A, Uboldi P, Catapano AL, Garlanda C, Bonacina F, Norata GD. Interleukin 1 Receptor 8 Deficiency Does not Impact Atherosclerosis. Thromb Haemostasis. 2022 Oct.122(10):1833-1836. Pubmedid: [35436796](https://www.ncbi.nlm.nih.gov/pubmed/35436796). 
     * Khantakova D, Brioschi S, Molgora M. Exploring the Impact of TREM2 in Tumor-Associated Macrophages. Vaccines (Basel). 2022 Jun.10(6). Pubmedid: [35746551](https://www.ncbi.nlm.nih.gov/pubmed/35746551). Pmcid: PMC9227554. 
@@ -603,7 +602,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -658,7 +657,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/martina-molgora#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/martina-molgora#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -676,7 +675,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1030,7 +1029,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/martina-molgora#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/martina-molgora#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

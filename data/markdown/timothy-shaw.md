@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/timothy-shaw)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/timothy-shaw)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -505,9 +504,9 @@ Immunotherapy is emerging as a therapeutic modality, but achieving a durable res
     * Tarhini AA, Obermayer A, Lee SJ, LaFramboise WA, Hodi FS, Karunamurthy AD, Eljilany I, Chen DT, Hwu P, El Naqa IM, Streicher H, Sondak VK, Storkus WJ, Butterfield LH, Shaw TI, Kirkwood JM. Integrative Immune Signature of Complementary Circulating and Tumoral Biomarkers Maximizes the Predictive Power of Adjuvant Immunotherapeutic Benefits in High-risk Melanoma. Clin Cancer Res. 2025 Aug.31(15):3249-3258. Pubmedid: [40392969](https://www.ncbi.nlm.nih.gov/pubmed/40392969). Pmcid: PMC12316551. 
     * Davis JT, Obermayer AN, Soupir AC, Hesterberg RS, Duong T, Yang CY, Dao KP, Manley BJ, Grass GD, Avram D, Rodriguez PC, Fridley BL, Yu X, Teng M, Wang X, Shaw TI. BatchFLEX: feature-level equalization of X-batch. Bioinformatics. 2024 Oct.40(10). Pubmedid: [39360977](https://www.ncbi.nlm.nih.gov/pubmed/39360977). Pmcid: PMC11486499. 
     * Wickman E, Lange S, Wagner J, Ibanez J, Tian L, Lu M, Sheppard H, Chiang J, Koo SC, Vogel P, Langfitt D, Perry SS, Shanmugam R, Bell M, Shaw TI, Krenciute G, Zhang J, Gottschalk S. IL-18R supported CAR T cells targeting oncofetal tenascin C for the immunotherapy of pediatric sarcoma and brain tumors. J Immunother Cancer. 2024 Nov.12(11). Pubmedid: [39572158](https://www.ncbi.nlm.nih.gov/pubmed/39572158). Pmcid: PMC11580246. 
+    * Shaw TI, Wagner J, Tian L, Wickman E, Poudel S, Wang J, Paul R, Koo SC, Lu M, Sheppard H, Fan Y, O'Neill FH, Lau CC, Zhou X, Zhang J, Gottschalk S. Discovery of immunotherapy targets for pediatric solid and brain tumors by exon-level expression. Nat Commun. 2024 May.15(1):3732. Pubmedid: [38702309](https://www.ncbi.nlm.nih.gov/pubmed/38702309). Pmcid: PMC11068777. 
     * Mandula JK, Sierra-Mondragon RA, Jimenez RV, Chang D, Mohamed E, Chang S, Vazquez-Martinez JA, Cao Y, Anadon CM, Lee SB, Das S, Rocha-Munguba L, Pham VM, Li R, Tarhini AA, Furqan M, Dalton W, Churchman M, Moran-Segura CM, Nguyen J, Perez B, Kojetin DJ, Obermayer A, Yu X, Chen A, Shaw TI, Conejo-Garcia JR, Rodriguez PC. Jagged2 targeting in lung cancer activates anti-tumor immunity via Notch-induced functional reprogramming of tumor-associated macrophages. Immunity. 2024 May.57(5):1124-1140.e9. Pubmedid: [38636522](https://www.ncbi.nlm.nih.gov/pubmed/38636522). Pmcid: PMC11096038. 
     * Peak T, Tian Y, Patel A, Shaw T, Obermayer A, Laborde J, Kim Y, Johnson J, Stewart P, Fang B, Teer JK, Koomen J, Berglund A, Marchion D, Francis N, Echevarria PR, Dhillon J, Clark N, Chang A, Sexton W, Zemp L, Chahoud J, Wang L, Manley B. Pathogenic Roles for RNASET2 in Clear Cell Renal Cell Carcinoma. Lab Invest. 2024 May.104(5):102041. Pubmedid: [38431116](https://www.ncbi.nlm.nih.gov/pubmed/38431116). 
-    * Shaw TI, Wagner J, Tian L, Wickman E, Poudel S, Wang J, Paul R, Koo SC, Lu M, Sheppard H, Fan Y, O'Neill FH, Lau CC, Zhou X, Zhang J, Gottschalk S. Discovery of immunotherapy targets for pediatric solid and brain tumors by exon-level expression. Nat Commun. 2024 May.15(1):3732. Pubmedid: [38702309](https://www.ncbi.nlm.nih.gov/pubmed/38702309). Pmcid: PMC11068777. 
     * Leventaki V, Shaw T, Pounds S, Cao X, Ma J, Palacios G, Mason J, Perkins S, Wu G, Fan Y, Wang J, Zhou X, Obermayer A, Kinney M, Kraveka J, Gross T, Sandlund J, Zhang J, Mullighan C, Lim M. Comprehensive genomic analysis reveals molecular heterogeneity in pediatric ALK-positive anaplastic large cell lymphoma. Res Sq. 2024 Mar. Pubmedid: [38585847](https://www.ncbi.nlm.nih.gov/pubmed/38585847). Pmcid: PMC10996813. 
     * Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L, Duckett DR, Teng M. An Epigenomic fingerprint of human cancers by landscape interrogation of super enhancers at the constituent level. PLoS Comput Biol. 2024 Feb.20(2):e1011873. Pubmedid: [38335222](https://www.ncbi.nlm.nih.gov/pubmed/38335222). Pmcid: PMC10883583. 
     * Hänggi K, Li J, Gangadharan A, Liu X, Celias DP, Osunmakinde O, Keske A, Davis J, Ahmad F, Giron A, Anadon CM, Gardner A, DeNardo DG, Shaw TI, Beg AA, Yu X, Ruffell B. Interleukin-1α release during necrotic-like cell death generates myeloid-driven immunosuppression that restricts anti-tumor immunity. Cancer Cell. 2024 Dec.42(12):2015-2031.e11. Pubmedid: [39577420](https://www.ncbi.nlm.nih.gov/pubmed/39577420). Pmcid: PMC11631672. 
@@ -662,7 +661,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -717,7 +716,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/timothy-shaw#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/timothy-shaw#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -735,7 +734,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1089,7 +1088,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/timothy-shaw#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/timothy-shaw#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

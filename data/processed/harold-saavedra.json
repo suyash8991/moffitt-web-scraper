@@ -1,0 +1,135 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/harold-saavedra/",
+  "last_updated": "2025-11-21T22:50:23.972839",
+  "researcher_id": "17120",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer biology & evolution",
+  "overview": "",
+  "research_interests": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "associations": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "The University of Tennessee Oak Ridge Graduate School of Biomedical Science, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Cincinnati",
+      "specialty": "Cell Biology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The Ohio State University",
+      "specialty": "Human and Mouse Genetics"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida",
+      "pubmed_id": "40309949",
+      "pmc_id": "PMC12082392",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "TBK1 Reprograms Metabolism in Breast Cancer: An Integrated Omics Approach",
+      "pubmed_id": "39670797",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Maan M, Jaiswal N, Liu M, Saavedra HI, Chellappan SP, Dutta M",
+      "journal": "J Proteome Res"
+    },
+    {
+      "title": "Worse Clinical and Survival Outcomes in Breast Cancer Patients Living in Puerto Rico Compared to Hispanics, Non-Hispanic Blacks, and Non-Hispanic Whites from Florida",
+      "pubmed_id": "39543072",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Lantz AE, Gebert R, Li J, Oliveras JA, Gordi\u00e1n ER, Perez-Morales J, Eschrich S, Chen DT, Rosa M, Dutil J, Saavedra HI, Mu\u00f1oz-Antonia T, Flores I, Cress WD",
+      "journal": "J Racial Ethn Health Disparities"
+    },
+    {
+      "title": "Sustained Shugoshin 1 downregulation reduces tumor growth and metastasis in a mouse xenograft tumor model of triple-negative breast cancer",
+      "pubmed_id": "37122033",
+      "pmc_id": "PMC10150544",
+      "year": "2023",
+      "publication_date": "2023 Apr",
+      "authors": "Jusino S, Rivera-Rivera Y, Chard\u00f3n-Col\u00f3n C, Rodr\u00edguez-Rodr\u00edguez PC, Rom\u00e1n-Gonz\u00e1lez J, Juli\u00e1-Hern\u00e1ndez VS, Isidro A, Mo Q, Saavedra HI",
+      "journal": "Cell Div"
+    },
+    {
+      "title": "Ethnic and racial-specific differences in levels of centrosome-associated mitotic kinases, proliferative and epithelial-to-mesenchymal markers in breast cancers",
+      "pubmed_id": "36494865",
+      "pmc_id": "PMC9733043",
+      "year": "2022",
+      "publication_date": "2022 Dec",
+      "authors": "Rivera-Rivera Y, Vargas G, Jaiswal N, N\u00fa\u00f1ez-Marrero A, Li J, Chen DT, Eschrich S, Rosa M, Johnson JO, Dutil J, Chellappan SP, Saavedra HI",
+      "journal": "Cell Div"
+    },
+    {
+      "title": "E2F3 drives the epithelial-to-mesenchymal transition, cell invasion, and metastasis in breast cancer",
+      "pubmed_id": "34365840",
+      "pmc_id": "PMC8524769",
+      "year": "2021",
+      "publication_date": "2021 Oct",
+      "authors": "Jusino S, Rivera-Rivera Y, Chard\u00f3n-Col\u00f3n C, Ruiz-Justiz AJ, V\u00e9lez-Vel\u00e1zquez J, Isidro A, Cruz-Robles ME, Bonilla-Claudio M, Armaiz-Pena GN, Saavedra HI",
+      "journal": "Exp Biol Med (Maywood)"
+    },
+    {
+      "title": "Mitotic kinases as drivers of the epithelial-to-mesenchymal transition and as therapeutic targets against breast cancers",
+      "pubmed_id": "33601912",
+      "pmc_id": "PMC8113731",
+      "year": "2021",
+      "publication_date": "2021 May",
+      "authors": "Col\u00f3n-Marrero S, Jusino S, Rivera-Rivera Y, Saavedra HI",
+      "journal": "Exp Biol Med (Maywood)"
+    },
+    {
+      "title": "Tank Binding Kinase 1 modulates spindle assembly checkpoint components to regulate mitosis in breast and lung cancer cells",
+      "pubmed_id": "33310066",
+      "pmc_id": "PMC8054712",
+      "year": "2021",
+      "publication_date": "2021 Mar",
+      "authors": "Maan M, Agrawal NJ, Padmanabhan J, Leitzinger CC, Rivera-Rivera Y, Saavedra HI, Chellappan SP",
+      "journal": "Biochim Biophys Acta Mol Cell Res"
+    },
+    {
+      "title": "The Nek2 centrosome-mitotic kinase contributes to the mesenchymal state, cell invasion, and migration of triple-negative breast cancer cells",
+      "pubmed_id": "33907253",
+      "pmc_id": "PMC8079711",
+      "year": "2021",
+      "publication_date": "2021 Apr",
+      "authors": "Rivera-Rivera Y, Marina M, Jusino S, Lee M, Vel\u00e1zquez JV, Chard\u00f3n-Col\u00f3n C, Vargas G, Padmanabhan J, Chellappan SP, Saavedra HI",
+      "journal": "Sci Rep"
+    },
+    {
+      "title": "Correction for Adon et al",
+      "pubmed_id": "33159003",
+      "pmc_id": "PMC7652402",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Adon AM, Zeng X, Harrison MK, Sannem S, Kiyokawa H, Kaldis P, Saavedra HI",
+      "journal": ", \"Cdk"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17120"
+  },
+  "content_hash": "6fdf333032803643f9f991e2ff03831ae1954698c0f01625e7ed8f1a47f09a1b",
+  "researcher_name": "harold saavedra",
+  "department": ""
+}

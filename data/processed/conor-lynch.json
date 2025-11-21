@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/conor-lynch",
-  "last_updated": "2025-10-21T16:35:01.779250",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/conor-lynch/",
+  "last_updated": "2025-11-21T22:50:23.256389",
   "researcher_id": "8172",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Tumor Microenvironment and Metastasis",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "tumor microenvironment and metastasis",
+  "research_program": "cancer biology & evolution",
   "overview": "The Lynch Lab is primarily interested in studying mechanisms of skeletal metastasis and malignancy with a concentration on bone metastatic prostate cancer and multiple myeloma. We use an array of approaches that range from spatial transcriptomic profiling to mathematical models to understand how cancer cells adapt and grow in the bone microenvironment. Ongoing projects include research into cancer cell dormancy in bone, autophagy regulation (ULK3), immune cell infiltration/changes, the impact of the aging bone microenvironment on disease progression, bone MSC and endothelial education of cancer and the application of gamma delta CAR-T for treating skeletal malignancies.",
   "research_interests": [
     "The goal of our laboratory is to understand how metastatic prostate cancer cells interact with the bone microenvironment to establish and grow as secondary cancers using in vivo and in vitro techniques. The lab has made major inroads into defining how matrix metalloproteinases (MMPs) contribute the prostate cancer progression in bone.\n  *"
@@ -244,11 +244,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LynchConor_8172.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=8172"
   },
-  "content_hash": "012969ddb866f22b20d1e44fa02f1e2aa40a863e744981c93faf71f431f8c9d7",
-  "researcher_name": "Conor Lynch",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "b449434571a9a25070033e288e79fc9f926c07cecfa8b546b805b3e36da9783d",
+  "researcher_name": "conor lynch",
+  "department": "tumor microenvironment and metastasis"
 }

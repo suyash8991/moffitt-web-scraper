@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/michael-shafique/",
+  "last_updated": "2025-11-21T22:50:25.834271",
+  "researcher_id": "15050",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "mmg ambulatory hemonc",
+  "research_program": "immuno-oncology",
+  "overview": "Dr. Shafique devotes the majority of clinical time treating lung cancer.",
+  "research_interests": [
+    "Dr. Shafique will primarily serves as PI on industry sponsored and cooperative group clinical trials in lung cancer. He collaborates with translational researchers at Moffitt and other outside cancer centers. As medical director at MIP, he is overseeing the expansion of interventional clinical trials at the Moffitt Ambulatory Clinic sites.\n  *"
+  ],
+  "associations": [
+    "MMG Ambulatory HemOnc",
+    "Lung Cancer Center of Excellence",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Virginia School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Duke University Medical Center",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida",
+      "specialty": "Hematology and Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Atezolizumab and Stereotactic Body Radiation in Metastatic, Recurrent, or Persistent Cervical Cancer: Results From a Phase 2 Multi-Institutional Study",
+      "pubmed_id": "40379142",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Ahmed KA, Quick AM, Chon HS, Chern JY, Bixel K, Kim Y, Li J, Montejo ME, Dowell RA, Kim S, Fernandez DC, Lam CA, Hakam A, Rosa M, Shafique M, Shahzad MM, Wenham RM",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Phase I study of peposertib and avelumab with or without palliative radiotherapy in patients with advanced solid tumors",
+      "pubmed_id": "38320431",
+      "pmc_id": "PMC10937199",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Perez B, Aljumaily R, Marron TU, Shafique MR, Burris H, Iams WT, Chmura SJ, Luke JJ, Edenfield W, Sohal D, Liao X, Boesler C, Machl A, Seebeck J, Becker A, Guenther B, Rodriguez-Gutierrez A, Antonia SJ",
+      "journal": "ESMO Open"
+    },
+    {
+      "title": "A phase I/IB trial of binimetinib in combination with erlotinib in NSCLC harboring activating KRAS or EGFR mutations",
+      "pubmed_id": "37499521",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Saltos AN, Creelan BC, Tanvetyanon T, Chiappori AA, Antonia SJ, Shafique MR, Ugrenovic-Petrovic M, Sansil S, Neuger A, Ozakinci H, Boyle TA, Kim J, Haura EB, Gray JE",
+      "journal": "Lung Cancer"
+    },
+    {
+      "title": "Enhanced Efficacy of Chemotherapy by Addition of Immune Checkpoint Inhibitors in Stage IV Large Cell Neuroendocrine Carcinoma of the Lung: A Real-World Analysis",
+      "pubmed_id": "37928431",
+      "pmc_id": "PMC10622985",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Meng L, Cao B, Ji R, Chen DT, Laber DA, Shafique M",
+      "journal": "J Cancer"
+    },
+    {
+      "title": "Osimertinib vs",
+      "pubmed_id": "38090314",
+      "pmc_id": "PMC10713299",
+      "year": "2023",
+      "publication_date": "2023 Nov",
+      "authors": "Gilardone S, Thapa R, Laborde J, Shafique M, Saltos A, Creelan B, Tanvetyanon T, Chiappori A, Simon G, Haura EB, Gray JE, Chen DT, Melzer D, Pellini B",
+      "journal": "afatinib as first-line treatment for patients with metastatic non-small cell lung cancer with an EGFR exon"
+    },
+    {
+      "title": "Safety Monitoring Activity During EGFR or Anaplastic Lymphoma Kinase Inhibitor Therapy for Patients With Lung Cancer",
+      "pubmed_id": "37075260",
+      "year": "2023",
+      "publication_date": "2023 Jun",
+      "authors": "Singh AM, Rubiera-Pebe R, Ahmad Y, Shafique M, Hicks JK, Tanvetyanon T",
+      "journal": "JCO Oncol Pract"
+    },
+    {
+      "title": "Dose-Limiting Pulmonary Toxicity in a Phase 1/2 Study of Radiation and Chemotherapy with Ipilimumab Followed by Nivolumab for Patients With Stage 3 Unresectable Non-Small Cell Lung Cancer",
+      "pubmed_id": "36657497",
+      "year": "2023",
+      "publication_date": "2023 Jul",
+      "authors": "Liveringhouse CL, Latifi K, Asous AG, Lam NB, Rosenberg SA, Dilling TJ, MacMillan GV, Chiappori AA, Haura EB, Creelan B, Gray JE, Tanvetyanon T, Shafique MR, Saltos AN, Weiner AA, Clarke J, Kelsey CR, Kim S, Caudell JJ, Rose TA, Conejo-Garcia JR, Li J, Schell MJ, Antonia SJ, Perez BA",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Rapid Improvement Following Receipt of Infliximab in Steroid-refractory Durvalumab-Associated Grade 3 Pneumonitis",
+      "pubmed_id": "35350507",
+      "pmc_id": "PMC8933124",
+      "year": "2022",
+      "publication_date": "2022 Feb",
+      "authors": "Huang S, Jordan A, Jenneman D, Shafique M, Holmstrom B",
+      "journal": "Cureus"
+    },
+    {
+      "title": "A Phase Ib/II Study of Pepinemab in Combination with Avelumab in Advanced Non-Small Cell Lung Cancer",
+      "pubmed_id": "33820783",
+      "year": "2021",
+      "publication_date": "2021 Jul",
+      "authors": "Shafique M, Fisher TL, Evans EE, Leonard JE, Pastore DRE, Mallow CL, Smith ES, Mishra V, Schr\u00f6der A, Chin K, Beck JT, Baumgart MA, Govindan R, Gabrail NY, Spira AI, Seetharamu N, Lou Y, Mansfield AS, Sanborn RE, Goldman JW, Zauderer M",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Prospective Single-Arm Phase 1 and 2 Study: Ipilimumab and Nivolumab With Thoracic Radiation Therapy After Platinum Chemotherapy in Extensive-Stage Small Cell Lung Cancer",
+      "pubmed_id": "33002543",
+      "pmc_id": "PMC8465780",
+      "year": "2021",
+      "publication_date": "2021 Feb",
+      "authors": "Perez BA, Kim S, Wang M, Karimi AM, Powell C, Li J, Dilling TJ, Chiappori A, Latifi K, Rose T, Lannon A, MacMillan G, Saller J, Grass GD, Rosenberg S, Gray J, Haura E, Creelan B, Tanvetyanon T, Saltos A, Shafique M, Boyle TA, Schell MJ, Conejo-Garcia JR, Antonia SJ",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ShafiqueMichael_15050.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15050"
+  },
+  "content_hash": "72eb17bc8d94177554a981955bf3094d247a7aa0e39e97f5977065efeb56e1cd",
+  "researcher_name": "michael shafique",
+  "department": ""
+}

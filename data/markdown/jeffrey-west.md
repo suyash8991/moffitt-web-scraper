@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/jeffrey-west)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/jeffrey-west)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -498,7 +497,8 @@ Studying the dynamics of cell-cell interactions that influence tumor evolution, 
 The goal of Dr. West’s research group is to aid in targeting treatment resistance by constructing mathematical models of 1) tumor evolution and heterogeneity and 2) evolutionary-minded treatment strategies, employing techniques such as agent-based modeling, dose response convexity analysis (second-order effects), and evolutionary game theory. These methods are broadly applicable to many cancer types, but recent publications have focused on applications to breast cancer and hematologic malignancies.
   * ## Publications
     * Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N. Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes. medRxiv. 2025 Sep. Pubmedid: [40950448](https://www.ncbi.nlm.nih.gov/pubmed/40950448). Pmcid: PMC12424905. 
-    * Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys. 2025 Sep. Pubmedid: [40998270](https://www.ncbi.nlm.nih.gov/pubmed/40998270). 
+    * Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary Double-Bind Treatment Using Radiation Therapy and Natural Killer Cell-Based Immunotherapy in Prostate Cancer. Int J Radiat Oncol Biol Phys. 2025 Sep. Pubmedid: [40998270](https://www.ncbi.nlm.nih.gov/pubmed/40998270). 
+    * West J, Desai B, Strobl M, Gallaher J, Robertson-Tessi M, Marusyk A, Anderson ARA. Evolutionary antifragile therapy. bioRxiv. 2025 Sep. Pubmedid: [41000654](https://www.ncbi.nlm.nih.gov/pubmed/41000654). Pmcid: PMC12458151. 
     * Scibilia KR, Gallagher K, Masud MA, Robertson-Tessi M, Gatenbee CD, West J, Llamas P, Prabhakaran S, Gallaher J, Anderson ARA. Mathematical Oncology: How Modeling Is Transforming Clinical Decision Making. Cancer Res. 2025 Oct. Pubmedid: [41105675](https://www.ncbi.nlm.nih.gov/pubmed/41105675). 
     * Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel). 2025 Mar.17(6). Pubmedid: [40149388](https://www.ncbi.nlm.nih.gov/pubmed/40149388). Pmcid: PMC11941415. 
     * Marzban S, Srivastava S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson ARA, Chung CH, Amelio AL, West J. Spatial interactions modulate tumor growth and immune infiltration. NPJ Syst Biol Appl. 2024 Sep.10(1):106. Pubmedid: [39349537](https://www.ncbi.nlm.nih.gov/pubmed/39349537). Pmcid: PMC11442770. 
@@ -521,8 +521,8 @@ The goal of Dr. West’s research group is to aid in targeting treatment resista
     * Prabhakaran S, Gatenbee C, Robertson-Tessi M, West J, Beg AA, Gray J, Antonia S, Gatenby RA, Anderson ARA. Mistic: An open-source multiplexed image t-SNE viewer. Patterns (N Y). 2022 Jul.3(7):100523. Pubmedid: [35845830](https://www.ncbi.nlm.nih.gov/pubmed/35845830). Pmcid: PMC9278502. 
     * Schenck RO, Kim E, Bravo RR, West J, Leedham S, Shibata D, Anderson ARA. Homeostasis limits keratinocyte evolution. Proc Natl Acad Sci U S A. 2022 Aug.119(35). Pubmedid: [35998218](https://www.ncbi.nlm.nih.gov/pubmed/35998218). Pmcid: PMC9436311. 
     * Schenck RO, Brosula G, West J, Leedham S, Shibata D, Anderson AR. Gattaca: Base-Pair Resolution Mutation Tracking for Somatic Evolution Studies using Agent-based Models. Mol Biol Evol. 2022 Apr.39(4). Pubmedid: [35298641](https://www.ncbi.nlm.nih.gov/pubmed/35298641). Pmcid: PMC9034688. 
-    * Strobl MAR, Gallaher J, West J, Robertson-Tessi M, Maini PK, Anderson ARA. Spatial structure impacts adaptive therapy by shaping intra-tumoral competition. Commun Med (Lond). 2022 Apr.2:46. Pubmedid: [35603284](https://www.ncbi.nlm.nih.gov/pubmed/35603284). Pmcid: PMC9053239. 
     * Gatenbee CD, Baker AM, Schenck RO, Strobl M, West J, Neves MP, Hasan SY, Lakatos E, Martinez P, Cross WCH, Jansen M, Rodriguez-Justo M, Whelan CJ, Sottoriva A, Leedham S, Robertson-Tessi M, Graham TA, Anderson ARA. Immunosuppressive niche engineering at the onset of human colorectal cancer. Nat Commun. 2022 Apr.13(1):1798. Pubmedid: [35379804](https://www.ncbi.nlm.nih.gov/pubmed/35379804). Pmcid: PMC8979971. 
+    * Strobl MAR, Gallaher J, West J, Robertson-Tessi M, Maini PK, Anderson ARA. Spatial structure impacts adaptive therapy by shaping intra-tumoral competition. Commun Med (Lond). 2022 Apr.2:46. Pubmedid: [35603284](https://www.ncbi.nlm.nih.gov/pubmed/35603284). Pmcid: PMC9053239. 
     * Damaghi M, West J, Robertson-Tessi M, Xu L, Ferrall-Fairbanks MC, Stewart PA, Persi E, Fridley BL, Altrock PM, Gatenby RA, Sims PA, Anderson ARA, Gillies RJ. The harsh microenvironment in early breast cancer selects for a Warburg phenotype. Proc Natl Acad Sci U S A. 2021 Jan.118(3). Pubmedid: [33452133](https://www.ncbi.nlm.nih.gov/pubmed/33452133). Pmcid: PMC7826394. 
     * Strobl MAR, West J, Viossat Y, Damaghi M, Robertson-Tessi M, Brown JS, Gatenby RA, Maini PK, Anderson ARA. Turnover Modulates the Need for a Cost of Resistance in Adaptive Therapy. Cancer Res. 2021 Feb.81(4):1135-1147. Pubmedid: [33172930](https://www.ncbi.nlm.nih.gov/pubmed/33172930). Pmcid: PMC8455086. 
     * West J, Schenck RO, Gatenbee C, Robertson-Tessi M, Anderson ARA. Normal tissue architecture determines the evolutionary course of cancer. Nat Commun. 2021 Apr.12(1):2060. Pubmedid: [33824323](https://www.ncbi.nlm.nih.gov/pubmed/33824323). Pmcid: PMC8024392. 
@@ -628,7 +628,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -683,7 +683,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/jeffrey-west#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/jeffrey-west#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -701,7 +701,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1055,7 +1055,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/jeffrey-west#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/jeffrey-west#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

@@ -1,0 +1,133 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/george-blanck/",
+  "last_updated": "2025-11-21T22:50:23.846460",
+  "researcher_id": "217",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "immuno-oncology",
+  "overview": "",
+  "research_interests": [
+    "Immuno-Oncology Program"
+  ],
+  "associations": [
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Columbia University, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Universite de Paris VI",
+      "specialty": "INSERM"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Harvard University, Cambridge, Massachusetts",
+      "specialty": "Multiple Sclerosis"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Columbia University, New York, NY",
+      "specialty": "Biological Sciences"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Programmatically Efficient Separation of Immune Infiltrate and Tumor Gene Expression Overlap Potentials in a Big Data Setting: FASLG Gene Expression-related Survival Distinctions",
+      "pubmed_id": "40883027",
+      "pmc_id": "PMC12402715",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Fletcher EA, Dabkowski TR, Varkhedi M, Blanck G",
+      "journal": "Cancer Genomics Proteomics"
+    },
+    {
+      "title": "Chemical Complementarity of Blood-Sourced, Breast Cancer-Related TCR CDR3s and the CMV UL29 and IE1 Antigens is Associated with Worse Overall Survival",
+      "pubmed_id": "39356353",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Neerumalla P, Jain R, Aboujaoude MT, Hudock TR, Song JJ, Cao BH, Chobrutskiy A, Chobrutskiy BI, Blanck G",
+      "journal": "Biochem Genet"
+    },
+    {
+      "title": "Association of the HLA-DQB1*02 allele with lower tauopathy in Alzheimer's disease",
+      "pubmed_id": "40068480",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Huda TI, Fawcett TJ, Green AJ, Blanck G",
+      "journal": "Arch Gerontol Geriatr"
+    },
+    {
+      "title": "TCR CDR3 chemical complementarity to HPV epitopes is associated with a better outcome for cervical cancer",
+      "pubmed_id": "40216662",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Agnila DRL, Jain R, Diaz MJ, Hudlock TR, Eakins RA, Chobrutskiy A, Chobrutskiy BI, Blanck G",
+      "journal": "Mamm Genome"
+    },
+    {
+      "title": "Detection of Anti-CMV TCR CDR3s via Blood and Tumor Exome Files Correlates With Increased Survival for Stomach Adenocarcinoma and Soft Tissue Sarcoma",
+      "pubmed_id": "40653843",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Kapoor U, Aboujaoude MT, Cios KJ, Chobrutskiy A, Chobrutskiy BI, Blanck G",
+      "journal": "APMIS"
+    },
+    {
+      "title": "Better Outcomes for Ovarian Cancer Associated With the Detection of Anti-EBV TCR CDR3s: Potential Relevance to Diffuse Large B-Cell Lymphoma",
+      "pubmed_id": "39821522",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Goel N, Baker MC, Aboujaoude MT, Diaz MJ, Jain R, Huda TI, Chobrutskiy A, Chobrutskiy BI, Song JJ, Vangala VNP, Blanck G",
+      "journal": "Am J Reprod Immunol"
+    },
+    {
+      "title": "Detection of anti-EBV TCR CDR3s associated with better outcomes for EBV-positive, Ugandan cases of Burkitt lymphoma",
+      "pubmed_id": "39377612",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Jain R, Huda TI, Paul S, Chobrutskiy A, Chobrutskiy BI, Baker MC, Goel N, Blanck G",
+      "journal": "Int J Cancer"
+    },
+    {
+      "title": "Stratification of Wilms tumor patients using physicochemical properties of the adaptive immune receptor polypeptides, IGL and TRG",
+      "pubmed_id": "39443216",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Adams DP, Gozlan EC, Medikonda N, Song JJ, Sahoo A, Yeagley M, Blanck G",
+      "journal": "J Pediatr Urol"
+    },
+    {
+      "title": "A computational approach to matching multiple sclerosis-related, IGH CDR3s with a MBP epitope",
+      "pubmed_id": "39644578",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Cole JM, Treanor JT, Lyman CM, Nguyen D, Chobrutskiy A, Chobrutskiy BI, Blanck G",
+      "journal": "Comput Biol Med"
+    },
+    {
+      "title": "A high range of intrinsic disorder values for tumor resident, T-cell receptor beta V-complementarity determining region 3-J amino acid sequence assemblies correlates with better melanoma outcomes",
+      "pubmed_id": "40880302",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Zhu JJ, Sahoo A, Song JJ, Vangala VNP, Kapoor U, Blanck G",
+      "journal": "Melanoma Res"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=217"
+  },
+  "content_hash": "8065777c5bb93656c001a2b01ece2b376d926aca9ed4f2581dcff5a8eb252351",
+  "researcher_name": "george blanck",
+  "department": ""
+}

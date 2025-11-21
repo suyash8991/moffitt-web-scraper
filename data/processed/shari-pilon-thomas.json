@@ -1,0 +1,328 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/shari-pilon-thomas/",
+  "last_updated": "2025-11-21T22:50:26.899566",
+  "researcher_id": "2946",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "immunology",
+  "research_program": "immuno-oncology",
+  "overview": "Dr. Pilon-Thomas\u2019 primary research focus is on the enhancement of anti-tumor immune responses through the use of vaccines or adoptive cell therapy (ACT) with tumor infiltrating lymphocytes (TIL) for the treatment of solid tumors.",
+  "research_interests": [
+    "Dr. Pilon-Thomas\u2019 primary research focus is on the enhancement of anti-tumor immune responses through the use of vaccines or adoptive cell therapy (ACT) with tumor infiltrating lymphocytes (TIL) for the treatment of solid tumors. ACT with TIL is a promising form of T cell-based immunotherapy. The premise behind this approach is that upon isolation and expansion of tumor-reactive T cells, those T cells can be transferred back to the patient as an immunotherapy. Moffitt Cancer Center is one of the few cancer centers to offer TIL-based T cell therapy for the treatment of solid tumors. Treatment with TIL therapy has resulted in a 40% response rate in metastatic melanoma patients. The goal of the lab is to improve TIL-based therapies and translate findings into TIL-based clinical trials for the treatment of solid tumors, including melanoma, sarcoma, bladder and HPV+ tumors. \n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Immunology",
+    "Genitourinary Oncology",
+    "Immuno-Oncology Program",
+    "Center for Immunization & Infection Research in Cancer",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Wayne State University, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Michigan, Ann Arbor",
+      "specialty": "Surgery, Tumor Immunology, Immunotherapy"
+    }
+  ],
+  "publications": [
+    {
+      "title": "The opportunities and barriers for developing tumour-infiltrating lymphocyte therapy for patients with advanced genitourinary cancers",
+      "pubmed_id": "41006825",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Potez M, Roman Souza G, Spiess PE, Pilon-Thomas S, Chahoud J",
+      "journal": "Nat Rev Urol"
+    },
+    {
+      "title": "Feasibility and Functional Reactivity of Expanded Tumor-infiltrating Lymphocytes from Non-clear-cell Renal Cell Carcinoma",
+      "pubmed_id": "40962596",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Potez M, Jazayeri SB, Guske C, Miller J, Ali J, Carter M, Khambati F, Dhillon J, Sexton W, Zemp L, Manley B, Souza GR, Spiess PE, Beatty M, Pilon-Thomas S, Chahoud J",
+      "journal": "Eur Urol"
+    },
+    {
+      "title": "PV-10 Triggers Immunogenic Cell Death in Head and Neck Squamous Cell Carcinoma via Endoplasmic Reticulum Stress and Apoptosis",
+      "pubmed_id": "40552938",
+      "pmc_id": "PMC12327362",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
+      "journal": "Mol Cancer Ther"
+    },
+    {
+      "title": "Targeted degradation of the HPV oncoprotein E6 reduces tumor burden in cervical cancer",
+      "pubmed_id": "40873032",
+      "pmc_id": "PMC12582245",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Smalley TB, Nicolaci AA, Tran KC, Lokhandwala J, Obertopp N, Matlack JK, Miner RE, Teng MN, Pilon-Thomas S, Binning JM",
+      "journal": "Mol Ther"
+    },
+    {
+      "title": "Optimizing the Efficacy of Vaccine-Induced Immunotherapy in Melanomas",
+      "pubmed_id": "40434675",
+      "pmc_id": "PMC12279038",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Chamseddine I, Kambara M, Bhatt P, Pilon-Thomas S, Rejniak KA",
+      "journal": "Bull Math Biol"
+    },
+    {
+      "title": "Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy",
+      "pubmed_id": "40341231",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC",
+      "journal": "Nat Cancer"
+    },
+    {
+      "title": "Antitumor CD4+ T Helper 1 Cells Target and Control the Outgrowth of Disseminated Cancer Cells",
+      "pubmed_id": "40249209",
+      "pmc_id": "PMC12046335",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Ramamoorthi G, Lee MC, Farrell CM, Snyder C, Garg SK, Aldrich AL, Lok V, Dominguez-Viqueira W, Olson-Mcpeek SK, Rosa M, Gautam N, Pilon-Thomas S, Cen L, Kodumudi KN, Wiener D, Oskarsson T, Gomes AP, Gatenby RA, Czerniecki BJ",
+      "journal": "Cancer Immunol Res"
+    },
+    {
+      "title": "Local Single-Dose Radiation Improves Adoptive Cell Therapy With Tumor-Infiltrating Lymphocytes",
+      "pubmed_id": "40582598",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Obertopp N, Bekker RA, Grass GD, Zelenka T, Thomas A, Potez M, Ali J, Blauvelt J, Hall AM, Hall MS, Chung CH, Enderling H, Pilon-Thomas S",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Editorial: Artificial intelligence for cancer immunotherapy",
+      "pubmed_id": "40568575",
+      "pmc_id": "PMC12187814",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "El Naqa I, Pilon-Thomas S, Deutsch E",
+      "journal": "Front Immunol"
+    },
+    {
+      "title": "Expansion of tumor-infiltrating and marrow-infiltrating lymphocytes from pediatric malignant solid tumors",
+      "pubmed_id": "39243253",
+      "pmc_id": "PMC11668621",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Metts J, Rodriguez-Valentin M, Hensel J, Alfaro A, Snyder CW, Binitie O, Chebli C, Monforte H, Pilon-Thomas S, Mullinax J",
+      "journal": "Cytotherapy"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Preclinical Studies to Guide Development of Clinical Trials of MEM-288 Oncolytic Virus to Target Localized Bladder Cancer and TNBC  \nAward Number: 19VA063-S3  \nSponsor: MEMGEN, INC.  \nBeg, A. (PD/PI), Pilon-Thomas, S. (Co-PD/PI), Ruffell, B. (Co-PD/PI), Soliman, H. (Co-PD/PI)",
+      "title": "Preclinical Studies to Guide Development of Clinical Trials of MEM-288 Oncolytic Virus to Target Localized Bladder Cancer and TNBC",
+      "award_number": "19VA063-S3",
+      "sponsor": "MEMGEN, INC.",
+      "investigators": [
+        {
+          "name": "Beg, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Thomas, S.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Ruffell, B.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Soliman, H.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Transdermal Alkalinization Treatment as an Adjunct in Melanoma Therapy  \nAward Number: 21VA019-AR2, Fourth Amendment  \nSponsor: DYVE BIOSCIENCES, INC.  \nPilon-Thomas, S. (PD/PI)",
+      "title": "Transdermal Alkalinization Treatment as an Adjunct in Melanoma Therapy",
+      "award_number": "21VA019-AR2, Fourth Amendment",
+      "sponsor": "DYVE BIOSCIENCES, INC.  \nPilon-",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Research Plan 9: Optimize the Turnstone process.  \nAward Number: 19VA007-AR2-S15  \nSponsor: TURNSTONE BIOLOGICS CORP  \nPilon-Thomas, S. (PD/PI)",
+      "title": "Research Plan 9: Optimize the Turnstone process.",
+      "award_number": "19VA007-AR2-S15",
+      "sponsor": "TURNSTONE BIOLOGICS CORP  \nPilon-",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Research Plan 8: Expansion, Enrichment, and Confirmation of Neoantigen Reactive TILS from GI/CRC tumors, selection of TILS reactive to patient-tumor neoantigens, and characterization of their reactivity and tumor cell killing capabilities  \nAward Number: 19VA007-AR2-S12  \nSponsor: TURNSTONE BIOLOGICS CORP  \nPilon-Thomas, S. (PD/PI)",
+      "title": "Research Plan 8: Expansion, Enrichment, and Confirmation of Neoantigen Reactive TILS from GI/CRC tumors, selection of TILS reactive to patient-tumor neoantigens, and characterization of their reactivity and tumor cell killing capabilities",
+      "award_number": "19VA007-AR2-S12",
+      "sponsor": "TURNSTONE BIOLOGICS CORP  \nPilon-",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Research Plan 10: Continued Analysis of Biological Specimens for the Turnstone Process  \nAward Number: 19VA007-AR2-S11  \nSponsor: TURNSTONE BIOLOGICS CORP  \nPilon-Thomas, S. (PD/PI)",
+      "title": "Research Plan 10: Continued Analysis of Biological Specimens for the Turnstone Process",
+      "award_number": "19VA007-AR2-S11",
+      "sponsor": "TURNSTONE BIOLOGICS CORP  \nPilon-",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: STING agonist CMR215  \nAward Number: 24-0241  \nSponsor: Scripps Research Institute  \nPilon-Thomas, S. (PD/PI)",
+      "title": "STING agonist CMR215",
+      "award_number": "24-0241",
+      "sponsor": "Scripps Research Institute  \nPilon-",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Research Plan A-3: NSG Mouse Models to Evaluate the Efficacy of TIL  \nAward Number: 19VA065-AR1-S4  \nSponsor: Iovance Biotherapeutics, Inc  \nPilon-Thomas, S. (PD/PI)",
+      "title": "Research Plan A-3: NSG Mouse Models to Evaluate the Efficacy of TIL",
+      "award_number": "19VA065-AR1-S4",
+      "sponsor": "Iovance Biotherapeutics, Inc  \nPilon-",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Adoptive cell therapy (ACT) with tumor-infiltrating lymphocytes (TIL) is a promising form of T cell-based immunotherapy.  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nPilon-Thomas, S. (PD/PI)",
+      "title": "Adoptive cell therapy (ACT) with tumor-infiltrating lymphocytes (TIL) is a promising form of T cell-based immunotherapy.",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch  \nPilon-",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Imaging Acidosis and Immune Therapy in PDAC  \nAward Number: 5R01CA239219-04  \nSponsor: National Cancer Institute (NCI)  \nPilon-Thomas, S. (PD/PI)",
+      "title": "Imaging Acidosis and Immune Therapy in PDAC",
+      "award_number": "5R01CA239219-04",
+      "sponsor": "National Cancer Institute (NCI)  \nPilon-",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Development of Adoptive T-Cell Therapy in Bladder Cancer Incorporating Patient-Specific Tumor Microenvironment  \nAward Number: W81XWH2210341  \nSponsor: Department of Defense (DOD)  \nPilon-Thomas, S. (PD/PI)",
+      "title": "Development of Adoptive T-Cell Therapy in Bladder Cancer Incorporating Patient-Specific Tumor Microenvironment",
+      "award_number": "W81XWH2210341",
+      "sponsor": "Department of Defense (DOD)  \nPilon-",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: The Role of Hypoxia on Tumor Infiltrating Lymphocytes (TIL) from Renal Cell Carcinoma (RCC)  \nAward Number: W81XWH-22-10606, Log No. KC210144  \nSponsor: Department of Defense (DOD)  \nPilon-Thomas, S. (PD/PI)",
+      "title": "The Role of Hypoxia on Tumor Infiltrating Lymphocytes (TIL) from Renal Cell Carcinoma (RCC)",
+      "award_number": "W81XWH-22-10606, Log No. KC210144",
+      "sponsor": "Department of Defense (DOD)  \nPilon-",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Predict radiation-induced shifts in patient-specific tumor immune ecosystem composition to harness immunological consequences of radiotherapy  \nAward Number: 7U01CA244100-06  \nSponsor: National Cancer Institute (NCI)  \nPilon-Thomas, S. (PD/PI)",
+      "title": "Predict radiation-induced shifts in patient-specific tumor immune ecosystem composition to harness immunological consequences of radiotherapy",
+      "award_number": "7U01CA244100-06",
+      "sponsor": "National Cancer Institute (NCI)  \nPilon-",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Strategic Alliance Relating to Extracting circulating tumor-reactive lymphocytes from blood  \nAward Number: NA  \nSponsor: cTRL Therapeutics  \nPilon-Thomas, S. (PD/PI), Beatty, M. (Co-PD/PI)",
+      "title": "Strategic Alliance Relating to Extracting circulating tumor-reactive lymphocytes from blood",
+      "award_number": "NA",
+      "sponsor": "cTRL Therapeutics  \nPilon-",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Beatty, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Mathematical Model-Guided Adoptive Immunotherapy in Bladder Cancer  \nAward Number: 5R01CA259387-04  \nSponsor: National Cancer Institute (NCI)  \nPilon-Thomas, S. (PD/PI), Rejniak, K. (PD/PI)",
+      "title": "Mathematical Model-Guided Adoptive Immunotherapy in Bladder Cancer",
+      "award_number": "5R01CA259387-04",
+      "sponsor": "National Cancer Institute (NCI)  \nPilon-",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Thomas, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Rejniak, K.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages2.moffitt.org/pilon-thomas",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/Pilon-ThomasShari_2946.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2946"
+  },
+  "content_hash": "ebc94acd22fa4937c6ff3a8a3e8e316f7d9553d93b32aa6848bf0914b885329a",
+  "researcher_name": "shari pilon thomas",
+  "department": "immunology"
+}

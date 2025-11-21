@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/joseph-markowitz",
-  "last_updated": "2025-10-21T16:40:14.488701",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/joseph-markowitz/",
+  "last_updated": "2025-11-21T22:50:24.852775",
   "researcher_id": "15867",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cutaneous Oncology",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "cutaneous oncology",
+  "research_program": "immuno-oncology",
   "overview": "The lab\u2019s research focuses on the role of nitric oxide in the development of melanoma and its ability to facilitate resistance to melanoma treatments such as checkpoint blockade. Additionally, we are developing tools to predict which patients are likely to fail immune-based therapy via novel high-dimensional flow cytometric, mass spectrometric, and informatic techniques, allowing those patients to be treated with other, potentially more effective, therapies.",
   "research_interests": [
     "Dr. Markowitz's research interest is in studying immune suppressor cells, their role in the development of melanoma, and means of inhibiting their actions. He is a translational researcher striving to translate the knowledge gained in the laboratory via immune-based and traditional biochemical approaches to the clinic.\n  *"
@@ -55,6 +55,14 @@
   ],
   "publications": [
     {
+      "title": "Recurrence and Survival Outcomes in Patients with Primary Merkel Cell Carcinoma with Positive, Negative, or Not Performed Sentinel Lymph Node Biopsy",
+      "pubmed_id": "41168606",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Dugan MM, Balsay-Patel C, Chin N, Israeli J, Ward KR, Nichols M, Greenbaum S, Fan W, Cruse CW, Harrington M, Neves RI, Gonzalez RJ, Perez MC, Sarnaik AA, Sondak VK, Messina JL, Tarhini AA, Khushalani N, Brohl AS, Markowitz J, Eroglu Z, Karapetyan L, Tsai KY, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
       "title": "Phase II Trial of Pembrolizumab in Combination With Bevacizumab for Untreated Melanoma Brain Metastases",
       "pubmed_id": "40048689",
       "pmc_id": "PMC12058415",
@@ -73,6 +81,13 @@
       "journal": "Cancer Res"
     },
     {
+      "title": "Publisher Correction: Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S",
+      "pubmed_id": "40858972",
+      "year": "1512",
+      "publication_date": "1512 trial",
+      "authors": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Khushalani NI, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A"
+    },
+    {
       "title": "ShinyEvents: harmonizing longitudinal data for real world survival estimation",
       "pubmed_id": "40799741",
       "pmc_id": "PMC12340904",
@@ -80,13 +95,6 @@
       "publication_date": "2025 Aug",
       "authors": "Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI",
       "journal": "Res Sq"
-    },
-    {
-      "title": "Publisher Correction: Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S",
-      "pubmed_id": "40858972",
-      "year": "1512",
-      "publication_date": "1512 trial",
-      "authors": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Khushalani NI, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A"
     },
     {
       "title": "Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S",
@@ -129,14 +137,6 @@
       "publication_date": "2024 Jan",
       "authors": "Jimenez J, Dubey P, Carter B, Koomen J, Markowitz J",
       "journal": "BBA"
-    },
-    {
-      "title": "Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma",
-      "pubmed_id": "37776537",
-      "year": "2024",
-      "publication_date": "2024 Jan",
-      "authors": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM",
-      "journal": "Cancer"
     }
   ],
   "grants": [
@@ -166,11 +166,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/markowitz/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MarkowitzJoseph_15867.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15867"
   },
-  "content_hash": "aebbc7994ed9103c15fb9008b2841d4e9ef2b5eaab10bfea815f648a8a1f87d1",
-  "researcher_name": "Joseph Markowitz",
-  "department": "Immunology"
+  "content_hash": "127fc826710d3f598357e181ef5c21caef83a1fa6c5cf841bef9b81f20cc549f",
+  "researcher_name": "joseph markowitz",
+  "department": "immunology"
 }

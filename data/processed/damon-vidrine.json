@@ -1,0 +1,254 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/damon-vidrine/",
+  "last_updated": "2025-11-21T22:50:23.284811",
+  "researcher_id": "24326",
+  "degrees": [],
+  "title": "",
+  "primary_program": "health outcomes and behavior",
+  "research_program": "health outcomes & behavior",
+  "overview": "Dr. Vidrine\u2019s research program is focused on tobacco use in special and underserved populations, including community-based low socioeconomic status populations, safety net clinic-based populations, people living with HIV, and cancer patients. This work has focused on the identification of the unique risks of tobacco use in these underserved populations, as well as the development and evaluation of mHealth interventions.",
+  "research_interests": [
+    "Dr. Vidrine\u2019s research program is focused on tobacco use in special and underserved populations, including community-based low socioeconomic status populations, safety net clinic-based populations, people living with HIV, and cancer patients. This work has focused on the identification of the unique risks of tobacco use in these underserved populations, as well as the development and evaluation of mHealth interventions.\n  *"
+  ],
+  "associations": [
+    "Health Outcomes and Behavior",
+    "Thoracic Oncology",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Texas School of Public Health, DrPH"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of North Texas, MS"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Texas",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Detecting imminent smoking lapse risk: Prospective lapse risk algorithm versus participant retrospective self-report",
+      "pubmed_id": "40961621",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Langford JS, H\u00e9bert ET, Kendzor DE, Chen M, Vidrine DJ, Businelle M",
+      "journal": "Drug Alcohol Depend"
+    },
+    {
+      "title": "Using augmented reality to deliver cue exposure treatment for smoking cessation: App usability findings and protocol for a randomized controlled trial",
+      "pubmed_id": "39880329",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Poudel R, Dougan SO, Yates H, Sawyer L, Martinez U, Brandon KO, Sutton SK, Vidrine DJ, Ritterband LM, Wiseman KP, Vickerman KA, Turner K, Byrne MM, Yang MJ, Horta M, Brandon TH, Vinci C",
+      "journal": "Contemp Clin Trials"
+    },
+    {
+      "title": "Mobile Health Technology for Personalized Tobacco Cessation Support Among Cancer Survivors and Caregivers in Laos (Project SurvLaos): Protocol for a Pilot Randomized Controlled Trial",
+      "pubmed_id": "40736921",
+      "pmc_id": "PMC12351191",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Keopaseuth P, Xangsayarath P, Kulkarni S, Phandouangsy K, Soulaphy C, Alounlungsy P, Dittaphong V, Xayavong D, Vongdala C, Siengsounthone L, Businelle M, Frank-Pearce SG, Vidrine DJ, Vidrine JI, Bui TC",
+      "journal": "JMIR Res Protoc"
+    },
+    {
+      "title": "Early Treatment Engagement and Long-Term Smoking Abstinence Among Women With Cervical Intraepithelial Neoplasia or Cervical Cancer",
+      "pubmed_id": "40673008",
+      "pmc_id": "PMC12264617",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Hoogland CE, Sutton SK, Fennell BS, Simmons VN, Vinci C, Naqa IE, Salloum RG, Shete SS, Hembree T, Vidrine DJ, Vidrine JI",
+      "journal": "AJPM Focus"
+    },
+    {
+      "title": "Just-in-Time Adaptive Intervention for Smoking Cessation in Low-Income Adults: A Randomized Clinical Trial",
+      "pubmed_id": "40810943",
+      "pmc_id": "PMC12355279",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "H\u00e9bert ET, Kendzor DE, Vidrine DJ, Langford JS, Kezbers KM, Montgomery A, Chen M, Frank-Pearce SG, Vesely SK, Chen S, Barrett ZCW, Businelle MS",
+      "journal": "JAMA Netw Open"
+    },
+    {
+      "title": "Engaging Specific Populations With Tobacco-Related Health Disparities in Treatment Research: A Summary of a Society for Research on Nicotine and Tobacco Treatment Research Network Preconference Workshop",
+      "pubmed_id": "39435861",
+      "pmc_id": "PMC12012238",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Johnson AL, Bui TC, Bullen C, Businelle M, Carroll DM, Correa-Fern\u00e1ndez V, Pickner W, Spears CA, Vickerman K, Vidrine DJ, Webb Hooper M, Bold KW",
+      "journal": "Nicotine Tob Res"
+    },
+    {
+      "title": "Correction: Smartphone-Based Survey and Message Compliance in Adults Initially Unready to Quit Smoking: Secondary Analysis of a Randomized Controlled Trial",
+      "pubmed_id": "39405527",
+      "pmc_id": "PMC11522644",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Ulm C, Chen S, Fleshman B, Benson L, Kendzor DE, Frank-Pearce S, Neil JM, Vidrine D, De La Torre I, Businelle MS",
+      "journal": "JMIR Form Res"
+    },
+    {
+      "title": "Smoking Cessation by Cancer Treatment Status Among Cervical Cancer Survivors",
+      "pubmed_id": "38342477",
+      "pmc_id": "PMC11231988",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Cottrell-Daniels C, Hoogland CE, Fennell BS, Simmons VN, Vidrine DJ, Vidrine JI",
+      "journal": "Am J Prev Med"
+    },
+    {
+      "title": "Smartphone-Based Survey and Message Compliance in Adults Initially Unready to Quit Smoking: Secondary Analysis of a Randomized Controlled Trial",
+      "pubmed_id": "38848557",
+      "pmc_id": "PMC11193076",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Ulm C, Chen S, Fleshman B, Benson L, Kendzor DE, Frank-Pearce S, Neil JM, Vidrine D, Businelle MS",
+      "journal": "JMIR Form Res"
+    },
+    {
+      "title": "Project phoenix: Pilot randomized controlled trial of a smartphone-delivered intervention for people who are not ready to quit smoking",
+      "pubmed_id": "38838477",
+      "pmc_id": "PMC11179962",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Businelle MS, Benson L, H\u00e9bert ET, Neil J, Kendzor DE, Frank-Pearce S, Kezbers KM, Vidrine D, Gaur A",
+      "journal": "Drug Alcohol Depend"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Implementing Sustainable Mobile Health Technology to Optimize Smoking Cessation Program for Lao People with HIV (I-STOP)  \nAward Number: 1U01CA294811-01  \nSponsor: National Cancer Institute (NCI)  \nVidrine, D. (PD/PI)",
+      "title": "Implementing Sustainable Mobile Health Technology to Optimize Smoking Cessation Program for Lao People with HIV (I-STOP)",
+      "award_number": "1U01CA294811-01",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Vidrine, D.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Partnering with a State Food Bank to Provide Tobacco Treatment to Underserved Smokers  \nAward Number: 5R01CA231952-06  \nSponsor: National Cancer Institute (NCI)  \nVidrine, D. (PD/PI), Vidrine, J. (PD/PI)",
+      "title": "Partnering with a State Food Bank to Provide Tobacco Treatment to Underserved Smokers",
+      "award_number": "5R01CA231952-06",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Vidrine, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Vidrine, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Randomized Trial of Automated Video-Assisted Smoking Treatment for People Living with HIV  \nAward Number: 5R01CA243552-06  \nSponsor: National Cancer Institute (NCI)  \nVidrine, D. (PD/PI)",
+      "title": "Randomized Trial of Automated Video-Assisted Smoking Treatment for People Living with HIV",
+      "award_number": "5R01CA243552-06",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Vidrine, D.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Ending Tobacco Use Through Interactive Tailored Messaging for Cambodian People Living with HIV/AIDS (EndIT)  \nAward Number: 3U01CA261598-05S1  \nSponsor: National Cancer Institute (NCI)  \nVidrine, D. (PD/PI)",
+      "title": "Ending Tobacco Use Through Interactive Tailored Messaging for Cambodian People Living with HIV/AIDS (EndIT)",
+      "award_number": "3U01CA261598-05S1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Vidrine, D.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Smartphone Based Smoking Cessation Intervention for Socioeconomically Disadvantaged Adults  \nAward Number: 5R01CA221819-05  \nSponsor: National Cancer Institute (NCI)  \nVidrine, D. (PD/PI)",
+      "title": "Smartphone Based Smoking Cessation Intervention for Socioeconomically Disadvantaged Adults",
+      "award_number": "5R01CA221819-05",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Vidrine, D.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Mobile Contingency Management for Smoking Cessation among Socioeconomically Disadvantaged Adults  \nAward Number: 5R01CA251451-05  \nSponsor: National Cancer Institute (NCI)  \nVidrine, D. (PD/PI)",
+      "title": "Mobile Contingency Management for Smoking Cessation among Socioeconomically Disadvantaged Adults",
+      "award_number": "5R01CA251451-05",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Vidrine, D.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Mobile Health Technology for Personalized Tobacco Cessation Support in Laos  \nAward Number: 5R33CA253600-04  \nSponsor: National Cancer Institute (NCI)  \nVidrine, D. (PD/PI)",
+      "title": "Mobile Health Technology for Personalized Tobacco Cessation Support in Laos",
+      "award_number": "5R33CA253600-04",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Vidrine, D.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Creation of an Infrastructure to Support Delivery of mHealth Interventions for Cancer Patients Throughout Florida  \nAward Number: 23K01  \nSponsor: Florida Department of Health  \nVidrine, D. (PD/PI), Simmons, V. (Co-PD/PI)",
+      "title": "Creation of an Infrastructure to Support Delivery of mHealth Interventions for Cancer Patients Throughout Florida",
+      "award_number": "23K01",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Vidrine, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Simmons, V.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23179/",
+      "trial_id": "23179",
+      "title": "Creation of an Infrastructure to Support Delivery of mHealth Interventions for Cancer Patients Throughout Florida",
+      "condition": "Multiple",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/VidrineDamon_24326.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24326"
+  },
+  "content_hash": "3b1271facd3c32618c2e6d278bd4eb58aa44223afaeebd9b692e8c3c13559916",
+  "researcher_name": "damon vidrine",
+  "department": "health outcomes & behavior"
+}

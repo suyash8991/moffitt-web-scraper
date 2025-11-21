@@ -1,0 +1,197 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/patrick-hwu/",
+  "last_updated": "2025-11-21T22:50:26.212045",
+  "researcher_id": "27923",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "cutaneous oncology",
+  "research_program": "immuno-oncology",
+  "overview": "Dr. Hwu has a proven track record leading collaborative teams to make breakthroughs in science while improving cancer outcomes for cancer patients.",
+  "research_interests": [
+    "Known for leading transformative research into the clinic, Hwu helped pioneer the field of gene modified T cells, publishing research on the first chimeric antigen receptor directed against cancer. His work focuses on vaccines, adoptive T-cell therapies and immune resistance. He is the principal investigator on a National Institutes of Health SPORE grant for melanoma and has more than 270 peer-reviewed publications. An internationally recognized physician scientist, Hwu has a proven track record leading collaborative teams to make breakthroughs in science while improving cancer outcomes for cancer patients. \n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Medical College of Pennsylvania",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Johns Hopkins Hospital",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "National Cancer Institute",
+      "specialty": "Medical Oncology and Immunology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Medical Oncology",
+      "certification": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Advancing human leukocyte antigen-based cancer immunotherapy: from personalized to broad-spectrum strategies for genetically heterogeneous populations",
+      "pubmed_id": "41046167",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Oseni SO, Wang Y, Hwu P",
+      "journal": "Trends Cancer"
+    },
+    {
+      "title": "Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma",
+      "pubmed_id": "41072416",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F",
+      "journal": "Cancer Cell"
+    },
+    {
+      "title": "Preclinical models of melanoma leptomeningeal disease to assess intrathecal checkpoint blockade",
+      "pubmed_id": "41038921",
+      "pmc_id": "PMC12491558",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Guerrieri RA, Fischer GM, Cortez JR, Knighton BG, Ledesma DA, Hudgens CW, Delcid YF, Hu Q, Onana CYB, Carapeto FCL, Tezlaff MT, Huse JT, Hwu P, Burton EM, Glitza Oliva IC, Davies MA, Ferguson SD",
+      "journal": "Sci Rep"
+    },
+    {
+      "title": "SITC perspective: leveraging patient enrichment biomarkers to accelerate early phase IO drug development",
+      "pubmed_id": "40550567",
+      "pmc_id": "PMC12184391",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Emens LA, Moussion C, Hwu P, Gulley JL, Ohashi PS, Bifulco CB, Feltquate D",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Facts and Hopes: Toward the Next Quantum Leap in Melanoma",
+      "pubmed_id": "40407722",
+      "pmc_id": "PMC12240026",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Flaherty KT, Aplin AE, Davies MA, Hacohen N, Herlyn M, Hoon D, Hwu P, Lotem M, Mul\u00e9 J, Wargo JA, Fisher DE",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Lymphodepletion, tumor-infiltrating lymphocytes, and high versus low dose IL-2 followed by pembrolizumab in patients with metastatic melanoma",
+      "pubmed_id": "40815607",
+      "pmc_id": "PMC12360205",
+      "year": "2025",
+      "publication_date": "2025 Dec",
+      "authors": "Hasanov M, Kiany S, Forget MA, Bassett R, Davies MA, Diab A, Gershenwald JE, Glitza IC, Lee JE, Lucci A, McQuade JL, Patel SP, Ross MI, Tawbi HA, Wargo JA, Wong MK, Bernatchez C, Hwu P, Haymaker C, Amaria RN",
+      "journal": "Oncoimmunology"
+    },
+    {
+      "title": "Integrative Immune Signature of Complementary Circulating and Tumoral Biomarkers Maximizes the Predictive Power of Adjuvant Immunotherapeutic Benefits in High-risk Melanoma",
+      "pubmed_id": "40392969",
+      "pmc_id": "PMC12316551",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Tarhini AA, Obermayer A, Lee SJ, LaFramboise WA, Hodi FS, Karunamurthy AD, Eljilany I, Chen DT, Hwu P, El Naqa IM, Streicher H, Sondak VK, Storkus WJ, Butterfield LH, Shaw TI, Kirkwood JM",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Structure-guided engineering of CD112 receptor variants for optimized immunotherapy",
+      "pubmed_id": "40285356",
+      "pmc_id": "PMC12368799",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Singh S, Julia E, Kalita P, Mason C, Ming Q, Lee-Sam A, Gordon S, Buitrago ME, Leung DW, Hwu P, Luca VC",
+      "journal": "Mol Ther"
+    },
+    {
+      "title": "Tumor-infiltrating mast cells confer resistance to immunotherapy in pancreatic cancer",
+      "pubmed_id": "39473974",
+      "pmc_id": "PMC11514315",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Ma Y, Zhao X, Feng J, Qiu S, Ji B, Huang L, Hwu P, Logsdon CD, Wang H",
+      "journal": "iScience"
+    },
+    {
+      "title": "Patient reported outcomes and patient experiences of immune checkpoint modulators for advanced or recurrent melanoma: a mixed methods study",
+      "pubmed_id": "38709312",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Tometich DB, Geiss C, Maconi ML, Chavez M, Hoogland AI, Li X, Nieves-Lopez A, Rodriguez Y, Bryant C, Brohl AS, Eroglu Z, Markowitz J, Tarhini AA, Hwu P, Khushalani NI, Jim HSL",
+      "journal": "Support Care Cancer"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Engineering next generation CAR T-cells to overcome therapy resistance in advanced melanoma  \nAward Number:   \nSponsor: ADELSON MEDICAL RESEARCH FOUND  \nHwu, P. (PD/PI)",
+      "title": "Engineering next generation CAR T-cells to overcome therapy resistance in advanced melanoma",
+      "award_number": "",
+      "sponsor": "ADELSON MEDICAL RESEARCH FOUND",
+      "investigators": [
+        {
+          "name": "Hwu, P.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Developing armored and metabolically reprogrammed TCR-engineered T cells to target non-canonical tumor antigens and overcome the immunosuppressive microenvironment in rare melanomas  \nAward Number: n/a  \nSponsor: ADELSON MEDICAL RESEARCH FOUND  \nHwu, P. (PD/PI)",
+      "title": "Developing armored and metabolically reprogrammed TCR-engineered T cells to target non-canonical tumor antigens and overcome the immunosuppressive microenvironment in rare melanomas",
+      "award_number": "n/a",
+      "sponsor": "ADELSON MEDICAL RESEARCH FOUND",
+      "investigators": [
+        {
+          "name": "Hwu, P.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Identification and assessment of unconventional tumor-associated antigens as potential targets for cytotoxic T-cell based immunotherapy of cancer  \nAward Number: 5R01CA258526-04  \nSponsor: National Cancer Institute (NCI)  \nHwu, P. (PD/PI)",
+      "title": "Identification and assessment of unconventional tumor-associated antigens as potential targets for cytotoxic T-cell based immunotherapy of cancer",
+      "award_number": "5R01CA258526-04",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Hwu, P.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Exploring the non-canonical immunopeptidome landscape of pancreatic tumors in African American patients  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nHwu, P. (PD/PI), Oseni, S. (PD/PI)",
+      "title": "Exploring the non-canonical immunopeptidome landscape of pancreatic tumors in African American patients",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Hwu, P.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Oseni, S.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?user=wLSQt98AAAAJ&hl=en",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HwuPatrick_27923.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27923"
+  },
+  "content_hash": "f2d31fd6b7d064b6c6a705d1275ac7b82690fc75cfd5199ae548bc4838565b4a",
+  "researcher_name": "patrick hwu",
+  "department": ""
+}

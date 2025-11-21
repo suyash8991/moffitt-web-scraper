@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/diane-allen-gipson/",
+  "last_updated": "2025-11-21T22:50:23.457246",
+  "researcher_id": "10748",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "health outcomes & behavior",
+  "overview": "",
+  "research_interests": [
+    "Health Outcomes & Behavior Program"
+  ],
+  "associations": [
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Florida Agricultural & Mechanical University, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Florida Agricultural & Mechanical University, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Bio-MOFs Based on Natural Phenolic, Hematoxylin Leverages Biomedical Applications: Enzyme Inhibition, Antioxidant, and Antibacterial Properties",
+      "pubmed_id": "39327818",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Sahiner M, Tian Z, Demirci S, Sunol AK, Allen-Gipson DS, Sahiner N",
+      "journal": "Chem Biodivers"
+    },
+    {
+      "title": "Natural Molecule-Derived Nanogels from Hematoxylin and l-lysine for Biomedical Use with Antimicrobial Properties",
+      "pubmed_id": "39795996",
+      "pmc_id": "PMC11719568",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Sahiner M, Tian Z, Allen-Gipson D, Sunol AK, Sahiner N",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "The Arf6/PIP5K pathway activates IKACh in cigarette smoke mediated atrial fibrillation",
+      "pubmed_id": "36150420",
+      "year": "2022",
+      "publication_date": "2022 Dec",
+      "authors": "Chidipi B, Chang M, Abou-Assali O, Reiser M, Tian Z, Allen-Gipson D, Noujaim SF",
+      "journal": "Cell Signal"
+    },
+    {
+      "title": "Editorial: Cigarette Smoke, E-Cigarette/E-Vaping and COVID-19: Risks and Implications in This New Era",
+      "pubmed_id": "34566686",
+      "pmc_id": "PMC8459007",
+      "year": "2021",
+      "publication_date": "2021 Sep",
+      "authors": "Camoretti-Mercado B, Liao Q, Tian Z, Allen-Gipson D",
+      "journal": "Front Physiol"
+    },
+    {
+      "title": "Co-inhibition of CD73 and ADORA2B Improves Long-Term Cigarette Smoke Induced Lung Injury",
+      "pubmed_id": "33584346",
+      "pmc_id": "PMC7876334",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Tian Z, Dixon J, Guo X, Deal B, Liao Q, Zhou Y, Cheng F, Allen-Gipson DS",
+      "journal": "Front Physiol"
+    },
+    {
+      "title": "Melatonin Regulates Breast Cancer Progression by the lnc010561/miR-30/FKBP3 Axis",
+      "pubmed_id": "31955008",
+      "pmc_id": "PMC6970137",
+      "year": "2020",
+      "publication_date": "2020 Mar",
+      "authors": "Liu P, Xie X, Yang A, Kong Y, Allen-Gipson D, Tian Z, Zhou L, Tang H, Xie X",
+      "journal": "Mol Ther Nucleic Acids"
+    },
+    {
+      "title": "Influence of Cigarettes and Alcohol on the Severity and Death of COVID-19: A Multicenter Retrospective Study in Wuhan, China",
+      "pubmed_id": "33362576",
+      "pmc_id": "PMC7756110",
+      "year": "2020",
+      "publication_date": "2020 Dec",
+      "authors": "Dai M, Tao L, Chen Z, Tian Z, Guo X, Allen-Gipson DS, Tan R, Li R, Chai L, Ai F, Liu M",
+      "journal": "Front Physiol"
+    },
+    {
+      "title": "Study on the therapeutic index and synergistic effect of Chitosan-zinc oxide nanomicellar composites for drug-resistant bacterial biofilm inhibition",
+      "pubmed_id": "31071421",
+      "year": "2019",
+      "publication_date": "2019 Jun",
+      "authors": "Mehta M, Allen-Gipson D, Mohapatra S, Kindy M, Limayem A",
+      "journal": "Int J Pharm"
+    },
+    {
+      "title": "Sex differences in murine cardiac pathophysiology with hyperoxia exposure",
+      "pubmed_id": "30078191",
+      "year": "2019",
+      "publication_date": "2019 Feb",
+      "authors": "Rodgers JL, Rodgers LE, Tian Z, Allen-Gipson D, Panguluri SK",
+      "journal": "J Cell Physiol"
+    },
+    {
+      "title": "PTEN Physically Interacts with and Regulates E2F1-mediated Transcription in Lung Cancer",
+      "pubmed_id": "29108454",
+      "pmc_id": "PMC6103743",
+      "year": "2017",
+      "publication_date": "2017 Nov",
+      "authors": "Malaney P, Palumbo E, Semidey-Hurtado J, Hardee J, Stanford K, Kathiriya JJ, Patel D, Tian Z, Allen-Gipson D, Dav\u00e9 V",
+      "journal": "Cell Cycle"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10748"
+  },
+  "content_hash": "b667fc41cd504f855af84e5323492ff3518789da6a9ad82da0548cd9cdc5aeb2",
+  "researcher_name": "diane allen gipson",
+  "department": ""
+}

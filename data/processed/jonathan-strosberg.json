@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jonathan-strosberg/",
+  "last_updated": "2025-11-21T22:50:24.701824",
+  "researcher_id": "3489",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "gastrointestinal oncology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Strosberg's research is focused on development of new treatments for neuroendocrine cancers. He led the phase III NETTER-1 trial resulting in approval of the first peptide receptor radionuclide therapy (PRRT) in oncology and has helped to develop new trials currently testing targeted alpha therapies. He has also been instrumental in studying novel chemotherapy regimens, such as capecitabine/temozolomide for pancreatic neuroendocrine tumors and has conducted extensive clinical research on the role of checkpoint inhibitor immunotherapy. Current work involves development of cell-based therapies including CAR-T and BiTE treatments for somatostatin receptor expressing NETs.",
+  "research_interests": [
+    "Dr. Strosberg has been a leader in the field of peptide receptor radionuclide therapy. He led the NETTER-1 trial (Strosberg et al. NEJM 2017) which was the first phase III trial of a radiolabeled somatostatin analog. He is currently conducting trials investigating new alpha emitting radionuclides including 212Pb-DOTAMTATE (Strosberg et al. ASCO 2024) and 225Ac-DOTATATE (Strosberg et al. ESMO 2023). He has led multiple studies evaluating checkpoint inhibitor therapy for NETs including pembrolizumab, pembrolizumab/lenvatinib and ipilimumab/nivolumab, and has been a leading investigator in multiple studies of targeted agents. He evaluation of capecitabine/temozolomide in pancreatic NETs led to a positive randomized prospective study validating the important role of this regimen for progressive pancreatic neuroendocrine tumors. In preclinical research, he holds several patents including a CAR-T cell targeting somatostatin receptor and a bispecific T cell (BiTE) targeting the same receptor. \n  *"
+  ],
+  "associations": [
+    "Gastrointestinal Oncology",
+    "Molecular Medicine Program",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Cornell University Medical College",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Georgetown University Hospital",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "H. Lee Moffitt Cancer Center & Research Institute",
+      "specialty": "Medical Oncology & Hematology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Association Between Long-Term Proton Pump Inhibitor Use and Low-Risk Gastric Neuroendocrine Tumors",
+      "pubmed_id": "41028638",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Al-Toubah T, Pelle E, Haider M, Strosberg J",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Randomized Phase II Trial of Pazopanib Versus Placebo in Patients With Advanced Extrapancreatic Neuroendocrine Tumors (Alliance A021202)",
+      "pubmed_id": "40902132",
+      "pmc_id": "PMC12457709",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Bergsland EK, Geyer S, Asmis TR, Behr SC, Kuebler JP, Kumthekar P, Mazza G, Maitland ML, Niedzwiecki D, Nixon AB, Schwartz LH, Strosberg JR, Venook AP, O'Reilly EM, Meyerhardt JA",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Symptom Management for Well-Differentiated Gastroenteropancreatic Neuroendocrine Tumors: ASCO Guideline",
+      "pubmed_id": "40344544",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Perez K, Del Rivero J, Kennedy EB, Basu S, Chauhan A, Connolly HM, Dasari AN, Gangi A, Clarke CN, Hallet J, Howe JR, Grady E, Ivanidze J, Mittra ES, White SB, Raj NP, Vijayvergia N, Lewis MA, Chan JA, Kunz PL, Mailman J, Arshad J, Soares HP, Singh S, Chandrasekharan C, Soulen MC, Janson ET, Halfdanarson TR, Strosberg JR, Bergsland EK",
+      "journal": "JCO Oncol Pract"
+    },
+    {
+      "title": "Relationship Between Best Tumor Shrinkage and Progression-Free Survival and Overall Survival in Patients With Progressive Midgut Neuroendocrine Tumors Treated With [177Lu]Lu-DOTA-TATE: Ad Hoc Analysis of the Phase III NETTER-1 Trial",
+      "pubmed_id": "40272146",
+      "pmc_id": "PMC12020026",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Pavel M, Caplin ME, Ruszniewski P, Hertelendi M, Krenning EP, Strosberg JR",
+      "journal": "Cancer Med"
+    },
+    {
+      "title": "PRRT in high-grade digestive neuroendocrine neoplasms (NET G3 and NEC)",
+      "pubmed_id": "39243213",
+      "pmc_id": "PMC11919471",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Sorbye H, Kong G, Grozinsky-Glasberg S, Strosberg J",
+      "journal": "J Neuroendocrinol"
+    },
+    {
+      "title": "Somatostatin Receptor Expression of Gastroenteropancreatic Neuroendocrine Tumors: A Comprehensive Analysis in the Era of Somatostatin Receptor PET Imaging",
+      "pubmed_id": "40563587",
+      "pmc_id": "PMC12190786",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Maratta MG, Al-Toubah T, Montilla-Soler J, Pelle E, Haider M, El-Haddad G, Strosberg J",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Consensus Guideline for the Management of Peritoneal Metastases from Neuroendocrine Neoplasms",
+      "pubmed_id": "40560496",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Su DG, Brown LM, Bansal VV, Bakkila B, Concors SJ, Turaga KK, Gunderson C, Bergsland E, Strosberg JR, Halfdanarson TR, Metz DC, Kunstman JW, Kunz PL, Gangi A",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Consensus guideline for the management of peritoneal metastases from neuroendocrine neoplasms",
+      "pubmed_id": "40558053",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Su DG, Brown LM, Bansal VV, Bakkila B, Concors SJ, Turaga KK, Gunderson C, Bergsland E, Strosberg JR, Halfdanarson TR, Metz DC, Kunstman JW, Kunz PL, Gangi A",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Risk of bowel ischemia in patients with mesenteric neuroendocrine tumors after treatment with 177Lu-DOTATATE",
+      "pubmed_id": "40641634",
+      "pmc_id": "PMC12243096",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Pelle E, Al-Toubah T, El-Haddad G, Morse B, Konda B, Sukrithan V, Strosberg J",
+      "journal": "Endocr Oncol"
+    },
+    {
+      "title": "Pancreatic neuroendocrine neoplasms (pNENs): Genetic and environmental biomarkers for risk of occurrence and prognosis",
+      "pubmed_id": "40158764",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Tacelli M, Gentiluomo M, Biamonte P, Castano JP, Berkovi\u0107 MC, Cives M, Kapitanovi\u0107 S, Marinoni I, Marinovic S, Nikas I, Nos\u00e1kov\u00e1 L, Pedraza-Arevalo S, Pell\u00e8 E, Perren A, Strosberg J, Campa D, Capurso G",
+      "journal": "Semin Cancer Biol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23066/",
+      "trial_id": "23066",
+      "title": "An Open-Label, Multi-Center Phase II Dose Selection Trial of Intravenous BI 764532, a DLL3-Targeting T Cell Engager, in Patients with Relapsed/Refractory Extensive-Stage Small Cell Lung Cancer and in Patients with Other Relapsed/Refractory Neuroendocrine Carcinoma DAREON-5",
+      "condition": "Gastrointestinal Tumor",
+      "intervention": "BI 764532 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23747/",
+      "trial_id": "23747",
+      "title": "Evaluation of SSTR Subtype Expression in Brain Regions via IHC",
+      "condition": "Gastrointestinal Tumor",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=O1_J_5AAAAAJ",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/StrosbergJonathan_3489.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3489"
+  },
+  "content_hash": "c366d86a3065cb40606c26b5b9623366bc9564f5b77c5b684c47442fadd17852",
+  "researcher_name": "jonathan strosberg",
+  "department": ""
+}

@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jonathan-zager/",
+  "last_updated": "2025-11-21T22:50:24.720461",
+  "researcher_id": "3650",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "cutaneous oncology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Zager\u2019s research interests are in treating cutaneous melanoma as well as non melanoma skin cancers and soft tissue sarcomas including, extremity, cutaneous and retroperitoneal sarcomas.",
+  "research_interests": [
+    "He has a particular interest in minimally invasive regionally therapy such as isolated limb infusions (ILI) for extremity in transit or recurrent melanoma. ILIs for limb threatening unresectable sarcomas as well as percutaneous hepatic perfusions for unresectable metastatic melanoma to the liver. Dr. Zager has also developed an interest in intraoperative PET probe directed surgery for difficult to localize metastatic lesions.\n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Experimental Therapeutics Program",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Sackler School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "North Shore University Hospital",
+      "position": "Intern",
+      "specialty": "Department of Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "Montefiore Medical Center",
+      "specialty": "Albert Einstein College of Medicine - Department of Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Memorial-Sloan Kettering Cancer Center",
+      "specialty": "Hepatobiliary Oncology Laboratory"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Texas, M.D. Anderson Cancer Center",
+      "specialty": "Surgical Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Texas, M.D. Anderson Cancer Center",
+      "position": "Fellow"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Surgery",
+      "certification": "General Surgery"
+    }
+  ],
+  "publications": [
+    {
+      "title": "ASO Author Reflections: Outcomes after Treatment with Isolated Limb Infusion or Perfusion for Acral versus Non-Acral Melanoma In-Transit Metastases",
+      "pubmed_id": "40419714",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Dugan MM, Israeli J, Olofsson Bagge R, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Isolated Limb Infusion/Perfusion for Unresectable Acral Versus Non-Acral Melanoma In-Transit Metastases",
+      "pubmed_id": "40413325",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Dugan MM, Israeli J, Chin N, Balsay-Patel C, Huibers A, Fan W, Olofsson Bagge R, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Response to Letter to the Editor Regarding: An Open-Label, Randomized Study of Melphalan/Hepatic Delivery System Versus Best Alternative Care in Patients with Unresectable Metastatic Uveal Melanoma",
+      "pubmed_id": "40839144",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Zager JS, John J",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Impact of Social Determinants of Health on Melanoma Nodal Surveillance in a Multi-institutional Cohort",
+      "pubmed_id": "39576454",
+      "pmc_id": "PMC11811232",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Montgomery KB, McLeod MC, DePalo DK, Dugan MM, Zager JS, Elleson KM, Sabel MS, Hieken TJ, Kottschade LA, Ollila DW, Pham V, Archer D, Berman RS, Lee AY, Cintolo-Gonzalez JA, McDonald HG, Winchester S, Burke EE, Rhodin KE, Beasley GM, Broman KK",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "External validation of a model to predict recurrence-free and melanoma-specific survival for patients with melanoma after sentinel node biopsy",
+      "pubmed_id": "40243383",
+      "pmc_id": "PMC12004364",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Stassen RC, Maas CCHM, Leong SP, Kashani-Sabet M, White RL, Pockaj BA, Zager JS, Schneebaum S, Vetto JT, Avisar E, Harrison Howard J, O'Donoghue C, Kosiorek H, van Akkooi ACJ, Verhoef C, van Klaveren D, Gr\u00fcnhagen DJ, Olofsson Bagge R",
+      "journal": "Br J Surg"
+    },
+    {
+      "title": "Regional Therapies for Melanoma and Merkel Cell Carcinoma",
+      "pubmed_id": "40412888",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Shannon AB, Zager JS",
+      "journal": "Surg Clin N Am"
+    },
+    {
+      "title": "Poorly Differentiated Extraocular Sebaceous Carcinoma Masquerading as an Abscess",
+      "pubmed_id": "40655070",
+      "pmc_id": "PMC12255512",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Tung-Hahn E, Yang A, Patel MT, Zager J",
+      "journal": "Cureus"
+    },
+    {
+      "title": "ASO Author Reflections: Successful Radar-Guided Localization for Targeted Melanoma Metastasectomy After Neoadjuvant Immunotherapy",
+      "pubmed_id": "40346411",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dugan MM, Beekman KE, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "The Use of Radar-Guided Localization to Identify Metastatic Melanoma After Neoadjuvant Immunotherapy",
+      "pubmed_id": "40279056",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dugan MM, Beekman KE, DePalo DK, Parker LM, Elleson KM, Mullinax JE, Sarnaik AA, Sondak VK, Perez MC, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "An Open-label, Randomized Study of Melphalan/Hepatic Delivery System Versus Best Alternative Care in Patients with Unresectable Metastatic Uveal Melanoma",
+      "pubmed_id": "40192993",
+      "pmc_id": "PMC12130151",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Zager JS, Orloff M, Ferrucci PF, Choi J, Eschelman DJ, Glazer ES, Ejaz A, Howard JH, Richtig E, Ochsenreither S, Reddy SA, Lowe MC, Beasley GM, Gesierich A, Bender A, Gschnell M, Dummer R, Rivoire M, Arance A, Fenwick SW, Sacco JJ, Haferkamp S, Weishaupt C, John J, Wheater M, Ottensmeier CH",
+      "journal": "Ann Surg Oncol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Development of Educational Materials and Educational Guidance Related to Limb/Hepatic Perfusion of Chemotherapy  \nAward Number: N/A  \nSponsor: DELCATH SYSTEMS  \nZager, J. (PD/PI)",
+      "title": "Development of Educational Materials and Educational Guidance Related to Limb/Hepatic Perfusion of Chemotherapy",
+      "sponsor": "DELCATH SYSTEMS",
+      "investigators": [
+        {
+          "name": "Zager, J.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ZagerJonathan_3650.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3650"
+  },
+  "content_hash": "391d47281406dbeeefe9df164d46e6afcdf41c2fc0ff066347a3947fc28e0f75",
+  "researcher_name": "jonathan zager",
+  "department": ""
+}

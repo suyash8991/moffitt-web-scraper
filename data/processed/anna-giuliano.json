@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/anna-giuliano",
-  "last_updated": "2025-10-21T16:35:46.123753",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/anna-giuliano/",
+  "last_updated": "2025-11-21T22:50:22.759770",
   "researcher_id": "2969",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Anna R. Giuliano, PhD, is the founding director of the Center for Immunization and Infection Research in Cancer (CIIRC) at the Moffitt Cancer Center. Her work has contributed significantly to our understanding of the rate at which HPV infections are acquired and cleared, the proportion that progress to disease, and also to HPV vaccine protection against multiple diseases in women and men.",
   "research_interests": [
     "Anna R. Giuliano, PhD, is the founding director of the Center for Immunization and Infection Research in Cancer (CIIRC) at the Moffitt Cancer Center. Her career had its inception in the relationship between human papillomavirus (HPV) infections and cervical cancer, and it has evolved over the past several decades to encompass HPV and penile, anal, and oral cancers in men, as well as other infectious diseases and their causal relationships with various cancers. Dr. Giuliano\u2019s work has contributed significantly to the elucidation of the rate at which HPV infections are acquired and persist, the proportion of infections that progress to disease, and HPV vaccine protection against multiple diseases in women and men. An expert in the field of cancer research with a longstanding and successful record of National Institutes of Health funding since 1990, she has led numerous cancer epidemiology and prevention studies and clinical trials conducted among diverse populations in the United States and internationally. Dr. Giuliano\u2019s current research encompasses the following: the study of oral HPV natural history, efficacy of HPV vaccination for the prevention of oropharyngeal cancer among people living with HIV and among people without HIV, development of a biomarker panel for the early detection of oropharyngeal cancer, efficacy testing of therapeutic vaccines to treat HPV-related pre-cancers and cancers, the study of the immune response of cancer patients to SARS-CoV-2 vaccination, methods to increasing screening for hepatitis C infection and connection to care, and the global elimination of HPV-related cancers. Dr. Giuliano has authored more than 425 peer-reviewed publications. \n  *"
@@ -40,6 +40,14 @@
   ],
   "publications": [
     {
+      "title": "Comment addressing the 2025 Zero Draft: A global call for HPV elimination",
+      "pubmed_id": "40974132",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Levy B, Schwarz N, Magen Z, Vaknin Z, Segev Y, Palefsky JM, Giuliano AR",
+      "journal": "Int J Cancer"
+    },
+    {
       "title": "The Association Between Alcohol Consumption and Anal Human Papillomavirus in the HPV Infection in Men Study",
       "pubmed_id": "40475161",
       "pmc_id": "PMC12140543",
@@ -67,14 +75,6 @@
       "journal": "Cancer Res Commun"
     },
     {
-      "title": "Screening for Anal Cancer Among Men Who Have Sex With Men With HIV: Benefits, Harms, and Cost-Effectiveness Analyses",
-      "pubmed_id": "40523287",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Deshmukh AA, Damgacioglu H, Sigel K, Palefsky JM, Clarke MA, Wentzensen N, Nyitray AG, Ortiz AP, Lin YY, Chiao EY, Stier E, Jay N, Gaisa M, Liu Y, Meissner EG, Lazenby G, Giuliano AR, Goldstone SE, Clifford GM, Sonawane K, Chhatwal J",
-      "journal": "Ann Intern Med"
-    },
-    {
       "title": "Erratum: Oral human papillomavirus (HPV) prevalence and genotyping among healthy adult populations in the United States and Europe: results from the PROGRESS (PRevalence of Oral hpv infection, a Global aSSessment) study",
       "pubmed_id": "40686674",
       "pmc_id": "PMC12274941",
@@ -82,6 +82,14 @@
       "publication_date": "2025 Jul",
       "authors": "Alemany L, Felsher M, Giuliano AR, Waterboer T, Mirghani H, Mehanna H, Roberts C, Chen YT, Lara N, Lynam M, Torres M, Pedr\u00f3s M, Sanchez E, Spitzer J, Sirak B, Quir\u00f3s B, Carretero G, Paytubi S, Morais E, Pav\u00f3n MA",
       "journal": "EClinicalMedicine"
+    },
+    {
+      "title": "Screening for Anal Cancer Among Men Who Have Sex With Men With HIV: Benefits, Harms, and Cost-Effectiveness Analyses",
+      "pubmed_id": "40523287",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Deshmukh AA, Damgacioglu H, Sigel K, Palefsky JM, Clarke MA, Wentzensen N, Nyitray AG, Ortiz AP, Lin YY, Chiao EY, Stier E, Jay N, Gaisa M, Liu Y, Meissner EG, Lazenby G, Giuliano AR, Goldstone SE, Clifford GM, Sonawane K, Chhatwal J",
+      "journal": "Ann Intern Med"
     },
     {
       "title": "Oral human papillomavirus (HPV) prevalence and genotyping among healthy adult populations in the United States and Europe: results from the PROGRESS (PRevalence of Oral hpv infection, a Global aSSessment) study",
@@ -116,14 +124,6 @@
       "publication_date": "2025 Aug",
       "authors": "Giuliano AR, Beltrame A, Villa LL, Lazcano-Ponce E, Santana-Bagur J, Allen-Leigh B, Portillo-Romero AJ, Sahasrabuddhe VV, House MG, Brofsky E, Galan de Paula L, Carvalho da Silva R, Schell MJ, Rathwell J, Isaacs-Soriano K, Fan W, Mello C, Ellsworth GB, Wilkin T",
       "journal": "Vaccine"
-    },
-    {
-      "title": "Sequential HPV16 variant infections in the genital epithelium and anal canal of men",
-      "pubmed_id": "40874257",
-      "year": "2025",
-      "publication_date": "2025 Aug",
-      "authors": "Dube Mandishora RS, Gon\u00e7alves MG, Fan W, Sirak B, Ferreira MT, Reich RR, Isaacs-Soriano K, Abrahamsen M, Ponce EL, Villa LL, Giuliano AR, Sichero L",
-      "journal": "Int J Cancer"
     }
   ],
   "grants": [
@@ -219,9 +219,9 @@
       ]
     },
     {
-      "description": "Title: Partnership for Advancing cervical cancer prevention in women living with HIV (CASCADE)  \nAward Number: 7UG1CA275414-04  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI)",
+      "description": "Title: Partnership for Advancing cervical cancer prevention in women living with HIV (CASCADE)  \nAward Number: 5UG1CA275414-05  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI)",
       "title": "Partnership for Advancing cervical cancer prevention in women living with HIV (CASCADE)",
-      "award_number": "7UG1CA275414-04",
+      "award_number": "5UG1CA275414-05",
       "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
       "investigators": [
@@ -279,12 +279,30 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-17716/",
+      "trial_id": "17716",
+      "title": "A Biomarker-related Approach to Screening for HPV-related Oropharyngeal Cancer",
+      "condition": "Head & Neck",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23785/",
+      "trial_id": "23785",
+      "title": "CASCADE: A Single-Arm, Open-Label Clinical Phase II Trial of the Safety and Immunogenicity of PDS0101 in People Living with HIV",
+      "condition": "N/A",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GiulianoAnna_2969.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2969",
     "email": "demail@springer.com"
   },
-  "content_hash": "08e302f5ae03b7edbde5a73dbe3cc1f5e2800bec2e5fc2f019853fdc8aa694a8",
-  "researcher_name": "Anna Giuliano",
-  "department": "Cancer Epidemiology"
+  "content_hash": "fa099afb628f06a8ba28081f5821964d5010bee9ab49c4ab8fa91320b7d524d5",
+  "researcher_name": "anna giuliano",
+  "department": "cancer epidemiology"
 }

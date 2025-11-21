@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/anna-coghill)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/anna-coghill)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -509,14 +508,14 @@ Status: Open
 **If you believe you are eligible for one of these trials or studies, please call  
 [813-745-6100](tel:+813-745-6100) or toll-free [1-800-679-0775](tel:+1-800-679-0775). **
   * ## Publications
-    * Zhang W, Zhou Q, Nguyen JV, Egal E, Yang Q, Freeman MR, Hu-Lieskovan S, Suneja G, Coghill A, Knudsen BS. Comparison of QuPath and HALO platforms for analysis of the tumor microenvironment in prostate cancer. Lab Invest. 2025 Sep.104246. Pubmedid: [41005710](https://www.ncbi.nlm.nih.gov/pubmed/41005710). 
+    * Zhang W, Zhou Q, Nguyen JV, Egal E, Yang Q, Freeman MR, Hu-Lieskovan S, Suneja G, Coghill A, Knudsen BS. Comparison of QuPath and HALO Platforms for Analysis of the Tumor Microenvironment in Prostate Cancer. Lab Invest. 2025 Sep.105(12):104246. Pubmedid: [41005710](https://www.ncbi.nlm.nih.gov/pubmed/41005710). 
     * Jackson SS, Francis J, Pfeiffer RM, Proietti C, Coghill AE, Yu KJ, Sarathkumara YD, Hsu WL, Argirion I, Wang CP, Chen CJ, Rothman N, Lan Q, Hildesheim A, Doolan DL, Liu Z. Sex Differences in Anti-Epstein-Barr Virus Antibody Responses. J Infect Dis. 2025 Oct.232(4):e671-e675. Pubmedid: [39932888](https://www.ncbi.nlm.nih.gov/pubmed/39932888). Pmcid: PMC12372535. 
+    * Coghill AE, Thompson Z, Bamford L, Burkholder G, Enron J, Gopal S, Kitahata MM, Mayer KH, Moore R, Yendewa G, Dickey BL, Yanik E, Achenbach C. The association of immunosuppression and HIV control with Kaposi sarcoma among patients on antiretroviral therapy. Aids. 2025 Nov.39(13):1963-1969. Pubmedid: [40704994](https://www.ncbi.nlm.nih.gov/pubmed/40704994). 
     * Coghill AE, Van Bibber N, Baiocchi RA, Arnold SM, Riedlinger G, Schneider BP, Zhang Y, Suneja G, Gomez Fontela M, Abate-Daga D, Teer JK. Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN). Cancer Epidemiol Biomarkers Prev. 2025 May.34(5):774-779. Pubmedid: [40019488](https://www.ncbi.nlm.nih.gov/pubmed/40019488). Pmcid: PMC12048233. 
     * Islam JY, Guo Y, McGee-Avila JK, Turner K, Tabriz AA, Lin YC, Vadaparampil ST, Coghill AE, Camacho-Rivera M, Suneja G. Inequities by race and ethnicity in cancer treatment receipt among people living with HIV and cancer in the U.S. (2004-2020). BMC Cancer. 2025 May.25(1):897. Pubmedid: [40394520](https://www.ncbi.nlm.nih.gov/pubmed/40394520). Pmcid: PMC12090492. 
     * Islam JY, Zhou X, Baggett C, Jamjian C, Coghill A, Suneja G, Lund JL. Potential drug-drug interactions between cancer therapies and active antiretroviral treatments among Medicare-enrolled patients with cancer and HIV. Geriatr Oncol. 2025 Mar.16(2):102158. Pubmedid: [39592281](https://www.ncbi.nlm.nih.gov/pubmed/39592281). 
     * Islam JY, Guo Y, Turner K, Tabriz AA, Lin YC, Vidot DC, Vadaparampil ST, Coghill AE, ScD MC, Suneja G. Inequities in palliative care delivery to patients with HIV and stage IV cancers in the United States (2004-2020). JNCI Cancer Spectr. 2025 Mar.9(2). Pubmedid: [39579085](https://www.ncbi.nlm.nih.gov/pubmed/39579085). Pmcid: PMC11897894. 
     * Fenlon J, Van Bibber N, Mahlow J, Yamoah K, Soupir AC, Nguyen JV, Moran Segura C, Spivak AM, Knudsen BS, Zhou Q, Hu-Lieskovan S, Puri S, Zhang W, DeRose YS, Suneja G, Coghill AE. Human Immunodeficiency Virus-Associated Differences in the Tumor Immune Microenvironment of Lung, Breast, and Prostate Cancers. Cancer Epidemiol Biomarkers Prev. 2025 Jun.34(6):860-867. Pubmedid: [40183760](https://www.ncbi.nlm.nih.gov/pubmed/40183760). Pmcid: PMC12133412. 
-    * Coghill AE, Thompson Z, Bamford L, Burkholder G, Enron J, Gopal S, Kitahata MM, Mayer KH, Moore R, Yendewa G, Dickey BL, Yanik E, Achenbach C. The association of immunosuppression and HIV control with Kaposi sarcoma among patients on antiretroviral therapy. Aids. 2025 Jul. Pubmedid: [40704994](https://www.ncbi.nlm.nih.gov/pubmed/40704994). 
     * Yoder AK, Thomas RJ, Huang A, Mandalapu A, Roque DM, Bowles K, Albuquerque K, Son C, Ludwig MS, Levinson K, Coghill AE, Chiao EY, Lin LL. Cervical Cancer Outcomes in Women With HIV in the Age of Antiretroviral Therapy. JAMA Netw Open. 2025 Aug.8(8):e2527389. Pubmedid: [40815516](https://www.ncbi.nlm.nih.gov/pubmed/40815516). Pmcid: PMC12357181. 
     * Scholte LLS, Mello ES, Ibrahim KY, Uno M, da Costa VM, Miazima ES, Moniz CMV, de Souza GD, Amorim LO, de Souza IC, Oliveira K, Chammas R, Bowles K, Das L, Coghill AE, Rimsza L, Segurado A, Bethony JM. Advancing HIV and Cancer Research: Implementing an AIDS and Cancer Specimen Resource in Latin America. Biopreserv Biobank. 2025 Aug. Pubmedid: [40780813](https://www.ncbi.nlm.nih.gov/pubmed/40780813). 
     * Barger LN, Wang D, Saravia A, Mezzano V, Ward G, Loomis C, Feldman C, Tuluc M, Seedor RS, Gaskill PJ, Coghill AE, Suneja G, Dehzangi I, Hope JL, Jour G, Romano G. Population analysis and immunologic landscape of melanoma in people living with HIV. bioRxiv. 2025 Apr. Pubmedid: [40313919](https://www.ncbi.nlm.nih.gov/pubmed/40313919). Pmcid: PMC12045344. 
@@ -709,7 +708,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -764,7 +763,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/anna-coghill#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/anna-coghill#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -782,7 +781,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1136,7 +1135,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/anna-coghill#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/anna-coghill#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

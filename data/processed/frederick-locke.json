@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/frederick-locke",
-  "last_updated": "2025-10-21T16:39:03.474531",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/frederick-locke/",
+  "last_updated": "2025-11-21T22:50:23.784280",
   "researcher_id": "7878",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Blood and Marrow Transplant and Cellular Immunotherapy",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "blood and marrow transplant and cellular immunotherapy",
+  "research_program": "immuno-oncology",
   "overview": "Dr. Locke is focused on developing strategies to promote T cell responses against tumor associated antigens for patients with cancer.",
   "research_interests": [
     "Dr. Locke is a physician and translational investigator specializing in the treatment of lymphoma and multiple myeloma in the Department of Blood and Marrow Transplantation at Moffitt. He is focused on developing strategies to promote T cell responses against tumor associated antigens for patients with these diseases and is the principal investigator for multiple cellular immunotherapy trials. He is a lead investigator for two national multi-center phase I/II studies treating aggressive lymphoma patients with anti-CD19 CAR T cells and the site PI of a randomized multi-center trial testing infusion of tumor (marrow) infiltrating lymphocytes for multiple myeloma. Dr. Locke\u2019s translational research evaluates T cell responses against tumor associated antigens and neoantigens in myeloma patients. His findings justified a trial evaluating the biological activity of a unique Moffitt-created survivin dendritic cell vaccine using a novel schedule in conjunction with autologous transplant. Dr. Locke is the Chair of the Moffitt Cellular Therapy Advisory Committee and the Chair of the Moffitt Immunotherapy Working Group. In addition he is the Service Chief of the Moffitt Immune and Cellular Therapy (ICE-T) service, which was created to provide specialized clinical care for patients undergoing cellular immunotherapy treatments.\n  *"
@@ -40,6 +40,14 @@
   ],
   "publications": [
     {
+      "title": "Validation of Cure Assumptions when Analyzing ZUMA-7 Follow-up Data of Axicabtagene Ciloleucel and Standard of Care Therapy in Second-Line Relapsed/Refractory Large B-cell Lymphoma",
+      "pubmed_id": "40930226",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Perales MA, Oluwole OO, Patel AR, Ray MD, Rodriguez-Guadarrama YA, Smith NJ, Blissett R, Yang Y, Locke FL",
+      "journal": "Transplant Cell Ther"
+    },
+    {
       "title": "Mutagenic Impact and Evolutionary Influence of Chemoradiotherapy in Hematologic Malignancies",
       "pubmed_id": "40402512",
       "pmc_id": "PMC12405863",
@@ -66,12 +74,12 @@
       "journal": "Clin Cancer Res"
     },
     {
-      "title": "Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma",
-      "pubmed_id": "41072416",
+      "title": "Real-world outcomes of brexucabtagene autoleucel for relapsed or refractory mantle cell lymphoma: a CIBMTR analysis",
+      "pubmed_id": "40706035",
       "year": "2025",
       "publication_date": "2025 Oct",
-      "authors": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F",
-      "journal": "Cancer Cell"
+      "authors": "Ahmed N, Thiruvengadam S, Hamadani M, Hu ZH, Grover NS, Shadman M, Locke FL, Gerson J, Frank MJ, Budde LE, Wang ML, Kim S, Bye M, Kharfan-Dabaja MA, Sauter CS, Hematti P, Turtle CJ, Ahmed S, Moskop A, Logan BR, Nunes A, Dalton DM, Kloos IM, Lee D, Xu H, Pasquini MC, Herrera AF",
+      "journal": "Blood Adv"
     },
     {
       "title": "Lymphoma accelerates T cell and tissue aging",
@@ -82,13 +90,12 @@
       "journal": "Cancer Cell"
     },
     {
-      "title": "Radiomic Features Prognosticate Treatment Response in CAR-T Cell Therapy",
-      "pubmed_id": "40507312",
-      "pmc_id": "PMC12153729",
+      "title": "Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma",
+      "pubmed_id": "41072416",
       "year": "2025",
-      "publication_date": "2025 May",
-      "authors": "Balagurunathan Y, Choi JW, Thompson Z, Jain M, Locke FL",
-      "journal": "Cancers (Basel)"
+      "publication_date": "2025 Oct",
+      "authors": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F",
+      "journal": "Cancer Cell"
     },
     {
       "title": "Comparison of Standard-of-Care Idecabtagene Vicleucel and Ciltacabtagene Autoleucel in Relapsed/Refractory Multiple Myeloma",
@@ -109,21 +116,13 @@
       "journal": "Blood Adv"
     },
     {
-      "title": "Efficacy of Axicabtagene Ciloleucel Compared to Historical Treatments for Relapsed/Refractory Diffuse Large B-Cell Lymphoma of Asian Descent: A Matching Adjusted Indirect Comparison of ZUMA-1 vs REAL-TREND",
-      "pubmed_id": "40347097",
-      "pmc_id": "PMC12065393",
+      "title": "Radiomic Features Prognosticate Treatment Response in CAR-T Cell Therapy",
+      "pubmed_id": "40507312",
+      "pmc_id": "PMC12153729",
       "year": "2025",
       "publication_date": "2025 May",
-      "authors": "Locke FL, Ball G, Ray MD, Li T, Limbrick-Oldfield EH, Popoff E, Kanters S",
-      "journal": "Hematol Oncol"
-    },
-    {
-      "title": "Chimeric antigen receptor T cell therapy in octogenarians with B cell lymphoma: a real-world US multicenter collaborative study",
-      "pubmed_id": "40025178",
-      "year": "2025",
-      "publication_date": "2025 May",
-      "authors": "Kharfan-Dabaja MA, Mohty R, Easwar N, Johnston P, Iqbal M, Epperla N, Yared J, Ahmed N, Hamadani M, Beitinjaneh A, Narkhede M, Jagadeesh D, Ramakrishnan Geethakumari P, Dholaria B, Gergis U, Munoz J, Sandoval-Sus J, Locke FL, Fein J, Khurana A, Ayala E, Annunzio K, Rapoport AP, Lutfi F, Akhtar OS, Lekakis L, Mehta A, Oluwole OO, Logue J, Jain MD, Shore T, Durani U, Alhaj Moustafa M, McGuirk J, Lin Y, Yamshon S, Chavez JC",
-      "journal": "Bone Marrow Transplant"
+      "authors": "Balagurunathan Y, Choi JW, Thompson Z, Jain M, Locke FL",
+      "journal": "Cancers (Basel)"
     }
   ],
   "grants": [
@@ -198,10 +197,9 @@
       ]
     },
     {
-      "description": "Title: Immunoglobulin Replacement Therapy and Infectious Complications After CD19-Targeted CAR-T-C  \nAward Number: 1 R01 CA276040-01A1  \nSponsor: National Cancer Institute (NCI)  \nLocke, F. (PD/PI)",
+      "description": "Title: Immunoglobulin Replacement Therapy and Infectious Complications After CD19-Targeted CAR-T-C  \nAward Number: 5R01CA276040-03  \nSponsor: National Cancer Institute (NCI)  \nLocke, F. (PD/PI)",
       "title": "Immunoglobulin Replacement Therapy and Infectious Complications After CD19-Targeted CAR-T-C",
-      "award_number": "1 R01 CA276040-01A1",
-      "id": "R01 CA276040",
+      "award_number": "5R01CA276040-03",
       "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
       "investigators": [
@@ -232,11 +230,70 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-19724/",
+      "trial_id": "19724",
+      "title": "Managed Access Program (MAP) To Provide Access To CTL019, For Acute Lymphoblastic Leukemia (ALL) Or Diffuse Large B-Cell Lymphoma (DLBCL) Patients With Out Of Specification Leukapheresis Product And/Or Manufactured Tisagenlecleucel Out Of Specification For Commercial Release",
+      "condition": "Malignant Hematology",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20737/",
+      "trial_id": "20737",
+      "title": "Expanded Access Protocol (EAP) for Subjects Receiving Lisocabtagene Maraleucel That is Nonconforming for Commercial Release",
+      "condition": "Malignant Hematology",
+      "intervention": "cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate); lisocabtagene maraleucel ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21955/",
+      "trial_id": "21955",
+      "title": "Phase 2 Study of Tafasitamab and Lenalidomide as First Salvage Therapy for Residual Large B Cell Lymphoma after Axicabtagene Ciloleucel",
+      "condition": "Malignant Hematology",
+      "intervention": "CC-5013 (Lenalidomide); Lenalidomide (Revlimid); Tafasitamab ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22080/",
+      "trial_id": "22080",
+      "title": "An Adaptive Phase 3, Randomized, Open-Label, Multicenter Study to Compare the Efficacy and Safety of Axicabtagene Ciloleucel versus Standard of Care Therapy as First-Line Therapy in Subjects with High-Risk Large B-Cell Lymphoma",
+      "condition": "Malignant Hematology",
+      "intervention": "Adriamycin (doxorubicin); Axicabtagene Ciloleucel (Yescarta); Etoposide (); Rituxan (rituximab); Vincristine (); cyclophosphamide (); cytoxan (cyclophosphamide); doxorubicin (); fludarabine (Fludarabine phosphate); prednisone (); rituximab ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23184/",
+      "trial_id": "23184",
+      "title": "Immunoglobulin Replacement Therapy and Infectious Complications After CD19-Targeted CAR-T-Cell Therapy (CARIsMA)",
+      "condition": "Malignant Hematology",
+      "intervention": "Placebo ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23363/",
+      "trial_id": "23363",
+      "title": "A Randomized, Open-Label Study Evaluating the Efficacy and Safety of Cemacabtagene Ansegedleucel in Participants with Minimal Residual Disease after Response to First Line Therapy for Large B-Cell Lymphoma (Alpha3)",
+      "condition": "Malignant Hematology",
+      "intervention": "ALLO-647 (); Cema-cel (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23706/",
+      "trial_id": "23706",
+      "title": "Expanded Access Study for the Treatment of Patients with Commercially Out-of-Specification Axicabtagene Ciloleucel",
+      "condition": "Malignant Hematology",
+      "intervention": "Axicabtagene Ciloleucel (Yescarta)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?user=mfo2Xr0AAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LockeFrederick_7878.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7878"
   },
-  "content_hash": "a924d6b0f972b288b972df1d30babc00a258ff3183521811eae1331b53cda037",
-  "researcher_name": "Frederick Locke",
-  "department": "Immunology"
+  "content_hash": "eb032b2c39b9ce620cf881e09b18c890321febe8a850def21352c952f8d6aebb",
+  "researcher_name": "frederick locke",
+  "department": "immunology"
 }

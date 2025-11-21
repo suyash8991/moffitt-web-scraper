@@ -1,0 +1,260 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lilit-karapetyan/",
+  "last_updated": "2025-11-21T22:50:25.378655",
+  "researcher_id": "33021",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "cutaneous oncology",
+  "research_program": "immuno-oncology",
+  "overview": "Tertiary lymphoid structures in melanoma microenvironment Adaptive cell therapy with tumor-infiltrating lymphocytes in melanoma",
+  "research_interests": [
+    "Studying tumor microenvironment B-T cell interactions Improving TIL therapy outcomes with ex vivo modulation of TIL expansion\n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Michigan, MS"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Yerevan State Medical University",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Yerevan State Medical University",
+      "specialty": "Oncology"
+    },
+    {
+      "type": "Residency",
+      "institution": "Michigan State University",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Pittsburgh",
+      "specialty": "Hematology/Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Recurrence and Survival Outcomes in Patients with Primary Merkel Cell Carcinoma with Positive, Negative, or Not Performed Sentinel Lymph Node Biopsy",
+      "pubmed_id": "41168606",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Dugan MM, Balsay-Patel C, Chin N, Israeli J, Ward KR, Nichols M, Greenbaum S, Fan W, Cruse CW, Harrington M, Neves RI, Gonzalez RJ, Perez MC, Sarnaik AA, Sondak VK, Messina JL, Tarhini AA, Khushalani N, Brohl AS, Markowitz J, Eroglu Z, Karapetyan L, Tsai KY, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "A comparison of isolated limb infusion/perfusion, immune checkpoint inhibitors, and intralesional therapy as first-line treatment for patients with melanoma in-transit metastases",
+      "pubmed_id": "39522025",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "DePalo DK, Dugan MM, Naqvi SMH, Ollila DW, Hieken TJ, Block MS, van Houdt WJ, Wouters MWJM, Reijers SJM, Asher N, Broman KK, Duncan Z, Anderson M, Gyorki DE, Snow H, Held J, Farma JM, Vetto JT, Hui JYC, Kolbow M, Saw RPM, Lo SN, Long GV, Thompson JF, Kim Y, Karapetyan L, Ny L, van Akkooi ACJ, Bagge RO, Zager JS",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Durability of response to immune checkpoint blockade following treatment discontinuation and efficacy of rechallenge in advanced Merkel cell carcinoma",
+      "pubmed_id": "39242118",
+      "pmc_id": "PMC11381633",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Ramadoss T, Nichols M, Palacios C, Eroglu Z, Markowitz J, Karapetyan L, Tarhini AA, Wuthrick EJ, Sondak VK, Khushalani NI, Tsai KY, Brohl AS",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Differences in the pathological, transcriptomic, and prognostic implications of lymphoid structures between primary and metastatic cutaneous melanomas",
+      "pubmed_id": "39537211",
+      "pmc_id": "PMC11575263",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Karapetyan L, Li A, Vargas De Stefano D, Abushukair HM, Al-Bzour AN, Knight A, Layding C, Wang H, Xu J, Yao J, Song X, Joy M, Nguyen J, Moran-Segura C, Bruno S, Sander C, Messina J, Mule JJ, Storkus WJ, Kirkwood JM",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Combination Atezolizumab, Cobimetinib, and Vemurafenib as a Treatment Option in BRAF V600 Mutation-Positive Melanoma: Patient Selection and Perspectives",
+      "pubmed_id": "39099762",
+      "pmc_id": "PMC11296355",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Dugan MM, Perez MC, Karapetyan L, Zager JS",
+      "journal": "Cancer Manag Res"
+    },
+    {
+      "title": "Antagonism of regulatory ISGs enhances the anti-melanoma efficacy of STING agonists",
+      "pubmed_id": "38312842",
+      "pmc_id": "PMC10835797",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Filderman JN, Taylor JL, Wang J, Zhang Y, Singh P, Ross MA, Watkins SC, Nedal Al Bzour A, Karapetyan L, Kalinski P, Storkus WJ",
+      "journal": "Front Immunol"
+    },
+    {
+      "title": "Management of acral lentiginous melanoma: current updates and future directions",
+      "pubmed_id": "38390259",
+      "pmc_id": "PMC10882087",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Dugan MM, Perez MC, Karapetyan L, Zager JS",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "Blockade of LAG-3 and PD-1 leads to co-expression of cytotoxic and exhaustion gene modules in CD8+ T cells to promote antitumor immunity",
+      "pubmed_id": "39121849",
+      "pmc_id": "PMC11346583",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Cillo AR, Cardello C, Shan F, Karapetyan L, Kunning S, Sander C, Rush E, Karunamurthy A, Massa RC, Rohatgi A, Workman CJ, Kirkwood JM, Bruno TC, Vignali DAA",
+      "journal": "Cell"
+    },
+    {
+      "title": "Radiation dose, schedule, and novel systemic targets for radio-immunotherapy combinations",
+      "pubmed_id": "37348864",
+      "pmc_id": "PMC10637035",
+      "year": "2023",
+      "publication_date": "2023 Nov",
+      "authors": "Karapetyan L, Iheagwara UK, Olson AC, Chmura SJ, Skinner HK, Luke JJ",
+      "journal": "J Natl Cancer Inst"
+    },
+    {
+      "title": "Early Detection and Prognostic Assessment of Cutaneous Melanoma: Consensus on Optimal Practice and the Role of Gene Expression Profile Testing",
+      "pubmed_id": "36920356",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Kashani-Sabet M, Leachman SA, Stein JA, Arbiser JL, Berry EG, Celebi JT, Curiel-Lewandrowski C, Ferris LK, Grant-Kels JM, Grossman D, Kulkarni RP, Marchetti MA, Nelson KC, Polsky D, Seiverling EV, Swetter SM, Tsao H, Verdieck-Devlaeminck A, Wei ML, Bar A, Bartlett EK, Bolognia JL, Bowles TL, Cha KB, Chu EY, Hartman RI, Hawryluk EB, Jampel RM, Karapetyan L, Kheterpal M, Lawson DH, Leming PD, Liebman TN, Ming ME, Sahni D, Savory SA, Shaikh SS, Sober AJ, Sondak VK, Spaccarelli N, Usatine RP, Venna S, Kirkwood JM",
+      "journal": "JAMA Dermatol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Deciphering the role of APRIL/TNFSF13 in melanoma associated TLS formation  \nAward Number:   \nSponsor: Melanoma Research Foundation (MRF)  \nKarapetyan, L. (PD/PI)",
+      "title": "Deciphering the role of APRIL/TNFSF13 in melanoma associated TLS formation",
+      "award_number": "",
+      "sponsor": "Melanoma Research Foundation (MRF)",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Karapetyan, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: CD40L-augmented tumor infiltrating lymphocyte growth from core biopsy samples  \nAward Number:   \nSponsor: Melanoma Research Foundation (MRF)  \nKarapetyan, L. (PD/PI)",
+      "title": "CD40L-augmented tumor infiltrating lymphocyte growth from core biopsy samples",
+      "award_number": "",
+      "sponsor": "Melanoma Research Foundation (MRF)",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Karapetyan, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: RWE for de-identified data on patients receiving standard of care TIL therapy  \nAward Number: n/a  \nSponsor: Iovance Biotherapeutics, Inc  \nKarapetyan, L. (PD/PI)",
+      "title": "RWE for de-identified data on patients receiving standard of care TIL therapy",
+      "award_number": "n/a",
+      "sponsor": "Iovance Biotherapeutics, Inc",
+      "investigators": [
+        {
+          "name": "Karapetyan, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Development and Validation of Prognostic and Predictive AI biomarkers in melanoma  \nAward Number: 22VA014-S3  \nSponsor: VALAR LABS INC  \nKarapetyan, L. (PD/PI)",
+      "title": "Development and Validation of Prognostic and Predictive AI biomarkers in melanoma",
+      "award_number": "22VA014-S3",
+      "sponsor": "VALAR LABS INC",
+      "investigators": [
+        {
+          "name": "Karapetyan, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Deciphering the impact of tumor-associated tertiary lymphoid structures on regional lymph node metastasis in primary melanomas   \nAward Number: N/A  \nSponsor: PHI BETA PSI SORORITY  \nKarapetyan, L. (PD/PI)",
+      "title": "Deciphering the impact of tumor-associated tertiary lymphoid structures on regional lymph node metastasis in primary melanomas",
+      "sponsor": "PHI BETA PSI SORORITY",
+      "investigators": [
+        {
+          "name": "Karapetyan, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Evaluating B-T cell crosstalk within tertiary lymphoid structures in melanoma progression and immune checkpoint blockade  \nAward Number: HT94252410640  \nSponsor: Department of Defense (DOD)  \nKarapetyan, L. (PD/PI)",
+      "title": "Evaluating B-T cell crosstalk within tertiary lymphoid structures in melanoma progression and immune checkpoint blockade",
+      "award_number": "HT94252410640",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Karapetyan, L.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22079/",
+      "trial_id": "22079",
+      "title": "A Phase 1/2, Open-Label Study of PD-1 Knockout Tumor-Infiltrating Lymphocytes (IOC-4001) in Participants with Unresectable or Metastatic Melanoma or Stage III or IV Non-Small-Cell Lung Cancer",
+      "condition": "Cutaneous",
+      "intervention": "IL-2 (Interleukin-2); IOV-4001 (); MESNA (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate)",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22505/",
+      "trial_id": "22505",
+      "title": "Cutaneous Adverse Events (irCAEs) Associated with Immunotherapy in Patients with Melanoma",
+      "condition": "Cutaneous",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22536/",
+      "trial_id": "22536",
+      "title": "Immune Profiling of Relatlimab and Nivolumab Combination Immunotherapy for Advanced Stage Metastatic Melanoma",
+      "condition": "Cutaneous",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22554/",
+      "trial_id": "22554",
+      "title": "A prospective, multicenter, open-label, randomized, actively controlled, parallel-group Phase 3 clinical trial to evaluate efficacy, safety, and tolerability of IMA203 versus investigator's choice of treatment in patients with previously treated, unresectable or metastatic cutaneous melanoma (ACTengine\u00ae IMA203-301)",
+      "condition": "Cutaneous",
+      "intervention": "Albumin-Bound Paclitaxel (); BMS-936558 (Nivolumab); BMS-986016 (Relatlimab); DTIC (Dacarbazine); Dacarbazine (); IL-2 (Interleukin-2); IMA203 (); Ipilimumab (); Lifileucel (); Nivolumab (Opdivo); Paraplatin (carboplatin); Pembrolizumab (Keytruda); Relatlimab (); Taxol (paclitaxel); Temodal (Temozolomide); Temozolomide (); Yervoy (Ipilimumab); carboplatin (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate); paclitaxel ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23082/",
+      "trial_id": "23082",
+      "title": "Phase I/II Clinical Trial of CD40L-augmented Tumor Infiltrating Lymphocytes (TIL) for Patients with Advanced Melanoma",
+      "condition": "Cutaneous",
+      "intervention": "Aldesleukin (Interleukin-2); IL-2 (Interleukin-2); Interleukin-2 (); Proleukin (Interleukin-2); TIL (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KarapetyanLilit_33021.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=33021"
+  },
+  "content_hash": "ee0e3db4322cb380c62779c1caeff25f657f3bf8710132d06c84808f16f943d7",
+  "researcher_name": "lilit karapetyan",
+  "department": ""
+}

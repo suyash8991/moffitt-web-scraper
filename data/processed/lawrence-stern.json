@@ -1,0 +1,115 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lawrence-stern/",
+  "last_updated": "2025-11-21T22:50:25.293378",
+  "researcher_id": "27376",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "",
+  "overview": "",
+  "research_interests": [],
+  "associations": [],
+  "education": [],
+  "publications": [
+    {
+      "title": "Potency monitoring of CAR T cells",
+      "pubmed_id": "36653083",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Wang D, Yang X, Xella A, Stern LA, Brown CE",
+      "journal": "Methods Cell Biol"
+    },
+    {
+      "title": "Regulation of the BCR signalosome by the class II peptide editor, H2-M, affects the development and repertoire of innate-like B cells",
+      "pubmed_id": "35081339",
+      "year": "2022",
+      "publication_date": "2022 Jan",
+      "authors": "Ghosh D, Pham TD, Nanaware PP, Sengupta D, Adler LN, Li CG, He X, O'Mara ME, Kantor AB, Nguyen KD, Yang Y, Eisenlohr LC, Jensen PE, Herzenberg LA, Stern LJ, Boyd SD, Ghosn EEB, Mellins ED",
+      "journal": "Cell Rep"
+    },
+    {
+      "title": "Ligand Selection by Combination of Recombinant and Cell Panning Selection Techniques",
+      "pubmed_id": "35482193",
+      "year": "2022",
+      "publication_date": "2022 Apr",
+      "authors": "Panton RA, Stern LA",
+      "journal": "Methods Mol Biol"
+    },
+    {
+      "title": "Circulating human rotavirus specific CD4 T cells identified with a class II tetramer express the intestinal homing receptors \u03b14\u03b27 and CCR9",
+      "pubmed_id": "24606696",
+      "pmc_id": "PMC3989888",
+      "year": "2014",
+      "publication_date": "2014 Mar",
+      "authors": "Parra M, Herrera D, Calvo-Calle JM, Stern LJ, Parra-L\u00f3pez CA, Butcher E, Franco M, Angel J",
+      "journal": "Virology"
+    },
+    {
+      "title": "Effect of CDR3 sequences and distal V gene residues in regulating TCR-MHC contacts and ligand specificity",
+      "pubmed_id": "24813203",
+      "pmc_id": "PMC4097884",
+      "year": "2014",
+      "publication_date": "2014 Jun",
+      "authors": "Stadinski BD, Trenh P, Duke B, Huseby PG, Li G, Stern LJ, Huseby ES",
+      "journal": "J Immunol"
+    },
+    {
+      "title": "Measurement of Peptide Binding to MHC Class II Molecules by Fluorescence Polarization",
+      "pubmed_id": "25081912",
+      "pmc_id": "PMC4151172",
+      "year": "2014",
+      "publication_date": "2014 Aug",
+      "authors": "Yin L, Stern LJ",
+      "journal": "Curr Protoc Immunol"
+    },
+    {
+      "title": "A novel method to measure HLA-DM-susceptibility of peptides bound to MHC class II molecules based on peptide binding competition assay and differential IC(50) determination",
+      "pubmed_id": "24583195",
+      "pmc_id": "PMC4029850",
+      "year": "2014",
+      "publication_date": "2014 Apr",
+      "authors": "Yin L, Stern LJ",
+      "journal": "J Immunol Methods"
+    },
+    {
+      "title": "HLA-DM Focuses on Conformational Flexibility Around P1 Pocket to Catalyze Peptide Exchange",
+      "pubmed_id": "24146666",
+      "pmc_id": "PMC3797982",
+      "year": "2013",
+      "publication_date": "2013 Oct",
+      "authors": "Yin L, Stern LJ",
+      "journal": "Front Immunol"
+    },
+    {
+      "title": "CD4+ T cells provide intermolecular help to generate robust antibody responses in vaccinia virus-vaccinated humans",
+      "pubmed_id": "23667112",
+      "pmc_id": "PMC3679297",
+      "year": "2013",
+      "publication_date": "2013 Jun",
+      "authors": "Yin L, Calvo-Calle JM, Cruz J, Newman FK, Frey SE, Ennis FA, Stern LJ",
+      "journal": "J Immunol"
+    },
+    {
+      "title": "HLA-DO acts as a substrate mimic to inhibit HLA-DM by a competitive mechanism",
+      "pubmed_id": "23222639",
+      "pmc_id": "PMC3537886",
+      "year": "2013",
+      "publication_date": "2013 Jan",
+      "authors": "Guce AI, Mortimer SE, Yoon T, Painter CA, Jiang W, Mellins ED, Stern LJ",
+      "journal": "Nat Struct Mol Biol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27376"
+  },
+  "content_hash": "ad6b61cf81f44abaf7120e1c1aac25e91e3aaa8eb153c5db0816a2575b4e158d",
+  "researcher_name": "lawrence stern",
+  "department": ""
+}

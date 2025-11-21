@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/doratha-byrd",
-  "last_updated": "2025-10-21T16:35:35.117253",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/doratha-byrd/",
+  "last_updated": "2025-11-21T22:50:23.489442",
   "researcher_id": "28607",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Dr. Byrd's research focuses on elucidating the interrelationships among modifiable dietary and lifestyle exposures, the microbiome, and cancer risk and progression. Her long term goal is to use multilevel approaches to address cancer disparities with her etiological microbiome research.",
   "research_interests": [
     "Dr. Byrd completed her Ph.D. in epidemiology at Emory University, where her dissertation research focused on the development and validation of novel, inflammation biomarker panel-weighted dietary and lifestyle inflammation scores, and their associations with colorectal neoplasms. She completed a postdoctoral fellowship in the Metabolic Epidemiology Branch of the Division of Cancer Epidemiology and Genetics at the National Cancer Institute, where she was actively involved in conducting multiple studies to establish the best, standard methods for collecting fecal samples for 16S rRNA and shotgun metagenomic microbiome studies. As a logical next step of this work, she extended her methodological findings to application in etiological investigations of the interrelationships among diet, colonic mucosal and fecal microbes, microbiome-related metabolites, and cancer risk and progression. In January 2021, she joined the H. Lee Moffitt Cancer Center and Research Institute as an Assistant Member in the Cancer Epidemiology Program, where she is continuing her methodological and etiological microbiome research. Her long-term goal is to use multilevel approaches to address cancer disparities with her etiological diet and microbiome research.\n  *"
@@ -62,6 +62,15 @@
       "journal": "Cell Rep"
     },
     {
+      "title": "Associations of the Colon Tissue Microbiome and Circulating Bile Acids With Colorectal Adenoma Among Average-Risk Women",
+      "pubmed_id": "40937639",
+      "pmc_id": "PMC12426762",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Byrd DA, Gomez MF, Hogue SR, Burns JR, Smith N, Sampson J, Loftfield E, Wolf PG, Wan Y, Warner A, Hicks B, Dagnall C, Jones K, Kim Y, Xu J, Shi J, Sinha R, Vogtmann E",
+      "journal": "Cancer Med"
+    },
+    {
       "title": "Response to Hanif and Sholihah",
       "pubmed_id": "40828889",
       "pmc_id": "PMC12505123",
@@ -105,15 +114,6 @@
       "publication_date": "2025 Jun",
       "authors": "Byrd DA, Gomez M, Hogue S, Wan Y, Ortega-Villa A, Warner A, Dagnall C, Jones K, Hicks B, Albert P, Murphy G, Sinha R, Vogtmann E",
       "journal": "J Natl Cancer Inst"
-    },
-    {
-      "title": "The gut microbiome is associated with disease-free survival in stage I-III colorectal cancer patients",
-      "pubmed_id": "39887373",
-      "pmc_id": "PMC12262587",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Byrd DA, Damerell V, Gomez Morales MF, Hogue SR, Lin T, Ose J, Himbert C, Ilozumba MN, Kahlert C, Shibata D, Toriola AT, Li CI, Figueiredo J, Stephens WZ, Warby CA, Hardikar S, Siegel EM, Round J, Ulrich CM, Gigic B",
-      "journal": "Int J Cancer"
     }
   ],
   "grants": [
@@ -160,9 +160,9 @@
       ]
     },
     {
-      "description": "Title: Transdisciplinary Team Science in Colorectal Cancer Prognosis: The ColoCare Study  \nAward Number: 5U01CA206110-09  \nSponsor: National Cancer Institute (NCI)  \nByrd, D. (PD/PI)",
+      "description": "Title: Transdisciplinary Team Science in Colorectal Cancer Prognosis: The ColoCare Study  \nAward Number: 5U01CA206110-10  \nSponsor: National Cancer Institute (NCI)  \nByrd, D. (PD/PI)",
       "title": "Transdisciplinary Team Science in Colorectal Cancer Prognosis: The ColoCare Study",
-      "award_number": "5U01CA206110-09",
+      "award_number": "5U01CA206110-10",
       "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
       "investigators": [
@@ -185,11 +185,36 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-16028/",
+      "trial_id": "16028",
+      "title": "Transdisciplinary Research in Colorectal Cancer: The ColoCare Study",
+      "condition": "Gastrointestinal Tumor",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22709/",
+      "trial_id": "22709",
+      "title": "A Randomized High-Fermented Food Intervention among Cancer Patients (The FEED Trial)",
+      "condition": "Multiple",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23464/",
+      "trial_id": "23464",
+      "title": "ColoCare GO",
+      "condition": "Gastrointestinal Tumor",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://lab.moffitt.org/byrd/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ByrdDoratha_28607.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28607"
   },
-  "content_hash": "2587701c65aa9791b3825ed38ee66fcbf67cd9ed200128b61e132e15103a77ae",
-  "researcher_name": "Doratha Byrd",
-  "department": "Cancer Epidemiology"
+  "content_hash": "1e95dce742b08cc967ff790387021b960cd95faf91be7d228d9341c099526e86",
+  "researcher_name": "doratha byrd",
+  "department": "cancer epidemiology"
 }

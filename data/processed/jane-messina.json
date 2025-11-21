@@ -1,0 +1,137 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jane-messina/",
+  "last_updated": "2025-11-21T22:50:24.255676",
+  "researcher_id": "1528",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "pathology",
+  "research_program": "cancer biology & evolution",
+  "overview": "Dr. Messina's research interests include pathology of the sentinel node, biomarkers of prognosis in cutaneous melanoma, and etiology and treatment of Merkel cell carcinoma.",
+  "research_interests": [
+    "Dr. Messina has published over 150 papers in peer-reviewed journals. Her research covers pathologic evaluation of sentinel lymph nodes, special applications of sentinel lymphadenectomy, and molecular studies of spectrum of melanocytic neoplasia.\n  *"
+  ],
+  "associations": [
+    "Pathology",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Center for Immunization & Infection Research in Cancer",
+    "Experimental Therapeutics Program",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of South Florida College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "USF Affiliated Hospitals",
+      "specialty": "Anatomic and Clinical Pathology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "USF Departments of Pathology/Dermatology",
+      "specialty": "Dermatopathology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Evaluation and Surgical Management of Pediatric Cutaneous Melanoma and Atypical Spitz and Non-Spitz Melanocytic Tumors (Melanocytomas): A Report From Children's Oncology Group",
+      "pubmed_id": "39365959",
+      "pmc_id": "PMC11908957",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Sargen MR, Barnhill RL, Elder DE, Swetter SM, Prieto VG, Ko JS, Bahrami A, Gerami P, Karunamurthy A, Pappo AS, Schuchter LM, LeBoit PE, Yeh I, Kirkwood JM, Jen M, Dunkel IJ, Durham MM, Christison-Lagay ER, Austin MT, Aldrink JH, Mehrhoff C, Hawryluk EB, Chu EY, Busam KJ, Sondak V, Messina J, Puig S, Colebatch AJ, Coughlin CC, Berrebi KG, Laetsch TW, Mitchell SG, Seynnaeve B",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Annals of Surgical Oncology Practice Guidelines Series: Adjuvant and Neoadjuvant Therapy for Melanoma",
+      "pubmed_id": "39495363",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Farma JM, Olszanski AJ, Messina JL, Sondak VK",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Cutaneous Reactions to Iron Infusions: A Case Report and Clinical Review",
+      "pubmed_id": "40625824",
+      "pmc_id": "PMC12232973",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Patil N, Ravichandran S, Messina J, Kirtane K, Phuoc V, Kubal T, Maharaj S",
+      "journal": "EJHaem"
+    },
+    {
+      "title": "Tumor infiltrating lymphocytes in primary melanoma are associated with a better prognosis",
+      "pubmed_id": "39979140",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Morrison SL, Han G, Elenwa F, Leong SP, Kashani-Sabet M, Pockaj B, Kosiorek HE, White RL, Zager JS, Messina JL, Sondak V, O'Donoghue C, Howard JH, Schneebaum S, Olofsson Bagge R, Namm JP, Garberoglio C, Avisar E, Fowler G, Han D, Vetto J",
+      "journal": "Am J Surg"
+    },
+    {
+      "title": "Preexisting Skin-Resident CD8 and \u03b3\u03b4 T-cell Circuits Mediate Immune Response in Merkel Cell Carcinoma and Predict Immunotherapy Efficacy",
+      "pubmed_id": "39058036",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Reinstein ZZ, Zhang Y, Ospina OE, Nichols MD, Chu VA, Pulido AM, Prieto K, Nguyen JV, Yin R, Moran Segura C, Usman A, Sell B, Ng S, de la Iglesia JV, Chandra S, Sosman JA, Cho RJ, Cheng JB, Ivanova E, Koralov SB, Slebos RJC, Chung CH, Khushalani NI, Messina JL, Sarnaik AA, Zager JS, Sondak VK, Vaske C, Kim S, Brohl AS, Mi X, Pierce B, Wang X, Fridley BL, Tsai KY, Choi J",
+      "journal": "Cancer Discov"
+    },
+    {
+      "title": "The small MAF transcription factor MAFG co-opts MITF to promote melanoma progression",
+      "pubmed_id": "39282450",
+      "pmc_id": "PMC11398417",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Vera O, Martinez M, Soto-Vargas Z, Wang K, Xu X, Ruiz-Buceta S, Mecozzi N, Chadourne M, Posorske B, Angarita A, Bok I, Liu Q, Murikipudi H, Kim Y, Messina JL, Tsai KY, Major MB, Lau EK, Yu X, Ibanez-de-Caceres I, Karreth FA",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "Differences in the pathological, transcriptomic, and prognostic implications of lymphoid structures between primary and metastatic cutaneous melanomas",
+      "pubmed_id": "39537211",
+      "pmc_id": "PMC11575263",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Karapetyan L, Li A, Vargas De Stefano D, Abushukair HM, Al-Bzour AN, Knight A, Layding C, Wang H, Xu J, Yao J, Song X, Joy M, Nguyen J, Moran-Segura C, Bruno S, Sander C, Messina J, Mule JJ, Storkus WJ, Kirkwood JM",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "The Impact of Next-generation Sequencing on Interobserver Agreement and Diagnostic Accuracy of Desmoplastic Melanocytic Neoplasms",
+      "pubmed_id": "38590014",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Chen A, Sharma N, Patel P, Olivares S, Bahrami A, Barnhill RL, Blokx WAM, Bosenberg M, Busam KJ, de La Fouchardi\u00e8re A, Duncan LM, Elder DE, Ko JS, Landman G, Lazar AJ, Lezcano C, Lowe L, Maher N, Massi D, Messina J, Mihic-Probst D, Parker DC, Redpath M, Scolyer RA, Shea CR, Spatz A, Tron V, Xu X, Yeh I, Jung Yun S, Zembowicz A, Gerami P",
+      "journal": "Am J Surg Pathol"
+    },
+    {
+      "title": "Melanoma in Pediatric and Young Adult Patients",
+      "pubmed_id": "38780675",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Sondak VK, Messina JL",
+      "journal": "Curr Oncol Rep"
+    },
+    {
+      "title": "Androgen drives melanoma invasiveness and metastatic spread by inducing tumorigenic fucosylation",
+      "pubmed_id": "38326303",
+      "pmc_id": "PMC10850104",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Liu Q, Adhikari E, Lester DK, Fang B, Johnson JO, Tian Y, Mockabee-Macias AT, Izumi V, Guzman KM, White MG, Koomen JM, Wargo JA, Messina JL, Qi J, Lau EK",
+      "journal": "Nat Commun"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MessinaJane_1528.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1528"
+  },
+  "content_hash": "05b98bfe33a61616f74ff086cb25573f42d03c68d2dbb8edd76b76d05842138d",
+  "researcher_name": "jane messina",
+  "department": ""
+}

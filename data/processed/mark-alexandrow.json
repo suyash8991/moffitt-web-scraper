@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/mark-alexandrow",
-  "last_updated": "2025-10-21T16:34:25.368488",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mark-alexandrow/",
+  "last_updated": "2025-11-21T22:50:25.605506",
   "researcher_id": "3471",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "We study how the initiation of DNA replication is controlled, and plan to design novel cancer drugs that target proteins involved in this process.",
   "research_interests": [
     "The research in Dr. Alexandrow's laboratory is focused on two central areas: (1) the mechanisms by which positive growth factor signals or inhibitory TGF-beta signals regulate the assembly and function of pre-(DNA) Replication Complexes (preRCs) in late G1 phase, and (2) how the DNA replication machinery and preRCs utilize chromatin remodeling complexes to gain access to the DNA substrate during late G1 and S-phase. The preRC is composed of multiple protein subunits that assemble in a stepwise and tightly regulated manner: Origin Recognition Complex (ORC), Cdc6, Cdt1, and the Mini-Chromosome Maintenance (MCM) helicase. After this forms, other proteins are recruited, including Cdc45, Mcm10, PCNA, and DNA polymerases. At G1/S, this complex is triggered and S-phase begins. However, very little is known in mammalian cells regarding how preRC assembly is regulated at the molecular level, how growth factors modulate preRC assembly, and how preRC activation is triggered at G1/S by cell cycle factors such as cyclin-dependent kinases. Furthermore, there is little knowledge of how the regulation of preRC assembly and activation is deregulated in cancer cells. Loss of control over MCM loading and activation is known to lead to re-replication within one cell cycle, producing genomic instability that contributes to tumorigenesis, and this concept provides a strong argument for understanding the molecular and biochemical events that govern preRC dynamics. The long term goal of this research is not only to understand the regulation of preRC function and assembly in late G1, but also to identify novel protein-protein interactions and key regulatory steps that might serve as useful targets for small molecule drug design/intervention for the treatment of cancer.\n  *"
@@ -139,11 +139,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AlexandrowMark_3471.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3471"
   },
-  "content_hash": "d067404f6a721157058db3d4e20fca57e4de54c8d3dffb9f62fc1e8fbf58afff",
-  "researcher_name": "Mark Alexandrow",
-  "department": "Molecular Oncology"
+  "content_hash": "5e7906c4f496ea4189820ccf0e13908f14090bc3baa93c8cd745fb8f4cf07e12",
+  "researcher_name": "mark alexandrow",
+  "department": "molecular oncology"
 }

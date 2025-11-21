@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jacob-kresovich",
-  "last_updated": "2025-10-21T16:36:07.511633",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jacob-kresovich/",
+  "last_updated": "2025-11-21T22:50:24.157244",
   "researcher_id": "32219",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Jacob K. Kresovich, PhD, MPH is a molecular cancer epidemiologist focused on identifying the biological processes that link aging and immune function to breast cancer development and survival.",
   "research_interests": [
     "Dr. Kresovich\u2019s research is focused on characterizing molecular and immunological changes that occur before, during and after cancer development and treatment. Dr. Kresovich earned a PhD in Epidemiology from the University of Illinois at Chicago School of Public Health and an MPH in Epidemiology from Columbia University Mailman School of Public Health. He completed a Postdoctoral Fellowship at the Epidemiology Branch of the National Institute of Environmental Health Sciences, where his work focused on investigating the relationship between blood DNA methylation profiles and aging, environmental exposures, lifestyles, behaviors, and breast cancer risk. Since joining Moffitt, Dr. Kresovich has extended his research to include studies of how breast cancer treatments affects aging rates and cardiovascular disease risk. \n  *"
@@ -35,6 +35,15 @@
       "publication_date": "2025 Sep",
       "authors": "Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK",
       "journal": "Eur J Radiol"
+    },
+    {
+      "title": "Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes",
+      "pubmed_id": "40950448",
+      "pmc_id": "PMC12424905",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N",
+      "journal": "medRxiv"
     },
     {
       "title": "Methylation-based biological age and cardiotoxicity risk in breast cancer patients treated with trastuzumab",
@@ -106,15 +115,6 @@
       "publication_date": "2024 Nov",
       "authors": "Kresovich JK, Guranich C, Houghton S, Qian J, Jones ME, Boutot ME, Dowsett M, Eliassen AH, Garcia-Closas M, Kraft P, Norman A, Pollak M, Rinaldi S, Rosner B, Schoemaker MJ, Scott C, Swerdlow AJ, Milne RL, Tworoger SS, Vachon CM, Hankinson SE",
       "journal": "Breast Cancer Res"
-    },
-    {
-      "title": "methscore: a comprehensive R function for DNA methylation-based health predictors",
-      "pubmed_id": "38702768",
-      "pmc_id": "PMC11105949",
-      "year": "2024",
-      "publication_date": "2024 May",
-      "authors": "Xu Z, Niu L, Kresovich JK, Taylor JA",
-      "journal": "Bioinformatics"
     }
   ],
   "grants": [
@@ -170,11 +170,22 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23559/",
+      "trial_id": "23559",
+      "title": "Aging, DNA Methylation, and Incident Cardiovascular Disease in Breast Cancer Survivors",
+      "condition": "Breast",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KresovichJacob_32219.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32219"
   },
-  "content_hash": "63c68670566c45f21ae9d9aa937a2d4054ccede7957fc1021a4aa39fb3614758",
-  "researcher_name": "Jacob Kresovich",
-  "department": "Cancer Epidemiology"
+  "content_hash": "8e527d4d33dae086d61e3102e9c52a4d0ec522565748b0500bb53c6491522e94",
+  "researcher_name": "jacob kresovich",
+  "department": "cancer epidemiology"
 }

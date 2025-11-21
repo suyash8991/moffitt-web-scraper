@@ -1,0 +1,130 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jianfeng-cai/",
+  "last_updated": "2025-11-21T22:50:24.464947",
+  "researcher_id": "5871",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "molecular medicine",
+  "overview": "",
+  "research_interests": [
+    "The research in our laboratory ia focused on the expansion of interdisciplinary research at the interface of chemistry and biology to discover novel peptidomimetics and other small molecules that modulate protein-protein interactions involved in critical cellular processes. Understanding how these compounds interact with proteins will help to reveal mechanisms governing cell activities. We are particularly interested in developing compounds that lead to the design of novel therapeutics potentially targeting cancer, HIV, and Alzheimer's disease, etc.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology & Drug Discovery Program",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Washington University of St. Louis, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Yale University",
+      "specialty": "Bioorganic Chemistry"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Proline-based tripodal cages with guest-adaptive features for capturing hydrophilic and amphiphilic fluoride substances",
+      "pubmed_id": "40185768",
+      "pmc_id": "PMC11971368",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Huang B, Li S, Pan C, Li F, Wojtas L, Qiao Q, Tran TH, Calcul L, Liu W, Ke C, Cai J",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "NPC86 Increases LncRNA Gas5 In Vivo to Improve Insulin Sensitivity and Metabolic Function in Diet-Induced Obese Diabetic Mouse Model",
+      "pubmed_id": "40332318",
+      "pmc_id": "PMC12027414",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Kharitonova A, Patel RS, Osborne B, Krause-Hauch M, Lui A, Vidyarthi G, Li S, Cai J, Patel NA",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Development of Low-Toxicity Antimicrobial Polycarbonates Bearing Lysine Residues",
+      "pubmed_id": "39327935",
+      "pmc_id": "PMC11537833",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Gao R, Xue M, Shen N, Zhao X, Zhang JC, Cao C, Cai J",
+      "journal": "Chemistry"
+    },
+    {
+      "title": "The discovery of cyclic \u03b3-AApeptides as the promising ligands targeting EP2",
+      "pubmed_id": "36965536",
+      "pmc_id": "PMC10141659",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Gu M, Yu Y, Xue M, Jiang J, Cai J",
+      "journal": "Bioorg Med Chem Lett"
+    },
+    {
+      "title": "Promoting Large-Area Slot-Die-Coated Perovskite Solar Cell Performance and Reproducibility by Acid-Based Sulfono-\u03b3-AApeptide",
+      "pubmed_id": "37201183",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Abate SY, Yang Z, Jha S, Emodogo J, Ma G, Ouyang Z, Muhammad S, Pradhan N, Gu X, Patton D, Li D, Cai J, Dai Q",
+      "journal": "ACS Appl Mater Interfaces"
+    },
+    {
+      "title": "Short, Lipidated Dendrimeric \u03b3-AApeptides as New Antimicrobial Peptidomimetics",
+      "pubmed_id": "37047380",
+      "pmc_id": "PMC10094648",
+      "year": "2023",
+      "publication_date": "2023 Mar",
+      "authors": "Wang Y, Xue M, Gao R, Chakraborty S, Wang S, Zhao X, Gu M, Cao C, Sun X, Cai J",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Development of the Safe and Broad-Spectrum Aldehyde and Ketoamide Mpro inhibitors Derived from the Constrained \u03b1, \u03b3-AA Peptide Scaffold",
+      "pubmed_id": "36920943",
+      "pmc_id": "PMC10330001",
+      "year": "2023",
+      "publication_date": "2023 Jun",
+      "authors": "Wang L, Ma C, Sacco MD, Xue S, Mahmoud M, Calcul L, Chen Y, Wang J, Cai J",
+      "journal": "Chemistry"
+    },
+    {
+      "title": "Translational relevance of SOS1 targeting for KRAS-mutant colorectal cancer",
+      "pubmed_id": "37042566",
+      "pmc_id": "PMC10330439",
+      "year": "2023",
+      "publication_date": "2023 Jul",
+      "authors": "Alem D, Yang X, Beato F, Sarcar B, Tassielli AF, Dai R, Hogenson TL, Park MA, Jiang K, Cai J, Yuan Y, Fernandez-Zapico ME, Tan AC, Fleming JB, Xie H",
+      "journal": "Mol Carcinogen"
+    },
+    {
+      "title": "Novel Feleucin-K3-Derived Peptides Modified with Sulfono-\u03b3-AA Building Blocks Targeting Pseudomonas aeruginosa and Methicillin-Resistant Staphylococcus aureus Infections",
+      "pubmed_id": "36350686",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Guo X, Yan T, Rao J, An Y, Yue X, Miao X, Wang R, Sun W, Cai J, Xie J",
+      "journal": "J Med Chem"
+    },
+    {
+      "title": "Naringin@Metal-Organic Framework as a Multifunctional Bioplatform",
+      "pubmed_id": "36562661",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Ge X, Jiang F, Wang M, Chen M, Li Y, Phipps J, Cai J, Xie J, Ong J, Dubovoy V, Masters JG, Pan L, Ma S",
+      "journal": "ACS Appl Mater Interfaces"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=5871"
+  },
+  "content_hash": "23bea6a6be5e0765d49b5e48723f928f9da02f95f315fb736512aef2bdde2302",
+  "researcher_name": "jianfeng cai",
+  "department": ""
+}

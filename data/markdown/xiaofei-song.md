@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/xiaofei-song)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/xiaofei-song)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -490,10 +489,11 @@ Dr. Song’s research interests focus on advancing the understanding of cancer p
 Dr. Song’s research interests focus on advancing the understanding of cancer pathogenesis through translational cancer genomics and development of novel computational methods, primarily in the areas of single-cell sequencing and multi-omics data analysis
   * ## Publications
     * Meads MB, Zhao X, Noyes DR, Sudalagunta P, Achille A, Zhang C, Renatino Canevarolo R, Silva M, Magaletti D, DeAvila D, Toska S, Oates A, Lastorino D, Idiaquez DW, Song J, Sansil S, Yoder SJ, Grajales-Cruz AF, Blue BJ, Freeman CL, Kim J, Alsina M, Brayer J, Siqueira Silva A, Song X, Shain KH, Baz RC. Target antigen and plasma cell phenotype are critical factors for sensitivity to response-adapted daratumumab therapy. Blood. 2025 Sep. Pubmedid: [40983035](https://www.ncbi.nlm.nih.gov/pubmed/40983035). 
+    * Chaudhary R, Moorhead G, Park R, Li J, Schell MJ, Song X, Tan A, Slebos RJC, Biernacki MI, Freeman SS, Thatikonda S, Meshkovska Y, Hernandez-Prera J, Kirtane K, Guevara-Patino JA, Amelio AL, Rocco JW, Danysh BP, Bonomi M, Saba NF, Haradhvala NJ, Getz G, Chung CH. Long-term Survival and Molecular Biomarker Evaluation of a Phase II Cetuximab and Nivolumab Clinical Trial in Recurrent/Metastatic Head and Neck Cancer. Clin Cancer Res. 2025 Oct. Pubmedid: [41117857](https://www.ncbi.nlm.nih.gov/pubmed/41117857). 
     * Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Flümann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL. Lymphoma accelerates T cell and tissue aging. Cancer Cell. 2025 Oct.43(10):1917-1936.e8. Pubmedid: [40845845](https://www.ncbi.nlm.nih.gov/pubmed/40845845). 
     * Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F. Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma. Cancer Cell. 2025 Oct. Pubmedid: [41072416](https://www.ncbi.nlm.nih.gov/pubmed/41072416). 
+    * Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH. PV-10 Triggers Immunogenic Cell Death in Head and Neck Squamous Cell Carcinoma via Endoplasmic Reticulum Stress and Apoptosis. Mol Cancer Ther. 2025 Nov.24(11):1733-1748. Pubmedid: [40552938](https://www.ncbi.nlm.nih.gov/pubmed/40552938). Pmcid: PMC12327362. 
     * Song X, Yu X, Moran-Segura CM, Xu H, Li T, Davis JT, Vosoughi A, Grass GD, Li R, Wang X. ROICellTrack: a deep learning framework for integrating cellular imaging modalities in subcellular spatial transcriptomic profiling of tumor tissues. Bioinformatics. 2025 May.41(5). Pubmedid: [40199763](https://www.ncbi.nlm.nih.gov/pubmed/40199763). Pmcid: PMC12085996. 
-    * Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH. PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis. Mol Cancer Ther. 2025 Jun. Pubmedid: [40552938](https://www.ncbi.nlm.nih.gov/pubmed/40552938). Pmcid: PMC12327362. 
     * Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA. Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma. J Immunol. 2024 Oct.213(7):1033-1041. Pubmedid: [39120462](https://www.ncbi.nlm.nih.gov/pubmed/39120462). Pmcid: PMC11404669. 
     * Saba NF, Chaudhary R, Kirtane K, Marra A, Ekpenyong A, McCook-Veal A, Schmitt NC, Gross JH, Patel MR, Remick J, Bates JE, McDonald MW, Rudra SF, Stokes WA, Biernacki M, Song X, Slebos RJC, Liu Y, Steuer CE, Shin DM, Teng Y, Chung CH. Pembrolizumab and Cabozantinib in Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma: Long-term Survival Update with a Biomarker Analysis. Clin Cancer Res. 2024 Oct.30(20):4601-4608. Pubmedid: [39167623](https://www.ncbi.nlm.nih.gov/pubmed/39167623). Pmcid: PMC11479816. 
     * Karapetyan L, Li A, Vargas De Stefano D, Abushukair HM, Al-Bzour AN, Knight A, Layding C, Wang H, Xu J, Yao J, Song X, Joy M, Nguyen J, Moran-Segura C, Bruno S, Sander C, Messina J, Mule JJ, Storkus WJ, Kirkwood JM. Differences in the pathological, transcriptomic, and prognostic implications of lymphoid structures between primary and metastatic cutaneous melanomas. J Immunother Cancer. 2024 Nov.12(11). Pubmedid: [39537211](https://www.ncbi.nlm.nih.gov/pubmed/39537211). Pmcid: PMC11575263. 
@@ -611,7 +611,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -666,7 +666,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/xiaofei-song#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/xiaofei-song#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -684,7 +684,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1038,7 +1038,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/xiaofei-song#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/xiaofei-song#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

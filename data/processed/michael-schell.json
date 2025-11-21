@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/michael-schell",
-  "last_updated": "2025-10-21T16:35:22.414221",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/michael-schell/",
+  "last_updated": "2025-11-21T22:50:25.806462",
   "researcher_id": "3509",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "cancer epidemiology",
   "overview": "Statistical examination is critical to glean true biological differences from technological artifacts, providing patients the best personalized treatment.",
   "research_interests": [
     "Dr. Schell has led the development of a statistical method to analyze AQUA (Automated Quantitative Analysis)-generated tissue microarray (TMA) data. The method is a 7-step procedure which works quite well for identifying and resolving technical problems when two highly correlated variables are available. This method provides a practical and efficient way of identifying an appropriate transformation (square-root, quarter-root or log), if needed, of AQUA scores that can be used to satisfy the normality assumption required by most of statistical procedures. This methodology identifies and adjusts for possible row or column spatial bias effects in a 20 x 17 rectangular plate used in the AQUA machine, which arise due to technical processing effects. The method facilitates the identification of possible outliers or leverage data points in the data due to, for instance, air bubbles. Dr. Schell is a member of the Cancer Biomarkers Study Section. He is also the statistician for a large integral-biomarker phase III multi-center clinical trial in lung cancer.\n  *"
@@ -40,13 +40,13 @@
       "journal": "Am J Clin Oncol"
     },
     {
-      "title": "Identifying distinct prognostic and predictive contributions of tumor epithelium versus tumor microenvironment in colorectal cancer",
-      "pubmed_id": "40075322",
-      "pmc_id": "PMC11899100",
+      "title": "A retrospective cohort study of physical activity and survival in patients treated with immune checkpoint inhibitors",
+      "pubmed_id": "40971247",
+      "pmc_id": "PMC12579459",
       "year": "2025",
-      "publication_date": "2025 Mar",
-      "authors": "Yang M, Nebozhyn MV, Schell MJ, Gandhi N, Pflieger L, Loboda A, Pledger WJ, Soundararajan R, Maurin M, Wang H, Silva JR, Alden A, Coppola D, Elliott A, Sledge G, Khushman M, Lou E, Goel S, Yeatman TJ",
-      "journal": "BMC Cancer"
+      "publication_date": "2025 Sep",
+      "authors": "Parker NH, Ramos JD, Tarhini AA, Schell MJ, Egan KM, Kanetsky PA",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
       "title": "Integration of lipidomics with targeted, single cell, and spatial transcriptomics defines an unresolved pro-inflammatory state in colon cancer",
@@ -56,6 +56,15 @@
       "publication_date": "2025 Mar",
       "authors": "Soundararajan R, Maurin MM, Rodriguez-Silva J, Upadhyay G, Alden AJ, Gowda SGB, Schell MJ, Yang M, Levine NJ, Gowda D, Sundaraswamy PM, Hui SP, Pflieger L, Wang H, Marcet J, Martinez C, Bennett RD, Chudzinski A, Karachristos A, Nywening TM, Cavallaro PM, Anderson ML, Coffey RJ, Nebozhyn MV, Loboda A, Coppola D, Pledger WJ, Halade G, Yeatman TJ",
       "journal": "Gut"
+    },
+    {
+      "title": "Identifying distinct prognostic and predictive contributions of tumor epithelium versus tumor microenvironment in colorectal cancer",
+      "pubmed_id": "40075322",
+      "pmc_id": "PMC11899100",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Yang M, Nebozhyn MV, Schell MJ, Gandhi N, Pflieger L, Loboda A, Pledger WJ, Soundararajan R, Maurin M, Wang H, Silva JR, Alden A, Coppola D, Elliott A, Sledge G, Khushman M, Lou E, Goel S, Yeatman TJ",
+      "journal": "BMC Cancer"
     },
     {
       "title": "Determining the threshold time in restricted mean survival time analysis for two group comparisons with applications in clinical and epidemiology studies",
@@ -107,15 +116,6 @@
       "publication_date": "2024 Dec",
       "authors": "Tarhini AA, Eroglu Z, Eljilany I, Zager JS, Gonzalez RJ, Sarnaik AA, Cruse CW, Khushalani NI, De Aquino DB, Abraham E, Acevedo DM, Richards A, Schell MJ, Kalos D, Chen PL, Messina JL, Canton DA, Sondak VK",
       "journal": "Clin Cancer Res"
-    },
-    {
-      "title": "Phase II study of pembrolizumab and lenvatinib in advanced well-differentiated neuroendocrine tumors",
-      "pubmed_id": "38507897",
-      "pmc_id": "PMC10966166",
-      "year": "2024",
-      "publication_date": "2024 Apr",
-      "authors": "Al-Toubah T, Schell MJ, Morse B, Haider M, Valone T, Strosberg J",
-      "journal": "ESMO Open"
     }
   ],
   "grants": [
@@ -133,11 +133,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SchellMichael_3509.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3509"
   },
-  "content_hash": "a9de51604e23b49cbb0c01a31df02691eedef8d52304479ef1078ee76dab3091",
-  "researcher_name": "Michael Schell",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "7e7b2aadc1031cf0fccbd7530963b46ba60fd76f384d5e66510b9018bc4f23bd",
+  "researcher_name": "michael schell",
+  "department": "biostatistics and bioinformatics"
 }

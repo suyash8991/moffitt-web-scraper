@@ -1,0 +1,1370 @@
+[Skip to nav](https://www.moffitt.org/research-science/researchers/clement-gwede#menu-mobile) [Skip to content](https://www.moffitt.org/research-science/researchers/clement-gwede#main-content)
+[ ![Moffitt Cancer Center](https://www.moffitt.org/globalassets/images/logos/moffitt-logo-full-white.svg) ](https://www.moffitt.org/ "Moffitt Cancer Center")
+Schedule
+[New Patients](https://www.moffitt.org/eforms/patientregistrationform/ "New Patients") [Referring Physicians](https://www.moffitt.org/eforms/referapatient/ "Referring Physicians")
+[ Find a Doctor ](https://www.moffitt.org/find-a-doctor/ "Find a Doctor")
+Patient Portal
+[Log In](https://mymoffitt.iqhealth.com/ "Log In") [Enroll](https://mymoffitt.iqhealth.com/self-enroll/)
+[ Careers ](https://www.moffitt.org/careers/ "Careers")
+[ Locations ](https://www.moffitt.org/locations-directions/ "Locations")
+[ 1-888-663-3488 ](tel:1-888-663-3488 "Call 1-888-663-3488")
+English
+[English](https://www.moffitt.org/research-science/researchers/clement-gwede/ "English") [Spanish](https://www.moffitt.org/es/research-science/researchers/clement-gwede/ "Spanish")
+[ ](https://www.moffitt.org/research-science/researchers/?campaign=567103 "Donate") Search
+  * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/clement-gwede)
+    * [ Cancers ](https://www.moffitt.org/cancers/)
+      * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
+      * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
+      * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
+      * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
+      * [Appendiceal (Appendix) Cancer](https://www.moffitt.org/cancers/appendiceal-appendix-cancer/ "Appendiceal \(Appendix\) Cancer")
+      * [Astrocytoma](https://www.moffitt.org/cancers/astrocytoma/ "Astrocytoma")
+      * [Basal Cell Carcinoma](https://www.moffitt.org/cancers/basal-cell-carcinoma/ "Basal Cell Carcinoma")
+      * [Bladder Cancer](https://www.moffitt.org/cancers/bladder-cancer/ "Bladder Cancer")
+      * [Bone Metastasis](https://www.moffitt.org/cancers/bone-metastasis/ "Bone Metastasis")
+      * [Brain Cancer](https://www.moffitt.org/cancers/brain-cancer/ "Brain Cancer")
+      * [Brain Tumor](https://www.moffitt.org/cancers/brain-tumor/ "Brain Tumor")
+      * [Brain Metastases](https://www.moffitt.org/cancers/brain-metastases/ "Brain Metastases")
+      * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
+      * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
+      * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
+      * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
+      * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
+      * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
+      * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
+      * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
+      * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
+      * [Endometrial (Uterine) Cancer](https://www.moffitt.org/cancers/endometrial-uterine-cancer/ "Endometrial \(Uterine\) Cancer")
+      * [Esophageal Cancer](https://www.moffitt.org/cancers/esophageal-cancer/ "Esophageal Cancer")
+      * [Follicular Lymphoma](https://www.moffitt.org/cancers/follicular-lymphoma/ "Follicular Lymphoma")
+      * [Gallbladder Cancer](https://www.moffitt.org/cancers/gallbladder-cancer/ "Gallbladder Cancer")
+      * [Gastrointestinal Carcinoid Tumor](https://www.moffitt.org/cancers/gastrointestinal-carcinoid-tumor/ "Gastrointestinal Carcinoid Tumor")
+      * [GIST (Gastrointestinal Stromal Tumor)](https://www.moffitt.org/cancers/gist-gastrointestinal-stromal-tumor/ "GIST \(Gastrointestinal Stromal Tumor\)")
+      * [Glioblastoma](https://www.moffitt.org/cancers/glioblastoma/ "Glioblastoma")
+      * [Head and Neck Cancer](https://www.moffitt.org/cancers/head-and-neck-cancer/ "Head and Neck Cancer")
+      * [HER2 Positive Breast Cancer](https://www.moffitt.org/cancers/her2-positive-breast-cancer/ "HER2 Positive Breast Cancer")
+      * [Hodgkin Lymphoma](https://www.moffitt.org/cancers/hodgkin-lymphoma/ "Hodgkin Lymphoma")
+      * [Inflammatory Breast Cancer](https://www.moffitt.org/cancers/inflammatory-breast-cancer/ "Inflammatory Breast Cancer")
+      * [Invasive Ductal Carcinoma](https://www.moffitt.org/cancers/invasive-ductal-carcinoma/ "Invasive Ductal Carcinoma")
+      * [Kidney (Renal Cell) Cancer](https://www.moffitt.org/cancers/kidney-renal-cell-cancer/ "Kidney \(Renal Cell\) Cancer")
+      * [Leukemia](https://www.moffitt.org/cancers/leukemia/ "Leukemia")
+      * [Liver (Hepatocellular) Cancer](https://www.moffitt.org/cancers/liver-hepatocellular-cancer/ "Liver \(Hepatocellular\) Cancer")
+      * [Low-Grade Glioma](https://www.moffitt.org/cancers/low-grade-glioma/ "Low-Grade Glioma")
+      * [Lung Cancer](https://www.moffitt.org/cancers/lung-cancer/ "Lung Cancer")
+      * [Lymphomas (Hodgkin and Non-Hodgkin)](https://www.moffitt.org/cancers/lymphomas-hodgkin-and-non-hodgkin/ "Lymphomas \(Hodgkin and Non-Hodgkin\)")
+      * [Mantle Cell Lymphoma](https://www.moffitt.org/cancers/mantle-cell-lymphoma/ "Mantle Cell Lymphoma")
+      * [Melanoma](https://www.moffitt.org/cancers/melanoma/ "Melanoma")
+      * [Meningioma](https://www.moffitt.org/cancers/meningioma/ "Meningioma")
+      * [Merkel Cell Carcinoma](https://www.moffitt.org/cancers/merkel-cell-carcinoma/ "Merkel Cell Carcinoma")
+      * [Mesothelioma](https://www.moffitt.org/cancers/mesothelioma/ "Mesothelioma")
+      * [Metastatic Breast Cancer](https://www.moffitt.org/cancers/metastatic-breast-cancer/ "Metastatic Breast Cancer")
+      * [Monoclonal Gammopathy of Undetermined Significance (MGUS)](https://www.moffitt.org/cancers/monoclonal-gammopathy-of-undetermined-significance-mgus/ "Monoclonal Gammopathy of Undetermined Significance \(MGUS\)")
+      * [Multiple Myeloma-Plasma Cell Tumor](https://www.moffitt.org/cancers/multiple-myeloma-plasma-cell-tumor/ "Multiple Myeloma-Plasma Cell Tumor")
+      * [Myelodysplastic Syndromes (MDS)](https://www.moffitt.org/cancers/myelodysplastic-syndromes-mds/ "Myelodysplastic Syndromes \(MDS\)")
+      * [Neuroendocrine Tumor](https://www.moffitt.org/cancers/neuroendocrine-tumor/ "Neuroendocrine Tumor")
+      * [Neurofibromatosis](https://www.moffitt.org/cancers/neurofibromatosis/ "Neurofibromatosis")
+      * [Non-Hodgkin Lymphoma](https://www.moffitt.org/cancers/non-hodgkin-lymphoma/ "Non-Hodgkin Lymphoma")
+      * [Oral Cavity (Mouth) Cancer](https://www.moffitt.org/cancers/oral-cavity-mouth-cancer/ "Oral Cavity \(Mouth\) Cancer")
+      * [Insurance and Financial Information](https://www.moffitt.org/patient-family/insurance-financial-information/ "Insurance and Financial Information")
+      * [Oral Cavity or Throat Cancer](https://www.moffitt.org/cancers/oral-cavity-or-throat-cancer/ "Oral Cavity or Throat Cancer")
+      * [Osteosarcoma](https://www.moffitt.org/cancers/osteosarcoma/ "Osteosarcoma")
+      * [Ovarian Cancer](https://www.moffitt.org/cancers/ovarian-cancer/ "Ovarian Cancer")
+      * [Pancoast Tumor](https://www.moffitt.org/cancers/pancoast-tumor/ "Pancoast Tumor")
+      * [Pancreatic Cancer](https://www.moffitt.org/cancers/pancreatic-cancer/ "Pancreatic Cancer")
+      * [Penile Cancer](https://www.moffitt.org/cancers/penile-cancer/ "Penile Cancer")
+      * [Pituitary Adenoma](https://www.moffitt.org/cancers/pituitary-adenoma/ "Pituitary Adenoma")
+      * [Prostate Cancer](https://www.moffitt.org/cancers/prostate-cancer/ "Prostate Cancer")
+      * [Rectal Cancer](https://www.moffitt.org/cancers/rectal-cancer/ "Rectal Cancer")
+      * [Sarcoma](https://www.moffitt.org/cancers/sarcoma/ "Sarcoma")
+      * [Skin Cancer (Nonmelanoma)](https://www.moffitt.org/cancers/skin-cancer-nonmelanoma/ "Skin Cancer \(Nonmelanoma\)")
+      * [Skull Base Tumors](https://www.moffitt.org/cancers/skull-base-tumors/ "Skull Base Tumors")
+      * [Small Intestine Cancer](https://www.moffitt.org/cancers/small-intestine-cancer/ "Small Intestine Cancer")
+      * [Spinal Tumor](https://www.moffitt.org/cancers/spinal-tumor/ "Spinal Tumor")
+      * [Squamous Cell Carcinoma](https://www.moffitt.org/cancers/squamous-cell-carcinoma/ "Squamous Cell Carcinoma")
+      * [Smoldering Multiple Myeloma](https://www.moffitt.org/cancers/smoldering-multiple-myeloma-smm/ "Smoldering Multiple Myeloma")
+      * [Stomach (Gastric) Cancer](https://www.moffitt.org/cancers/stomach-gastric-cancer/ "Stomach \(Gastric\) Cancer")
+      * [Testicular Cancer](https://www.moffitt.org/cancers/testicular-cancer/ "Testicular Cancer")
+      * [Throat Cancer](https://www.moffitt.org/cancers/throat-cancer/ "Throat Cancer")
+      * [Thymoma](https://www.moffitt.org/cancers/thymoma/ "Thymoma")
+      * [Thyroid Cancer](https://www.moffitt.org/cancers/thyroid-cancer/ "Thyroid Cancer")
+      * [Tongue Cancer](https://www.moffitt.org/cancers/tongue-cancer/ "Tongue Cancer")
+      * [Tracheal Cancer](https://www.moffitt.org/cancers/tracheal-cancer/ "Tracheal Cancer")
+      * [Triple Negative Breast Cancer](https://www.moffitt.org/cancers/triple-negative-breast-cancer/ "Triple Negative Breast Cancer")
+      * [Vaginal Cancer](https://www.moffitt.org/cancers/vaginal-cancer/ "Vaginal Cancer")
+      * [Vulvar Cancer](https://www.moffitt.org/cancers/vulvar-cancer/ "Vulvar Cancer")
+    * [ Treatments ](https://www.moffitt.org/treatments/)
+      * [Blood Bone Marrow Transplant](https://www.moffitt.org/treatments/blood-bone-marrow-transplant/ "Blood Bone Marrow Transplant")
+      * [Bloodless Medicine and Surgery](https://www.moffitt.org/treatments/bloodless-medicine-and-surgery/ "Bloodless Medicine and Surgery")
+      * [Cardio-Oncology](https://www.moffitt.org/treatments/cardio-oncology/ "Cardio-Oncology")
+      * [Chemotherapy](https://www.moffitt.org/treatments/chemotherapy/ "Chemotherapy")
+      * [Clinical Pathways](https://www.moffitt.org/treatments/clinical-pathways/ "Clinical Pathways")
+      * [Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/ "Clinical Trials")
+      * [Diagnostic Services](https://www.moffitt.org/diagnostic-services/ "Diagnostic Services")
+      * [Endoscopic Procedures](https://www.moffitt.org/treatments/endoscopic-procedures/ "Endoscopic Procedures")
+      * [Fertility Preservation](https://www.moffitt.org/treatments/fertility-preservation/ "Fertility Preservation")
+      * [Gynecologic Oncology](https://www.moffitt.org/treatments/gynecologic-oncology/ "Gynecologic Oncology")
+      * [Immunotherapy](https://www.moffitt.org/treatments/immunotherapy/ "Immunotherapy")
+      * [Interventional Pain Management](https://www.moffitt.org/treatments/interventional-pain-management/ "Interventional Pain Management")
+      * [Interventional Radiology](https://www.moffitt.org/treatments/interventional-radiology/ "Interventional Radiology")
+      * [Precision Medicine](https://www.moffitt.org/treatments/precision-medicine/ "Precision Medicine")
+      * [Pharmacy](https://www.moffitt.org/treatments/pharmacy/ "Pharmacy")
+      * [Radiation Therapy](https://www.moffitt.org/treatments/radiation-therapy/ "Radiation Therapy")
+      * [Rehabilitation Services](https://www.moffitt.org/treatments/rehabilitation-services/ "Rehabilitation Services")
+      * [Supportive Care Medicine](https://www.moffitt.org/treatments/supportive-care-medicine/ "Supportive Care Medicine")
+      * [Surgical Care](https://www.moffitt.org/treatments/surgical-care/ "Surgical Care")
+      * [Systemic Therapy](https://www.moffitt.org/treatments/systemic-therapy/ "Systemic Therapy")
+      * [Targeted Therapy](https://www.moffitt.org/treatments/targeted-therapy/ "Targeted Therapy")
+      * [Tumor Board](https://www.moffitt.org/treatments/tumor-board/ "Tumor Board")
+    * [ Clinical Trials ](https://www.moffitt.org/clinical-trials-research/clinical-trials/)
+      * [Am I A Candidate?](https://www.moffitt.org/clinical-trials-research/clinical-trials/am-i-a-candidate/ "Am I A Candidate?")
+      * [Clinical Research Unit](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-research-unit/ "Clinical Research Unit")
+      * [Clinical Trials Administration](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-trials-administration/ "Clinical Trials Administration")
+      * [Clinical Trials: Are They Right for You?](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-trials-are-they-right-for-you/ "Clinical Trials: Are They Right for You?")
+      * [Patient Protection](https://www.moffitt.org/clinical-trials-research/clinical-trials/patient-protection/ "Patient Protection")
+      * [Phase 1 Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/phase-1-clinical-trials/ "Phase 1 Clinical Trials")
+    * [ Diagnostic Services ](https://www.moffitt.org/diagnostic-services/)
+      * [Cancer Screenings](https://www.moffitt.org/diagnostic-services/cancer-screenings/ "Cancer Screenings")
+      * [Genetic Counseling and Genetic Testing](https://www.moffitt.org/diagnostic-services/genetic-counseling-and-genetic-testing/ "Genetic Counseling and Genetic Testing")
+      * [Labwork and Bloodwork](https://www.moffitt.org/diagnostic-services/labwork-and-bloodwork/ "Labwork and Bloodwork")
+      * [Pathology](https://www.moffitt.org/diagnostic-services/pathology/ "Pathology")
+      * [Radiology – Diagnostic Imaging and Interventional Radiology](https://www.moffitt.org/diagnostic-services/radiology-diagnostic-imaging-and-interventional-radiology/ "Radiology – Diagnostic Imaging and Interventional Radiology")
+      * [Cancer Treatments](https://www.moffitt.org/treatments/ "Cancer Treatments")
+    * [ ![](https://www.moffitt.org/contentassets/5f17f2115eca48a1aa7faa610608f778/clinical-trials.jpg) Search Clinical Trials  Moffitt participates in over 400 clinical trials. Find a trial that is right for you. ](https://www.moffitt.org/clinical-trials-research/clinical-trials/ "Search Clinical Trials")
+  * [Patients & Families](https://www.moffitt.org/research-science/researchers/clement-gwede)
+    * [ Patient & Family ](https://www.moffitt.org/patient-family/)
+    * [ Preparing For Your Appointment ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/)
+      * [Patient and Family Orientation](https://www.moffitt.org/patient-family/preparing-for-your-appointment/patient-and-family-orientation/ "Patient and Family Orientation")
+      * [Medical Records](https://www.moffitt.org/patient-family/preparing-for-your-appointment/medical-records/ "Medical Records")
+      * [Appointment Reminder Service](https://www.moffitt.org/patient-family/preparing-for-your-appointment/appointment-reminder-service/ "Appointment Reminder Service")
+      * [MyMoffitt Patient Portal](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/ "MyMoffitt Patient Portal")
+      * [New Cancer Diagnosis](https://www.moffitt.org/patient-family/preparing-for-your-appointment/new-cancer-diagnosis/ "New Cancer Diagnosis")
+      * [Online Registration Frequently Asked Questions](https://www.moffitt.org/patient-family/preparing-for-your-appointment/online-registration-frequently-asked-questions/ "Online Registration Frequently Asked Questions")
+      * [Scheduling Your Appointment](https://www.moffitt.org/patient-family/preparing-for-your-appointment/scheduling-your-appointment/ "Scheduling Your Appointment")
+      * [Traveling for Cancer Treatment](https://www.moffitt.org/patient-family/preparing-for-your-appointment/traveling-for-cancer-treatment/ "Traveling for Cancer Treatment")
+      * [Preparing For Your Hospitalization](https://www.moffitt.org/patient-family/preparing-for-your-hospitalization/ "Preparing For Your Hospitalization")
+      * [Preparing For Your Surgery](https://www.moffitt.org/patient-family/preparing-for-your-surgery/ "Preparing For Your Surgery")
+      * [Visitor Policy](https://www.moffitt.org/patient-family/preparing-for-your-appointment/visitor-policy/ "Visitor Policy")
+      * [Patient Rights and Responsibilities](https://www.moffitt.org/patient-family/preparing-for-your-appointment/patient-rights-and-responsibilities/ "Patient Rights and Responsibilities")
+      * [What to Know About Your Appointments During Hurricane Season](https://www.moffitt.org/patient-family/hurricane/appointments-during-hurricane-season/ "What to Know About Your Appointments During Hurricane Season")
+    * [ Insurance & Financial Information ](https://www.moffitt.org/patient-family/insurance-financial-information/)
+      * [Copay Assistance Program](https://www.moffitt.org/patient-family/insurance-financial-information/copay-assistance-program/ "Copay Assistance Program")
+      * [Financial Assistance](https://www.moffitt.org/patient-family/insurance-financial-information/financial-assistance/ "Financial Assistance")
+      * [Glossary of Terms](https://www.moffitt.org/patient-family/insurance-financial-information/glossary-of-terms/ "Glossary of Terms")
+      * [Health Exchange](https://www.moffitt.org/patient-family/insurance-financial-information/health-exchange/ "Health Exchange")
+      * [Insurance Coverage](https://www.moffitt.org/patient-family/insurance-financial-information/insurance-coverage/ "Insurance Coverage")
+      * [Medicare Coverage](https://www.moffitt.org/patient-family/insurance-financial-information/medicare-coverage/ "Medicare Coverage")
+      * [Obtain a Cost Estimate](https://www.moffitt.org/patient-family/insurance-financial-information/obtain-a-cost-estimate/ "Obtain a Cost Estimate")
+      * [Questions to Ask Your Insurance Company](https://www.moffitt.org/patient-family/insurance-financial-information/questions-to-ask-your-insurance-company/ "Questions to Ask Your Insurance Company")
+      * [Understanding Your Bill](https://www.moffitt.org/patient-family/insurance-financial-information/understanding-your-bill/ "Understanding Your Bill")
+      * [Frequently Asked Questions](https://www.moffitt.org/patient-family/insurance-financial-information/frequently-asked-questions/ "Frequently Asked Questions")
+      * [Financial Information](https://www.moffitt.org/patient-family/insurance-financial-information/financial-information/ "Financial Information")
+    * [ Programs & Support Services ](https://www.moffitt.org/patient-family/programs-support-services/)
+      * [Advance Care Planning](https://www.moffitt.org/patient-family/programs-support-services/advance-care-planning/ "Advance Care Planning")
+      * [AYA: Adolescent Young Adult Program](https://www.moffitt.org/patient-family/programs-support-services/aya-adolescent-young-adult-program/ "AYA: Adolescent Young Adult Program")
+      * [Chaplaincy Spiritual Care](https://www.moffitt.org/patient-family/programs-support-services/chaplaincy-spiritual-care/ "Chaplaincy Spiritual Care")
+      * [Community Resources](https://www.moffitt.org/patient-family/programs-support-services/online-resources/ "Community Resources")
+      * [Counseling and Support](https://www.moffitt.org/patient-family/programs-support-services/counseling-and-support/ "Counseling and Support")
+      * [Language Services](https://www.moffitt.org/patient-family/programs-support-services/language-services/ "Language Services")
+      * [Nutrition](https://www.moffitt.org/patient-family/programs-support-services/nutrition/ "Nutrition")
+      * [Senior Adult Oncology Program](https://www.moffitt.org/patient-family/programs-support-services/senior-adult-oncology-program/ "Senior Adult Oncology Program")
+      * [Share Gratitude for Moffitt Team Members](https://www.moffitt.org/patient-family/patient-and-family-centered-care/share-gratitude-for-moffitt-team-members/ "Share Gratitude for Moffitt Team Members")
+      * [Specialty Pharmacy at Moffitt](https://www.moffitt.org/patient-family/programs-support-services/specialty-pharmacy/ "Specialty Pharmacy at Moffitt")
+    * [ Patient and Family Centered Care ](https://www.moffitt.org/patient-family/patient-and-family-centered-care/)
+      * [Demonstrating Respect at Moffitt](https://www.moffitt.org/patient-family/patient-and-family-centered-care/demonstrating-respect-at-moffitt/ "Demonstrating Respect at Moffitt")
+      * [Daisy and Sunflower Awards](https://www.moffitt.org/patient-family/patient-and-family-centered-care/daisy-and-sunflower-awards/ "Daisy and Sunflower Awards")
+      * [Patient and Family Advisory Program](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-and-family-advisory-program/ "Patient and Family Advisory Program")
+      * [Patient Relations](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-relations/ "Patient Relations")
+      * [Patient Researcher Forum](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-researcher-forum/ "Patient Researcher Forum")
+      * [Patti K Halula Legacy Award](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patti-k-halula-legacy-award/ "Patti K Halula Legacy Award")
+      * [Share Gratitude for Moffitt Team Members](https://www.moffitt.org/patient-family/patient-and-family-centered-care/share-gratitude-for-moffitt-team-members/ "Share Gratitude for Moffitt Team Members")
+    * [ Cancer Survivorship ](https://www.moffitt.org/patient-family/cancer-survivorship/)
+      * [Cancer Survivorship Program](https://www.moffitt.org/patient-family/cancer-survivorship/cancer-survivorship-program/ "Cancer Survivorship Program")
+    * [ International Patient Services ](https://www.moffitt.org/patient-family/international-patient-services/)
+      * [Frequently Asked Questions](https://www.moffitt.org/patient-family/international-patient-services/frequently-asked-questions/ "Frequently Asked Questions")
+      * [Online Consult Forms](https://www.moffitt.org/patient-family/international-patient-services/online-consult-forms/ "Online Consult Forms")
+      * [Online Consults](https://www.moffitt.org/patient-family/international-patient-services/online-consults/ "Online Consults")
+      * [Moffitt Outreach in Puerto Rico](https://www.moffitt.org/patient-family/international-patient-services/puerto-rico/ "Moffitt Outreach in Puerto Rico")
+    * [ Moffitt Virtual Care ](https://www.moffitt.org/patient-family/moffitt-virtual-care/)
+      * [All About Virtual Care](https://www.moffitt.org/patient-family/moffitt-virtual-care/all-about-virtual-care/ "All About Virtual Care")
+      * [Informed Consent for Telemedicine](https://www.moffitt.org/patient-family/moffitt-virtual-care/informed-consent-for-telemedicine/ "Informed Consent for Telemedicine")
+      * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
+      * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
+    * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/)
+      * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
+      * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
+      * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
+      * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
+      * [Cayla’s Story: Cancer Never Cares About Anything Like That](https://www.moffitt.org/inspiring-stories/caylas-story-cancer-never-cares-about-anything-like-that/ "Cayla’s Story: Cancer Never Cares About Anything Like That")
+      * [Rick's Story: Now What?](https://www.moffitt.org/inspiring-stories/ricks-story-now-what/ "Rick's Story: Now What?")
+      * [Amy's Story: No Longer Alone](https://www.moffitt.org/inspiring-stories/no-longer-alone/ "Amy's Story: No Longer Alone")
+      * [Zoe's Story](https://www.moffitt.org/inspiring-stories/zoeys-story/ "Zoe's Story")
+      * [Erma's Story](https://www.moffitt.org/inspiring-stories/ermas-story/ "Erma's Story")
+      * [Donna's Story](https://www.moffitt.org/inspiring-stories/donnas-story/ "Donna's Story")
+      * [Dr. Vadaparampil's Story](https://www.moffitt.org/inspiring-stories/dr.-vadaparampils-story "Dr. Vadaparampil's Story")
+      * [Mark's Story](https://www.moffitt.org/inspiring-stories/marks-story/ "Mark's Story")
+      * [Heather's Story](https://www.moffitt.org/inspiring-stories/heathers-story/ "Heather's Story")
+      * [Ellen's Story](https://www.moffitt.org/inspiring-stories/ellens-story/ "Ellen's Story")
+      * [Dr. Tran's Story](https://www.moffitt.org/inspiring-stories/dr.-trans-story "Dr. Tran's Story")
+      * [Dr. Toloza's Story](https://www.moffitt.org/inspiring-stories/dr.-tolozas-story "Dr. Toloza's Story")
+      * [Dr. Silva's Story](https://www.moffitt.org/inspiring-stories/dr.-silvas-story "Dr. Silva's Story")
+      * [Dr. Fernandez's Story](https://www.moffitt.org/inspiring-stories/dr.-fernandezs-story "Dr. Fernandez's Story")
+      * [Dr. Robinson's Story](https://www.moffitt.org/inspiring-stories/dr.-robinsons-story "Dr. Robinson's Story")
+      * [Dr. Pow-Sang's Story](https://www.moffitt.org/inspiring-stories/dr.-pow-sangs-story "Dr. Pow-Sang's Story")
+      * [Mike's Volunteer Story](https://www.moffitt.org/inspiring-stories/mikes-volunteer-story/ "Mike's Volunteer Story")
+      * [Mike's Story](https://www.moffitt.org/inspiring-stories/mikes-story/ "Mike's Story")
+      * [Mary Beth's Story](https://www.moffitt.org/inspiring-stories/mary-beths-story/ "Mary Beth's Story")
+      * [Malcolm's Story](https://www.moffitt.org/inspiring-stories/malcolms-story/ "Malcolm's Story")
+      * [Lori's Story](https://www.moffitt.org/inspiring-stories/loris-story2/ "Lori's Story")
+      * [Miriam's Story](https://www.moffitt.org/inspiring-stories/miriams-story/ "Miriam's Story")
+      * [Nick's Story](https://www.moffitt.org/inspiring-stories/nicks-story/ "Nick's Story")
+      * [Nadine's Story](https://www.moffitt.org/inspiring-stories/nadines-story/ "Nadine's Story")
+      * [Nancy's Story](https://www.moffitt.org/inspiring-stories/nancys-story/ "Nancy's Story")
+      * [Madison's Story](https://www.moffitt.org/inspiring-stories/madisons-story/ "Madison's Story")
+      * [Lori's Story](https://www.moffitt.org/inspiring-stories/loris-story/ "Lori's Story")
+      * [Lloyd's Story](https://www.moffitt.org/inspiring-stories/lloyds-story/ "Lloyd's Story")
+      * [Lanse's Story](https://www.moffitt.org/inspiring-stories/lanses-story/ "Lanse's Story")
+      * [Kevin's Story](https://www.moffitt.org/inspiring-stories/kevins-story/ "Kevin's Story")
+      * [Dr. Mooney's Story](https://www.moffitt.org/inspiring-stories/dr.-mooneys-story "Dr. Mooney's Story")
+      * [Ken's Story](https://www.moffitt.org/inspiring-stories/kens-story/ "Ken's Story")
+      * [Dr. Lee's Story](https://www.moffitt.org/inspiring-stories/dr.-lees-story "Dr. Lee's Story")
+      * [Dr. Kumar's Story](https://www.moffitt.org/inspiring-stories/dr.-kumars-story "Dr. Kumar's Story")
+      * [Keith's Story](https://www.moffitt.org/inspiring-stories/keiths-story2/ "Keith's Story")
+      * [Dr. Latifi's Story](https://www.moffitt.org/inspiring-stories/dr.-latifis-story "Dr. Latifi's Story")
+      * [Keith's Story](https://www.moffitt.org/inspiring-stories/keiths-story/ "Keith's Story")
+      * [Dr. Kubal's Story](https://www.moffitt.org/inspiring-stories/dr.-kubals-story "Dr. Kubal's Story")
+      * [Dr. Khakpour's Story](https://www.moffitt.org/inspiring-stories/dr.-khakpours-story "Dr. Khakpour's Story")
+      * [Dr. Keenan's Story](https://www.moffitt.org/inspiring-stories/dr.-keenans-story "Dr. Keenan's Story")
+      * [Dr. Kanetsky's Story](https://www.moffitt.org/inspiring-stories/dr.-kanetskys-story "Dr. Kanetsky's Story")
+      * [Dr. Hoffe's Story](https://www.moffitt.org/inspiring-stories/dr.-hoffes-story "Dr. Hoffe's Story")
+      * [Dr. Harrison's Story](https://www.moffitt.org/inspiring-stories/dr.-harrisons-story "Dr. Harrison's Story")
+      * [Dr. Gwede's Story](https://www.moffitt.org/inspiring-stories/dr.-gwedes-story "Dr. Gwede's Story")
+      * [Dr. Giuliano's Story](https://www.moffitt.org/inspiring-stories/dr.-giulianos-story "Dr. Giuliano's Story")
+      * [Juli's Story](https://www.moffitt.org/inspiring-stories/julis-story/ "Juli's Story")
+      * [Dr. Gonzalez's Story](https://www.moffitt.org/inspiring-stories/dr.-gonzalezs-story "Dr. Gonzalez's Story")
+      * [Dr. Gatenby's Story](https://www.moffitt.org/inspiring-stories/dr.-gatenbys-story "Dr. Gatenby's Story")
+      * [Dr. Etame's Story](https://www.moffitt.org/inspiring-stories/dr.-etames-story "Dr. Etame's Story")
+      * [Dr. Cleveland's Story](https://www.moffitt.org/inspiring-stories/dr.-clevelands-story "Dr. Cleveland's Story")
+      * [John and Whitney's Story](https://www.moffitt.org/inspiring-stories/john-and-whitneys-story/ "John and Whitney's Story")
+      * [Liz's Story](https://www.moffitt.org/inspiring-stories/lizs-story/ "Liz's Story")
+      * [Meet Lloyd](https://www.moffitt.org/inspiring-stories/meet-lloyd/ "Meet Lloyd")
+      * [Paul and Gina's Story](https://www.moffitt.org/inspiring-stories/pauls-and-ginas-story/ "Paul and Gina's Story")
+      * [Marvin's Story](https://www.moffitt.org/inspiring-stories/marvins-story/ "Marvin's Story")
+      * [Meet Melissa](https://www.moffitt.org/inspiring-stories/meet-melissa/ "Meet Melissa")
+      * [Muriel's Story](https://www.moffitt.org/inspiring-stories/muriels-story/ "Muriel's Story")
+      * [John's and David's Story](https://www.moffitt.org/inspiring-stories/johns-and-davids-story/ "John's and David's Story")
+      * [Melissa's Story](https://www.moffitt.org/inspiring-stories/melissas-story/ "Melissa's Story")
+      * [Dr. Alexander Anderson's Story](https://www.moffitt.org/inspiring-stories/dr.-alexander-andersons-story "Dr. Alexander Anderson's Story")
+      * [Pam's Story](https://www.moffitt.org/inspiring-stories/pams-story/ "Pam's Story")
+      * [Yolanda's Story](https://www.moffitt.org/inspiring-stories/yolandas-story/ "Yolanda's Story")
+      * [Wilbur's Story](https://www.moffitt.org/inspiring-stories/wilburs-story/ "Wilbur's Story")
+      * [Vikki's Story](https://www.moffitt.org/inspiring-stories/vikkis-story/ "Vikki's Story")
+      * [Tiffany's Story](https://www.moffitt.org/inspiring-stories/tiffanys-story/ "Tiffany's Story")
+      * [Theresa's Story](https://www.moffitt.org/inspiring-stories/theresas-story/ "Theresa's Story")
+      * [Joanna's Story](https://www.moffitt.org/inspiring-stories/joannas-story/ "Joanna's Story")
+      * [Jenifer's Story](https://www.moffitt.org/inspiring-stories/jenifers-story/ "Jenifer's Story")
+      * [Jeanine's Story](https://www.moffitt.org/inspiring-stories/jeanines-story/ "Jeanine's Story")
+      * [Meet Jackie](https://www.moffitt.org/inspiring-stories/meet-jackie/ "Meet Jackie")
+      * [Ian's Story](https://www.moffitt.org/inspiring-stories/ians-story/ "Ian's Story")
+      * [Howard's Story](https://www.moffitt.org/inspiring-stories/howards-story/ "Howard's Story")
+      * [Ryan's Story](https://www.moffitt.org/inspiring-stories/ryans-story/ "Ryan's Story")
+      * [Robert's Story](https://www.moffitt.org/inspiring-stories/roberts-story/ "Robert's Story")
+      * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story/ "Rick's Story")
+      * [Richard's Story](https://www.moffitt.org/inspiring-stories/richards-story/ "Richard's Story")
+      * [Rena's Story](https://www.moffitt.org/inspiring-stories/renas-story/ "Rena's Story")
+      * [Rebecca's Story](https://www.moffitt.org/inspiring-stories/rebeccas-story/ "Rebecca's Story")
+      * [Ray's and Dr. Bui's story](https://www.moffitt.org/inspiring-stories/rays-and-dr.-buis-story "Ray's and Dr. Bui's story")
+      * [Patti's Story](https://www.moffitt.org/inspiring-stories/pattis-story/ "Patti's Story")
+      * [Pam and Jonathan's story](https://www.moffitt.org/inspiring-stories/pams-and-jonathans-story/ "Pam and Jonathan's story")
+      * [Sarah's Story](https://www.moffitt.org/inspiring-stories/sarahs-story/ "Sarah's Story")
+      * [Steve and Laura's Story](https://www.moffitt.org/inspiring-stories/steve-and-lauras-story/ "Steve and Laura's Story")
+      * [Donna's Story](https://www.moffitt.org/inspiring-stories/donna/ "Donna's Story")
+      * [Tommy's Story](https://www.moffitt.org/inspiring-stories/tommys-story/ "Tommy's Story")
+      * [Viviana's Story](https://www.moffitt.org/inspiring-stories/vivianas-story/ "Viviana's Story")
+      * [Craig's Story](https://www.moffitt.org/inspiring-stories/craigs-story/ "Craig's Story")
+      * [William's Story](https://www.moffitt.org/inspiring-stories/williams-story/ "William's Story")
+      * [The Wilson - Jones's Family Story](https://www.moffitt.org/inspiring-stories/the-joness-family-story/ "The Wilson - Jones's Family Story")
+      * [Woodrow's Story](https://www.moffitt.org/inspiring-stories/woodrows-story/ "Woodrow's Story")
+      * [Cathy's Story](https://www.moffitt.org/inspiring-stories/cathys-story2/ "Cathy's Story")
+      * [Cathy's Story](https://www.moffitt.org/inspiring-stories/cathys-story/ "Cathy's Story")
+      * [Carolyn's Story](https://www.moffitt.org/inspiring-stories/carolyn/ "Carolyn's Story")
+      * [Beth's Story](https://www.moffitt.org/inspiring-stories/beths-story/ "Beth's Story")
+      * [Benita's Story](https://www.moffitt.org/inspiring-stories/benitas-story/ "Benita's Story")
+      * [Barney's Story](https://www.moffitt.org/inspiring-stories/barneys-story/ "Barney's Story")
+      * [Joel's Story](https://www.moffitt.org/inspiring-stories/joels-story/ "Joel's Story")
+      * [Jessica's Story](https://www.moffitt.org/inspiring-stories/jessicas-story/ "Jessica's Story")
+      * [Jen's Story](https://www.moffitt.org/inspiring-stories/jens-story/ "Jen's Story")
+      * [Jay's Story](https://www.moffitt.org/inspiring-stories/jays-story/ "Jay's Story")
+      * [Janelle's Story](https://www.moffitt.org/inspiring-stories/janelles-story/ "Janelle's Story")
+      * [Greg's Story](https://www.moffitt.org/inspiring-stories/gregs-story2/ "Greg's Story")
+      * [Gayle's Story](https://www.moffitt.org/inspiring-stories/gayles-story/ "Gayle's Story")
+      * [Francis' Story](https://www.moffitt.org/inspiring-stories/francis-story/ "Francis' Story")
+      * [Dr. Lau's Story](https://www.moffitt.org/inspiring-stories/dr.-laus-story "Dr. Lau's Story")
+      * [Dr. Roberto Diaz's Story](https://www.moffitt.org/inspiring-stories/dr.-roberto-diazs-story "Dr. Roberto Diaz's Story")
+      * [Dimas' Story](https://www.moffitt.org/inspiring-stories/dimas-story/ "Dimas' Story")
+      * [David and Vesta's Story](https://www.moffitt.org/inspiring-stories/david-and-vestas-story/ "David and Vesta's Story")
+      * [Cydney's Story](https://www.moffitt.org/inspiring-stories/cydneys-story/ "Cydney's Story")
+      * [Charles' Story](https://www.moffitt.org/inspiring-stories/charless-story/ "Charles' Story")
+      * [Cammie's Story](https://www.moffitt.org/inspiring-stories/cammies-story/ "Cammie's Story")
+      * [Joanne's Story](https://www.moffitt.org/inspiring-stories/joannes-story/ "Joanne's Story")
+      * [Neisha's Story](https://www.moffitt.org/inspiring-stories/neishas-story/ "Neisha's Story")
+      * [Greg's Story](https://www.moffitt.org/inspiring-stories/gregs-story/ "Greg's Story")
+      * [Joshua's Story](https://www.moffitt.org/inspiring-stories/joshuas-story/ "Joshua's Story")
+      * [Bridget's Story](https://www.moffitt.org/inspiring-stories/bridgets-story/ "Bridget's Story")
+      * [Barbara's Story](https://www.moffitt.org/inspiring-stories/barbaras-story/ "Barbara's Story")
+      * [Abrianna's Story](https://www.moffitt.org/inspiring-stories/abriannas-story/ "Abrianna's Story")
+    * [ ![Friends supporting woman with cancer ](https://www.moffitt.org/globalassets/images/content-images/patient--family/women-cancer-640.jpg) Taking Care of Your Health  Taking Care of Your Health features cancer-related information, health tips, patient stories and more. ](https://www.moffitt.org/taking-care-of-your-health/ "Taking Care of Your Health")
+  * [For Healthcare Professionals](https://www.moffitt.org/research-science/researchers/clement-gwede)
+    * [ For Healthcare Professionals ](https://www.moffitt.org/for-healthcare-professionals/)
+    * [ Clinical Programs and Services ](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/)
+      * [Adolescent Young Adult (AYA) Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/adolescent-young-adult-aya-program/ "Adolescent Young Adult \(AYA\) Program")
+      * [Anesthesiology and Critical Care Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/anesthesiology-program/ "Anesthesiology and Critical Care Program")
+      * [BMT and Cellular Immunotherapy Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/bmt-and-cellular-immunotherapy-program/ "BMT and Cellular Immunotherapy Program")
+      * [Breast Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/breast-oncology-program/ "Breast Oncology Program")
+      * [Cardio-Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/cardio-oncology-program/ "Cardio-Oncology Program")
+      * [Cutaneous Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/cutaneous-oncology-program/ "Cutaneous Oncology Program")
+      * [Diagnostic Imaging and Interventional Radiology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/diagnostic-imaging-and-interventional-radiology-program/ "Diagnostic Imaging and Interventional Radiology Program")
+      * [Endocrine Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/endocrine-oncology-program/ "Endocrine Oncology Program")
+      * [Endoscopic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/endoscopic-oncology-program/ "Endoscopic Oncology Program")
+      * [Gastrointestinal Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/gastrointestinal-oncology-program/ "Gastrointestinal Oncology Program")
+      * [Genetic Counseling Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/genetic-counseling-program/ "Genetic Counseling Program")
+      * [Genitourinary Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/genitourinary-oncology-program/ "Genitourinary Oncology Program")
+      * [Gynecologic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/gynecologic-oncology-program/ "Gynecologic Oncology Program")
+      * [Head and Neck Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/head-and-neck-oncology-program/ "Head and Neck Oncology Program")
+      * [Immunotherapy Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/immunotherapy-program/ "Immunotherapy Program")
+      * [Malignant Hematology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/malignant-hematology-program/ "Malignant Hematology Program")
+      * [Moffitt Malignant Hematology Cellular Therapy at Memorial Healthcare System](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/moffitt-malignant-hematology-cellular-therapy-at-memorial-healthcare-system/ "Moffitt Malignant Hematology Cellular Therapy at Memorial Healthcare System")
+      * [Neuro-Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/neuro-oncology-program/ "Neuro-Oncology Program")
+      * [Pathology](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/pathology/ "Pathology")
+      * [Pharmacy](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/pharmacy/ "Pharmacy")
+      * [Radiation Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/radiation-oncology-program/ "Radiation Oncology Program")
+      * [Sarcoma Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/sarcoma-program/ "Sarcoma Program")
+      * [Screening Prevention](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/screening-prevention/ "Screening Prevention")
+      * [Senior Adult Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/senior-adult-oncology-program/ "Senior Adult Oncology Program")
+      * [Supportive Care Medicine Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/supportive-care-medicine-program/ "Supportive Care Medicine Program")
+      * [Thoracic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/thoracic-oncology-program/ "Thoracic Oncology Program")
+      * [Translational Pathology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/translational-pathology/ "Translational Pathology Program")
+    * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
+    * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
+      * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
+      * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
+  * [Research](https://www.moffitt.org/research-science/researchers/clement-gwede)
+    * [ Research Science ](https://www.moffitt.org/research-science/)
+    * [ Research Programs ](https://www.moffitt.org/research-science/research-programs/)
+      * [Cancer Biology and Evolution](https://www.moffitt.org/research-science/research-programs/cancer-biology-and-evolution/ "Cancer Biology and Evolution")
+      * [Cancer Epidemiology](https://www.moffitt.org/research-science/research-programs/cancer-epidemiology/ "Cancer Epidemiology")
+      * [Health Outcomes and Behavior](https://www.moffitt.org/research-science/research-programs/health-outcomes-behavior/ "Health Outcomes and Behavior")
+      * [Immuno-Oncology](https://www.moffitt.org/research-science/research-programs/immuno-oncology/ "Immuno-Oncology")
+      * [Molecular Medicine](https://www.moffitt.org/research-science/research-programs/molecular-medicine/ "Molecular Medicine")
+    * [ Divisions and Departments ](https://www.moffitt.org/research-science/divisions-and-departments/)
+      * [Basic Science](https://www.moffitt.org/research-science/divisions-and-departments/basic-science/ "Basic Science")
+      * [BioEngineering](https://www.moffitt.org/research-science/divisions-and-departments/bioengineering/ "BioEngineering")
+      * [Clinical Science](https://www.moffitt.org/research-science/divisions-and-departments/clinical-science/ "Clinical Science")
+      * [Population Science](https://www.moffitt.org/research-science/divisions-and-departments/population-science/ "Population Science")
+      * [Quantitative Science](https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/ "Quantitative Science")
+    * [ Centers and Institutes ](https://www.moffitt.org/research-science/centers-and-institutes/)
+      * [Centers of Excellence](https://www.moffitt.org/research-science/centers-and-institutes/centers-of-excellence/ "Centers of Excellence")
+      * [Institutes](https://www.moffitt.org/research-science/centers-and-institutes/institutes/ "Institutes")
+    * [ Community Outreach and Engagement ](https://www.moffitt.org/research-science/community-outreach-and-engagement/)
+      * [About COE](https://www.moffitt.org/research-science/community-outreach-and-engagement/about-coe/ "About COE")
+      * [Advisory Boards](https://www.moffitt.org/research-science/community-outreach-and-engagement/community-advisory-boards/ "Advisory Boards")
+      * [Catchment Area](https://www.moffitt.org/research-science/community-outreach-and-engagement/catchment-area/ "Catchment Area")
+      * [Data](https://www.moffitt.org/research-science/community-outreach-and-engagement/data/ "Data")
+      * [Outreach](https://www.moffitt.org/research-science/community-outreach-and-engagement/outreach/ "Outreach")
+      * [Research and Clinical Trials](https://www.moffitt.org/research-science/community-outreach-and-engagement/research-and-clinical-trials/ "Research and Clinical Trials")
+      * [Get Involved With COE](https://www.moffitt.org/research-science/community-outreach-and-engagement/get-involved-with-coe/ "Get Involved With COE")
+    * [ Shared Resources ](https://www.moffitt.org/research-science/shared-resources/)
+      * [Analytic Microscopy](https://www.moffitt.org/research-science/shared-resources/analytic-microscopy/ "Analytic Microscopy")
+      * [Biostatistics and Bioinformatics](https://www.moffitt.org/research-science/shared-resources/biostatistics-and-bioinformatics/ "Biostatistics and Bioinformatics")
+      * [Cancer Pharmacokinetics and Pharmacodynamics](https://www.moffitt.org/research-science/shared-resources/cancer-pharmacokinetics-and-pharmacodynamics/ "Cancer Pharmacokinetics and Pharmacodynamics")
+      * [Chemical Biology](https://www.moffitt.org/research-science/shared-resources/chemical-biology/ "Chemical Biology")
+      * [Collaborative Data Services](https://www.moffitt.org/research-science/shared-resources/collaborative-data-services/ "Collaborative Data Services")
+      * [Flow Cytometry](https://www.moffitt.org/research-science/shared-resources/flow-cytometry/ "Flow Cytometry")
+      * [Gene Targeting](https://www.moffitt.org/research-science/shared-resources/gene-targeting/ "Gene Targeting")
+      * [Molecular Genomics](https://www.moffitt.org/research-science/shared-resources/molecular-genomics/ "Molecular Genomics")
+      * [Participant Research, Interventions, and Measurement Core (PRISM)](https://www.moffitt.org/research-science/shared-resources/participant-research-interventions-and-measurement-core-prism/ "Participant Research, Interventions, and Measurement Core \(PRISM\)")
+      * [Proteomics and Metabolomics](https://www.moffitt.org/research-science/shared-resources/proteomics-and-metabolomics/ "Proteomics and Metabolomics")
+      * [Quantitative Imaging Core](https://www.moffitt.org/research-science/shared-resources/quantitative-imaging-core/ "Quantitative Imaging Core")
+      * [Small Animal Imaging Lab](https://www.moffitt.org/research-science/shared-resources/small-animal-imaging-lab/ "Small Animal Imaging Lab")
+      * [Tissue](https://www.moffitt.org/research-science/shared-resources/tissue/ "Tissue")
+    * [ Academic and Industry Partnerships ](https://www.moffitt.org/research-science/academic-and-industry-partnerships/)
+      * [Office of Innovation](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/ "Office of Innovation")
+      * [Academic Partnerships](https://www.moffitt.org/research-science/academic-and-industry-partnerships/academic-partnerships/ "Academic Partnerships")
+    * [ Administration ](https://www.moffitt.org/research-science/administration/)
+      * [Non-Therapeutic Research Office](https://www.moffitt.org/research-science/administration/non-therapeutic-research-office/ "Non-Therapeutic Research Office")
+    * [ ![Research fellows in a lab](https://www.moffitt.org/contentassets/a7d26515856847ad8ebe488477e34948/research-training.jpg) Research Education and Training  We are interested in recruiting scholars who have a profound interest in preventing, treating and curing cancer. ](https://www.moffitt.org/education/research-education-and-training/ "Research Education and Training")
+  * [Training & Education](https://www.moffitt.org/research-science/researchers/clement-gwede)
+    * [ Education ](https://www.moffitt.org/education/)
+    * [ Medical Education ](https://www.moffitt.org/education/medical-education/)
+      * [Our Training Programs](https://www.moffitt.org/education/medical-education/our-training-programs/ "Our Training Programs")
+      * [Program Staff/Contact Us](https://www.moffitt.org/education/medical-education/program-staffcontact-us/ "Program Staff/Contact Us")
+      * [Salary and Benefits](https://www.moffitt.org/education/medical-education/salary-and-benefits/ "Salary and Benefits")
+      * [About Tampa Bay](https://www.moffitt.org/careers/about-tampa-bay/ "About Tampa Bay")
+    * [ Research Education and Training ](https://www.moffitt.org/education/research-education-and-training/)
+      * [Office of Postdoctoral Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-postdoctoral-affairs/ "Office of Postdoctoral Affairs")
+      * [Office of Graduate Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/ "Office of Graduate Affairs")
+      * [Office of Undergraduate and Visiting Scholar Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/ "Office of Undergraduate and Visiting Scholar Affairs")
+      * [Pre-College Programs](https://www.moffitt.org/education/research-education-and-training/pre-college-programs/ "Pre-College Programs")
+      * [What We Provide](https://www.moffitt.org/education/research-education-and-training/what-we-provide/ "What We Provide")
+      * [Contact Us](https://www.moffitt.org/education/research-education-and-training/contact-us/ "Contact Us")
+      * [About Tampa Bay](https://www.moffitt.org/careers/about-tampa-bay/ "About Tampa Bay")
+      * [News](https://www.moffitt.org/education/research-education-and-training/news/ "News")
+      * [Where Are They Now](https://www.moffitt.org/education/research-education-and-training/where-are-they-now/ "Where Are They Now")
+    * [ Nursing Education ](https://www.moffitt.org/education/nursing-education/)
+      * [Ambulatory Care Oncology Nurse Residency Program](https://www.moffitt.org/education/nursing-education/ambulatory-care-oncology-nurse-residency-program/ "Ambulatory Care Oncology Nurse Residency Program")
+      * [Nurse Anesthetist](https://www.moffitt.org/education/nursing-education/nurse-anesthetist/ "Nurse Anesthetist")
+      * [Nurse Practitioner](https://www.moffitt.org/education/nursing-education/nurse-practitioner/ "Nurse Practitioner")
+      * [Oncology Nurse Residency Program](https://www.moffitt.org/education/nursing-education/oncology-nurse-residency-program/ "Oncology Nurse Residency Program")
+      * [Registered Nurse](https://www.moffitt.org/education/nursing-education/registered-nurse/ "Registered Nurse")
+    * [ Health Professional Education ](https://www.moffitt.org/education/health-professional-education/)
+      * [Advanced Pharmacy Practice (APPE)](https://www.moffitt.org/education/health-professional-education/advanced-pharmacy-practice-appe/ "Advanced Pharmacy Practice \(APPE\)")
+      * [Anesthesiology Assistant](https://www.moffitt.org/education/health-professional-education/anesthesiology-assistant/ "Anesthesiology Assistant")
+      * [Dietetic Technician](https://www.moffitt.org/education/health-professional-education/dietetic-technician/ "Dietetic Technician")
+      * [Dietitian](https://www.moffitt.org/education/health-professional-education/dietitian/ "Dietitian")
+      * [Genetic Counseling](https://www.moffitt.org/education/health-professional-education/genetic-counseling/ "Genetic Counseling")
+      * [Introductory Pharmacy Practice (IPPE)](https://www.moffitt.org/education/health-professional-education/introductory-pharmacy-practice-ippe/ "Introductory Pharmacy Practice \(IPPE\)")
+      * [Master of Public Health Field Experience](https://www.moffitt.org/education/health-professional-education/master-of-public-health-field-experience/ "Master of Public Health Field Experience")
+      * [Medical Assistants](https://www.moffitt.org/education/health-professional-education/medical-assistants/ "Medical Assistants")
+      * [Nuclear Medicine](https://www.moffitt.org/education/health-professional-education/nuclear-medicine/ "Nuclear Medicine")
+      * [Occupational Therapy Intern](https://www.moffitt.org/education/health-professional-education/occupational-therapy-intern/ "Occupational Therapy Intern")
+      * [PGY1 Pharmacy Residency](https://www.moffitt.org/education/health-professional-education/pgy-1-residency/ "PGY1 Pharmacy Residency")
+      * [PGY2 Oncology Pharmacy Residency](https://www.moffitt.org/education/health-professional-education/pgy-2-oncology-residency/ "PGY2 Oncology Pharmacy Residency")
+      * [Oncology Pharmacy Technician Trainee Program](https://www.moffitt.org/education/health-professional-education/pharmacy-technician-extern/ "Oncology Pharmacy Technician Trainee Program")
+      * [Physical Therapy](https://www.moffitt.org/education/health-professional-education/physical-therapy/ "Physical Therapy")
+      * [Physical Therapy Assistant](https://www.moffitt.org/education/health-professional-education/physical-therapy-assistant/ "Physical Therapy Assistant")
+      * [Physician Assistant](https://www.moffitt.org/education/health-professional-education/physician-assistant/ "Physician Assistant")
+      * [Psychology](https://www.moffitt.org/education/health-professional-education/psychology/ "Psychology")
+      * [Radiation Therapy](https://www.moffitt.org/education/health-professional-education/radiation-therapy/ "Radiation Therapy")
+      * [Radiography Therapy](https://www.moffitt.org/education/health-professional-education/radiography-therapy/ "Radiography Therapy")
+      * [Respiratory Therapy](https://www.moffitt.org/education/health-professional-education/respiratory-therapy/ "Respiratory Therapy")
+      * [Social Work](https://www.moffitt.org/education/health-professional-education/social-work/ "Social Work")
+      * [Sonography/Ultrasound Student](https://www.moffitt.org/education/health-professional-education/sonographyultrasound-student/ "Sonography/Ultrasound Student")
+      * [Speech Therapy](https://www.moffitt.org/education/health-professional-education/speech-therapy/ "Speech Therapy")
+      * [Wound Ostomy](https://www.moffitt.org/education/health-professional-education/wound-ostomy/ "Wound Ostomy")
+    * [ Other Educational Programs ](https://www.moffitt.org/education/other-educational-programs/)
+  * [Give](https://www.moffitt.org/research-science/researchers/clement-gwede)
+    * [ Give ](https://www.moffitt.org/give/)
+    * [ Why Give? ](https://www.moffitt.org/give/why-give/)
+      * [About the Moffitt Foundation](https://www.moffitt.org/give/why-give/about-the-moffitt-foundation/ "About the Moffitt Foundation")
+      * [FAQ](https://www.moffitt.org/give/why-give/faq/ "FAQ")
+      * [Financials and Stewardship](https://www.moffitt.org/give/why-give/financials-and-stewardship/ "Financials and Stewardship")
+      * [Contact the Foundation](https://www.moffitt.org/give/why-give/contact-the-foundation/ "Contact the Foundation")
+      * [You Can Make a Difference](https://www.moffitt.org/give/why-give/you-can-make-a-difference/ "You Can Make a Difference")
+      * [Impact Report](https://www.moffitt.org/give/your-impact/2022-annual-foundation-impact-report/ "Impact Report")
+    * [ Ways to Give ](https://www.moffitt.org/give/ways-to-give/)
+      * [Cash, Stock or Other Assets](https://www.moffitt.org/give/ways-to-give/cash-stock-or-other-assets/ "Cash, Stock or Other Assets")
+      * [Planned Giving](https://mymoffittlegacy.org/ "Planned Giving")
+      * [Philanthropic Foundation Giving](https://www.moffitt.org/give/ways-to-give/philanthropic-foundation-giving/ "Philanthropic Foundation Giving")
+      * [Corporate Partnership](https://www.moffitt.org/give/ways-to-give/corporate-partnership/ "Corporate Partnership")
+      * [Employer Matching Gifts](https://www.moffitt.org/give/ways-to-give/employer-matching-gifts/ "Employer Matching Gifts")
+      * [Endowment Gifts](https://www.moffitt.org/give/ways-to-give/endowment-gifts/ "Endowment Gifts")
+      * [Other Ways to Donate](https://www.moffitt.org/give/ways-to-give/other-ways-to-donate/ "Other Ways to Donate")
+      * [Breast Cancer Funding Opportunities](https://www.moffitt.org/give/ways-to-give/breast-cancer-funding-opportunities/ "Breast Cancer Funding Opportunities")
+      * [Support the Pentecost Family Myeloma Research Center](https://www.moffitt.org/give/ways-to-give/support-the-pentecost-family-myeloma-research-center/ "Support the Pentecost Family Myeloma Research Center")
+      * [Partners In Discovery](https://www.moffitt.org/give/ways-to-give/partners-in-discovery/ "Partners In Discovery")
+    * [ Get Involved ](https://www.moffitt.org/give/get-involved/)
+      * [Become a Member](https://www.moffitt.org/give/get-involved/become-a-member/ "Become a Member")
+      * [Volunteer Your Time](https://www.moffitt.org/give/get-involved/volunteer-your-time/ "Volunteer Your Time")
+      * [Miles for Moffitt](https://www.moffitt.org/give/get-involved/miles-for-moffitt/ "Miles for Moffitt")
+      * [Magnolia](https://www.moffitt.org/give/get-involved/magnolia/ "Magnolia")
+      * [Mission Possible Sarasota Luncheon](https://www.moffitt.org/give/get-involved/mission-possible-sarasota-luncheon/ "Mission Possible Sarasota Luncheon")
+      * [Discovery Series Webinars](https://www.moffitt.org/give/get-involved/discovery-series-webinars/ "Discovery Series Webinars")
+      * [Fundraise for Moffitt](https://www.moffitt.org/give/get-involved/fundraise-for-moffitt/ "Fundraise for Moffitt")
+    * [ ![A researcher holds a Moffitt License Plate](https://www.moffitt.org/contentassets/fff003985b6341a8b2d684da79916350/ways-to-give.jpg) Ways to Give  Cancer touches all of us. Our mission - to contribute to the prevention and cure of cancer - depends on your support.  ](https://www.moffitt.org/give/ways-to-give/ "Ways to Give")
+
+
+# Clement Gwede, PhD, MPH, RN, FAAN
+![Clement  Gwede](https://www.moffitt.org/globalassets/images/researchers_bio/GwedeClement_933.jpg)
+Clement Gwede, PhD, MPH, RN, FAAN 
+**Program:** Health Outcomes and Behavior 
+**Research Program:** Health Outcomes & Behavior Program 
+[ Contact ](https://eforms.moffitt.org/ContactResearchersForm?PERID=933)
+  * ## Overview
+Eliminating cancer disparities through community-based, culturally appropriate interventions for high-risk, underserved populations is a national priority.
+### Associations
+    * Health Outcomes and Behavior
+    * Genitourinary Oncology
+    * Gastrointestinal Oncology
+    * Cancer Chemoprevention Research Interest Group
+    * Health Outcomes & Behavior Program
+### Education & Training
+**Graduate:**
+    * University of South Florida, MPH - Health Education
+    * University of South Florida, PhD - Health Education & Behavior
+  * ## Research Interest
+Despite major advances in cancer screening, early detection and care, there are marked and persistent disparities in outcomes for African-Americans/Blacks and other medically underserved populations. As such, over the past few years Dr. Gwede's research has spanned the continuum of cancer care with the following broad goals: reducing cancer disparities through community-based interventions to promote informed decision making and early detection for prostate and colorectal cancer; increasing participation of racial-ethnic minorities in clinical research; and symptom management interventions to improve quality of life during and after cancer treatment. Supported by grants from the ACS and NCI, current research by Dr. Gwede and colleagues uses community-based participatory research methods and community-academic partnerships to develop and implement culturally targeted, linguistically and literacy relevant interventions to increase colorectal cancer screening among diverse medically underserved populations in community health clinics and other community settings. In the area of symptom management and quality of life, Dr. Gwede seeks to prevent or ameliorate the burden of debilitating chemoradiation-induced symptoms in national or multinational cooperative clinical trials. 
+  * ## Publications
+    * Lee KT, Gonzalez BD, Geiss C, Fulton HJ, Charles D, Vadaparampil ST, Henry NL, Jim HSL, Hershman DL, Tworoger SS, Gwede CK. Barriers to endocrine therapy adherence: perspectives of Black breast cancer survivors and their providers. J Cancer Surviv. 2025 Oct.19(5):1580-1587. Pubmedid: [38520598](https://www.ncbi.nlm.nih.gov/pubmed/38520598). Pmcid: PMC11664442. 
+    * Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST. Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study. Contemp Clin Trials. 2025 Nov.158:108096. Pubmedid: [40992541](https://www.ncbi.nlm.nih.gov/pubmed/40992541). 
+    * Luque JS, Kiros GE, Vargas MA, Ali A, Tawk R, Jackson DR, Dickey SL, Harris CM, Robinson T, Duncan B, Freeman J, Gwede CK, Wallace K. Effectiveness of a community health advisor colorectal cancer screening educational intervention on stool test completion in an African American primary care patient population: a pragmatic randomized controlled trial. BMC Glob Public Health. 2025 Jun.3(1):47. Pubmedid: [40450376](https://www.ncbi.nlm.nih.gov/pubmed/40450376). Pmcid: PMC12126889. 
+    * Lee KT, Geiss C, Fulton HJ, Charles D, Gonzalez BD, Jim HSL, Henry NL, Hershman DL, Tworoger SS, Bradbury A, Fayanju OM, Vadaparampil ST, Gwede CK. Hidden Costs of Endocrine Therapy for Black Breast Cancer Survivors: A Qualitative Examination of Patient and Provider Experiences. Clin Breast Cancer. 2025 Jul. Pubmedid: [40713251](https://www.ncbi.nlm.nih.gov/pubmed/40713251). 
+    * Lee KT, Hu B, Martinez Tyson D, Geiss C, Vadaparampil ST, Jim HSL, Gwede CK, Soliman HH, Henry NL, Hershman DL. A mixed-methods study characterizing experiences of medical oncologists' use of gonadotropin-releasing hormone agonists for treatment of breast cancer. Breast Cancer Res Treat. 2025 Aug.212(3):449-455. Pubmedid: [40461861](https://www.ncbi.nlm.nih.gov/pubmed/40461861). Pmcid: PMC12209034. 
+    * Machtay M, Torres-Saavedra PA, Thorstad W, Nguyen-Tân PF, Siu LL, Holsinger FC, El-Naggar A, Chung C, Cmelak A, Burtness B, Bednarz G, Quon H, Breen SL, Gwede CK, Dicker AP, Yao M, Jordan RC, Dorth J, Lee N, Chan JW, Dunlap N, Bar-Ad V, Stokes WA, Chakravarti A, Sher D, Rao S, Harris J, Yom SS, Le QT. Postoperative Radiotherapy ± Cetuximab for Intermediate-Risk Head and Neck Cancer. J Clin Oncol. 2025 Apr.43(12):1474-1487. Pubmedid: [39841939](https://www.ncbi.nlm.nih.gov/pubmed/39841939). Pmcid: PMC12003072. 
+    * Cousin L, Peoples Z, Suppiah V, Li J, Quinn GP, Martinez U, Zea AH, Meade CD, Gwede CK, Tsien F, Zabaleta J, Reich R, Simmons VN. Evaluation of a Multi-Site Cancer Health Disparities Research Training Program for Underrepresented Undergraduate and Medical Students. J Cancer Educ. 2025 Apr.40(2):171-176. Pubmedid: [39167358](https://www.ncbi.nlm.nih.gov/pubmed/39167358). 
+    * Renduchintala K, Arevalo M, Fonseca G, Haver MK, Gwede CK, Pabbathi S, Christy SM. Vaccination uptake among post-treatment cancer survivors: A multi-vaccine scoping review. Vaccine. 2024 Sep.42(22):125995. Pubmedid: [38802291](https://www.ncbi.nlm.nih.gov/pubmed/38802291). Pmcid: PMC11371527. 
+    * Arevalo M, Sutton SK, Abdulla R, Christy SM, Meade CD, Roetzheim RG, Gwede CK. Longitudinal adherence to annual colorectal cancer screening among Black persons living in the United States enrolled in a community-based randomized trial. Cancer. 2024 May.130(9):1684-1692. Pubmedid: [38150285](https://www.ncbi.nlm.nih.gov/pubmed/38150285). Pmcid: PMC11009071. 
+    * Permuth JB, Park MA, Chen DT, Basinski T, Powers BD, Gwede CK, Dezsi KB, Gomez M, Vyas SL, Biachi T, Cortizas EM, Crowder S, Genilo-Delgado M, Green BL, Greene A, Gregg C, Hoffe SE, Jiang K, Kim B, Vasudevan V, Garcialopez De Llano J, Menon AA, Mo Q, MorenoUrazan LM, Mok S, Parker N, Rajasekhara S, Rasool G, Sinnamon A, Sparks L, Stewart PA, Tardif K, Tassielli AF, Teer JK, Tran DV, Turner KL, Vadaparampil ST, Whelan CJ, Douglas WG, Velanovich V, Karachristos A, Legaspi A, Meredith K, Molina-Vega MA, Huguet KL, Arnoletti JP, Bloomston M, Trevino J, Merchant NB, Pimiento JM, Hodul PJ, Malafa M, Fleming J, Judge SM, Jeong DK, Judge A. Leveraging real-world data to predict cancer cachexia stage, quality of life, and survival in a racially and ethnically diverse multi-institutional cohort of treatment-naïve patients with pancreatic ductal adenocarcinoma. Front Oncol. 2024 Jul.14:1362244. Pubmedid: [39109281](https://www.ncbi.nlm.nih.gov/pubmed/39109281). Pmcid: PMC11300308. 
+    * Montoya SM, Olaore P, Bastardo-Acosta J, Abdulla R, Schell MJ, Hidalgo A, Turner B, Rider M, Kishun-Jit N, Joshua A, Pollard J, Friedman M, Christy SM, Meade CD, Gwede CK. Protocol paper for an implementation science approach to promoting colorectal cancer screening in Federally Qualified Health Center clinics: A stepped-wedge, multilevel intervention trial. Res Sq. 2024 Jul. Pubmedid: [39070625](https://www.ncbi.nlm.nih.gov/pubmed/39070625). Pmcid: PMC11275978. 
+    * Buchalter RB, Stern MC, Mendez JS, Kim MK, Rose J, Meade CD, Gwede CK, Figueiredo JC, Schmit SL. Identification of Priorities for Colorectal Cancer Screening Interventions Among US Hispanic/Latino Populations. Am J Public Health. 2024 Jul.114(S6):S515-S524. Pubmedid: [39083729](https://www.ncbi.nlm.nih.gov/pubmed/39083729). Pmcid: PMC11292273. 
+    * Christy SM, Castro-Figueroa EM, Lopez J, Sutton SK, McIntyre M, Garcia J, Cortes C, Vidal AV, Gwede CK, Marzán M, Jimenez J, Vadaparampil ST. Changes in Cancer Screening Knowledge Among a Prospective Cohort of Spanish-Speaking Hispanic Community Outreach Event Participants in Florida and Puerto Rico. J Cancer Educ. 2024 Feb.39(1):18-26. Pubmedid: [37702848](https://www.ncbi.nlm.nih.gov/pubmed/37702848). 
+    * Berglund A, Yamoah K, Eschrich SA, Falahat R, Mulé JJ, Kim S, Matta J, Dutil J, Ruiz-Deya G, Ortiz Sanchez C, Wang L, Park H, Banerjee HN, Lotan T, Barry KH, Putney RM, Kim SJ, Gwede C, Kresovich JK, Kim Y, Lin HY, Dhillon J, Chakrabarti R, Park JY. Epigenome-wide association study of prostate cancer in African American men identified differentially methylated genes. Cancer Med. 2024 Aug.13(16):e70044. Pubmedid: [39162297](https://www.ncbi.nlm.nih.gov/pubmed/39162297). Pmcid: PMC11334050. 
+    * Gutstein L, Arevalo M, Reich RR, Fan W, Vadaparampil ST, Meade CD, Abdulla R, Lawrence E, Roetzheim RG, Lopez D, Collier A, Deak E, Ewing AP, Gwede CK, Christy SM. Factors associated with prior completion of colorectal cancer and hepatitis C virus screenings among community health center patients: a cross-sectional study to inform a multi-behavioral educational intervention. J Behav Med. 2024 Apr.47(2):295-307. Pubmedid: [38127175](https://www.ncbi.nlm.nih.gov/pubmed/38127175). 
+    * Meade CD, Stanley NB, Arevalo M, Tyson DM, Chavarria EA, Aguado Loi CX, Rivera M, Gutierrez L, Abdulla R, Christy SM, Gwede CK. Transcreation matters: A learner centric participatory approach for adapting cancer prevention messages for Latinos. Patient Educ Couns. 2023 Oct.115:107888. Pubmedid: [37463555](https://www.ncbi.nlm.nih.gov/pubmed/37463555). 
+    * Wong SJ, Torres-Saavedra PA, Saba NF, Shenouda G, Bumpous JM, Wallace RE, Chung CH, El-Naggar AK, Gwede CK, Burtness B, Tennant PA, Dunlap NE, Redman R, Stokes WA, Rudra S, Mell LK, Sacco AG, Spencer SA, Nabell L, Yao M, Cury FL, Mitchell DL, Jones CU, Firat S, Contessa JN, Galloway T, Currey A, Harris J, Curran WJ, Le QT. Radiotherapy Plus Cisplatin With or Without Lapatinib for Non-Human Papillomavirus Head and Neck Carcinoma: A Phase 2 Randomized Clinical Trial. JAMA Oncol. 2023 Nov.9(11):1565-1573. Pubmedid: [37768670](https://www.ncbi.nlm.nih.gov/pubmed/37768670). Pmcid: PMC10540060. 
+    * Brown JA, Alalwan MA, Absie S, Korley ND, Parvanta CF, Meade CM, Best AL, Gwede CK, Ewing AP. Racial, Lifestyle, and Healthcare Contributors to Perceived Cancer Risk among Physically Active Adolescent and Young Adult Women Aged 18-39 Years. Int J Environ Res Public Health. 2023 May.20(9). Pubmedid: [37174256](https://www.ncbi.nlm.nih.gov/pubmed/37174256). Pmcid: PMC10177863. 
+    * Li X, Roy S, Damonte J, Park HY, Hoogland AI, Jamison K, Komrokji KR, Yeo CD, Kim Y, Dhillon J, Gudenkauf LM, Oswald LB, Jim HSL, Yamoah K, Pow-Sang JM, Kanetsky PA, Gwede CK, Park JY, Gonzalez BD. Recruiting African American Prostate Cancer Survivors for a Population-based Biobank Study. Cancer Epidemiol Biomarkers Prev. 2023 Jun.32(6):768-775. Pubmedid: [36958853](https://www.ncbi.nlm.nih.gov/pubmed/36958853). Pmcid: PMC10308568. 
+    * Buro AW, Carson TL, Small BJ, Fan W, Oswald LB, Jim HSL, Salas E, Zambrano K, Bryant C, Yamoah K, Gwede CK, Park JY, Gonzalez BD. Sociocultural factors associated with physical activity in Black prostate cancer survivors. Support Care Cancer. 2023 Jul.31(8):482. Pubmedid: [37479918](https://www.ncbi.nlm.nih.gov/pubmed/37479918). Pmcid: PMC10388711. 
+    * Ewing AP, Chang GC, Henry AV, Brown JA, Alalwan MA, Boyd DT, Marshall D, McElwain S, Best AL, Parvanta CF, Levin BL, Meade CD, Gwede CK. Lifestyle Related Cancer Risk and Protective Behaviors Vary among a Convenient Sample of Physically Active, Young-to-Middle-Aged Adults 18-49. Int J Environ Res Public Health. 2023 Jul.20(13). Pubmedid: [37444152](https://www.ncbi.nlm.nih.gov/pubmed/37444152). Pmcid: PMC10341878. 
+    * Cousin L, Roberts S, Brownstein NC, Whiting J, Kasting ML, Head KJ, Vadaparampil ST, Giuliano AR, Gwede CK, Meade CD, Christy SM. Factors associated with parental COVID-19 vaccine attitudes and intentions among a national sample of United States adults ages 18-45. J Pediatr Nurs. 2023 Jan.69:108-115. Pubmedid: [36716520](https://www.ncbi.nlm.nih.gov/pubmed/36716520). Pmcid: PMC9852321. 
+    * Fleming K, Roy S, Sutton SK, Seijo E, Simmons V, Gwede CK, Meade CD. Youth Ambassadors Reaching Out (YARO): Lessons learned from the implementation of a youth-based cancer education program. National Youth Advocacy and Resilience Journal. 2023 Jan.6(1):72-78. 
+    * Turner K, Brownstein NC, Whiting J, Arevalo M, Vadaparampil S, Giuliano AR, Islam JY, Meade CD, Gwede CK, Kasting ML, Head KJ, Christy SM. Impact of the COVID-19 pandemic on human papillomavirus (HPV) vaccination among a national sample of United States adults ages 18-45: A cross-sectional study. Prev Med Rep. 2023 Feb.31:102067. Pubmedid: [36439896](https://www.ncbi.nlm.nih.gov/pubmed/36439896). Pmcid: PMC9677560. 
+    * Luque JS, Kiros GE, Vargas M, Jackson DR, Matthew OO, Austin TD, Tawk R, Ali AA, Harris CM, Wallace K, Gwede CK. Association of Preventive Care Attitudes and Beliefs with Colorectal Cancer Screening History among African American Patients of Community Health Centers. J Cancer Educ. 2023 Dec.38(6):1816-1824. Pubmedid: [37442915](https://www.ncbi.nlm.nih.gov/pubmed/37442915). Pmcid: PMC10787027. 
+    * Ewing AP, Alalwan MA, Best AL, Parvanta CF, Coughlin EC, Dorn JM, Levin BL, Meade CD, Gwede CK. Understanding Cancer Screening Intention Among Physically Active Adults Ages 18-49. J Cancer Educ. 2023 Apr.38(2):467-475. Pubmedid: [35112296](https://www.ncbi.nlm.nih.gov/pubmed/35112296). 
+    * Liu A, Garcia-Torres LC, Johnson C, Haver MK, Gwede CK, Christy SM. Cancer screening educational interventions in rural and farmworker communities: a systematic literature review. Ethn Health. 2023 Apr.28(3):335-357. Pubmedid: [35499269](https://www.ncbi.nlm.nih.gov/pubmed/35499269). Pmcid: PMC9626390. 
+    * Arevalo M, Brownstein NC, Whiting J, Vadaparampil ST, Head KJ, Meade CD, Islam JY, Kasting ML, Gwede CK, Barrios-Monroy V, Christy SM. Factors related to human papillomavirus vaccine uptake and intentions among adults aged 18-26 and 27-45 years in the United States: A cross-sectional study. Cancer. 2023 Apr.129(8):1237-1252. Pubmedid: [36759972](https://www.ncbi.nlm.nih.gov/pubmed/36759972). Pmcid: PMC10470643. 
+    * Schell MJ, Gwede CK, Friedman M. Physician Adenoma Detection Rates and Colorectal Cancer. Jama. 2022 Oct.328(14):1462. Pubmedid: [36219411](https://www.ncbi.nlm.nih.gov/pubmed/36219411). 
+    * Sims Z, Cousin L, Suppiah V, Stanley N, Li J, Quinn G, Martinez U, Zea AH, Simmons VN, Meade CD, Tsien F, Gwede CK. Improving Multi-site Interaction Through Remote Learning Technology: Report from a Training Program to Increase Underrepresented Undergraduate and Medical Students in Health Disparities Research. J Cancer Educ. 2022 Oct.37(5):1466-1471. Pubmedid: [33860443](https://www.ncbi.nlm.nih.gov/pubmed/33860443). Pmcid: PMC9157396. 
+    * Chavarria EA, Christy SM, Feng H, Miao H, Abdulla R, Gutierrez L, Lopez D, Sanchez J, Gwede CK, Meade CD. Online Health Information Seeking and eHealth Literacy Among Spanish Language-Dominant Latino Adults Receiving Care in a Community Clinic: Secondary Analysis of Pilot Randomized Controlled Trial Data. JMIR Form Res. 2022 Oct.6(10):e37687. Pubmedid: [35238785](https://www.ncbi.nlm.nih.gov/pubmed/35238785). Pmcid: PMC9614617. 
+    * Christy SM, Sutton SK, Abdulla R, Boxtha C, Gonzalez P, Cousin L, Ewing A, Montoya S, Lopez D, Beehler T, Sanchez J, Carvajal R, Meade CD, Gwede CK. A multilevel, low literacy dual language intervention to promote colorectal cancer screening in community clinics in Florida: A randomized controlled trial. Prev Med. 2022 May.158:107021. Pubmedid: [35305995](https://www.ncbi.nlm.nih.gov/pubmed/35305995). Pmcid: PMC9018599. 
+    * Arevalo M, Brownstein NC, Whiting J, Meade CD, Gwede CK, Vadaparampil ST, Tillery KJ, Islam JY, Giuliano AR, Christy SM. Strategies and Lessons Learned During Cleaning of Data From Research Panel Participants: Cross-sectional Web-Based Health Behavior Survey Study. JMIR Form Res. 2022 Jun.6(6):e35797. Pubmedid: [35737436](https://www.ncbi.nlm.nih.gov/pubmed/35737436). Pmcid: PMC9264135. 
+    * Brownstein NC, Reddy H, Whiting J, Kasting ML, Head KJ, Vadaparampil ST, Giuliano AR, Gwede CK, Meade CD, Christy SM. COVID-19 vaccine behaviors and intentions among a national sample of United States adults ages 18-45. Prev Med. 2022 Jul.160:107038. Pubmedid: [35398369](https://www.ncbi.nlm.nih.gov/pubmed/35398369). Pmcid: PMC8988441. 
+    * Buro AW, Baskin M, Miller D, Ward T, West DS, Gore LR, Gwede CK, Epel E, Carson TL. Rationale and study protocol for a randomized controlled trial to determine the effectiveness of a culturally relevant, stress management enhanced behavioral weight loss intervention on weight loss outcomes of black women. BMC Public Health. 2022 Jan.22(1):193. Pubmedid: [35090433](https://www.ncbi.nlm.nih.gov/pubmed/35090433). Pmcid: PMC8795937. 
+    * Dyal BW, Uscanga ZL, Bailey Z, Schmit S, Hoehn A, Garcia J, Gwede CK, Brownstein N, Powell-Roach K, Johnson-Mallard V, Krieger JL, Kobetz E, Vadaparampil S, Odedina FT, Wilkie DJ. Developing the Florida Academic Cancer Center Alliance Health Disparities Common Measure: The Florida Health and Ancestry Survey. Cancer Control. 2022 Jan.29. Pubmedid: [35758601](https://www.ncbi.nlm.nih.gov/pubmed/35758601). Pmcid: PMC9244925. 
+    * Luque JS, Matthew OO, Jackson DR, Vargas MA, Austin T, Ali A, Kiros GE, Harris CM, Tawk R, Gwede CK, Wallace K, Jean-Pierre P. Assessing the effectiveness of a community health advisor plus screen to save educational intervention on stool-based testing adherence in an African American safety net clinic population: study protocol for a randomized pragmatic trial. Trials. 2022 Feb.23(1):151. Pubmedid: [35168640](https://www.ncbi.nlm.nih.gov/pubmed/35168640). Pmcid: PMC8845372. 
+    * Turner K, Brownstein NC, Whiting J, Arevalo M, Islam JY, Vadaparampil ST, Meade CD, Gwede CK, Kasting ML, Head KJ, Christy SM. Impact of the COVID-19 Pandemic on Women's Health Care Access: A Cross-Sectional Study. J Womens Health (Larchmt). 2022 Dec.31(12):1690-1702. Pubmedid: [36318766](https://www.ncbi.nlm.nih.gov/pubmed/36318766). Pmcid: PMC9805885. 
+    * Ewing AP, Alalwan MA, Brown JA, Adekunle TE, Korley ND, Nafiu TC, Coughlin EC, Parvanta CP, Meade CD, Gwede CK, Best AL. Physically fit with a higher cancer risk? Influences of cervical cancer screening among a sample of physically active women ages 21-49 living in the United States. Prev Med Rep. 2022 Dec.30:101978. Pubmedid: [36157713](https://www.ncbi.nlm.nih.gov/pubmed/36157713). Pmcid: PMC9494240. 
+    * Hirko KA, Xu H, Rogers LQ, Martin MY, Roy S, Kelly KM, Christy SM, Ashing KT, Yi JC, Lewis-Thames MW, Meade CD, Lu Q, Gwede CK, Nemeth J, Ceballos RM, Menon U, Cueva K, Yeary K, Klesges LM, Baskin ML, Alcaraz KI, Ford S. Cancer disparities in the context of rurality: risk factors and screening across various U.S. rural classification codes. Cancer Causes Control. 2022 Aug.33(8):1095-1105. Pubmedid: [35773504](https://www.ncbi.nlm.nih.gov/pubmed/35773504). Pmcid: PMC9811397. 
+    * Luque JS, Vargas M, Wallace K, Matthew OO, Tawk R, Ali AA, Kiros GE, Harris CM, Gwede CK. Engaging the Community on Colorectal Cancer Screening Education: Focus Group Discussions Among African Americans. J Cancer Educ. 2022 Apr.37(2):251-262. Pubmedid: [33904120](https://www.ncbi.nlm.nih.gov/pubmed/33904120). Pmcid: PMC8075366. 
+    * Christy SM, Cousin LA, Sutton SK, Chavarria EA, Abdulla R, Gutierrez L, Sanchez J, Lopez D, Gwede CK, Meade CD. Characterizing Health Literacy Among Spanish Language-Preferring Latinos Ages 50-75. Nurs Res. 2021 Sep.70(5):344-353. Pubmedid: [33990120](https://www.ncbi.nlm.nih.gov/pubmed/33990120). Pmcid: PMC8405461. 
+    * Bacchus MW, McKee B, Gwede CK, Cogle CR. Implementation of Cancer Plans in the United States: A Review. Healthcare (Basel). 2021 Mar.9(3). Pubmedid: [33800077](https://www.ncbi.nlm.nih.gov/pubmed/33800077). Pmcid: PMC8000996. 
+    * Szumacher E, Gwede CK. The American Association for Cancer Education: Continuing International and Global Relevance. J Cancer Educ. 2021 Jul.36(Suppl 1):3-4. Pubmedid: [34145509](https://www.ncbi.nlm.nih.gov/pubmed/34145509). Pmcid: PMC8213529. 
+    * Chavarria EA, Christy SM, Simmons VN, Vadaparampil ST, Gwede CK, Meade CD. Learner Verification: A Methodology to Create Suitable Education Materials. Health Lit Res Pract. 2021 Jan.5(1):e49-e59. Pubmedid: [34251862](https://www.ncbi.nlm.nih.gov/pubmed/34251862). Pmcid: PMC8075101. 
+    * Permuth JB, Dezsi KB, Vyas S, Ali KN, Basinski TL, Utuama OA, Denbo JW, Klapman J, Dam A, Carballido E, Kim DW, Pimiento JM, Powers BD, Otto AK, Choi JW, Chen DT, Teer JK, Beato F, Ward A, Cortizas EM, Whisner SY, Williams IE, Riner AN, Tardif K, Velanovich V, Karachristos A, Douglas WG, Legaspi A, Allan BJ, Meredith K, Molina-Vega MA, Bao P, St Julien J, Huguet KL, Green L, Odedina FT, Kumar NB, Simmons VN, George TJ, Vadaparampil ST, Hodul PJ, Arnoletti JP, Awad ZT, Bose D, Jiang K, Centeno BA, Gwede CK, Malafa M, Judge SM, Judge AR, Jeong D, Bloomston M, Merchant NB, Fleming JB, Trevino JG. The Florida Pancreas Collaborative Next-Generation Biobank: Infrastructure to Reduce Disparities and Improve Survival for a Diverse Cohort of Patients with Pancreatic Cancer. Cancers (Basel). 2021 Feb.13(4). Pubmedid: [33671939](https://www.ncbi.nlm.nih.gov/pubmed/33671939). Pmcid: PMC7919015. 
+    * Roy S, Dickey S, Wang HL, Washington A, Polo R, Gwede CK, Luque JS. Systematic Review of Interventions to Increase Stool Blood Colorectal Cancer Screening in African Americans. J Community Health. 2021 Feb.46(1):232-244. Pubmedid: [32583358](https://www.ncbi.nlm.nih.gov/pubmed/32583358). Pmcid: PMC7313439. 
+    * Gwede CK. The Early Impact of COVID-19 on Cancer Education and Cancer Control. J Cancer Educ. 2021 Feb.36(1):1-2. Pubmedid: [33432469](https://www.ncbi.nlm.nih.gov/pubmed/33432469). Pmcid: PMC7800838. 
+    * Cogle CR, Levin G, Lee DJ, Peace S, Herna MC, MacKinnon J, Gwede CK, Philip C, Hylton T. Finding incident cancer cases through outpatient oncology clinic claims data and integration into a state cancer registry. Cancer Causes Control. 2021 Feb.32(2):199-202. Pubmedid: [33222075](https://www.ncbi.nlm.nih.gov/pubmed/33222075). 
+    * Vargas MA, Matthew OO, Jackson DR, Austin T, Tawk R, Wallace K, Gwede CK, Luque JS. Adaptation of a Community Health Advisor Intervention to Increase Colorectal Cancer Screening Among African Americans in the Southern United States. Cancer Health Disparities. 2021 Dec.5. Pubmedid: [35252768](https://www.ncbi.nlm.nih.gov/pubmed/35252768). Pmcid: PMC8893047. 
+    * Roy S, Gwede CK, Malo TL, Scherr CL, Radlein S, Meade CD, Vadaparampil ST, Park JY. Exploring Prostate Cancer Patients' Interest and Preferences for Receiving Genetic Risk Information About Cancer Aggressiveness. Am J Mens Health. 2020 May.14(3). Pubmedid: [32436757](https://www.ncbi.nlm.nih.gov/pubmed/32436757). Pmcid: PMC7243408. 
+    * Meade CD, Gwede CK. An invitation for optimal inclusivity: Investing in communities to advance equity in biomedical research and cancer care. Cancer. 2020 Mar.126(5):935-938. Pubmedid: [31909821](https://www.ncbi.nlm.nih.gov/pubmed/31909821). 
+    * Davis SN, Wischhusen JW, Sutton SK, Christy SM, Chavarria EA, Sutter ME, Roy S, Meade CD, Gwede CK. Demographic and psychosocial factors associated with limited health literacy in a community-based sample of older Black Americans. Patient Educ Couns. 2020 Feb.103(2):385-391. Pubmedid: [31466881](https://www.ncbi.nlm.nih.gov/pubmed/31466881). Pmcid: PMC7012696. 
+    * Aguado Loi CX, Martinez Tyson D, Chavarria EA, Gutierrez L, Klasko L, Davis S, Lopez D, Johns T, Meade CD, Gwede CK. 'Simple and easy:' providers' and latinos' perceptions of the fecal immunochemical test (FIT) for colorectal cancer screening. Ethn Health. 2020 Feb.25(2):206-221. Pubmedid: [29319331](https://www.ncbi.nlm.nih.gov/pubmed/29319331). Pmcid: PMC6513709. 
+    * Meade CD, Stanley NB, Martinez-Tyson D, Gwede CK. 20 Years Later: Continued Relevance of Cancer, Culture, and Literacy in Cancer Education for Social Justice and Health Equity. J Cancer Educ. 2020 Aug.35(4):631-634. Pubmedid: [32642923](https://www.ncbi.nlm.nih.gov/pubmed/32642923). Pmcid: PMC7340770. 
+    * Gwede CK. Bringing a Spotlight to the Influences of Social Determinants of Health. J Cancer Educ. 2020 Apr.35(2):211-213. Pubmedid: [32088850](https://www.ncbi.nlm.nih.gov/pubmed/32088850). 
+    * Behrman P, Fitzgibbon M, Buscemi J, Sanchez-Johnsen L, Laroche H, Yanez B, Gonzales R, Gwede CK, Raja S, Jacobson L, Gil-Rivas V, Tam-Ashing K. Society of Behavioral Medicine Position Statement: Congress should protect immigrants seeking health care. Transl Behav Med. 2019 Nov.9(6):1244-1247. Pubmedid: [31367753](https://www.ncbi.nlm.nih.gov/pubmed/31367753). 
+    * Quinn GP, Bowman Curci M, Reich RR, Gwede CK, Meade CD, Vadaparampil ST. Impact of a web-based reproductive health training program: ENRICH (Educating Nurses about Reproductive Issues in Cancer Healthcare). Psychooncology. 2019 May.28(5):1096-1101. Pubmedid: [30882960](https://www.ncbi.nlm.nih.gov/pubmed/30882960). Pmcid: PMC6597246. 
+    * Menon U, Ashing K, Chang MW, Christy SM, Friberg-Felsted K, Rivas VG, Gwede CK, Lu Q, Meade CD, Sly J, Wang M, Yanez B, Yeary K, Yi JC, Alcaraz KI. Application of the ConNECT Framework to Precision Health and Health Disparities. Nurs Res. 2019 Mar.68(2):99-109. Pubmedid: [30540700](https://www.ncbi.nlm.nih.gov/pubmed/30540700). Pmcid: PMC6863736. 
+    * Permuth JB, Clark Daly A, Jeong D, Choi JW, Cameron ME, Chen DT, Teer JK, Barnett TE, Li J, Powers BD, Kumar NB, George TJ, Ali KN, Huynh T, Vyas S, Gwede CK, Simmons VN, Hodul PJ, Carballido EM, Judge AR, Fleming JB, Merchant N, Trevino JG. Racial and ethnic disparities in a state-wide registry of patients with pancreatic cancer and an exploratory investigation of cancer cachexia as a contributor to observed inequities. Cancer Med. 2019 Jun.8(6):3314-3324. Pubmedid: [31074202](https://www.ncbi.nlm.nih.gov/pubmed/31074202). Pmcid: PMC6558500. 
+    * Gwede CK, Sutton SK, Chavarria EA, Gutierrez L, Abdulla R, Christy SM, Lopez D, Sanchez J, Meade CD. A culturally and linguistically salient pilot intervention to promote colorectal cancer screening among Latinos receiving care in a Federally Qualified Health Center. Health Educ Res. 2019 Jun.34(3):310-320. Pubmedid: [30929015](https://www.ncbi.nlm.nih.gov/pubmed/30929015). Pmcid: PMC7868960. 
+    * Young BR, Gwede CK, Thomas B, Vázquez-Otero C, Ewing A, Best AL, Aguado Loi CX, Martinez-Tyson D, Schneider T, Meade CD, Baldwin JA, Bryant C. A Systematic Review of U.S.-Based Colorectal Cancer Screening Uptake Intervention Systematic Reviews: Available Evidence and Lessons Learned for Research and Practice. Front Public Health. 2019 Jun.7:145. Pubmedid: [31245345](https://www.ncbi.nlm.nih.gov/pubmed/31245345). Pmcid: PMC6579825. 
+    * Wang HL, McMillan SC, Vijayakumar N, McDonald S, Huang LT, Gwede C, Padhya T, Russell J, Vondruska K, Buck HG, Huang Y, Visovsky C. A Behavioral Physical Activity Intervention to Manage Moderate and Severe Fatigue Among Head and Neck Cancer Patients-Pre-efficacy Study in the National Institutes of Health ORBIT Model. Cancer Nurs. 2019 Jan.42(1):E1-E14. Pubmedid: [29461282](https://www.ncbi.nlm.nih.gov/pubmed/29461282). 
+    * Christy SM, Sutton SK, Gwede CK, Chavarria EA, Davis SN, Abdulla R, Schultz I, Roetzheim R, Shibata D, Meade CD. Examining the Durability of Colorectal Cancer Screening Awareness and Health Beliefs Among Medically Underserved Patients: Baseline to 12 months Post-Intervention. J Cancer Educ. 2019 Apr.34(2):297-303. Pubmedid: [29177920](https://www.ncbi.nlm.nih.gov/pubmed/29177920). Pmcid: PMC6873805. 
+    * Davis SN, Govindaraju S, Jackson B, Williams KR, Christy SM, Vadaparampil ST, Quinn GP, Shibata D, Roetzheim R, Meade CD, Gwede CK. Recruitment Techniques and Strategies in a Community-Based Colorectal Cancer Screening Study of Men and Women of African Ancestry. Nurs Res. 2018 May.67(3):212-221. Pubmedid: [29698327](https://www.ncbi.nlm.nih.gov/pubmed/29698327). Pmcid: PMC5925754. 
+    * Aguado Loi CX, Adegoke KK, Gwede CK, Sappenfield WM, Bryant CA. Florida Populations Most at Risk of Not Being Up to Date With Colorectal Cancer Screening. Prev Chronic Dis. 2018 May.15:E70. Pubmedid: [29862961](https://www.ncbi.nlm.nih.gov/pubmed/29862961). Pmcid: PMC5985900. 
+    * Christy SM, Schmidt A, Wang HL, Sutton SK, Davis SN, Chavarria E, Abdulla R, Quinn GP, Vadaparampil ST, Schultz I, Roetzheim R, Shibata D, Meade CD, Gwede CK. Understanding Cancer Worry Among Patients in a Community Clinic-Based Colorectal Cancer Screening Intervention Study. Nurs Res. 2018 Jul.67(4):275-285. Pubmedid: [29870517](https://www.ncbi.nlm.nih.gov/pubmed/29870517). Pmcid: PMC6023767. 
+    * Fleming K, Simmons VN, Christy SM, Sutton SK, Romo M, Luque JS, Wells KJ, Gwede CK, Meade CD. Educating Hispanic Women about Cervical Cancer Prevention: Feasibility of a Promotora-Led Charla Intervention in a Farmworker Community. Ethnic Dis. 2018 Jul.28(3):169-176. Pubmedid: [30038478](https://www.ncbi.nlm.nih.gov/pubmed/30038478). Pmcid: PMC6051510. 
+    * Jiménez J, Ramos A, Ramos-Rivera FE, Gwede C, Quinn GP, Vadaparampil S, Brandon T, Simmons V, Castro E. Community Engagement for Identifying Cancer Education Needs in Puerto Rico. J Cancer Educ. 2018 Feb.33(1):12-20. Pubmedid: [27722911](https://www.ncbi.nlm.nih.gov/pubmed/27722911). Pmcid: PMC5386827. 
+    * McIntyre J, Jiménez J, Rivera YM, Sutton SK, Asencio G, Castro-Figueroa EM, Gwede CK, Brandon TH, Vadaparampil ST, Simmons VN, Corchado J, Moreno L, Wells KJ, Quinn GP. Comparison of Health Communication Channels for Reaching Hispanics About Biobanking: a Pilot Trial. J Cancer Educ. 2018 Aug.33(4):833-841. Pubmedid: [28378199](https://www.ncbi.nlm.nih.gov/pubmed/28378199). Pmcid: PMC5628139. 
+    * Best AL, Logan RG, Vázquez-Otero C, Fung W, Chee V, Thompson EL, Villalona S, Thompson LMA, Gwede CK, Daley EM. Application of a Health Literacy Framework to Explore Patients' Knowledge of the Link between HPV and Cancer. J Health Commun. 2018 Aug.23(8):695-702. Pubmedid: [30153087](https://www.ncbi.nlm.nih.gov/pubmed/30153087). Pmcid: PMC6413510. 
+    * Martinez Tyson D, Medina-Ramirez P, Vázquez-Otero C, Gwede CK, Babilonia MB, McMillan SC. Initial evaluation of the validity and reliability of the culturally adapted Spanish CaSUN (S-CaSUN). J Cancer Surviv. 2018 Aug.12(4):509-518. Pubmedid: [29623531](https://www.ncbi.nlm.nih.gov/pubmed/29623531). Pmcid: PMC6092044. 
+    * Quinn GP, Gwede CK, Meade CD. Diversity Beyond Race and Ethnicity: Enhancing Inclusion With an Expanded Definition of Diversity. Am J Bioethics. 2018 Apr.18(4):47-48. Pubmedid: [29621438](https://www.ncbi.nlm.nih.gov/pubmed/29621438). 
+    * Henry-Noel N, Bishop M, Gwede CK, Petkova E, Szumacher E. Mentorship in Medicine and Other Health Professions. J Cancer Educ. 2018 Apr.34(4):629-637. Pubmedid: [29691796](https://www.ncbi.nlm.nih.gov/pubmed/29691796). 
+    * Martinez Tyson D, Medina-Ramirez P, Vázquez-Otero C, Gwede CK, Bobonis M, McMillan SC. Cultural adaptation of a supportive care needs measure for Hispanic men cancer survivors. J Psychosoc Oncol. 2017 Sep.36(1):113-131. Pubmedid: [28857692](https://www.ncbi.nlm.nih.gov/pubmed/28857692). Pmcid: PMC6225784. 
+    * Christy SM, Gwede CK, Sutton SK, Chavarria E, Davis SN, Abdulla R, Ravindra C, Schultz I, Roetzheim R, Meade CD. Health Literacy among Medically Underserved: The Role of Demographic Factors, Social Influence, and Religious Beliefs. J Health Commun. 2017 Nov.22(11):923-931. Pubmedid: [29125435](https://www.ncbi.nlm.nih.gov/pubmed/29125435). Pmcid: PMC6278594. 
+    * Martinez Tyson DD, Vázquez-Otero C, Medina-Ramirez P, Arriola NB, McMillan SC, Gwede CK. Understanding the supportive care needs of Hispanic men cancer survivors. Ethn Health. 2017 Feb.22(1):1-16. Pubmedid: [27350450](https://www.ncbi.nlm.nih.gov/pubmed/27350450). Pmcid: PMC5351415. 
+    * Alcaraz KI, Sly J, Ashing K, Fleisher L, Gil-Rivas V, Ford S, Yi JC, Lu Q, Meade CD, Menon U, Gwede CK. The ConNECT Framework: a model for advancing behavioral medicine science and practice to foster health equity. J Behav Med. 2017 Feb.40(1):23-38. Pubmedid: [27509892](https://www.ncbi.nlm.nih.gov/pubmed/27509892). Pmcid: PMC5296246. 
+    * Castro EM, Asencio G, Quinn GP, Brandon T, Gwede CK, Vadaparampil S, Simmons V, McIntyre J, Jiménez J. Importance of and Satisfaction with Psychosocial Support among Cancer Patients and Survivors in Puerto Rico: Gender, Health Status, and Quality of Life Associations. P R Health Sci J. 2017 Dec.36(4):205-211. Pubmedid: [29220064](https://www.ncbi.nlm.nih.gov/pubmed/29220064). Pmcid: PMC5859307. 
+    * Davis SN, Christy SM, Chavarria EA, Abdulla R, Sutton SK, Schmidt AR, Vadaparampil ST, Quinn GP, Simmons VN, Ufondu CB, Ravindra C, Schultz I, Roetzheim RG, Shibata D, Meade CD, Gwede CK. A randomized controlled trial of a multicomponent, targeted, low-literacy educational intervention compared with a nontargeted intervention to boost colorectal cancer screening with fecal immunochemical testing in community clinics. Cancer. 2017 Apr.123(8):1390-1400. Pubmedid: [27906448](https://www.ncbi.nlm.nih.gov/pubmed/27906448). Pmcid: PMC5384866. 
+    * Soni SE, Lee MC, Gwede CK. Disparities in Use and Access to Postmastectomy Breast Reconstruction Among African American Women: A Targeted Review of the Literature. Cancer Control. 2017.24(4):1073274817729053. Pubmedid: [28975838](https://www.ncbi.nlm.nih.gov/pubmed/28975838). Pmcid: PMC5937234. 
+    * Gwede CK, Quinn GP, Green BL. Highlighting Health Disparities in Racial and Ethnic Minorities and Other Underserved Populations. Cancer Control. 2016 Oct.23(4):323-325. Pubmedid: [27842338](https://www.ncbi.nlm.nih.gov/pubmed/27842338). 
+    * Arevalo M, Jacobsen PB, Gwede CK, Meade CD, Quinn GP, Luque JS, Miguel GS, Watson D, Wells KJ. Development and validation of the biobanking attitudes and knowledge survey-Spanish (BANKS-SP). J Community Genet. 2016 Oct.7(4):303-314. Pubmedid: [27627979](https://www.ncbi.nlm.nih.gov/pubmed/27627979). Pmcid: PMC5138166. 
+    * Baik SH, Arevalo M, Gwede C, Meade CD, Jacobsen PB, Quinn GP, Wells KJ. Development and Validation of the Biomedical Research Trust Scale (BRTS) in English and Spanish. J Empir Res Hum Res Ethics. 2016 Oct.11(4):346-356. Pubmedid: [27646400](https://www.ncbi.nlm.nih.gov/pubmed/27646400). Pmcid: PMC5478706. 
+    * Arevalo M, Jacobsen PB, Gwede CK, Meade CD, Quinn GP, Luque JS, San Miguel GI, Watson D, Wells KJ. Erratum to: Development and validation of the biobanking attitudes and knowledge survey-Spanish (BANKS-SP). J Community Genet. 2016 Oct.7(4):315. Pubmedid: [27787753](https://www.ncbi.nlm.nih.gov/pubmed/27787753). Pmcid: PMC5138167. 
+    * Wang HL, Ji M, Visovsky C, Rodriguez CS, Elliott AF, Gwede CK, Padhya TA, Ridley MB, McMillan SC. Clinically Relevant Four-Level Cancer-Related Fatigue Among Patients With Various Types of Cancer. J Adv Pract Oncol. 2016 Oct.7(1):23-37. Pubmedid: [27713842](https://www.ncbi.nlm.nih.gov/pubmed/27713842). Pmcid: PMC5045276. 
+    * Hamel LM, Penner LA, Albrecht TL, Heath E, Gwede CK, Eggly S. Barriers to Clinical Trial Enrollment in Racial and Ethnic Minority Patients With Cancer. Cancer Control. 2016 Oct.23(4):327-337. Pubmedid: [27842322](https://www.ncbi.nlm.nih.gov/pubmed/27842322). Pmcid: PMC5131730. 
+    * Vadaparampil ST, Gwede CK, Meade C, Kelvin J, Reich RR, Reinecke J, Bowman M, Sehovic I, Quinn GP. ENRICH: A promising oncology nurse training program to implement ASCO clinical practice guidelines on fertility for AYA cancer patients. Patient Educ Couns. 2016 Nov.99(11):1907-1910. Pubmedid: [27241831](https://www.ncbi.nlm.nih.gov/pubmed/27241831). Pmcid: PMC5069115. 
+    * Christy SM, Davis SN, Williams KR, Zhao X, Govindaraju SK, Quinn GP, Vadaparampil ST, Lin HY, Sutton SK, Roethzeim RR, Shibata D, Meade CD, Gwede CK. A community-based trial of educational interventions with fecal immunochemical tests for colorectal cancer screening uptake among blacks in community settings. Cancer. 2016 Nov.122(21):3288-3296. Pubmedid: [27420119](https://www.ncbi.nlm.nih.gov/pubmed/27420119). Pmcid: PMC5073009. 
+    * Luque JS, Ross L, Gwede CK. Prostate Cancer Education in African American Barbershops: Baseline Client Survey Results and Differences in Decisional Conflict and Stage of Decision Making. Am J Mens Health. 2016 Nov.10(6):533-536. Pubmedid: [26860126](https://www.ncbi.nlm.nih.gov/pubmed/26860126). Pmcid: PMC4980288. 
+    * Sehovic I, Gwede CK, Meade CD, Sodeke S, Pentz R, Quinn GP. A Web-Based Platform for Educating Researchers About Bioethics and Biobanking. J Cancer Educ. 2016 Jun.31(2):397-404. Pubmedid: [25773136](https://www.ncbi.nlm.nih.gov/pubmed/25773136). Pmcid: PMC4573774. 
+    * Xiao H, Tan F, Goovaerts P, Adunlin G, Ali AA, Gwede CK, Huang Y. Impact of Comorbidities on Prostate Cancer Stage at Diagnosis in Florida. Am J Mens Health. 2016 Jul.10(4):285-295. Pubmedid: [25542838](https://www.ncbi.nlm.nih.gov/pubmed/25542838). Pmcid: PMC4483149. 
+    * Gwede CK, Davis SN, Wilson S, Patel M, Vadaparampil ST, Meade CD, Rivers BM, Yu D, Torres-Roca J, Heysek R, Spiess PE, Pow-Sang J, Jacobsen P. Perceptions of Prostate Cancer Screening Controversy and Informed Decision Making: Implications for Development of a Targeted Decision Aid for Unaffected Male First-Degree Relatives. Am J Health Promot. 2016 Dec.29(6):393-401. Pubmedid: [24968183](https://www.ncbi.nlm.nih.gov/pubmed/24968183). Pmcid: PMC4277494. 
+    * Vadaparampil ST, Christie J, Bowman M, Sehovic I, Meade CD, Gwede CK, Quinn GP. Nurse Perspectives on Referrals for Oncology Patients to Reproductive Endocrinologists: Results of a Learning Activity. J Contin Educ Nurs. 2016 Aug.47(8):376-384. Pubmedid: [27467314](https://www.ncbi.nlm.nih.gov/pubmed/27467314). Pmcid: PMC4968587. 
+    * Simmons VN, Klasko LB, Fleming K, Koskan AM, Jackson NT, Noel-Thomas S, Luque JS, Vadaparampil ST, Lee JH, Quinn GP, Britt L, Waddell R, Meade CD, Gwede CK. Participatory evaluation of a community-academic partnership to inform capacity-building and sustainability. Eval Program Plann. 2015 Oct.52:19-26. Pubmedid: [25863014](https://www.ncbi.nlm.nih.gov/pubmed/25863014). Pmcid: PMC4509815. 
+    * Goovaerts P, Xiao H, Gwede CK, Tan F, Huang Y, Adunlin G, Ali A. Impact of Age, Race and Socio-economic Status on Temporal Trends in Late-Stage Prostate Cancer Diagnosis in Florida. Spat Stat. 2015 Nov.14(Pt 100):321-337. Pubmedid: [26644992](https://www.ncbi.nlm.nih.gov/pubmed/26644992). Pmcid: PMC4669574. 
+    * Meade CD, Rodriguez EM, Arevalo M, Luque JS, Harris N, Miguel GS, Gwede CK, Erwin DO. Introducing Biospecimen Science to Communities: Tools from Two Cities. Prog Community Health Partnersh. 2015 Nov.9 Suppl:51-59. Pubmedid: [26213404](https://www.ncbi.nlm.nih.gov/pubmed/26213404). Pmcid: PMC4834706. 
+    * Gwede CK, Koskan AM, Quinn GP, Davis SN, Ealey J, Abdulla R, Vadaparampil ST, Elliott G, Lopez D, Shibata D, Roetzheim RG, Meade CD. Patients' perceptions of colorectal cancer screening tests and preparatory education in federally qualified health centers. J Cancer Educ. 2015 Jun.30(2):294-300. Pubmedid: [25249181](https://www.ncbi.nlm.nih.gov/pubmed/25249181). Pmcid: PMC4372499. 
+    * Xiao H, Tan F, Adunlin G, Ali AA, Goovaerts P, Gwede CK, Huang Y. Factors associated with overall survival prostate cancer in Florida: a multilevel analysis. J Health Care Poor Underserved. 2015 Feb.26(1):266-277. Pubmedid: [25702742](https://www.ncbi.nlm.nih.gov/pubmed/25702742). 
+    * Luque JS, Roy S, Tarasenko YN, Ross L, Johnson J, Gwede CK. Feasibility Study of Engaging Barbershops for Prostate Cancer Education in Rural African-American Communities. J Cancer Educ. 2015 Dec.30(4):623-628. Pubmedid: [25288347](https://www.ncbi.nlm.nih.gov/pubmed/25288347). Pmcid: PMC4390419. 
+    * Goovaerts P, Xiao H, Adunlin G, Ali A, Tan F, Gwede CK, Huang Y. GEOGRAPHICALLY-WEIGHTED REGRESSION ANALYSIS OF PERCENTAGE OF LATE-STAGE PROSTATE CANCER DIAGNOSIS IN FLORIDA. Appl Geogr. 2015 Aug.62:191-200. Pubmedid: [26257450](https://www.ncbi.nlm.nih.gov/pubmed/26257450). Pmcid: PMC4527353. 
+    * Castro EM, Jiménez JC, Quinn G, García M, Colón Y, Ramos A, Brandon T, Simmons V, Gwede C, Vadaparampil S, Nazario CM. Identifying clinical and support service resources and network practices for cancer patients and survivors in southern Puerto Rico. Support Care Cancer. 2015 Apr.23(4):967-975. Pubmedid: [25249352](https://www.ncbi.nlm.nih.gov/pubmed/25249352). Pmcid: PMC4346447. 
+    * Koskan AM, Thomas-Purcell KB, Yu D, Quinn GP, Dessureault S, Shibata D, Jacobsen PB, Gwede CK. Discussion of First-Degree Relatives' Colorectal Cancer Risk: Survivors' Perspectives. Health Commun. 2014 Sep.29(8):782-790. Pubmedid: [24229427](https://www.ncbi.nlm.nih.gov/pubmed/24229427). 
+    * Davis SN, Sutton SK, Vadaparampil ST, Meade CD, Rivers BM, Patel MV, Torres-Roca JF, Heysek RV, Spiess P, Pow-Sang J, Jacobsen PB, Gwede CK. Informed decision making among first-degree relatives of prostate cancer survivors: a pilot randomized trial. Contemp Clin Trials. 2014 Nov.39(2):327-334. Pubmedid: [25465497](https://www.ncbi.nlm.nih.gov/pubmed/25465497). Pmcid: PMC4274628. 
+    * Xiao H, Tan F, Adunlin G, Ali AA, Goovaerts P, Huang Y, Gwede C. Prostate Cancer Overall Survival: Multilevel Analysis of A Population-Based Cancer Registry Data. Value Health. 2014 Nov.17(7):A733. Pubmedid: [27202624](https://www.ncbi.nlm.nih.gov/pubmed/27202624). 
+    * Vadaparampil ST, Simmons VN, Lee JH, Malo T, Klasko L, Rodriguez M, Waddell R, Gwede CK, Meade CD. Journal clubs: an educational approach to advance understanding among community partners and academic researchers about CBPR and cancer health disparities. J Cancer Educ. 2014 Mar.29(1):122-128. Pubmedid: [24078328](https://www.ncbi.nlm.nih.gov/pubmed/24078328). Pmcid: PMC4201936. 
+    * Wells KJ, Arevalo M, Meade CD, Gwede CK, Quinn GP, Luque JS, San Miguel G, Watson D, Phillips R, Reyes C, Romo M, West J, Jacobsen PB. Development and validation of the biobanking attitudes and knowledge survey (BANKS). Cancer Epidemiol Biomarkers Prev. 2014 Mar.23(3):374-382. Pubmedid: [24609846](https://www.ncbi.nlm.nih.gov/pubmed/24609846). Pmcid: PMC3955026. 
+    * Greiner KA, Friedman DB, Adams SA, Gwede CK, Cupertino P, Engelman KK, Meade CD, Hébert JR. Effective recruitment strategies and community-based participatory research: community networks program centers' recruitment in cancer prevention studies. Cancer Epidemiol Biomarkers Prev. 2014 Mar.23(3):416-423. Pubmedid: [24609851](https://www.ncbi.nlm.nih.gov/pubmed/24609851). Pmcid: PMC3971731. 
+    * Gwede CK, Vadaparampil ST, Hoffe S, Quinn GP. The role of radiation oncologists and discussion of fertility preservation in young cancer patients. Pract Radiat Oncol. 2014 Mar.2(4):242-247. Pubmedid: [24674159](https://www.ncbi.nlm.nih.gov/pubmed/24674159). 
+    * Wells KJ, Lima DS, Meade CD, Muñoz-Antonia T, Scarinci I, McGuire A, Gwede CK, Pledger WJ, Partridge E, Lipscomb J, Matthews R, Matta J, Flores I, Weiner R, Turner T, Miele L, Wiese TE, Fouad M, Moreno CS, Lacey M, Christie DW, Price-Haywood EG, Quinn GP, Coppola D, Sodeke SO, Green BL, Lichtveld MY. Assessing needs and assets for building a regional network infrastructure to reduce cancer related health disparities. Eval Program Plann. 2014 Jun.44:14-25. Pubmedid: [24486917](https://www.ncbi.nlm.nih.gov/pubmed/24486917). Pmcid: PMC4360072. 
+    * Quinn GP, Koskan A, Sehovic I, Pal T, Meade C, Gwede CK. Contrasting the ethical perspectives of biospecimen research among individuals with familial risk for hereditary cancer and biomedical researchers: implications for researcher training. Genet Test Mol Biomarkers. 2014 Jul.18(7):467-473. Pubmedid: [24786355](https://www.ncbi.nlm.nih.gov/pubmed/24786355). Pmcid: PMC4094006. 
+    * Xiao H, Tan F, Goovaerts P, Ali A, Adunlin G, Gwede CK, Huang Y. Multilevel Factors Associated With Overall Mortality for Men Diagnosed With Prostate Cancer in Florida. Am J Mens Health. 2014 Jul.8(4):316-326. Pubmedid: [24297455](https://www.ncbi.nlm.nih.gov/pubmed/24297455). Pmcid: PMC4040343. 
+    * Koskan A, Klasko L, Davis SN, Gwede CK, Wells KJ, Kumar A, Lopez N, Meade CD. Use and taxonomy of social media in cancer-related research: a systematic review. Am J Public Health. 2014 Jul.104(7):e20-e37. Pubmedid: [24832403](https://www.ncbi.nlm.nih.gov/pubmed/24832403). Pmcid: PMC4056246. 
+    * Jim HS, Quinn GP, Gwede CK, Cases MG, Barata A, Cessna J, Christie J, Gonzalez L, Koskan A, Pidala J. Patient education in allogeneic hematopoietic cell transplant: what patients wish they had known about quality of life. Bone Marrow Transplant. 2014 Feb.49(2):299-303. Pubmedid: [24121210](https://www.ncbi.nlm.nih.gov/pubmed/24121210). Pmcid: PMC3946344. 
+    * Luque JS, Ross L, Gwede CK. Qualitative systematic review of barber-administered health education, promotion, screening and outreach programs in African-American communities. J Community Health. 2014 Feb.39(1):181-190. Pubmedid: [23913106](https://www.ncbi.nlm.nih.gov/pubmed/23913106). Pmcid: PMC3947222. 
+    * Xiao H, Tan F, Goovaerts P, Adunlin G, Ali A, Huang Y, Gwede CK. Factors associated with time-to-treatment of prostate cancer in Florida. J Health Care Poor Underserved. 2013 Nov.24(4 Suppl):132-146. Pubmedid: [24241267](https://www.ncbi.nlm.nih.gov/pubmed/24241267). Pmcid: PMC4337853. 
+    * Gwede CK, Ashley AA, McGinnis K, Montiel-Ishino FA, Standifer M, Baldwin J, Williams C, Sneed KB, Wathington D, Dash-Pitts L, Green BL. Designing a community-based lay health advisor training curriculum to address cancer health disparities. Health Promot Pract. 2013 May.14(3):415-424. Pubmedid: [22982709](https://www.ncbi.nlm.nih.gov/pubmed/22982709). Pmcid: PMC3619005. 
+    * Gwede CK, Davis SN, Quinn GP, Koskan AM, Ealey J, Abdulla R, Vadaparampil ST, Elliott G, Lopez D, Shibata D, Roetzheim RG, Meade CD. Making it work: health care provider perspectives on strategies to increase colorectal cancer screening in federally qualified health centers. J Cancer Educ. 2013 Dec.28(4):777-783. Pubmedid: [23943277](https://www.ncbi.nlm.nih.gov/pubmed/23943277). Pmcid: PMC3864594. 
+    * Quinn GP, Castañeda H, Pal T, Rice JL, Meade CD, Gwede CK. Risk terminology in biobanking and genetic research: what's in a name?. Am J Med Genet A. 2013 Aug.161A(8):2095-2098. Pubmedid: [23824712](https://www.ncbi.nlm.nih.gov/pubmed/23824712). Pmcid: PMC3729791. 
+    * Gwede CK, Ward BG, Luque JS, Vadaparampil ST, Rivers D, Martinez-Tyson D, Noel-Thomas S, Meade CD. Application of geographic information systems and asset mapping to facilitate identification of colorectal cancer screening resources. Online J Public Health Inform. 2013 Apr.2(1):2893. Pubmedid: [23569578](https://www.ncbi.nlm.nih.gov/pubmed/23569578). Pmcid: PMC3615755. 
+    * Xiao H, Tan F, Goovaerts P, Adunlin G, Ali AA, Gwede CK, Huang Y. Use of treatment information from a state central cancer registry in prostate cancer research. J Registry Manag. 2013.40(3):127-130. Pubmedid: [24643215](https://www.ncbi.nlm.nih.gov/pubmed/24643215). Pmcid: PMC4341820. 
+    * Xiao H, Tan F, Goovaerts P, Ali A, Adunlin G, Huang Y, Gwede C. Construction of a comorbidity index for prostate cancer patients linking state cancer registry with inpatient and outpatient data. J Registry Manag. 2013.40(4):159-164. Pubmedid: [24625768](https://www.ncbi.nlm.nih.gov/pubmed/24625768). Pmcid: PMC4337841. 
+    * Siddiqui F, Gwede CK. Head and neck cancer in the elderly population. Semin Radiat Oncol. 2012 Oct.22(4):321-333. Pubmedid: [22985815](https://www.ncbi.nlm.nih.gov/pubmed/22985815). 
+    * Gwede CK, Castro E, Brandon TH, McIntyre J, Meade CD, Munoz-Antonia T, Simmons VN, Vadaparampil ST, Jimenez J, Quinn GP. Developing strategies for reducing cancer disparities via cross-institutional collaboration: outreach efforts for the partnership between the Ponce School of Medicine and the Moffitt Cancer Center. Health Promot Pract. 2012 Nov.13(6):807-815. Pubmedid: [22167362](https://www.ncbi.nlm.nih.gov/pubmed/22167362). Pmcid: PMC3708698. 
+    * Koskan A, Arevalo M, Gwede CK, Quinn GP, Noel-Thomas SA, Luque JS, Wells KJ, Meade CD. Ethics of clear health communication: applying the CLEAN Look approach to communicate biobanking information for cancer research. J Health Care Poor Underserved. 2012 Nov.23(4 Suppl):58-66. Pubmedid: [23124500](https://www.ncbi.nlm.nih.gov/pubmed/23124500). Pmcid: PMC3735435. 
+    * Luque JS, Quinn GP, Montel-Ishino FA, Arevalo M, Bynum SA, Noel-Thomas S, Wells KJ, Gwede CK, Meade CD. Formative research on perceptions of biobanking: what community members think. J Cancer Educ. 2012 Mar.27(1):91-99. Pubmedid: [21927867](https://www.ncbi.nlm.nih.gov/pubmed/21927867). Pmcid: PMC3735437. 
+    * Rivers BM, August EM, Quinn GP, Gwede CK, Pow-Sang JM, Green BL, Jacobsen PB. Understanding the psychosocial issues of African American couples surviving prostate cancer. J Cancer Educ. 2012 Jun.27(3):546-558. Pubmedid: [22544536](https://www.ncbi.nlm.nih.gov/pubmed/22544536). Pmcid: PMC4497555. 
+    * Quinn GP, Vadaparampil ST, Gwede CK, Reinecke JD, Mason TM, Silva C. Developing a referral system for fertility preservation among patients with newly diagnosed cancer. J Natl Compr Canc Ne. 2011 Nov.9(11):1219-1225. Pubmedid: [22056654](https://www.ncbi.nlm.nih.gov/pubmed/22056654). 
+    * Luque JS, Tyson DM, Bynum SA, Noel-Thomas S, Wells KJ, Vadaparampil ST, Gwede CK, Meade CD. A SOCIAL NETWORK ANALYSIS APPROACH TO UNDERSTAND CHANGES IN A CANCER DISPARITIES COMMUNITY PARTNERSHIP NETWORK. Ann Anthropol Pract. 2011 Nov.35(2). Pubmedid: [24363957](https://www.ncbi.nlm.nih.gov/pubmed/24363957). Pmcid: PMC3867274. 
+    * Meade CD, Menard JM, Luque JS, Martinez-Tyson D, Gwede CK. Creating community-academic partnerships for cancer disparities research and health promotion. Health Promot Pract. 2011 May.12(3):456-462. Pubmedid: [19822724](https://www.ncbi.nlm.nih.gov/pubmed/19822724). Pmcid: PMC3653573. 
+    * Luque JS, Rivers BM, Gwede CK, Kambon M, Green BL, Meade CD. Barbershop communications on prostate cancer screening using barber health advisers. Am J Mens Health. 2011 Mar.5(2):129-139. Pubmedid: [20413392](https://www.ncbi.nlm.nih.gov/pubmed/20413392). Pmcid: PMC3690815. 
+    * Simmons VN, Jiménez JC, Castro E, Litvin EB, Gwede CK, Vadaparampil ST, Mclntyre J, Meade CD, Brandon TH, Quinn GP. Initial efforts in community engagement with health care providers: perceptions of barriers to care for cancer patients in Puerto Rico. P R Health Sci J. 2011 Mar.30(1):28-34. Pubmedid: [21449495](https://www.ncbi.nlm.nih.gov/pubmed/21449495). Pmcid: PMC3685431. 
+    * Quinn GP, Jimenez J, Meade CD, Muñoz-Antonia T, Gwede CK, Castro E, Vadaparampil ST, Simmons VN, McIntyre J, Crocker TT, Brandon TH. Enhancing oncology health care provider's sensitivity to cultural communication to reduce cancer disparities: a pilot study. J Cancer Educ. 2011 Jun.26(2):322-325. Pubmedid: [21479572](https://www.ncbi.nlm.nih.gov/pubmed/21479572). Pmcid: PMC3673723. 
+    * Rivers BM, August EM, Gwede CK, Hart A, Donovan KA, Pow-Sang JM, Quinn GP. Psychosocial issues related to sexual functioning among African-American prostate cancer survivors and their spouses. Psychooncology. 2011 Jan.20(1):106-110. Pubmedid: [20187071](https://www.ncbi.nlm.nih.gov/pubmed/20187071). Pmcid: PMC4509592. 
+    * Gwede CK, Jean-Francois E, Quinn GP, Wilson S, Tarver WL, Thomas KB, Vadaparampil ST, Meade CD. Perceptions of colorectal cancer among three ethnic subgroups of US blacks: a qualitative study. J Natl Med Assoc. 2011 Aug.103(8):669-680. Pubmedid: [22046844](https://www.ncbi.nlm.nih.gov/pubmed/22046844). Pmcid: PMC3999593. 
+    * Gwede CK, William CM, Thomas KB, Tarver WL, Quinn GP, Vadaparampil ST, Kim J, Lee JH, Meade CD. Exploring disparities and variability in perceptions and self-reported colorectal cancer screening among three ethnic subgroups of U. S. Blacks. Oncol Nurs Forum. 2010 Sep.37(5):581-591. Pubmedid: [20797950](https://www.ncbi.nlm.nih.gov/pubmed/20797950). Pmcid: PMC2946332. 
+    * Gwede CK, Menard JM, Martinez-Tyson D, Lee JH, Vadaparampil ST, Padhya TA, Meade CD. Strategies for assessing community challenges and strengths for cancer disparities participatory research and outreach. Health Promot Pract. 2010 Nov.11(6):876-887. Pubmedid: [19515858](https://www.ncbi.nlm.nih.gov/pubmed/19515858). Pmcid: PMC2888920. 
+    * Ulrich CM, James JL, Walker EM, Stine SH, Gore E, Prestidge B, Michalski J, Gwede CK, Chamberlain R, Bruner DW. RTOG physician and research associate attitudes, beliefs and practices regarding clinical trials: implications for improving patient recruitment. Contemp Clin Trials. 2010 May.31(3):221-228. Pubmedid: [20215046](https://www.ncbi.nlm.nih.gov/pubmed/20215046). 
+    * Thomas KB, Simpson SL, Tarver WL, Gwede CK. Is social support from family associated with PSA testing? An exploratory analysis using the Health Information National Trends Survey (HINTS) 2005. Am J Mens Health. 2010 Mar.4(1):50-59. Pubmedid: [19477731](https://www.ncbi.nlm.nih.gov/pubmed/19477731). 
+    * Luque J, Tyson DM, Lee JH, Gwede C, Vadaparampil S, Noel-Thomas S, Meade C. USING SOCIAL NETWORK ANALYSIS TO EVALUATE COMMUNITY CAPACITY BUILDING OF A REGIONAL COMMUNITY CANCER NETWORK. J Community Psychol. 2010 Jul.38(5):656-668. Pubmedid: [24049217](https://www.ncbi.nlm.nih.gov/pubmed/24049217). Pmcid: PMC3774045. 
+    * Gwede CK, Ward BG, Luque JS, Vadaparampil ST, Rivers D, Martinez-Tyson D, Noel-Thomas S, Meade CD. Application of Geographic Information Systems and Asset Mapping to Facilitate Identification of Colorectal Cancer Screening Resources. Online J Public Health Inform. 2010 Jan.2(1):2893. Pubmedid: [20976019](https://www.ncbi.nlm.nih.gov/pubmed/20976019). 
+    * Gwede CK, Ward BG, Luque JS, Vadaparampil ST, Rivers D, Martinez-Tyson D, Noel-Thomas S, Meade CD. Application of Geographic Information Systems and Asset Mapping to Facilitate Identification of Colorectal Cancer Screening Resources. Online J Public Health Inform. 2010 Jan.2(1):2893. Pubmedid: [24244805](https://www.ncbi.nlm.nih.gov/pubmed/24244805). 
+    * Vadaparampil ST, Quinn GP, Small BJ, McIntyre J, Loi CA, Closser Z, Gwede CK. A pilot study of hereditary breast and ovarian knowledge among a multiethnic group of Hispanic women with a personal or family history of cancer. Genet Test Mol Biomarkers. 2010 Feb.14(1):99-106. Pubmedid: [19929403](https://www.ncbi.nlm.nih.gov/pubmed/19929403). Pmcid: PMC2935838. 
+    * Mhaskar AR, Quinn G, Vadaparampil S, Djulbegovic B, Gwede CK, Kumar A. Timing of first-line cancer treatments - early versus late - a systematic review of phase III randomized trials. Cancer Treat Rev. 2010 Dec.36(8):621-628. Pubmedid: [20444550](https://www.ncbi.nlm.nih.gov/pubmed/20444550). 
+    * Zachariah B, Gwede CK, James J, Ajani J, Chin LJ, Donath D, Rosenthal SA, Kane BL, Rotman M, Berk L, Kachnic LA. Octreotide acetate in prevention of chemoradiation-induced diarrhea in anorectal cancer: randomized RTOG trial 0315. J Natl Cancer Inst. 2010 Apr.102(8):547-556. Pubmedid: [20339140](https://www.ncbi.nlm.nih.gov/pubmed/20339140). Pmcid: PMC2857801. 
+    * Murphy BA, Beaumont JL, Isitt J, Garden AS, Gwede CK, Trotti AM, Meredith RF, Epstein JB, Le QT, Brizel DM, Bellm LA, Wells N, Cella D. Mucositis-related morbidity and resource utilization in head and neck cancer patients receiving radiation therapy with or without chemotherapy. J Pain Symptom Manag. 2009 Oct.38(4):522-532. Pubmedid: [19608377](https://www.ncbi.nlm.nih.gov/pubmed/19608377). 
+    * King L, Quinn G, Vadaparampil S, Gwede C, Miree C, Wilson C, Clayton H, Perrin K. Oncology nurses' perceptions of barriers to discussion of fertility preservation with patients with cancer. Clin J Oncol Nurs. 2008 Jun.12(3):467-476. Pubmedid: [18515245](https://www.ncbi.nlm.nih.gov/pubmed/18515245). 
+    * Siddiqui F, Pajak TF, Watkins-Bruner D, Konski AA, Coyne JC, Gwede CK, Garden AS, Spencer SA, Jones C, Movsas B. Pretreatment quality of life predicts for locoregional control in head and neck cancer patients: a radiation therapy oncology group analysis. Int J Radiat Oncol Biol Phys. 2008 Feb.70(2):353-360. Pubmedid: [17889449](https://www.ncbi.nlm.nih.gov/pubmed/17889449). 
+    * Quinn G, Vadaparampil S, Bell-Ellison B, Gwede C, Albrecht T. Patient-physician communication barriers regarding fertility preservation among newly diagnosed cancer patients. Soc Sci Med. 2008 Feb.66(3):784-789. Pubmedid: [18023955](https://www.ncbi.nlm.nih.gov/pubmed/18023955). 
+    * Gwede CK, Small BJ, Munster PN, Andrykowski MA, Jacobsen PB. Exploring the differential experience of breast cancer treatment-related symptoms: a cluster analytic approach. Support Care Cancer. 2008 Aug.16(8):925-933. Pubmedid: [18043948](https://www.ncbi.nlm.nih.gov/pubmed/18043948). Pmcid: PMC2892385. 
+    * Epstein JB, Beaumont JL, Gwede CK, Murphy B, Garden AS, Meredith R, Le QT, Brizel D, Isitt J, Cella D. Longitudinal evaluation of the oral mucositis weekly questionnaire-head and neck cancer, a patient-reported outcomes questionnaire. Cancer. 2007 May.109(9):1914-1922. Pubmedid: [17377917](https://www.ncbi.nlm.nih.gov/pubmed/17377917). 
+    * Xiao H, Gwede CK, Kiros G, Milla K. Analysis of prostate cancer incidence using geographic information system and multilevel modeling. J Natl Med Assoc. 2007 Mar.99(3):218-225. Pubmedid: [17393945](https://www.ncbi.nlm.nih.gov/pubmed/17393945). Pmcid: PMC2569639. 
+    * Quinn GP, Vadaparampil ST, Gwede CK, Miree C, King LM, Clayton HB, Wilson C, Munster P. Discussion of fertility preservation with newly diagnosed patients: oncologists' views. J Cancer Surviv. 2007 Jun.1(2):146-155. Pubmedid: [18648955](https://www.ncbi.nlm.nih.gov/pubmed/18648955). 
+    * Trotti A, Pajak T, Gwede C, Paulus R, Cooper J, Forastiere A, Ridge J, Watkins-Bruner D, Garden A, Ang K, Curran W. TAME: development of a new method for summarising adverse events of cancer treatment by the Radiation Therapy Oncology Group. Lancet Oncol. 2007 Jul.8(7):613-624. Pubmedid: [17543584](https://www.ncbi.nlm.nih.gov/pubmed/17543584). 
+    * Konski AA, Pajak TF, Movsas B, Coyne J, Harris J, Gwede C, Garden A, Spencer S, Jones C, Watkins-Bruner D. Disadvantage of men living alone participating in Radiation Therapy Oncology Group head and neck trials. J Clin Oncol. 2006 Sep.24(25):4177-4183. Pubmedid: [16943534](https://www.ncbi.nlm.nih.gov/pubmed/16943534). 
+    * Gwede CK, McDermott RJ. Prostate cancer screening decision making under controversy: implications for health promotion practice. Health Promot Pract. 2006 Jan.7(1):134-146. Pubmedid: [16410430](https://www.ncbi.nlm.nih.gov/pubmed/16410430). 
+    * Gwede C, Pow-Sang J, Seigne J, Heysek R, Helal M, Shade K, Cantor A, Jacobsen P. Treatment decision-making strategies and influences in patients with localized prostate carcinoma. Cancer. 2005 Oct.104(7):1381-1390. Pubmedid: [16080181](https://www.ncbi.nlm.nih.gov/pubmed/16080181). 
+    * Gwede C, Johnson D, Roberts C, Cantor A. Burnout in clinical research coordinators in the United States. Oncol Nurs Forum. 2005 Nov.32(6):1123-1130. Pubmedid: [16270108](https://www.ncbi.nlm.nih.gov/pubmed/16270108). 
+    * Soares HP, Kumar A, Daniels S, Swann S, Cantor A, Hozo I, Clark M, Serdarevic F, Gwede C, Trotti A, Djulbegovic B. Evaluation of new treatments in radiation oncology: are they better than standard treatments?. Jama. 2005 Feb.293(8):970-978. Pubmedid: [15728168](https://www.ncbi.nlm.nih.gov/pubmed/15728168). Pmcid: PMC1779758. 
+    * Gwede C. Overview of radiation- and chemoradiation-induced diarrhea. Semin Oncol Nurs. 2003 Nov.19(4 Suppl 3):6-10. Pubmedid: [14702927](https://www.ncbi.nlm.nih.gov/pubmed/14702927). 
+    * Trotti A, Bellm L, Epstein J, Frame D, Fuchs H, Gwede C, Komaroff E, Nalysnyk L, Zilberberg M. Mucositis incidence, severity and associated outcomes in patients with head and neck cancer receiving radiotherapy with or without chemotherapy: a systematic literature review. Radiother Oncol. 2003 Mar.66(3):253-262. Pubmedid: [12742264](https://www.ncbi.nlm.nih.gov/pubmed/12742264). 
+    * Rose-Ped A, Bellm L, Epstein J, Trotti A, Gwede C, Fuch H. Complications of radiation therapy for head and neck cancers. The patient's perspective. Cancer Nurs. 2002 Dec.25(6):461-467. Pubmedid: [12464838](https://www.ncbi.nlm.nih.gov/pubmed/12464838). 
+    * Gwede CK, McDermott RJ, Westhoff WW, Mushore M, Mushore T, Chitsika E, Majange CS, Chauke P. Health risk behavior of rural secondary school students in Zimbabwe. Health Educ Behav. 2001 Oct.28(5):608-623. Pubmedid: [11575689](https://www.ncbi.nlm.nih.gov/pubmed/11575689). 
+    * Smith M, Casey L, Johnson D, Gwede C, Riggin O. Music as a therapeutic intervention for anxiety in patients receiving radiation therapy. Oncol Nurs Forum. 2001 Jun.28(5):855-862. Pubmedid: [11421145](https://www.ncbi.nlm.nih.gov/pubmed/11421145). 
+    * Zachariah B, Jacob S, Gwede C, Cantor A, Patil J, Casey L, Zachariah A. Effect of fractionated regional external beam radiotherapy on peripheral blood cell count. Int J Radiat Oncol Biol Phys. 2001 Jun.50(2):465-472. Pubmedid: [11380235](https://www.ncbi.nlm.nih.gov/pubmed/11380235). 
+    * Trotti A, Byhardt R, Stetz J, Gwede C, Corn B, Fu K, Gunderson L, McCormic B, Morris M, Rich T, Shipley W, Curran W. Common toxicity criteria: version 2.0. an improved reference for grading the acute effects of cancer treatment: impact on radiotherapy. Int J Radiat Oncol Biol Phys. 2000 Apr.47(1):13-47. Pubmedid: [10758303](https://www.ncbi.nlm.nih.gov/pubmed/10758303). 
+    * Trotti A, Johnson D, Gwede C, Casey L, Sauder B, Cantor A. Development of a head and neck companion module for the quality of life-radiation therapy instrument (QOL-RTI). Int J Radiat Oncol Biol Phys. 1998 Sep.42(2):257-261. Pubmedid: [9788402](https://www.ncbi.nlm.nih.gov/pubmed/9788402). 
+    * Futran N, Trotti, III A, Gwede C. Pentoxifylline in the treatment of radiation-related soft tissue injury: preliminary observations. Lancet. 1997.107(3):391-395. Pubmedid: [9121320](https://www.ncbi.nlm.nih.gov/pubmed/9121320). 
+    * Gwede C, Friedland J, Johnson D, Casey L, Cantor A, Sauder B, Beres K. Validation of the quality of life-radiation therapy instrument (QOL-RTI) in patients receiving definitive radiation therapy for locally advanced prostate cancer. Int J Radiat Oncol Biol Phys. 1996.361(1):269-269. 
+    * Heysek R, Gwede C, Torres-Roca J, Cantor A, Kelley S, Saini A, Pow-Sang J. A dosimetric analysis of unstranded seeds versus customized stranded seeds in transperineal interstitial permanent prostate seed brachytherapy. Brachytherapy. 5(4):244-250. Pubmedid: [17118318](https://www.ncbi.nlm.nih.gov/pubmed/17118318). 
+    * Gwede C, Johnson D, Daniels S, Trotti A. Assessment of toxicity in cooperative oncology clinical trials: the long and short of it. J Oncol Manag. 11(2):15-21. Pubmedid: [11989815](https://www.ncbi.nlm.nih.gov/pubmed/11989815). 
+    * Gwede C, Forthofer M, McDermott R. Awareness of prostate cancer screening tests among African American men in underserved neighborhoods: need for community outreach. J Oncol Manag. 11(5):36-41. Pubmedid: [12382697](https://www.ncbi.nlm.nih.gov/pubmed/12382697). 
+    * Johnson D, Casey L, Gwede C, Friedland J, Trotti, III A. 1996;850-851.
+  * ## Grants
+    * Title: Multilevel Action Toward Colorectal Cancer and Hepatitis C Education and Screening (MATCHES)  
+Award Number: 24B05  
+Sponsor: Florida Department of Health  
+Christy, S. (PD/PI), Gwede, C. (Co-PD/PI)
+    * Title: CARES-REACH (Colorectal Cancer Awareness, Research, Education and Screening-Rural Expansion, Access and Capacity for Health)  
+Award Number: 5R01CA249689-05  
+Sponsor: National Cancer Institute (NCI)  
+Gwede, C. (PD/PI)
+    * Title: CARES-REACH (Colorectal Cancer Awareness, Research, Education and Screening-Rural Expansion, Access and Capacity for Health) - Establishing a Biobank of Fecal Immunochemical Tests (FIT) for Gut Microbiome Measurement in a Racially/Ethnically and Geographically Diverse Population  
+Award Number: 3R01CA249689-04S1  
+Sponsor: National Cancer Institute (NCI)  
+Gwede, C. (PD/PI), Meade, C. (PD/PI)
+    * Title: CARES-REACH (Colorectal Cancer Awareness, Research, Education and Screening-Rural Expansion, Access and Capacity for Health) - My Portal CARES: Web-based Portal Usage in FQHCs among Multilingual Groups  
+Award Number: 3R01CA249689-04S2  
+Sponsor: National Cancer Institute (NCI)  
+Gwede, C. (PD/PI), Meade, C. (PD/PI)
+    * Title: Ghana IntegRative Approach to Cancer ResEarch Training: The Grace Program  
+Award Number: 3D43CA260649-05S1  
+Sponsor: National Cancer Institute (NCI)  
+Giuliano, A. (PD/PI), Gwede, C. (PD/PI), Yamoah, K. (PD/PI)
+
+
+## Find a Researcher Search
+Program Select Cancer Biology and Evolution Program Cancer Epidemiology Program Molecular Medicine Program Health Outcomes & Behavior Program Immuno-Oncology Non-Programmatically Aligned
+Department Select BioEngineering Biostatistics and Bioinformatics Cancer Epidemiology Metabolism and Physiology Drug Discovery Health Outcomes & Behavior Immunology Integrated Mathematical Oncology Machine Learning Molecular Oncology Tumor Microenvironment and Metastasis
+Center of Excellence Select Center for Infection Research in Cancer DeBartolo Family Personalized Medicine Institute Evolutionary Therapy Lung Cancer Center of Excellence Melanoma Research Center of Excellence
+Work Group Select Cancer Chemoprevention Research Interest Group Myeloma Systems Medicine Working Group Tobacco Research & Intervention Program
+Keyword
+Search
+[ ![Moffitt Cancer Center](https://www.moffitt.org/globalassets/images/logos/moffitt-logo-full-white.svg) ](https://www.moffitt.org/ "Logo for Moffitt Cancer Center") [ ![](https://www.moffitt.org/globalassets/images/logos/moffitt-logo-mobile-white.svg) ](https://www.moffitt.org/ "Logo for Moffitt Cancer Center")
+Our Mission
+To contribute to the prevention and cure of cancer.
+[Connect with a Cancer Expert](https://www.moffitt.org/eforms/patientregistrationform/)
+[ ![Designated Comprehensive Cancer Center](https://www.moffitt.org/globalassets/images/logos/nci.png) ](https://www.moffitt.org/about-moffitt/nci-designation/?source=footer "Designated Comprehensive Cancer Center") [ ![Florida Health Cancer Center of Excellence](https://www.moffitt.org/globalassets/global-blocks/navigation/footer/moffitt-cancer-center-of-excellence-2.png) ](https://www.floridahealth.gov/provider-and-partner-resources/research/cancer-center-of-excellence-award.html "Florida Health Cancer Center of Excellence") [ ![Magnet Recognized](https://www.moffitt.org/globalassets/images/logos/magnet.png) ](https://www.moffitt.org/about-moffitt/medical/nursing/?source=footer "Magnet Recognized") [ ![National Comprehensive Cancer Network](https://www.moffitt.org/globalassets/global-blocks/navigation/footer/nccn.png) ](https://www.nccn.org/patients/ "National Comprehensive Cancer Network")
+Careers
+    * [Careers at Moffitt](https://www.moffitt.org/careers/)
+    * [Search Jobs](https://moffitt-cancer-center-careers.hctsportals.com/)
+    * [Training & Education](https://www.moffitt.org/education/)
+
+
+Emerging Cancer Therapies
+    * [CAR T Therapy](https://www.moffitt.org/treatments/immunotherapy/car-t-therapy/)
+    * [Immunotherapy](https://www.moffitt.org/treatments/immunotherapy/)
+    * [TIL Therapy](https://www.moffitt.org/treatments/immunotherapy/til-therapy/)
+
+
+Cancers & Treatments
+    * [Cancers We Treat](https://www.moffitt.org/cancers/)
+    * [Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/)
+    * [Diagnostic Services](https://www.moffitt.org/diagnostic-services/)
+    * [Treatments We Offer](https://www.moffitt.org/treatments/)
+
+
+Get Involved
+    * [Donate](https://fundraise.moffitt.org/give/563959/#!/donation/checkout)
+    * [Volunteer](https://www.moffitt.org/give/get-involved/volunteer-your-time/)
+    * [Ways to Give](https://www.moffitt.org/give/ways-to-give/)
+
+
+Cancer Screening
+    * [Head and Neck Cancer Screening](https://www.moffitt.org/diagnostic-services/cancer-screenings/head-and-neck-cancer-screening/)
+    * [Lung CT Screening](https://www.moffitt.org/cancers/lung-cancer/lung-cancer-screening-and-surveillance-program/)
+    * [Mammogram](https://www.moffitt.org/cancers/breast-cancer/diagnosis/screening/mammogram/)
+    * [Skin Cancer Mole Patrol](https://www.moffitt.org/diagnostic-services/cancer-screenings/mole-patrol/)
+
+
+Patients & Family
+    * [Appointments](https://www.moffitt.org/eforms/patientregistrationform/)
+    * [Find a Doctor](https://www.moffitt.org/find-a-doctor/)
+    * [Insurance & Financial Info](https://www.moffitt.org/patient-family/insurance-financial-information/)
+    * [Moffitt Blog for Patients](https://www.moffitt.org/taking-care-of-your-health/)
+    * [Patient & Family Resources](https://www.moffitt.org/patient-family/)
+
+
+About Moffitt
+    * [About](https://www.moffitt.org/about-moffitt/)
+    * [Community Benefit](https://www.moffitt.org/publications/community-benefit/)
+    * [Patient Outcomes](https://www.moffitt.org/about-moffitt/outcomes/)
+    * [Research](https://www.moffitt.org/research-science/)
+
+
+Industry Partnerships
+    * [Available Emerging Technologies](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/available-technologies/)
+    * [Business of Biotech](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/business-of-biotech/)
+    * [Cell Therapy Facility](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/cell-therapy-gene-engineering/)
+    * [Office of Innovation](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/)
+
+
+Resources
+    * [Calendar of Events](https://www.moffitt.org/calendar/)
+    * [Endeavor](https://www.moffitt.org/endeavor/)
+    * [Newsroom](https://www.moffitt.org/newsroom/)
+    * [Partnerships](https://www.moffitt.org/about-moffitt/strategic-alliances-and-partnerships/)
+    * [Publications](https://www.moffitt.org/publications/)
+
+
+Call Today
+[1-888-663-3488](tel:1-888-663-3488 "Call Today")
+[ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+  * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
+  * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
+  * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
+  * [State Nonprofit Disclosures](https://www.moffitt.org/globalassets/pdfs/footer/state-registration-for-web.pdf "State Nonprofit Disclosures")
+  * [Donor Privacy](https://www.moffitt.org/give/donor-privacy/ "Donor Privacy")
+  * [Notice of Privacy Practices](https://www.moffitt.org/legal-statements-and-policies/notice-of-privacy-practices/ "Notice of Privacy Practices")
+  * [Visitor Policy](https://www.moffitt.org/globalassets/pdfs/patient--family/preparing-for-your-appointment/visitation-and-family-presence-policy.pdf "Visitor Policy")
+  * [Moffitt Masking Policy](https://www.moffitt.org/globalassets/pdfs/footer/ic-085-moffitt-masking-policy.pdf)
+  * [Price Transparency](https://eforms.moffitt.org/Moffittcancercenter_standardcharges/593238634_H.-Lee-Moffitt-Cancer-Center-and-Research-Institute-Hospital,-Inc._standardcharges.json)
+  * [Sitemap](https://www.moffitt.org/sitemap.xml)
+
+
+©Copyright 2025 Moffitt Cancer Center
+Discover More
+  * [Individualized Cancer Treatment in Florida](https://moffitt.org/patient-family/)
+  * [Cancer Second Opinion Appointment in Florida](https://moffitt.org/diagnostic-services/second-opinion/)
+  * [Cancer Healthcare Professionals in Florida](https://moffitt.org/for-healthcare-professionals/)
+
+
+### Cambiar el idioma
+Si no encuentra la información que busca o si desea programar una cita, llámenos gratis al [1-888-663-3488](tel:1-888-663-3488).
+Gracias.
+[Cancel | Cancelar](https://www.moffitt.org/research-science/researchers/clement-gwede) [OK](https://www.moffitt.org/research-science/researchers/clement-gwede)
+[ ![Moffitt Cancer Center](https://www.moffitt.org/globalassets/images/logos/moffitt-logo-full-white.svg) ](https://www.moffitt.org/ "Moffitt Cancer Center")
+Search
+Menu
+  * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/clement-gwede) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-3)
+  * [Patients & Families](https://www.moffitt.org/research-science/researchers/clement-gwede) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)
+  * [For Healthcare Professionals](https://www.moffitt.org/research-science/researchers/clement-gwede) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-31)
+  * [Research](https://www.moffitt.org/research-science/researchers/clement-gwede) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)
+  * [Training & Education](https://www.moffitt.org/research-science/researchers/clement-gwede) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-53)
+  * [Give](https://www.moffitt.org/research-science/researchers/clement-gwede) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-63)
+
+
+Schedule
+[New Patients](https://www.moffitt.org/eforms/patientregistrationform/ "New Patients") [Referring Physicians](https://www.moffitt.org/eforms/referapatient/ "Referring Physicians")
+[ Find a Doctor ](https://www.moffitt.org/find-a-doctor/ "Find a Doctor")
+Patient Portal
+[Log In](https://mymoffitt.iqhealth.com/ "Log In") [Enroll](https://mymoffitt.iqhealth.com/self-enroll/)
+[ Careers ](https://www.moffitt.org/careers/ "Careers")
+[ Locations ](https://www.moffitt.org/locations-directions/ "Locations")
+[ 1-888-663-3488 ](tel:1-888-663-3488 "Call 1-888-663-3488")
+English
+[English](https://www.moffitt.org/research-science/researchers/clement-gwede/ "English") [Spanish](https://www.moffitt.org/es/research-science/researchers/clement-gwede/ "Spanish")
+[ ](https://www.moffitt.org/research-science/researchers/?campaign=567103 "Donate")
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)[Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)
+  * [ Cancers ](https://www.moffitt.org/cancers/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-5)
+  * [ Treatments ](https://www.moffitt.org/treatments/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-7)
+  * [ Clinical Trials ](https://www.moffitt.org/clinical-trials-research/clinical-trials/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-9)
+  * [ Diagnostic Services ](https://www.moffitt.org/diagnostic-services/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-11)
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-3)
+  * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
+  * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
+  * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
+  * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
+  * [Appendiceal (Appendix) Cancer](https://www.moffitt.org/cancers/appendiceal-appendix-cancer/ "Appendiceal \(Appendix\) Cancer")
+  * [Astrocytoma](https://www.moffitt.org/cancers/astrocytoma/ "Astrocytoma")
+  * [Basal Cell Carcinoma](https://www.moffitt.org/cancers/basal-cell-carcinoma/ "Basal Cell Carcinoma")
+  * [Bladder Cancer](https://www.moffitt.org/cancers/bladder-cancer/ "Bladder Cancer")
+  * [Bone Metastasis](https://www.moffitt.org/cancers/bone-metastasis/ "Bone Metastasis")
+  * [Brain Cancer](https://www.moffitt.org/cancers/brain-cancer/ "Brain Cancer")
+  * [Brain Tumor](https://www.moffitt.org/cancers/brain-tumor/ "Brain Tumor")
+  * [Brain Metastases](https://www.moffitt.org/cancers/brain-metastases/ "Brain Metastases")
+  * [Breast Cancer](https://www.moffitt.org/cancers/breast-cancer/ "Breast Cancer")
+  * [Cervical Cancer](https://www.moffitt.org/cancers/cervical-cancer/ "Cervical Cancer")
+  * [Cholangiocarcinoma (Bile Duct Cancer)](https://www.moffitt.org/cancers/cholangiocarcinoma-bile-duct-cancer/ "Cholangiocarcinoma \(Bile Duct Cancer\)")
+  * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
+  * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
+  * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
+  * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
+  * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
+  * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
+  * [Endometrial (Uterine) Cancer](https://www.moffitt.org/cancers/endometrial-uterine-cancer/ "Endometrial \(Uterine\) Cancer")
+  * [Esophageal Cancer](https://www.moffitt.org/cancers/esophageal-cancer/ "Esophageal Cancer")
+  * [Follicular Lymphoma](https://www.moffitt.org/cancers/follicular-lymphoma/ "Follicular Lymphoma")
+  * [Gallbladder Cancer](https://www.moffitt.org/cancers/gallbladder-cancer/ "Gallbladder Cancer")
+  * [Gastrointestinal Carcinoid Tumor](https://www.moffitt.org/cancers/gastrointestinal-carcinoid-tumor/ "Gastrointestinal Carcinoid Tumor")
+  * [GIST (Gastrointestinal Stromal Tumor)](https://www.moffitt.org/cancers/gist-gastrointestinal-stromal-tumor/ "GIST \(Gastrointestinal Stromal Tumor\)")
+  * [Glioblastoma](https://www.moffitt.org/cancers/glioblastoma/ "Glioblastoma")
+  * [Head and Neck Cancer](https://www.moffitt.org/cancers/head-and-neck-cancer/ "Head and Neck Cancer")
+  * [HER2 Positive Breast Cancer](https://www.moffitt.org/cancers/her2-positive-breast-cancer/ "HER2 Positive Breast Cancer")
+  * [Hodgkin Lymphoma](https://www.moffitt.org/cancers/hodgkin-lymphoma/ "Hodgkin Lymphoma")
+  * [Inflammatory Breast Cancer](https://www.moffitt.org/cancers/inflammatory-breast-cancer/ "Inflammatory Breast Cancer")
+  * [Invasive Ductal Carcinoma](https://www.moffitt.org/cancers/invasive-ductal-carcinoma/ "Invasive Ductal Carcinoma")
+  * [Kidney (Renal Cell) Cancer](https://www.moffitt.org/cancers/kidney-renal-cell-cancer/ "Kidney \(Renal Cell\) Cancer")
+  * [Leukemia](https://www.moffitt.org/cancers/leukemia/ "Leukemia")
+  * [Liver (Hepatocellular) Cancer](https://www.moffitt.org/cancers/liver-hepatocellular-cancer/ "Liver \(Hepatocellular\) Cancer")
+  * [Low-Grade Glioma](https://www.moffitt.org/cancers/low-grade-glioma/ "Low-Grade Glioma")
+  * [Lung Cancer](https://www.moffitt.org/cancers/lung-cancer/ "Lung Cancer")
+  * [Lymphomas (Hodgkin and Non-Hodgkin)](https://www.moffitt.org/cancers/lymphomas-hodgkin-and-non-hodgkin/ "Lymphomas \(Hodgkin and Non-Hodgkin\)")
+  * [Mantle Cell Lymphoma](https://www.moffitt.org/cancers/mantle-cell-lymphoma/ "Mantle Cell Lymphoma")
+  * [Melanoma](https://www.moffitt.org/cancers/melanoma/ "Melanoma")
+  * [Meningioma](https://www.moffitt.org/cancers/meningioma/ "Meningioma")
+  * [Merkel Cell Carcinoma](https://www.moffitt.org/cancers/merkel-cell-carcinoma/ "Merkel Cell Carcinoma")
+  * [Mesothelioma](https://www.moffitt.org/cancers/mesothelioma/ "Mesothelioma")
+  * [Metastatic Breast Cancer](https://www.moffitt.org/cancers/metastatic-breast-cancer/ "Metastatic Breast Cancer")
+  * [Monoclonal Gammopathy of Undetermined Significance (MGUS)](https://www.moffitt.org/cancers/monoclonal-gammopathy-of-undetermined-significance-mgus/ "Monoclonal Gammopathy of Undetermined Significance \(MGUS\)")
+  * [Multiple Myeloma-Plasma Cell Tumor](https://www.moffitt.org/cancers/multiple-myeloma-plasma-cell-tumor/ "Multiple Myeloma-Plasma Cell Tumor")
+  * [Myelodysplastic Syndromes (MDS)](https://www.moffitt.org/cancers/myelodysplastic-syndromes-mds/ "Myelodysplastic Syndromes \(MDS\)")
+  * [Neuroendocrine Tumor](https://www.moffitt.org/cancers/neuroendocrine-tumor/ "Neuroendocrine Tumor")
+  * [Neurofibromatosis](https://www.moffitt.org/cancers/neurofibromatosis/ "Neurofibromatosis")
+  * [Non-Hodgkin Lymphoma](https://www.moffitt.org/cancers/non-hodgkin-lymphoma/ "Non-Hodgkin Lymphoma")
+  * [Oral Cavity (Mouth) Cancer](https://www.moffitt.org/cancers/oral-cavity-mouth-cancer/ "Oral Cavity \(Mouth\) Cancer")
+  * [Insurance and Financial Information](https://www.moffitt.org/patient-family/insurance-financial-information/ "Insurance and Financial Information")
+  * [Oral Cavity or Throat Cancer](https://www.moffitt.org/cancers/oral-cavity-or-throat-cancer/ "Oral Cavity or Throat Cancer")
+  * [Osteosarcoma](https://www.moffitt.org/cancers/osteosarcoma/ "Osteosarcoma")
+  * [Ovarian Cancer](https://www.moffitt.org/cancers/ovarian-cancer/ "Ovarian Cancer")
+  * [Pancoast Tumor](https://www.moffitt.org/cancers/pancoast-tumor/ "Pancoast Tumor")
+  * [Pancreatic Cancer](https://www.moffitt.org/cancers/pancreatic-cancer/ "Pancreatic Cancer")
+  * [Penile Cancer](https://www.moffitt.org/cancers/penile-cancer/ "Penile Cancer")
+  * [Pituitary Adenoma](https://www.moffitt.org/cancers/pituitary-adenoma/ "Pituitary Adenoma")
+  * [Prostate Cancer](https://www.moffitt.org/cancers/prostate-cancer/ "Prostate Cancer")
+  * [Rectal Cancer](https://www.moffitt.org/cancers/rectal-cancer/ "Rectal Cancer")
+  * [Sarcoma](https://www.moffitt.org/cancers/sarcoma/ "Sarcoma")
+  * [Skin Cancer (Nonmelanoma)](https://www.moffitt.org/cancers/skin-cancer-nonmelanoma/ "Skin Cancer \(Nonmelanoma\)")
+  * [Skull Base Tumors](https://www.moffitt.org/cancers/skull-base-tumors/ "Skull Base Tumors")
+  * [Small Intestine Cancer](https://www.moffitt.org/cancers/small-intestine-cancer/ "Small Intestine Cancer")
+  * [Spinal Tumor](https://www.moffitt.org/cancers/spinal-tumor/ "Spinal Tumor")
+  * [Squamous Cell Carcinoma](https://www.moffitt.org/cancers/squamous-cell-carcinoma/ "Squamous Cell Carcinoma")
+  * [Smoldering Multiple Myeloma](https://www.moffitt.org/cancers/smoldering-multiple-myeloma-smm/ "Smoldering Multiple Myeloma")
+  * [Stomach (Gastric) Cancer](https://www.moffitt.org/cancers/stomach-gastric-cancer/ "Stomach \(Gastric\) Cancer")
+  * [Testicular Cancer](https://www.moffitt.org/cancers/testicular-cancer/ "Testicular Cancer")
+  * [Throat Cancer](https://www.moffitt.org/cancers/throat-cancer/ "Throat Cancer")
+  * [Thymoma](https://www.moffitt.org/cancers/thymoma/ "Thymoma")
+  * [Thyroid Cancer](https://www.moffitt.org/cancers/thyroid-cancer/ "Thyroid Cancer")
+  * [Tongue Cancer](https://www.moffitt.org/cancers/tongue-cancer/ "Tongue Cancer")
+  * [Tracheal Cancer](https://www.moffitt.org/cancers/tracheal-cancer/ "Tracheal Cancer")
+  * [Triple Negative Breast Cancer](https://www.moffitt.org/cancers/triple-negative-breast-cancer/ "Triple Negative Breast Cancer")
+  * [Vaginal Cancer](https://www.moffitt.org/cancers/vaginal-cancer/ "Vaginal Cancer")
+  * [Vulvar Cancer](https://www.moffitt.org/cancers/vulvar-cancer/ "Vulvar Cancer")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-3)[Treatments](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-3)
+  * [Blood Bone Marrow Transplant](https://www.moffitt.org/treatments/blood-bone-marrow-transplant/ "Blood Bone Marrow Transplant")
+  * [Bloodless Medicine and Surgery](https://www.moffitt.org/treatments/bloodless-medicine-and-surgery/ "Bloodless Medicine and Surgery")
+  * [Cardio-Oncology](https://www.moffitt.org/treatments/cardio-oncology/ "Cardio-Oncology")
+  * [Chemotherapy](https://www.moffitt.org/treatments/chemotherapy/ "Chemotherapy")
+  * [Clinical Pathways](https://www.moffitt.org/treatments/clinical-pathways/ "Clinical Pathways")
+  * [Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/ "Clinical Trials")
+  * [Diagnostic Services](https://www.moffitt.org/diagnostic-services/ "Diagnostic Services")
+  * [Endoscopic Procedures](https://www.moffitt.org/treatments/endoscopic-procedures/ "Endoscopic Procedures")
+  * [Fertility Preservation](https://www.moffitt.org/treatments/fertility-preservation/ "Fertility Preservation")
+  * [Gynecologic Oncology](https://www.moffitt.org/treatments/gynecologic-oncology/ "Gynecologic Oncology")
+  * [Immunotherapy](https://www.moffitt.org/treatments/immunotherapy/ "Immunotherapy")
+  * [Interventional Pain Management](https://www.moffitt.org/treatments/interventional-pain-management/ "Interventional Pain Management")
+  * [Interventional Radiology](https://www.moffitt.org/treatments/interventional-radiology/ "Interventional Radiology")
+  * [Precision Medicine](https://www.moffitt.org/treatments/precision-medicine/ "Precision Medicine")
+  * [Pharmacy](https://www.moffitt.org/treatments/pharmacy/ "Pharmacy")
+  * [Radiation Therapy](https://www.moffitt.org/treatments/radiation-therapy/ "Radiation Therapy")
+  * [Rehabilitation Services](https://www.moffitt.org/treatments/rehabilitation-services/ "Rehabilitation Services")
+  * [Supportive Care Medicine](https://www.moffitt.org/treatments/supportive-care-medicine/ "Supportive Care Medicine")
+  * [Surgical Care](https://www.moffitt.org/treatments/surgical-care/ "Surgical Care")
+  * [Systemic Therapy](https://www.moffitt.org/treatments/systemic-therapy/ "Systemic Therapy")
+  * [Targeted Therapy](https://www.moffitt.org/treatments/targeted-therapy/ "Targeted Therapy")
+  * [Tumor Board](https://www.moffitt.org/treatments/tumor-board/ "Tumor Board")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-3)[Clinical Trials](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-3)
+  * [Am I A Candidate?](https://www.moffitt.org/clinical-trials-research/clinical-trials/am-i-a-candidate/ "Am I A Candidate?")
+  * [Clinical Research Unit](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-research-unit/ "Clinical Research Unit")
+  * [Clinical Trials Administration](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-trials-administration/ "Clinical Trials Administration")
+  * [Clinical Trials: Are They Right for You?](https://www.moffitt.org/clinical-trials-research/clinical-trials/clinical-trials-are-they-right-for-you/ "Clinical Trials: Are They Right for You?")
+  * [Patient Protection](https://www.moffitt.org/clinical-trials-research/clinical-trials/patient-protection/ "Patient Protection")
+  * [Phase 1 Clinical Trials](https://www.moffitt.org/clinical-trials-research/clinical-trials/phase-1-clinical-trials/ "Phase 1 Clinical Trials")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-3)[Diagnostic Services](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-3)
+  * [Cancer Screenings](https://www.moffitt.org/diagnostic-services/cancer-screenings/ "Cancer Screenings")
+  * [Genetic Counseling and Genetic Testing](https://www.moffitt.org/diagnostic-services/genetic-counseling-and-genetic-testing/ "Genetic Counseling and Genetic Testing")
+  * [Labwork and Bloodwork](https://www.moffitt.org/diagnostic-services/labwork-and-bloodwork/ "Labwork and Bloodwork")
+  * [Pathology](https://www.moffitt.org/diagnostic-services/pathology/ "Pathology")
+  * [Radiology – Diagnostic Imaging and Interventional Radiology](https://www.moffitt.org/diagnostic-services/radiology-diagnostic-imaging-and-interventional-radiology/ "Radiology – Diagnostic Imaging and Interventional Radiology")
+  * [Cancer Treatments](https://www.moffitt.org/treatments/ "Cancer Treatments")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)[Patients & Families](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)
+  * [ Patient & Family ](https://www.moffitt.org/patient-family/)
+  * [ Preparing For Your Appointment ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-15)
+  * [ Insurance & Financial Information ](https://www.moffitt.org/patient-family/insurance-financial-information/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-17)
+  * [ Programs & Support Services ](https://www.moffitt.org/patient-family/programs-support-services/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-19)
+  * [ Patient and Family Centered Care ](https://www.moffitt.org/patient-family/patient-and-family-centered-care/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-21)
+  * [ Cancer Survivorship ](https://www.moffitt.org/patient-family/cancer-survivorship/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-23)
+  * [ International Patient Services ](https://www.moffitt.org/patient-family/international-patient-services/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-25)
+  * [ Moffitt Virtual Care ](https://www.moffitt.org/patient-family/moffitt-virtual-care/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-27)
+  * [ Inspiring Stories ](https://www.moffitt.org/inspiring-stories/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-29)
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)[Preparing For Your Appointment](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)
+  * [Patient and Family Orientation](https://www.moffitt.org/patient-family/preparing-for-your-appointment/patient-and-family-orientation/ "Patient and Family Orientation")
+  * [Medical Records](https://www.moffitt.org/patient-family/preparing-for-your-appointment/medical-records/ "Medical Records")
+  * [Appointment Reminder Service](https://www.moffitt.org/patient-family/preparing-for-your-appointment/appointment-reminder-service/ "Appointment Reminder Service")
+  * [MyMoffitt Patient Portal](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/ "MyMoffitt Patient Portal")
+  * [New Cancer Diagnosis](https://www.moffitt.org/patient-family/preparing-for-your-appointment/new-cancer-diagnosis/ "New Cancer Diagnosis")
+  * [Online Registration Frequently Asked Questions](https://www.moffitt.org/patient-family/preparing-for-your-appointment/online-registration-frequently-asked-questions/ "Online Registration Frequently Asked Questions")
+  * [Scheduling Your Appointment](https://www.moffitt.org/patient-family/preparing-for-your-appointment/scheduling-your-appointment/ "Scheduling Your Appointment")
+  * [Traveling for Cancer Treatment](https://www.moffitt.org/patient-family/preparing-for-your-appointment/traveling-for-cancer-treatment/ "Traveling for Cancer Treatment")
+  * [Preparing For Your Hospitalization](https://www.moffitt.org/patient-family/preparing-for-your-hospitalization/ "Preparing For Your Hospitalization")
+  * [Preparing For Your Surgery](https://www.moffitt.org/patient-family/preparing-for-your-surgery/ "Preparing For Your Surgery")
+  * [Visitor Policy](https://www.moffitt.org/patient-family/preparing-for-your-appointment/visitor-policy/ "Visitor Policy")
+  * [Patient Rights and Responsibilities](https://www.moffitt.org/patient-family/preparing-for-your-appointment/patient-rights-and-responsibilities/ "Patient Rights and Responsibilities")
+  * [What to Know About Your Appointments During Hurricane Season](https://www.moffitt.org/patient-family/hurricane/appointments-during-hurricane-season/ "What to Know About Your Appointments During Hurricane Season")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)[Insurance & Financial Information](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)
+  * [Copay Assistance Program](https://www.moffitt.org/patient-family/insurance-financial-information/copay-assistance-program/ "Copay Assistance Program")
+  * [Financial Assistance](https://www.moffitt.org/patient-family/insurance-financial-information/financial-assistance/ "Financial Assistance")
+  * [Glossary of Terms](https://www.moffitt.org/patient-family/insurance-financial-information/glossary-of-terms/ "Glossary of Terms")
+  * [Health Exchange](https://www.moffitt.org/patient-family/insurance-financial-information/health-exchange/ "Health Exchange")
+  * [Insurance Coverage](https://www.moffitt.org/patient-family/insurance-financial-information/insurance-coverage/ "Insurance Coverage")
+  * [Medicare Coverage](https://www.moffitt.org/patient-family/insurance-financial-information/medicare-coverage/ "Medicare Coverage")
+  * [Obtain a Cost Estimate](https://www.moffitt.org/patient-family/insurance-financial-information/obtain-a-cost-estimate/ "Obtain a Cost Estimate")
+  * [Questions to Ask Your Insurance Company](https://www.moffitt.org/patient-family/insurance-financial-information/questions-to-ask-your-insurance-company/ "Questions to Ask Your Insurance Company")
+  * [Understanding Your Bill](https://www.moffitt.org/patient-family/insurance-financial-information/understanding-your-bill/ "Understanding Your Bill")
+  * [Frequently Asked Questions](https://www.moffitt.org/patient-family/insurance-financial-information/frequently-asked-questions/ "Frequently Asked Questions")
+  * [Financial Information](https://www.moffitt.org/patient-family/insurance-financial-information/financial-information/ "Financial Information")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)[Programs & Support Services](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)
+  * [Advance Care Planning](https://www.moffitt.org/patient-family/programs-support-services/advance-care-planning/ "Advance Care Planning")
+  * [AYA: Adolescent Young Adult Program](https://www.moffitt.org/patient-family/programs-support-services/aya-adolescent-young-adult-program/ "AYA: Adolescent Young Adult Program")
+  * [Chaplaincy Spiritual Care](https://www.moffitt.org/patient-family/programs-support-services/chaplaincy-spiritual-care/ "Chaplaincy Spiritual Care")
+  * [Community Resources](https://www.moffitt.org/patient-family/programs-support-services/online-resources/ "Community Resources")
+  * [Counseling and Support](https://www.moffitt.org/patient-family/programs-support-services/counseling-and-support/ "Counseling and Support")
+  * [Language Services](https://www.moffitt.org/patient-family/programs-support-services/language-services/ "Language Services")
+  * [Nutrition](https://www.moffitt.org/patient-family/programs-support-services/nutrition/ "Nutrition")
+  * [Senior Adult Oncology Program](https://www.moffitt.org/patient-family/programs-support-services/senior-adult-oncology-program/ "Senior Adult Oncology Program")
+  * [Share Gratitude for Moffitt Team Members](https://www.moffitt.org/patient-family/patient-and-family-centered-care/share-gratitude-for-moffitt-team-members/ "Share Gratitude for Moffitt Team Members")
+  * [Specialty Pharmacy at Moffitt](https://www.moffitt.org/patient-family/programs-support-services/specialty-pharmacy/ "Specialty Pharmacy at Moffitt")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)[Patient and Family Centered Care](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)
+  * [Demonstrating Respect at Moffitt](https://www.moffitt.org/patient-family/patient-and-family-centered-care/demonstrating-respect-at-moffitt/ "Demonstrating Respect at Moffitt")
+  * [Daisy and Sunflower Awards](https://www.moffitt.org/patient-family/patient-and-family-centered-care/daisy-and-sunflower-awards/ "Daisy and Sunflower Awards")
+  * [Patient and Family Advisory Program](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-and-family-advisory-program/ "Patient and Family Advisory Program")
+  * [Patient Relations](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-relations/ "Patient Relations")
+  * [Patient Researcher Forum](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patient-researcher-forum/ "Patient Researcher Forum")
+  * [Patti K Halula Legacy Award](https://www.moffitt.org/patient-family/patient-and-family-centered-care/patti-k-halula-legacy-award/ "Patti K Halula Legacy Award")
+  * [Share Gratitude for Moffitt Team Members](https://www.moffitt.org/patient-family/patient-and-family-centered-care/share-gratitude-for-moffitt-team-members/ "Share Gratitude for Moffitt Team Members")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)[Cancer Survivorship](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)
+  * [Cancer Survivorship Program](https://www.moffitt.org/patient-family/cancer-survivorship/cancer-survivorship-program/ "Cancer Survivorship Program")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)[International Patient Services](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)
+  * [Frequently Asked Questions](https://www.moffitt.org/patient-family/international-patient-services/frequently-asked-questions/ "Frequently Asked Questions")
+  * [Online Consult Forms](https://www.moffitt.org/patient-family/international-patient-services/online-consult-forms/ "Online Consult Forms")
+  * [Online Consults](https://www.moffitt.org/patient-family/international-patient-services/online-consults/ "Online Consults")
+  * [Moffitt Outreach in Puerto Rico](https://www.moffitt.org/patient-family/international-patient-services/puerto-rico/ "Moffitt Outreach in Puerto Rico")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)[Moffitt Virtual Care](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)
+  * [All About Virtual Care](https://www.moffitt.org/patient-family/moffitt-virtual-care/all-about-virtual-care/ "All About Virtual Care")
+  * [Informed Consent for Telemedicine](https://www.moffitt.org/patient-family/moffitt-virtual-care/informed-consent-for-telemedicine/ "Informed Consent for Telemedicine")
+  * [New Cancer Patients](https://www.moffitt.org/patient-family/moffitt-virtual-care/new-cancer-patients/ "New Cancer Patients")
+  * [Virtual Care Success Checklist](https://www.moffitt.org/patient-family/moffitt-virtual-care/virtual-care-success-checklist/ "Virtual Care Success Checklist")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)[Inspiring Stories](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-13)
+  * [Isabel's Story](https://www.moffitt.org/inspiring-stories/isabels-story/ "Isabel's Story")
+  * [Amanda's Story](https://www.moffitt.org/inspiring-stories/amandas-story/ "Amanda's Story")
+  * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story-my-prostate-cancer-journey/ "Rick's Story")
+  * [Vondalyn's Story: From Adversity to Advocacy](https://www.moffitt.org/inspiring-stories/vondalyns-story-from-adversity-to-advocacy/ "Vondalyn's Story: From Adversity to Advocacy")
+  * [Cayla’s Story: Cancer Never Cares About Anything Like That](https://www.moffitt.org/inspiring-stories/caylas-story-cancer-never-cares-about-anything-like-that/ "Cayla’s Story: Cancer Never Cares About Anything Like That")
+  * [Rick's Story: Now What?](https://www.moffitt.org/inspiring-stories/ricks-story-now-what/ "Rick's Story: Now What?")
+  * [Amy's Story: No Longer Alone](https://www.moffitt.org/inspiring-stories/no-longer-alone/ "Amy's Story: No Longer Alone")
+  * [Zoe's Story](https://www.moffitt.org/inspiring-stories/zoeys-story/ "Zoe's Story")
+  * [Erma's Story](https://www.moffitt.org/inspiring-stories/ermas-story/ "Erma's Story")
+  * [Donna's Story](https://www.moffitt.org/inspiring-stories/donnas-story/ "Donna's Story")
+  * [Dr. Vadaparampil's Story](https://www.moffitt.org/inspiring-stories/dr.-vadaparampils-story "Dr. Vadaparampil's Story")
+  * [Mark's Story](https://www.moffitt.org/inspiring-stories/marks-story/ "Mark's Story")
+  * [Heather's Story](https://www.moffitt.org/inspiring-stories/heathers-story/ "Heather's Story")
+  * [Ellen's Story](https://www.moffitt.org/inspiring-stories/ellens-story/ "Ellen's Story")
+  * [Dr. Tran's Story](https://www.moffitt.org/inspiring-stories/dr.-trans-story "Dr. Tran's Story")
+  * [Dr. Toloza's Story](https://www.moffitt.org/inspiring-stories/dr.-tolozas-story "Dr. Toloza's Story")
+  * [Dr. Silva's Story](https://www.moffitt.org/inspiring-stories/dr.-silvas-story "Dr. Silva's Story")
+  * [Dr. Fernandez's Story](https://www.moffitt.org/inspiring-stories/dr.-fernandezs-story "Dr. Fernandez's Story")
+  * [Dr. Robinson's Story](https://www.moffitt.org/inspiring-stories/dr.-robinsons-story "Dr. Robinson's Story")
+  * [Dr. Pow-Sang's Story](https://www.moffitt.org/inspiring-stories/dr.-pow-sangs-story "Dr. Pow-Sang's Story")
+  * [Mike's Volunteer Story](https://www.moffitt.org/inspiring-stories/mikes-volunteer-story/ "Mike's Volunteer Story")
+  * [Mike's Story](https://www.moffitt.org/inspiring-stories/mikes-story/ "Mike's Story")
+  * [Mary Beth's Story](https://www.moffitt.org/inspiring-stories/mary-beths-story/ "Mary Beth's Story")
+  * [Malcolm's Story](https://www.moffitt.org/inspiring-stories/malcolms-story/ "Malcolm's Story")
+  * [Lori's Story](https://www.moffitt.org/inspiring-stories/loris-story2/ "Lori's Story")
+  * [Miriam's Story](https://www.moffitt.org/inspiring-stories/miriams-story/ "Miriam's Story")
+  * [Nick's Story](https://www.moffitt.org/inspiring-stories/nicks-story/ "Nick's Story")
+  * [Nadine's Story](https://www.moffitt.org/inspiring-stories/nadines-story/ "Nadine's Story")
+  * [Nancy's Story](https://www.moffitt.org/inspiring-stories/nancys-story/ "Nancy's Story")
+  * [Madison's Story](https://www.moffitt.org/inspiring-stories/madisons-story/ "Madison's Story")
+  * [Lori's Story](https://www.moffitt.org/inspiring-stories/loris-story/ "Lori's Story")
+  * [Lloyd's Story](https://www.moffitt.org/inspiring-stories/lloyds-story/ "Lloyd's Story")
+  * [Lanse's Story](https://www.moffitt.org/inspiring-stories/lanses-story/ "Lanse's Story")
+  * [Kevin's Story](https://www.moffitt.org/inspiring-stories/kevins-story/ "Kevin's Story")
+  * [Dr. Mooney's Story](https://www.moffitt.org/inspiring-stories/dr.-mooneys-story "Dr. Mooney's Story")
+  * [Ken's Story](https://www.moffitt.org/inspiring-stories/kens-story/ "Ken's Story")
+  * [Dr. Lee's Story](https://www.moffitt.org/inspiring-stories/dr.-lees-story "Dr. Lee's Story")
+  * [Dr. Kumar's Story](https://www.moffitt.org/inspiring-stories/dr.-kumars-story "Dr. Kumar's Story")
+  * [Keith's Story](https://www.moffitt.org/inspiring-stories/keiths-story2/ "Keith's Story")
+  * [Dr. Latifi's Story](https://www.moffitt.org/inspiring-stories/dr.-latifis-story "Dr. Latifi's Story")
+  * [Keith's Story](https://www.moffitt.org/inspiring-stories/keiths-story/ "Keith's Story")
+  * [Dr. Kubal's Story](https://www.moffitt.org/inspiring-stories/dr.-kubals-story "Dr. Kubal's Story")
+  * [Dr. Khakpour's Story](https://www.moffitt.org/inspiring-stories/dr.-khakpours-story "Dr. Khakpour's Story")
+  * [Dr. Keenan's Story](https://www.moffitt.org/inspiring-stories/dr.-keenans-story "Dr. Keenan's Story")
+  * [Dr. Kanetsky's Story](https://www.moffitt.org/inspiring-stories/dr.-kanetskys-story "Dr. Kanetsky's Story")
+  * [Dr. Hoffe's Story](https://www.moffitt.org/inspiring-stories/dr.-hoffes-story "Dr. Hoffe's Story")
+  * [Dr. Harrison's Story](https://www.moffitt.org/inspiring-stories/dr.-harrisons-story "Dr. Harrison's Story")
+  * [Dr. Gwede's Story](https://www.moffitt.org/inspiring-stories/dr.-gwedes-story "Dr. Gwede's Story")
+  * [Dr. Giuliano's Story](https://www.moffitt.org/inspiring-stories/dr.-giulianos-story "Dr. Giuliano's Story")
+  * [Juli's Story](https://www.moffitt.org/inspiring-stories/julis-story/ "Juli's Story")
+  * [Dr. Gonzalez's Story](https://www.moffitt.org/inspiring-stories/dr.-gonzalezs-story "Dr. Gonzalez's Story")
+  * [Dr. Gatenby's Story](https://www.moffitt.org/inspiring-stories/dr.-gatenbys-story "Dr. Gatenby's Story")
+  * [Dr. Etame's Story](https://www.moffitt.org/inspiring-stories/dr.-etames-story "Dr. Etame's Story")
+  * [Dr. Cleveland's Story](https://www.moffitt.org/inspiring-stories/dr.-clevelands-story "Dr. Cleveland's Story")
+  * [John and Whitney's Story](https://www.moffitt.org/inspiring-stories/john-and-whitneys-story/ "John and Whitney's Story")
+  * [Liz's Story](https://www.moffitt.org/inspiring-stories/lizs-story/ "Liz's Story")
+  * [Meet Lloyd](https://www.moffitt.org/inspiring-stories/meet-lloyd/ "Meet Lloyd")
+  * [Paul and Gina's Story](https://www.moffitt.org/inspiring-stories/pauls-and-ginas-story/ "Paul and Gina's Story")
+  * [Marvin's Story](https://www.moffitt.org/inspiring-stories/marvins-story/ "Marvin's Story")
+  * [Meet Melissa](https://www.moffitt.org/inspiring-stories/meet-melissa/ "Meet Melissa")
+  * [Muriel's Story](https://www.moffitt.org/inspiring-stories/muriels-story/ "Muriel's Story")
+  * [John's and David's Story](https://www.moffitt.org/inspiring-stories/johns-and-davids-story/ "John's and David's Story")
+  * [Melissa's Story](https://www.moffitt.org/inspiring-stories/melissas-story/ "Melissa's Story")
+  * [Dr. Alexander Anderson's Story](https://www.moffitt.org/inspiring-stories/dr.-alexander-andersons-story "Dr. Alexander Anderson's Story")
+  * [Pam's Story](https://www.moffitt.org/inspiring-stories/pams-story/ "Pam's Story")
+  * [Yolanda's Story](https://www.moffitt.org/inspiring-stories/yolandas-story/ "Yolanda's Story")
+  * [Wilbur's Story](https://www.moffitt.org/inspiring-stories/wilburs-story/ "Wilbur's Story")
+  * [Vikki's Story](https://www.moffitt.org/inspiring-stories/vikkis-story/ "Vikki's Story")
+  * [Tiffany's Story](https://www.moffitt.org/inspiring-stories/tiffanys-story/ "Tiffany's Story")
+  * [Theresa's Story](https://www.moffitt.org/inspiring-stories/theresas-story/ "Theresa's Story")
+  * [Joanna's Story](https://www.moffitt.org/inspiring-stories/joannas-story/ "Joanna's Story")
+  * [Jenifer's Story](https://www.moffitt.org/inspiring-stories/jenifers-story/ "Jenifer's Story")
+  * [Jeanine's Story](https://www.moffitt.org/inspiring-stories/jeanines-story/ "Jeanine's Story")
+  * [Meet Jackie](https://www.moffitt.org/inspiring-stories/meet-jackie/ "Meet Jackie")
+  * [Ian's Story](https://www.moffitt.org/inspiring-stories/ians-story/ "Ian's Story")
+  * [Howard's Story](https://www.moffitt.org/inspiring-stories/howards-story/ "Howard's Story")
+  * [Ryan's Story](https://www.moffitt.org/inspiring-stories/ryans-story/ "Ryan's Story")
+  * [Robert's Story](https://www.moffitt.org/inspiring-stories/roberts-story/ "Robert's Story")
+  * [Rick's Story](https://www.moffitt.org/inspiring-stories/ricks-story/ "Rick's Story")
+  * [Richard's Story](https://www.moffitt.org/inspiring-stories/richards-story/ "Richard's Story")
+  * [Rena's Story](https://www.moffitt.org/inspiring-stories/renas-story/ "Rena's Story")
+  * [Rebecca's Story](https://www.moffitt.org/inspiring-stories/rebeccas-story/ "Rebecca's Story")
+  * [Ray's and Dr. Bui's story](https://www.moffitt.org/inspiring-stories/rays-and-dr.-buis-story "Ray's and Dr. Bui's story")
+  * [Patti's Story](https://www.moffitt.org/inspiring-stories/pattis-story/ "Patti's Story")
+  * [Pam and Jonathan's story](https://www.moffitt.org/inspiring-stories/pams-and-jonathans-story/ "Pam and Jonathan's story")
+  * [Sarah's Story](https://www.moffitt.org/inspiring-stories/sarahs-story/ "Sarah's Story")
+  * [Steve and Laura's Story](https://www.moffitt.org/inspiring-stories/steve-and-lauras-story/ "Steve and Laura's Story")
+  * [Donna's Story](https://www.moffitt.org/inspiring-stories/donna/ "Donna's Story")
+  * [Tommy's Story](https://www.moffitt.org/inspiring-stories/tommys-story/ "Tommy's Story")
+  * [Viviana's Story](https://www.moffitt.org/inspiring-stories/vivianas-story/ "Viviana's Story")
+  * [Craig's Story](https://www.moffitt.org/inspiring-stories/craigs-story/ "Craig's Story")
+  * [William's Story](https://www.moffitt.org/inspiring-stories/williams-story/ "William's Story")
+  * [The Wilson - Jones's Family Story](https://www.moffitt.org/inspiring-stories/the-joness-family-story/ "The Wilson - Jones's Family Story")
+  * [Woodrow's Story](https://www.moffitt.org/inspiring-stories/woodrows-story/ "Woodrow's Story")
+  * [Cathy's Story](https://www.moffitt.org/inspiring-stories/cathys-story2/ "Cathy's Story")
+  * [Cathy's Story](https://www.moffitt.org/inspiring-stories/cathys-story/ "Cathy's Story")
+  * [Carolyn's Story](https://www.moffitt.org/inspiring-stories/carolyn/ "Carolyn's Story")
+  * [Beth's Story](https://www.moffitt.org/inspiring-stories/beths-story/ "Beth's Story")
+  * [Benita's Story](https://www.moffitt.org/inspiring-stories/benitas-story/ "Benita's Story")
+  * [Barney's Story](https://www.moffitt.org/inspiring-stories/barneys-story/ "Barney's Story")
+  * [Joel's Story](https://www.moffitt.org/inspiring-stories/joels-story/ "Joel's Story")
+  * [Jessica's Story](https://www.moffitt.org/inspiring-stories/jessicas-story/ "Jessica's Story")
+  * [Jen's Story](https://www.moffitt.org/inspiring-stories/jens-story/ "Jen's Story")
+  * [Jay's Story](https://www.moffitt.org/inspiring-stories/jays-story/ "Jay's Story")
+  * [Janelle's Story](https://www.moffitt.org/inspiring-stories/janelles-story/ "Janelle's Story")
+  * [Greg's Story](https://www.moffitt.org/inspiring-stories/gregs-story2/ "Greg's Story")
+  * [Gayle's Story](https://www.moffitt.org/inspiring-stories/gayles-story/ "Gayle's Story")
+  * [Francis' Story](https://www.moffitt.org/inspiring-stories/francis-story/ "Francis' Story")
+  * [Dr. Lau's Story](https://www.moffitt.org/inspiring-stories/dr.-laus-story "Dr. Lau's Story")
+  * [Dr. Roberto Diaz's Story](https://www.moffitt.org/inspiring-stories/dr.-roberto-diazs-story "Dr. Roberto Diaz's Story")
+  * [Dimas' Story](https://www.moffitt.org/inspiring-stories/dimas-story/ "Dimas' Story")
+  * [David and Vesta's Story](https://www.moffitt.org/inspiring-stories/david-and-vestas-story/ "David and Vesta's Story")
+  * [Cydney's Story](https://www.moffitt.org/inspiring-stories/cydneys-story/ "Cydney's Story")
+  * [Charles' Story](https://www.moffitt.org/inspiring-stories/charless-story/ "Charles' Story")
+  * [Cammie's Story](https://www.moffitt.org/inspiring-stories/cammies-story/ "Cammie's Story")
+  * [Joanne's Story](https://www.moffitt.org/inspiring-stories/joannes-story/ "Joanne's Story")
+  * [Neisha's Story](https://www.moffitt.org/inspiring-stories/neishas-story/ "Neisha's Story")
+  * [Greg's Story](https://www.moffitt.org/inspiring-stories/gregs-story/ "Greg's Story")
+  * [Joshua's Story](https://www.moffitt.org/inspiring-stories/joshuas-story/ "Joshua's Story")
+  * [Bridget's Story](https://www.moffitt.org/inspiring-stories/bridgets-story/ "Bridget's Story")
+  * [Barbara's Story](https://www.moffitt.org/inspiring-stories/barbaras-story/ "Barbara's Story")
+  * [Abrianna's Story](https://www.moffitt.org/inspiring-stories/abriannas-story/ "Abrianna's Story")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)[For Healthcare Professionals](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)
+  * [ For Healthcare Professionals ](https://www.moffitt.org/for-healthcare-professionals/)
+  * [ Clinical Programs and Services ](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-33)
+  * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
+  * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-35)
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-31)[Clinical Programs and Services](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-31)
+  * [Adolescent Young Adult (AYA) Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/adolescent-young-adult-aya-program/ "Adolescent Young Adult \(AYA\) Program")
+  * [Anesthesiology and Critical Care Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/anesthesiology-program/ "Anesthesiology and Critical Care Program")
+  * [BMT and Cellular Immunotherapy Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/bmt-and-cellular-immunotherapy-program/ "BMT and Cellular Immunotherapy Program")
+  * [Breast Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/breast-oncology-program/ "Breast Oncology Program")
+  * [Cardio-Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/cardio-oncology-program/ "Cardio-Oncology Program")
+  * [Cutaneous Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/cutaneous-oncology-program/ "Cutaneous Oncology Program")
+  * [Diagnostic Imaging and Interventional Radiology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/diagnostic-imaging-and-interventional-radiology-program/ "Diagnostic Imaging and Interventional Radiology Program")
+  * [Endocrine Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/endocrine-oncology-program/ "Endocrine Oncology Program")
+  * [Endoscopic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/endoscopic-oncology-program/ "Endoscopic Oncology Program")
+  * [Gastrointestinal Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/gastrointestinal-oncology-program/ "Gastrointestinal Oncology Program")
+  * [Genetic Counseling Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/genetic-counseling-program/ "Genetic Counseling Program")
+  * [Genitourinary Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/genitourinary-oncology-program/ "Genitourinary Oncology Program")
+  * [Gynecologic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/gynecologic-oncology-program/ "Gynecologic Oncology Program")
+  * [Head and Neck Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/head-and-neck-oncology-program/ "Head and Neck Oncology Program")
+  * [Immunotherapy Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/immunotherapy-program/ "Immunotherapy Program")
+  * [Malignant Hematology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/malignant-hematology-program/ "Malignant Hematology Program")
+  * [Moffitt Malignant Hematology Cellular Therapy at Memorial Healthcare System](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/moffitt-malignant-hematology-cellular-therapy-at-memorial-healthcare-system/ "Moffitt Malignant Hematology Cellular Therapy at Memorial Healthcare System")
+  * [Neuro-Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/neuro-oncology-program/ "Neuro-Oncology Program")
+  * [Pathology](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/pathology/ "Pathology")
+  * [Pharmacy](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/pharmacy/ "Pharmacy")
+  * [Radiation Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/radiation-oncology-program/ "Radiation Oncology Program")
+  * [Sarcoma Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/sarcoma-program/ "Sarcoma Program")
+  * [Screening Prevention](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/screening-prevention/ "Screening Prevention")
+  * [Senior Adult Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/senior-adult-oncology-program/ "Senior Adult Oncology Program")
+  * [Supportive Care Medicine Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/supportive-care-medicine-program/ "Supportive Care Medicine Program")
+  * [Thoracic Oncology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/thoracic-oncology-program/ "Thoracic Oncology Program")
+  * [Translational Pathology Program](https://www.moffitt.org/for-healthcare-professionals/clinical-programs-and-services/translational-pathology/ "Translational Pathology Program")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-31)
+  * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
+  * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)[Research](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)
+  * [ Research Science ](https://www.moffitt.org/research-science/)
+  * [ Research Programs ](https://www.moffitt.org/research-science/research-programs/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-39)
+  * [ Divisions and Departments ](https://www.moffitt.org/research-science/divisions-and-departments/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-41)
+  * [ Centers and Institutes ](https://www.moffitt.org/research-science/centers-and-institutes/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-43)
+  * [ Community Outreach and Engagement ](https://www.moffitt.org/research-science/community-outreach-and-engagement/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-45)
+  * [ Shared Resources ](https://www.moffitt.org/research-science/shared-resources/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-47)
+  * [ Academic and Industry Partnerships ](https://www.moffitt.org/research-science/academic-and-industry-partnerships/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-49)
+  * [ Administration ](https://www.moffitt.org/research-science/administration/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-51)
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)[Research Programs](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)
+  * [Cancer Biology and Evolution](https://www.moffitt.org/research-science/research-programs/cancer-biology-and-evolution/ "Cancer Biology and Evolution")
+  * [Cancer Epidemiology](https://www.moffitt.org/research-science/research-programs/cancer-epidemiology/ "Cancer Epidemiology")
+  * [Health Outcomes and Behavior](https://www.moffitt.org/research-science/research-programs/health-outcomes-behavior/ "Health Outcomes and Behavior")
+  * [Immuno-Oncology](https://www.moffitt.org/research-science/research-programs/immuno-oncology/ "Immuno-Oncology")
+  * [Molecular Medicine](https://www.moffitt.org/research-science/research-programs/molecular-medicine/ "Molecular Medicine")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)[Divisions and Departments](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)
+  * [Basic Science](https://www.moffitt.org/research-science/divisions-and-departments/basic-science/ "Basic Science")
+  * [BioEngineering](https://www.moffitt.org/research-science/divisions-and-departments/bioengineering/ "BioEngineering")
+  * [Clinical Science](https://www.moffitt.org/research-science/divisions-and-departments/clinical-science/ "Clinical Science")
+  * [Population Science](https://www.moffitt.org/research-science/divisions-and-departments/population-science/ "Population Science")
+  * [Quantitative Science](https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/ "Quantitative Science")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)[Centers and Institutes](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)
+  * [Centers of Excellence](https://www.moffitt.org/research-science/centers-and-institutes/centers-of-excellence/ "Centers of Excellence")
+  * [Institutes](https://www.moffitt.org/research-science/centers-and-institutes/institutes/ "Institutes")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)[Community Outreach and Engagement](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)
+  * [About COE](https://www.moffitt.org/research-science/community-outreach-and-engagement/about-coe/ "About COE")
+  * [Advisory Boards](https://www.moffitt.org/research-science/community-outreach-and-engagement/community-advisory-boards/ "Advisory Boards")
+  * [Catchment Area](https://www.moffitt.org/research-science/community-outreach-and-engagement/catchment-area/ "Catchment Area")
+  * [Data](https://www.moffitt.org/research-science/community-outreach-and-engagement/data/ "Data")
+  * [Outreach](https://www.moffitt.org/research-science/community-outreach-and-engagement/outreach/ "Outreach")
+  * [Research and Clinical Trials](https://www.moffitt.org/research-science/community-outreach-and-engagement/research-and-clinical-trials/ "Research and Clinical Trials")
+  * [Get Involved With COE](https://www.moffitt.org/research-science/community-outreach-and-engagement/get-involved-with-coe/ "Get Involved With COE")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)[Shared Resources](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)
+  * [Analytic Microscopy](https://www.moffitt.org/research-science/shared-resources/analytic-microscopy/ "Analytic Microscopy")
+  * [Biostatistics and Bioinformatics](https://www.moffitt.org/research-science/shared-resources/biostatistics-and-bioinformatics/ "Biostatistics and Bioinformatics")
+  * [Cancer Pharmacokinetics and Pharmacodynamics](https://www.moffitt.org/research-science/shared-resources/cancer-pharmacokinetics-and-pharmacodynamics/ "Cancer Pharmacokinetics and Pharmacodynamics")
+  * [Chemical Biology](https://www.moffitt.org/research-science/shared-resources/chemical-biology/ "Chemical Biology")
+  * [Collaborative Data Services](https://www.moffitt.org/research-science/shared-resources/collaborative-data-services/ "Collaborative Data Services")
+  * [Flow Cytometry](https://www.moffitt.org/research-science/shared-resources/flow-cytometry/ "Flow Cytometry")
+  * [Gene Targeting](https://www.moffitt.org/research-science/shared-resources/gene-targeting/ "Gene Targeting")
+  * [Molecular Genomics](https://www.moffitt.org/research-science/shared-resources/molecular-genomics/ "Molecular Genomics")
+  * [Participant Research, Interventions, and Measurement Core (PRISM)](https://www.moffitt.org/research-science/shared-resources/participant-research-interventions-and-measurement-core-prism/ "Participant Research, Interventions, and Measurement Core \(PRISM\)")
+  * [Proteomics and Metabolomics](https://www.moffitt.org/research-science/shared-resources/proteomics-and-metabolomics/ "Proteomics and Metabolomics")
+  * [Quantitative Imaging Core](https://www.moffitt.org/research-science/shared-resources/quantitative-imaging-core/ "Quantitative Imaging Core")
+  * [Small Animal Imaging Lab](https://www.moffitt.org/research-science/shared-resources/small-animal-imaging-lab/ "Small Animal Imaging Lab")
+  * [Tissue](https://www.moffitt.org/research-science/shared-resources/tissue/ "Tissue")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)[Academic and Industry Partnerships](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)
+  * [Office of Innovation](https://www.moffitt.org/research-science/academic-and-industry-partnerships/office-of-innovation/ "Office of Innovation")
+  * [Academic Partnerships](https://www.moffitt.org/research-science/academic-and-industry-partnerships/academic-partnerships/ "Academic Partnerships")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)[Administration](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-37)
+  * [Non-Therapeutic Research Office](https://www.moffitt.org/research-science/administration/non-therapeutic-research-office/ "Non-Therapeutic Research Office")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)[Training & Education](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)
+  * [ Education ](https://www.moffitt.org/education/)
+  * [ Medical Education ](https://www.moffitt.org/education/medical-education/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-55)
+  * [ Research Education and Training ](https://www.moffitt.org/education/research-education-and-training/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-57)
+  * [ Nursing Education ](https://www.moffitt.org/education/nursing-education/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-59)
+  * [ Health Professional Education ](https://www.moffitt.org/education/health-professional-education/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-61)
+  * [ Other Educational Programs ](https://www.moffitt.org/education/other-educational-programs/)
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-53)[Medical Education](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-53)
+  * [Our Training Programs](https://www.moffitt.org/education/medical-education/our-training-programs/ "Our Training Programs")
+  * [Program Staff/Contact Us](https://www.moffitt.org/education/medical-education/program-staffcontact-us/ "Program Staff/Contact Us")
+  * [Salary and Benefits](https://www.moffitt.org/education/medical-education/salary-and-benefits/ "Salary and Benefits")
+  * [About Tampa Bay](https://www.moffitt.org/careers/about-tampa-bay/ "About Tampa Bay")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-53)[Research Education and Training](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-53)
+  * [Office of Postdoctoral Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-postdoctoral-affairs/ "Office of Postdoctoral Affairs")
+  * [Office of Graduate Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-graduate-affairs/ "Office of Graduate Affairs")
+  * [Office of Undergraduate and Visiting Scholar Affairs](https://www.moffitt.org/education/research-education-and-training/office-of-undergraduate-and-visiting-scholar-affairs/ "Office of Undergraduate and Visiting Scholar Affairs")
+  * [Pre-College Programs](https://www.moffitt.org/education/research-education-and-training/pre-college-programs/ "Pre-College Programs")
+  * [What We Provide](https://www.moffitt.org/education/research-education-and-training/what-we-provide/ "What We Provide")
+  * [Contact Us](https://www.moffitt.org/education/research-education-and-training/contact-us/ "Contact Us")
+  * [About Tampa Bay](https://www.moffitt.org/careers/about-tampa-bay/ "About Tampa Bay")
+  * [News](https://www.moffitt.org/education/research-education-and-training/news/ "News")
+  * [Where Are They Now](https://www.moffitt.org/education/research-education-and-training/where-are-they-now/ "Where Are They Now")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-53)[Nursing Education](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-53)
+  * [Ambulatory Care Oncology Nurse Residency Program](https://www.moffitt.org/education/nursing-education/ambulatory-care-oncology-nurse-residency-program/ "Ambulatory Care Oncology Nurse Residency Program")
+  * [Nurse Anesthetist](https://www.moffitt.org/education/nursing-education/nurse-anesthetist/ "Nurse Anesthetist")
+  * [Nurse Practitioner](https://www.moffitt.org/education/nursing-education/nurse-practitioner/ "Nurse Practitioner")
+  * [Oncology Nurse Residency Program](https://www.moffitt.org/education/nursing-education/oncology-nurse-residency-program/ "Oncology Nurse Residency Program")
+  * [Registered Nurse](https://www.moffitt.org/education/nursing-education/registered-nurse/ "Registered Nurse")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-53)[Health Professional Education](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-53)
+  * [Advanced Pharmacy Practice (APPE)](https://www.moffitt.org/education/health-professional-education/advanced-pharmacy-practice-appe/ "Advanced Pharmacy Practice \(APPE\)")
+  * [Anesthesiology Assistant](https://www.moffitt.org/education/health-professional-education/anesthesiology-assistant/ "Anesthesiology Assistant")
+  * [Dietetic Technician](https://www.moffitt.org/education/health-professional-education/dietetic-technician/ "Dietetic Technician")
+  * [Dietitian](https://www.moffitt.org/education/health-professional-education/dietitian/ "Dietitian")
+  * [Genetic Counseling](https://www.moffitt.org/education/health-professional-education/genetic-counseling/ "Genetic Counseling")
+  * [Introductory Pharmacy Practice (IPPE)](https://www.moffitt.org/education/health-professional-education/introductory-pharmacy-practice-ippe/ "Introductory Pharmacy Practice \(IPPE\)")
+  * [Master of Public Health Field Experience](https://www.moffitt.org/education/health-professional-education/master-of-public-health-field-experience/ "Master of Public Health Field Experience")
+  * [Medical Assistants](https://www.moffitt.org/education/health-professional-education/medical-assistants/ "Medical Assistants")
+  * [Nuclear Medicine](https://www.moffitt.org/education/health-professional-education/nuclear-medicine/ "Nuclear Medicine")
+  * [Occupational Therapy Intern](https://www.moffitt.org/education/health-professional-education/occupational-therapy-intern/ "Occupational Therapy Intern")
+  * [PGY1 Pharmacy Residency](https://www.moffitt.org/education/health-professional-education/pgy-1-residency/ "PGY1 Pharmacy Residency")
+  * [PGY2 Oncology Pharmacy Residency](https://www.moffitt.org/education/health-professional-education/pgy-2-oncology-residency/ "PGY2 Oncology Pharmacy Residency")
+  * [Oncology Pharmacy Technician Trainee Program](https://www.moffitt.org/education/health-professional-education/pharmacy-technician-extern/ "Oncology Pharmacy Technician Trainee Program")
+  * [Physical Therapy](https://www.moffitt.org/education/health-professional-education/physical-therapy/ "Physical Therapy")
+  * [Physical Therapy Assistant](https://www.moffitt.org/education/health-professional-education/physical-therapy-assistant/ "Physical Therapy Assistant")
+  * [Physician Assistant](https://www.moffitt.org/education/health-professional-education/physician-assistant/ "Physician Assistant")
+  * [Psychology](https://www.moffitt.org/education/health-professional-education/psychology/ "Psychology")
+  * [Radiation Therapy](https://www.moffitt.org/education/health-professional-education/radiation-therapy/ "Radiation Therapy")
+  * [Radiography Therapy](https://www.moffitt.org/education/health-professional-education/radiography-therapy/ "Radiography Therapy")
+  * [Respiratory Therapy](https://www.moffitt.org/education/health-professional-education/respiratory-therapy/ "Respiratory Therapy")
+  * [Social Work](https://www.moffitt.org/education/health-professional-education/social-work/ "Social Work")
+  * [Sonography/Ultrasound Student](https://www.moffitt.org/education/health-professional-education/sonographyultrasound-student/ "Sonography/Ultrasound Student")
+  * [Speech Therapy](https://www.moffitt.org/education/health-professional-education/speech-therapy/ "Speech Therapy")
+  * [Wound Ostomy](https://www.moffitt.org/education/health-professional-education/wound-ostomy/ "Wound Ostomy")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)[Give](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-1)
+  * [ Give ](https://www.moffitt.org/give/)
+  * [ Why Give? ](https://www.moffitt.org/give/why-give/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-65)
+  * [ Ways to Give ](https://www.moffitt.org/give/ways-to-give/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-67)
+  * [ Get Involved ](https://www.moffitt.org/give/get-involved/) [](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-69)
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-63)[Why Give?](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-63)
+  * [About the Moffitt Foundation](https://www.moffitt.org/give/why-give/about-the-moffitt-foundation/ "About the Moffitt Foundation")
+  * [FAQ](https://www.moffitt.org/give/why-give/faq/ "FAQ")
+  * [Financials and Stewardship](https://www.moffitt.org/give/why-give/financials-and-stewardship/ "Financials and Stewardship")
+  * [Contact the Foundation](https://www.moffitt.org/give/why-give/contact-the-foundation/ "Contact the Foundation")
+  * [You Can Make a Difference](https://www.moffitt.org/give/why-give/you-can-make-a-difference/ "You Can Make a Difference")
+  * [Impact Report](https://www.moffitt.org/give/your-impact/2022-annual-foundation-impact-report/ "Impact Report")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-63)[Ways to Give](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-63)
+  * [Cash, Stock or Other Assets](https://www.moffitt.org/give/ways-to-give/cash-stock-or-other-assets/ "Cash, Stock or Other Assets")
+  * [Planned Giving](https://mymoffittlegacy.org/ "Planned Giving")
+  * [Philanthropic Foundation Giving](https://www.moffitt.org/give/ways-to-give/philanthropic-foundation-giving/ "Philanthropic Foundation Giving")
+  * [Corporate Partnership](https://www.moffitt.org/give/ways-to-give/corporate-partnership/ "Corporate Partnership")
+  * [Employer Matching Gifts](https://www.moffitt.org/give/ways-to-give/employer-matching-gifts/ "Employer Matching Gifts")
+  * [Endowment Gifts](https://www.moffitt.org/give/ways-to-give/endowment-gifts/ "Endowment Gifts")
+  * [Other Ways to Donate](https://www.moffitt.org/give/ways-to-give/other-ways-to-donate/ "Other Ways to Donate")
+  * [Breast Cancer Funding Opportunities](https://www.moffitt.org/give/ways-to-give/breast-cancer-funding-opportunities/ "Breast Cancer Funding Opportunities")
+  * [Support the Pentecost Family Myeloma Research Center](https://www.moffitt.org/give/ways-to-give/support-the-pentecost-family-myeloma-research-center/ "Support the Pentecost Family Myeloma Research Center")
+  * [Partners In Discovery](https://www.moffitt.org/give/ways-to-give/partners-in-discovery/ "Partners In Discovery")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-63)[Get Involved](https://www.moffitt.org/research-science/researchers/clement-gwede#mm-63)
+  * [Become a Member](https://www.moffitt.org/give/get-involved/become-a-member/ "Become a Member")
+  * [Volunteer Your Time](https://www.moffitt.org/give/get-involved/volunteer-your-time/ "Volunteer Your Time")
+  * [Miles for Moffitt](https://www.moffitt.org/give/get-involved/miles-for-moffitt/ "Miles for Moffitt")
+  * [Magnolia](https://www.moffitt.org/give/get-involved/magnolia/ "Magnolia")
+  * [Mission Possible Sarasota Luncheon](https://www.moffitt.org/give/get-involved/mission-possible-sarasota-luncheon/ "Mission Possible Sarasota Luncheon")
+  * [Discovery Series Webinars](https://www.moffitt.org/give/get-involved/discovery-series-webinars/ "Discovery Series Webinars")
+  * [Fundraise for Moffitt](https://www.moffitt.org/give/get-involved/fundraise-for-moffitt/ "Fundraise for Moffitt")
+
+
+[](https://www.moffitt.org/research-science/researchers/clement-gwede#page)

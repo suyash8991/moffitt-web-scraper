@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/pei-ling-chen",
-  "last_updated": "2025-10-21T16:40:23.710828",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/pei-ling-chen/",
+  "last_updated": "2025-11-21T22:50:26.287719",
   "researcher_id": "unknown",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Pathology",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "pathology",
+  "research_program": "immuno-oncology",
   "overview": "I am a board-certified dermatopathologist with clinical expertise in melanoma and cutaneous lymphoma. I am also a translational researcher with extensive experience in skin cancer genomics, single-cell biology and spatial multi-omics. The overarching goal of my research program is to elucidate the spatial molecular predictors of response/resistance to neoadjuvant immunotherapies in metastatic melanoma and identify novel therapeutic vulnerabilities in the melanoma tumor microenvironment at disease progression. My recent research work has focused on characterizing the molecular features of melanoma and cutaneous lymphoma tumor microenvironment by leveraging cutting-edge spatial transcriptomics, computational pathology and 3D imaging approaches with generative AI.",
   "research_interests": [
     "https://marcene.moffitt.org/marcene/enrollment/ccsg_submission/detail/5772/34793/192848/#My research interest is on applying computational pathology, spatial transcriptomics and single-cell profiling using machine learning approaches in skin cancer multiomics datasets.\n  *"
@@ -167,9 +167,12 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChenPei-Ling_18684.jpg",
   "contact": {},
-  "content_hash": "62ee1f8d5a8a29bd7278c60307856ffd548c2ffca285223685ce733883ffdf14",
-  "researcher_name": "Pei Ling Chen",
-  "department": "Machine Learning"
+  "content_hash": "6d9260fb20c94ab4a867ff2e953f270ca8521dcd199a6695c866f204bdb9e48e",
+  "researcher_name": "pei ling chen",
+  "department": "machine learning"
 }

@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/theresa-boyle",
-  "last_updated": "2025-10-21T16:38:22.300602",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/theresa-boyle/",
+  "last_updated": "2025-11-21T22:50:27.116589",
   "researcher_id": "16846",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Pathology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "pathology",
+  "research_program": "molecular medicine",
   "overview": "Dr. Boyle's clinical work focuses on interpretation of molecular results to guide patient therapy. She also acts as a consult for both physicians and patients to improve their understanding of molecular results.",
   "research_interests": [
     "Research Interests: To develop assays, such as the proximity ligation assay (PLA) to visualize cancer signaling pathway response to drug therapy. To investigate tumor biomarkers that predicts response to therapy, such as those that identify patients with tumors that will most likely to respond to immunotherapy. To develop resources, such as tumor microarrays (TMAs), to facilitate research and clinical assay development. \n  *"
@@ -170,11 +170,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BoyleTheresa_16846.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16846"
   },
-  "content_hash": "7af21144ecb80bb9dcdc95e2650f79115b8c8cd37fc68f0f2e50f2ecd119ecd7",
-  "researcher_name": "Theresa Boyle",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "bd4358ce84296f612a2dc127ed33c7db9b6c687d0b6f83c858e25d16b914537e",
+  "researcher_name": "theresa boyle",
+  "department": "tumor microenvironment and metastasis"
 }

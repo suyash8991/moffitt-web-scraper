@@ -1,0 +1,128 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mark-kindy/",
+  "last_updated": "2025-11-21T22:50:25.633807",
+  "researcher_id": "18929",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "molecular medicine",
+  "overview": "",
+  "research_interests": [
+    "Molecular Medicine Program"
+  ],
+  "associations": [
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Boston University School of Medicine, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Salk Institute",
+      "specialty": "Molecular Biology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "The impact of a high-sodium diet regimen on cerebrovascular morphology and cerebral perfusion in Alzheimer's disease",
+      "pubmed_id": "36741272",
+      "pmc_id": "PMC9895990",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Yu J, Zhu H, Kindy MS, Taheri S",
+      "journal": "Cereb Circ Cogn Behav"
+    },
+    {
+      "title": "Hook G, Kindy M, Hook V. Cathepsin B Deficiency Improves Memory Deficits and Reduces Amyloid-\u03b2 in hA\u03b2PP Mouse Models Representing the Major Sporadic Alzheimer's Disease Condition. J Alzheimers Dis. 2023.93(1):33-46. Pubmedid: [36970896](https://www.ncbi.nlm.nih.gov/pubmed/36970896). Pmcid: PMC10185432.",
+      "pubmed_id": "36970896",
+      "pmc_id": "PMC10185432",
+      "year": "2023",
+      "authors": ""
+    },
+    {
+      "title": "cAMP-induced decrease in cell-surface laminin receptor and cellular prion protein attenuates amyloid-\u03b2 uptake and amyloid-\u03b2-induced neuronal cell death",
+      "pubmed_id": "35971617",
+      "pmc_id": "PMC9712173",
+      "year": "2022",
+      "publication_date": "2022 Nov",
+      "authors": "Gopalakrishna R, Lin CY, Oh A, Le C, Yang S, Hicks A, Kindy MS, Mack WJ, Bhat NR",
+      "journal": "FEBS Lett"
+    },
+    {
+      "title": "Cathepsin B Gene Knockout Improves Behavioral Deficits and Reduces Pathology in Models of Neurologic Disorders",
+      "pubmed_id": "35710131",
+      "pmc_id": "PMC9553114",
+      "year": "2022",
+      "publication_date": "2022 Jul",
+      "authors": "Hook G, Reinheckel T, Ni J, Wu Z, Kindy M, Peters C, Hook V",
+      "journal": "Pharmacol Rev"
+    },
+    {
+      "title": "Nogo-A receptor internalization by cyclic adenosine monophosphate in overcoming axonal growth inhibitors after stroke",
+      "pubmed_id": "34100435",
+      "pmc_id": "PMC8451563",
+      "year": "2022",
+      "publication_date": "2022 Jan",
+      "authors": "Gopalakrishna R, Lin C, Kindy MS, Mack WJ",
+      "journal": "Neural Regen Res"
+    },
+    {
+      "title": "Roles of hepatic atypical protein kinase C hyperactivity and hyperinsulinemia in insulin-resistant forms of obesity and type 2 diabetes mellitus",
+      "pubmed_id": "34766133",
+      "pmc_id": "PMC8491214",
+      "year": "2021",
+      "publication_date": "2021 Mar",
+      "authors": "Sajan MP, Hansen BC, Acevedo-Duncan M, Kindy MS, Cooper DR, Farese RV",
+      "journal": "MedComm (Beijing)"
+    },
+    {
+      "title": "Plant-Based Nutritional Supplementation Attenuates LPS-Induced Low-Grade Systemic Activation",
+      "pubmed_id": "33430045",
+      "pmc_id": "PMC7826722",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Yu J, Zhu H, Taheri S, Mondy W, Perry S, Kindy MS",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Cytochrome P450 CYP2E1 Suppression Ameliorates Cerebral Ischemia Reperfusion Injury",
+      "pubmed_id": "33466250",
+      "pmc_id": "PMC7824747",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Yu J, Zhu H, Kindy MS, Taheri S",
+      "journal": "Antioxidants (Basel)"
+    },
+    {
+      "title": "Control of \u03b2-Site Amyloid Precursor Protein-Cleaving Enzyme-1 Expression by Protein Kinase C-\u03bb/\u03b9 and Nuclear Factor \u03ba-B",
+      "pubmed_id": "34951366",
+      "year": "2021",
+      "publication_date": "2021 Dec",
+      "authors": "Sajan MP, Leitges M, Park C, Diamond DM, Wu J, Hansen BC, Duncan MA, Apostolatos CA, Apostolatos AH, Kindy M, Farese RV",
+      "journal": "Curr Alzheimer Res"
+    },
+    {
+      "title": "CBF regulation in hypertension and Alzheimer's disease",
+      "pubmed_id": "32420765",
+      "year": "2020",
+      "publication_date": "2020 Oct",
+      "authors": "Yazdani N, Kindy MS, Taheri S",
+      "journal": "Clin Exp Hypertens"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=18929"
+  },
+  "content_hash": "78404d85f5217c3541f9705c044cd8c215a054a68077e4a6647bb6dca67da3b1",
+  "researcher_name": "mark kindy",
+  "department": ""
+}

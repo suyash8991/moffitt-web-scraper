@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/jacob-kresovich)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/jacob-kresovich)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -502,6 +501,7 @@ Status: Open
 [813-745-6100](tel:+813-745-6100) or toll-free [1-800-679-0775](tel:+1-800-679-0775). **
   * ## Publications
     * Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK. Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival. Eur J Radiol. 2025 Sep.190:112241. Pubmedid: [40532592](https://www.ncbi.nlm.nih.gov/pubmed/40532592). 
+    * Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N. Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes. medRxiv. 2025 Sep. Pubmedid: [40950448](https://www.ncbi.nlm.nih.gov/pubmed/40950448). Pmcid: PMC12424905. 
     * Mammadova J, Richards A, Gonzalez-Torriente A, Adler ER, Cruz RJ, Palfi S, Lee DH, Sam C, Al-Jumayli M, Berglund A, Park JY, Alomar M, Kresovich JK. Methylation-based biological age and cardiotoxicity risk in breast cancer patients treated with trastuzumab. Cardiooncology. 2025 May.11(1):44. Pubmedid: [40349094](https://www.ncbi.nlm.nih.gov/pubmed/40349094). Pmcid: PMC12065287. 
     * Ergas IJ, Cheng RK, Roh JM, Kresovich JK, Iribarren C, Nguyen-Huynh M, Rana JS, Rillamas-Sun E, Laurent CA, Lee VS, Quesenberry CP, Bhatt A, Yao S, Kushi LH, Greenlee H, Kwan ML. Diet quality and cardiometabolic health in breast cancer survivors: the Pathways Study. Breast Cancer Res Treat. 2025 May.211(1):139-150. Pubmedid: [39890673](https://www.ncbi.nlm.nih.gov/pubmed/39890673). Pmcid: PMC11952977. 
     * Kresovich JK, Reid BM, O'Brien KM, Xu Z, Byrd DA, Weinberg CR, Sandler DP, Taylor JA. DNA methylation-predicted plasma protein levels and breast cancer risk. Breast Cancer Res. 2025 Mar.27(1):46. Pubmedid: [40140843](https://www.ncbi.nlm.nih.gov/pubmed/40140843). Pmcid: PMC11948855. 
@@ -512,8 +512,8 @@ Status: Open
     * Kresovich JK, Guranich C, Houghton S, Qian J, Jones ME, Boutot ME, Dowsett M, Eliassen AH, Garcia-Closas M, Kraft P, Norman A, Pollak M, Rinaldi S, Rosner B, Schoemaker MJ, Scott C, Swerdlow AJ, Milne RL, Tworoger SS, Vachon CM, Hankinson SE. Plasma prolactin and postmenopausal breast cancer risk: a pooled analysis of four prospective cohort studies. Breast Cancer Res. 2024 Nov.26(1):169. Pubmedid: [39593118](https://www.ncbi.nlm.nih.gov/pubmed/39593118). Pmcid: PMC11590566. 
     * Xu Z, Niu L, Kresovich JK, Taylor JA. methscore: a comprehensive R function for DNA methylation-based health predictors. Bioinformatics. 2024 May.40(5). Pubmedid: [38702768](https://www.ncbi.nlm.nih.gov/pubmed/38702768). Pmcid: PMC11105949. 
     * Chang CJ, O'Brien KM, Kresovich JK, Nwanaji-Enwerem JC, Xu Z, Gaston SA, Jackson CL, Sandler DP, Taylor JA, White AJ. Associations between use of chemical hair products and epigenetic age: Findings from the Sister Study. Environ Epidemiol. 2024 Jun.8(3):e311. Pubmedid: [38799263](https://www.ncbi.nlm.nih.gov/pubmed/38799263). Pmcid: PMC11115975. 
-    * Ergas IJ, Cheng RK, Roh JM, Kushi LH, Kresovich JK, Iribarren C, Nguyen-Huynh M, Rana JS, Rillamas-Sun E, Laurent CA, Lee VS, Quesenberry CP, Greenlee H, Kwan ML. Diet quality and cardiovascular disease risk among breast cancer survivors in the Pathways Study. JNCI Cancer Spectr. 2024 Feb.8(2). Pubmedid: [38627946](https://www.ncbi.nlm.nih.gov/pubmed/38627946). Pmcid: PMC11021810. 
     * Kresovich JK, O'Brien KM, Xu Z, Weinberg CR, Sandler DP, Taylor JA. Circulating Leukocyte Subsets Before and After a Breast Cancer Diagnosis and Therapy. JAMA Netw Open. 2024 Feb.7(2):e2356113. Pubmedid: [38358741](https://www.ncbi.nlm.nih.gov/pubmed/38358741). Pmcid: PMC10870180. 
+    * Ergas IJ, Cheng RK, Roh JM, Kushi LH, Kresovich JK, Iribarren C, Nguyen-Huynh M, Rana JS, Rillamas-Sun E, Laurent CA, Lee VS, Quesenberry CP, Greenlee H, Kwan ML. Diet quality and cardiovascular disease risk among breast cancer survivors in the Pathways Study. JNCI Cancer Spectr. 2024 Feb.8(2). Pubmedid: [38627946](https://www.ncbi.nlm.nih.gov/pubmed/38627946). Pmcid: PMC11021810. 
     * Berglund A, Yamoah K, Eschrich SA, Falahat R, Mulé JJ, Kim S, Matta J, Dutil J, Ruiz-Deya G, Ortiz Sanchez C, Wang L, Park H, Banerjee HN, Lotan T, Barry KH, Putney RM, Kim SJ, Gwede C, Kresovich JK, Kim Y, Lin HY, Dhillon J, Chakrabarti R, Park JY. Epigenome-wide association study of prostate cancer in African American men identified differentially methylated genes. Cancer Med. 2024 Aug.13(16):e70044. Pubmedid: [39162297](https://www.ncbi.nlm.nih.gov/pubmed/39162297). Pmcid: PMC11334050. 
     * Dickey BL, Putney RM, Suneja G, Kresovich JK, Spivak AM, Patel AB, Teng M, Extermann M, Giuliano AR, Gillis N, Berglund A, Coghill AE. Differences in epigenetic age by HIV status among patients with a non-AIDS defining cancer. Aids. 2023 Nov.37(13):2049-2057. Pubmedid: [37467055](https://www.ncbi.nlm.nih.gov/pubmed/37467055). Pmcid: PMC10538418. 
     * Koenigsberg SH, Chang CJ, Ish J, Xu Z, Kresovich JK, Lawrence KG, Kaufman JD, Sandler DP, Taylor JA, White AJ. Air pollution and epigenetic aging among Black and White women in the US. Environ Int. 2023 Nov.181:108270. Pubmedid: [37890265](https://www.ncbi.nlm.nih.gov/pubmed/37890265). 
@@ -641,7 +641,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -696,7 +696,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/jacob-kresovich#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/jacob-kresovich#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -714,7 +714,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1068,7 +1068,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/jacob-kresovich#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/jacob-kresovich#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

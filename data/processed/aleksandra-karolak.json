@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/aleksandra-karolak",
-  "last_updated": "2025-10-21T16:37:49.899239",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/aleksandra-karolak/",
+  "last_updated": "2025-11-21T22:50:22.402819",
   "researcher_id": "16049",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Machine Learning",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "machine learning",
+  "research_program": "molecular medicine",
   "overview": "Dr. Karolak\u2019s background includes application and development of tools from the fields of computational and biophysical chemistry, structural biology, mathematical oncology, machine learning, and information theory. Her interests focus on understanding cancer development, progression, and variability in the response to treatment using models that can be translated into the clinic. She will be leading the application of machine learning in computational biology and drug discovery as part of the Molecular Medicine Program.",
   "research_interests": [
     "Dr. Karolak\u2019s background includes application and development of tools from the fields of computational and biophysical chemistry, structural biology, mathematical oncology, machine learning, and information theory. Her interests focus on understanding cancer development, progression, and variability in the response to treatment using models that can be translated into the clinic. She will be leading the application of machine learning in computational biology and drug discovery as part of the Molecular Medicine Program.\n  *"
@@ -155,11 +155,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://lab.moffitt.org/karolak/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KarolakAleksandra_16049.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16049"
   },
-  "content_hash": "2933b3db492c634e94c23621fa53182a22d1644124a700cdac2ef106707ebc79",
-  "researcher_name": "Aleksandra Karolak",
-  "department": "Machine Learning"
+  "content_hash": "4f86cb0bb8e0139fedf50ad89f16aec00977d5ac46e7d965e76ef00ecd6b7c6a",
+  "researcher_name": "aleksandra karolak",
+  "department": "machine learning"
 }

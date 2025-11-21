@@ -1,0 +1,137 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/carmen-rodriguez/",
+  "last_updated": "2025-11-21T22:50:23.073201",
+  "researcher_id": "14366",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "health outcomes & behavior",
+  "overview": "",
+  "research_interests": [
+    "Health Outcomes & Behavior Program"
+  ],
+  "associations": [
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Miami, MSN/MBA"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Florida, ARNP"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Florida",
+      "degree": "MS",
+      "field": "Clinical and Translational Research"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "John A. Hartford Foundation",
+      "specialty": "Gerontology/Cancer"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Efficacy of Mindfulness-Based Stress Reduction for Breast Cancer (MBSR(BC)) a Treatment for Cancer-related Cognitive Impairment (CRCI): A Randomized Controlled Trial",
+      "pubmed_id": "39291332",
+      "pmc_id": "PMC11839530",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Lengacher CA, Reich RR, Rodriguez CS, Nguyen AT, Park JY, Meng H, Tinsley S, Hueluer G, Donovan KA, Moscoso MS, Bornstein E, Kiluk J, Nidamanur S, Padgett LS, Lucas JM, Fonseca T, Joshi A, Lin KJ, Goodman M, Kip KE",
+      "journal": "J Integr Complement Med"
+    },
+    {
+      "title": "Sexual dysfunction in lymphoma survivors: a scoping review",
+      "pubmed_id": "39537183",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Durosier Mertilus DS, Rodriguez CS",
+      "journal": "J Sex Med"
+    },
+    {
+      "title": "The Moderating Role of Genetics on the Effectiveness of the Mindfulness-Based Stress Reduction for Breast Cancer (MBSR(BC)) Program on Cognitive Impairment",
+      "pubmed_id": "39413359",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Park JY, Lengacher CA, Rodriguez CS, Meng H, Kip KE, Morgan S, Joshi A, Hueluer G, Wang JR, Tinsley S, Cox C, Kiluk J, Donovan KA, Moscoso M, Bornstein E, Lucas JM, Fonseca T, Krothapalli M, Padgett LS, Nidamanur S, Hornback E, Patel D, Chamkeri R, Reich RR",
+      "journal": "Biol Res Nurs"
+    },
+    {
+      "title": "Lived experiences of lymphoma patients with sexual dysfunction and related sexual distress during cancer treatment",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Durosier Mertilus DS, Rodriguez CS, Lengacher CA, Donovan KA, Sokol L, Tinsley-Vance SM, Szalacha LA",
+      "journal": "Discov Public Health"
+    },
+    {
+      "title": "Fatigue-related symptom clusters and functional status of older adults in hospice",
+      "pubmed_id": "35676795",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Abduljawad SF, Beckstead JW, Dobbs D, Visovsky C, Rodriguez CS, McMillan SC, Wang HL",
+      "journal": "Palliat Support Care"
+    },
+    {
+      "title": "Telehealth Interventions in Head and Neck Cancer Patients: A Systematic Review",
+      "pubmed_id": "37607382",
+      "year": "2023",
+      "publication_date": "2023 Aug",
+      "authors": "Caputo MP, Rodriguez CS, Padhya TA, Mifsud MJ",
+      "journal": "Cancer Nurs"
+    },
+    {
+      "title": "Translational Genomic Research: The Association between Genetic Profiles and Cognitive Functioning or Cardiac Function Among Breast Cancer Survivors Completing Chemotherapy",
+      "pubmed_id": "35499926",
+      "pmc_id": "PMC9630728",
+      "year": "2022",
+      "publication_date": "2022 Oct",
+      "authors": "Park JY, Lengacher CA, Reich RR, Park HY, Whiting J, Nguyen AT, Rodr\u00edguez C, Meng H, Tinsley S, Chauca K, Gordillo-Casero L, Wittenberg T, Joshi A, Lin K, Ismail-Khan R, Kiluk JV, Kip KE",
+      "journal": "Biol Res Nurs"
+    },
+    {
+      "title": "Caregiver burden in caregivers of patients with advanced stage cancer: A concept analysis",
+      "pubmed_id": "35932755",
+      "year": "2022",
+      "publication_date": "2022 Oct",
+      "authors": "Morgan SP, Lengacher CA, Rodriguez CS",
+      "journal": "Eur J Oncol Nurs"
+    },
+    {
+      "title": "A framework for addressing health inequities in sexual and gender diverse populations by nurses",
+      "pubmed_id": "35798586",
+      "year": "2022",
+      "publication_date": "2022 Jul",
+      "authors": "Beckie TM, Lengacher C, Rodriguez C, Pares-Avila J, Turner D, Sanchez M, Nair US",
+      "journal": "Nurs Outlook"
+    },
+    {
+      "title": "A Review and Conceptual Analysis of Cancer Pain Self-Management",
+      "pubmed_id": "34006496",
+      "year": "2022",
+      "publication_date": "2022 Apr",
+      "authors": "Durosier Mertilus DS, Lengacher CA, Rodriguez CS",
+      "journal": "Pain Manag Nurs"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14366"
+  },
+  "content_hash": "e3a776e245801c225fc1fe81ccad55b74c8c9200740c65d43717a028e45e9040",
+  "researcher_name": "carmen rodriguez",
+  "department": ""
+}

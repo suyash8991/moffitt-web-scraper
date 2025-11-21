@@ -1,0 +1,118 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/srinivas-nagaraj/",
+  "last_updated": "2025-11-21T22:50:26.933232",
+  "researcher_id": "3200",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "",
+  "overview": "",
+  "research_interests": [
+    "One of the major mechanisms of tumor progression is the inability of the host system to develop an effective immune response. Indeed, accumulating evidence has now shown that a population of cells with suppressive activity, known as myeloid derived suppressor cells contributes to the failure of the failure of the immune system to tackle the tumor cells and also towards the low efficacy of cancer vaccines. The recognition of that the immune suppression plays a crucial role in promoting tumor progression and contributes to the failure has resulted in a paradigm shift regarding approaches to cancer immunotherapy. Successful cancer therapy will be successful if strategies involve either the differentation or elimination of suppressive cells compared to direct cancer therapy trying to eliminate tumor cells which has proved less futile. MDSC are a heteregenous mixture of precursors of dendritic cells, macrophages and monocytes. One of the most plausible ideas will be differentiating these cells in to their mature counterparts which not only lack suppressive function but will also boost the immune response. Based on our recent work in cancer and nanotherapeutics we hypothesise the development and application of a multifunctional nanoparticles to effectively promote the differentiation of MDSCs in cancer. The respiratory system is continuously exposed to a barrage of potentially harmful external factors. Lipopolysaccharide (LPS), a component of the bacterial cell wall, is one of the prevalent contaminant in air, which brings about inflammation. Inflammation reflects a well-orchestrated cytokine and cellular events from an acute to a chronic stage. A constant or experimental high dose of exposure to LPS results in dampening the immune response. Chronic inflammation is accompanied by impaired T-cell immunity. It is well known that most of the lung diseases have chronic exposure to significant high levels of LPS. This results in chronic airway inflammation leading to lung tissue damage and impaired T cell immunity. Inability of the host system to mount an effective immune response is one of the major factors responsible for tissue injury. We know that a heterogeneous group of myeloid cells termed myeloid derived suppressor cells (MDSC) accumulate in almost all pathological conditions, which elicit an inflammatory signal. The exact role played by these cells in inflammation and their role played in inducing T cell abnormality is not known. Identifying the nature and function of these cells in T cell suppression would contribute to new strategies in controlling airway inflammation. The overall goals of this study are to examine the nature of MDSC in airway inflammation and their role in T cell tolerance. The above two projects may provide a link between inflammation and cancer. \n  *"
+  ],
+  "associations": [],
+  "education": [],
+  "publications": [
+    {
+      "title": "Dynamic change and impact of myeloid-derived suppressor cells in allogeneic bone marrow transplantation in mice",
+      "pubmed_id": "23376089",
+      "pmc_id": "PMC4011929",
+      "year": "2013",
+      "publication_date": "2013 May",
+      "authors": "Wang D, Yu Y, Haarberg K, Fu J, Kaosaard K, Nagaraj S, Anasetti C, Gabrilovich D, Yu XZ",
+      "journal": "Biol Blood Marrow Tr"
+    },
+    {
+      "title": "Natriuretic peptide receptor A signaling regulates stem cell recruitment and angiogenesis: a model to study linkage between inflammation and tumorigenesis",
+      "pubmed_id": "23533187",
+      "pmc_id": "PMC3982194",
+      "year": "2013",
+      "publication_date": "2013 Jul",
+      "authors": "Mallela J, Ravi S, Jean Louis F, Mulaney B, Cheung M, Sree Garapati U, Chinnasamy V, Wang C, Nagaraj S, Mohapatra SS, Mohapatra S",
+      "journal": "Stem Cells"
+    },
+    {
+      "title": "Reciprocal relationship between myeloid-derived suppressor cells and T cells",
+      "pubmed_id": "23794702",
+      "pmc_id": "PMC3694485",
+      "year": "2013",
+      "publication_date": "2013 Jul",
+      "authors": "Nagaraj S, Youn JI, Gabrilovich DI",
+      "journal": "J Immunol"
+    },
+    {
+      "title": "CD4(+) T cells suppress immune response to cancer: novel targets for antitumor efforts",
+      "pubmed_id": "22882213",
+      "year": "2012",
+      "publication_date": "2012 Jul",
+      "authors": "Nelson A, Nair S, Nagaraj S",
+      "journal": "Expert Rev Clin Immunol"
+    },
+    {
+      "title": "Microbes and asthma: the missing cellular and molecular links",
+      "pubmed_id": "22113000",
+      "pmc_id": "PMC3532043",
+      "year": "2012",
+      "publication_date": "2012 Jan",
+      "authors": "Brar T, Nagaraj S, Mohapatra S",
+      "journal": "Curr Opin Pulm Med"
+    },
+    {
+      "title": "Antigen-specific CD4(+) T cells regulate function of myeloid-derived suppressor cells in cancer via retrograde MHC class II signaling",
+      "pubmed_id": "22237629",
+      "pmc_id": "PMC4062074",
+      "year": "2012",
+      "publication_date": "2012 Feb",
+      "authors": "Nagaraj S, Nelson A, Youn JI, Cheng P, Quiceno D, Gabrilovich DI",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Regulation of suppressive function of myeloid-derived suppressor cells by CD4+ T cells",
+      "pubmed_id": "22313876",
+      "pmc_id": "PMC3349790",
+      "year": "2012",
+      "publication_date": "2012 Aug",
+      "authors": "Nagaraj S, Gabrilovich DI",
+      "journal": "Semin Cancer Biol"
+    },
+    {
+      "title": "Anti-inflammatory triterpenoid blocks immune suppressive function of MDSCs and improves immune response in cancer",
+      "pubmed_id": "20215551",
+      "pmc_id": "PMC2840181",
+      "year": "2010",
+      "publication_date": "2010 Mar",
+      "authors": "Nagaraj S, Youn JI, Weber H, Iclozan C, Lu L, Cotter MJ, Meyer C, Becerra CR, Fishman M, Antonia S, Sporn MB, Liby KT, Rawal B, Lee JH, Gabrilovich DI",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Mechanism of T cell tolerance induced by myeloid-derived suppressor cells",
+      "pubmed_id": "20142361",
+      "pmc_id": "PMC2832724",
+      "year": "2010",
+      "publication_date": "2010 Mar",
+      "authors": "Nagaraj S, Schrum AG, Cho HI, Celis E, Gabrilovich DI",
+      "journal": "J Immunol"
+    },
+    {
+      "title": "Myeloid-derived suppressor cells in human cancer",
+      "pubmed_id": "20693846",
+      "year": "2010",
+      "publication_date": "2010 Jul",
+      "authors": "Nagaraj S, Gabrilovich DI",
+      "journal": "Cancer J"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3200"
+  },
+  "content_hash": "4809a53af4d275aab3b81da4a679341e83dd7ba26f17b243abf685452b307ace",
+  "researcher_name": "srinivas nagaraj",
+  "department": ""
+}

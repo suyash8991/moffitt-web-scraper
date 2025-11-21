@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jhanelle-gray",
-  "last_updated": "2025-10-21T16:38:18.304072",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jhanelle-gray/",
+  "last_updated": "2025-11-21T22:50:24.432302",
   "researcher_id": "3726",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Thoracic Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "thoracic oncology",
+  "research_program": "molecular medicine",
   "overview": "My research focus is to evaluate new molecular targets and biomarkers in lung cancer to reduce chemotherapy resistance and advance patient-specific therapy.",
   "research_interests": [
     "Dr. Gray\u2019s research focuses on the analysis of targeted therapies in patients with non-small cell lung cancer (NSCLC) and those at risk for lung cancer with hopes of optimizing the therapeutic benefit while minimizing the toxicity with the use of biomarker analysis to enhance the understanding of cancer biology and treatment.She was the principal investigator of a phase IIB randomized, placebo-controlled, double-blind study of enzastaurin (a protein kinase C inhibitor), investigating its efficacy in lung cancer prevention in former smokers. Through her continued work on this project, she was awarded an NIH Specialized Program of Research Excellence (SPORE) supplement grant (Research Supplements to Promote Diversity in Health-Related Research). Additionally Dr. Gray is involved in analyzing histone deacetylase (HDAC) inhibitors as a novel treatment approach in patients with lung cancer. One strategy to enhance the efficacy of the EGFR tyrosine kinase inhibitor, already demonstrated in vitro, is to combine erlotinib with inhibitors of other key oncogenic pathways such as HDAC inhibitors. Dr. Gray and colleagues also are exploring additional HDAC inhibitor combination strategies for clinical application.\n  *"
@@ -87,6 +87,14 @@
       "journal": "Lung Cancer"
     },
     {
+      "title": "Timeliness of Newer Targeted Therapy and Survival in Lung Cancer: A Population-Based Analysis",
+      "pubmed_id": "40472300",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Tanvetyanon T, Joshi U, Chen DT, Gray JE",
+      "journal": "JCO Oncol Pract"
+    },
+    {
       "title": "Real-World Clinical Characteristics, Treatment Patterns, and Clinical Outcomes in US Patients with Stage I-III Resected NSCLC Without Known EGFR Mutations: The RESECT Study",
       "pubmed_id": "40329045",
       "pmc_id": "PMC12174031",
@@ -94,14 +102,6 @@
       "publication_date": "2025 Jun",
       "authors": "Gray JE, Salomonsen RJ, Diaz Perez I, Wang A, Cai L, Wetherill G, Xiao Y, Fielden C, Georgoulia N",
       "journal": "Drugs Real World Outcomes"
-    },
-    {
-      "title": "Timeliness of Newer Targeted Therapy and Survival in Lung Cancer: A Population-Based Analysis",
-      "pubmed_id": "40472300",
-      "year": "2025",
-      "publication_date": "2025 Jun",
-      "authors": "Tanvetyanon T, Joshi U, Chen DT, Gray JE",
-      "journal": "JCO Oncol Pract"
     },
     {
       "title": "Patient, care partner, and provider voice in treatment decision-making for non-small cell lung cancer",
@@ -120,12 +120,13 @@
       "journal": "J Thorac Oncol"
     },
     {
-      "title": "Pembrolizumab With or Without Maintenance Olaparib for Metastatic Squamous NSCLC That Responded to First-Line Pembrolizumab Plus Chemotherapy",
-      "pubmed_id": "39477187",
+      "title": "A Multicenter Open-Label Randomized Phase II Study of Osimertinib With and Without Ramucirumab in Tyrosine Kinase Inhibitor-Na\u00efve EGFR-Mutant Metastatic Non-Small Cell Lung Cancer (RAMOSE trial)",
+      "pubmed_id": "39378386",
+      "pmc_id": "PMC11776886",
       "year": "2025",
       "publication_date": "2025 Feb",
-      "authors": "Hochmair M, Schenker M, Dols MC, Kim TM, Ozyilkan O, Smagina M, Viktoriya L, Kato T, Fedenko A, De Angelis F, Rittmeyer A, Gray JE, Greystoke A, Aggarwal H, Huang Q, Zhao B, Lara-Guerra H, Nadal E",
-      "journal": "J Thorac Oncol"
+      "authors": "Le X, Patel JD, Shum E, Baik C, Sanborn RE, Shu CA, Kim C, Fidler MJ, Hall R, Elamin YY, Tu J, Blumenschein G, Zhang J, Gibbons D, Gay C, Mohindra NA, Chae Y, Boumber Y, Sabari J, Santana-Davila R, Rogosin S, Herzberg B, Creelan B, Pellini B, Tanvetyanon T, Heeke S, Hernandez M, Gray JE, Saltos A, Heymach JV",
+      "journal": "J Clin Oncol"
     }
   ],
   "grants": [
@@ -209,11 +210,86 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20386/",
+      "trial_id": "20386",
+      "title": "Targeting ODC as an Immunotherapeutic Target in STK11 (LKB1) Pathway-Deficient NSCLC",
+      "condition": "Thoracic",
+      "intervention": "Difluoromethylornithine (); Pembrolizumab (Keytruda)",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20767/",
+      "trial_id": "20767",
+      "title": "Integration of Immunotherapy into Adjuvant Therapy For Resected NSCLC: Alchemist Chemo-IO",
+      "condition": "Thoracic",
+      "intervention": "Alimta (Pemetrexed); Gemzar (gemcitabine); Paraplatin (carboplatin); Pembrolizumab (Keytruda); Pemetrexed (); Taxol (paclitaxel); carboplatin (); cisplatin (); gemcitabine (); paclitaxel ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21184/",
+      "trial_id": "21184",
+      "title": "Thoracic Program Trial Selection Protocol",
+      "condition": "Thoracic",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21626/",
+      "trial_id": "21626",
+      "title": "A Phase 1, Open-Label, Multicenter Study to Assess Safety, Tolerability, PK, and Efficacy of MK-1084 as Monotherapy and in Combination with Pembrolizumab in Subjects with KRASG12C Mutant Advanced Solid Tumors",
+      "condition": "Thoracic",
+      "intervention": "Alimta (Pemetrexed); MK-1084 (); Paraplatin (carboplatin); Pembrolizumab (Keytruda); Pemetrexed (); carboplatin ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21630/",
+      "trial_id": "21630",
+      "title": "Prospective Trial to Assess Real-world Outcomes and Predictive Biomarkers of Response to Pembrolizumab with or without Chemotherapy in Black Patients with NSCLC",
+      "condition": "Thoracic",
+      "intervention": "Abraxane (); Alimta (Pemetrexed); Nab-paclitaxel (Abraxane); Paraplatin (carboplatin); Pembrolizumab (Keytruda); Pemetrexed (); Taxol (paclitaxel); carboplatin (); cisplatin (); paclitaxel ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21951/",
+      "trial_id": "21951",
+      "title": "A Randomized, Open-Label, Phase 3 Study to Evaluate Zimberelimab and Domvanalimab in Combination with Chemotherapy Versus Pembrolizumab with Chemotherapy for the First-Line Treatment of Patients With Metastatic Non Small Cell Lung Cancer With No Epidermal Growth Factor Receptor or Anaplastic Lymphoma Kinase Genomic Tumor Aberrations (STAR-121)",
+      "condition": "Thoracic",
+      "intervention": "Alimta (Pemetrexed); Domvanalimab (); Nab-paclitaxel (Abraxane); Paraplatin (carboplatin); Pembrolizumab (Keytruda); Pemetrexed (); Taxol (paclitaxel); Zimberelimab (); carboplatin (); cisplatin (); paclitaxel ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23180/",
+      "trial_id": "23180",
+      "title": "A Phase 1b/2, Multicenter, Open-label Study of Ifinatamab Deruxtecan (I-DXd), a B7-H3 Antibody-Drug Conjugate (ADC), in Combination with Atezolizumab with or without Carboplatin as First-line Induction or Maintenance, in Subjects with Extensive-stage Small Cell Lung Cancer (ES-SCLC)",
+      "condition": "Thoracic",
+      "intervention": "Atezolizumab (Tecentriq); DS-7300a (I-DXd); I-DXd (); Paraplatin (carboplatin); carboplatin ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23182/",
+      "trial_id": "23182",
+      "title": "A Phase 3, Randomized, Double-blind, Placebo- and Active-Comparator-Controlled Clinical Study of Adjuvant V940 (mRNA-4157) Plus Pembrolizumab Versus Adjuvant Placebo Plus Pembrolizumab in Participants With Resected Stage II, IIIA, IIIB (N2) Non-small Cell Lung Cancer",
+      "condition": "Thoracic",
+      "intervention": "Pembrolizumab (Keytruda); Placebo (); V940 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23579/",
+      "trial_id": "23579",
+      "title": "A Phase 3, Multicenter, Double-Blind, Placebo-controlled Study Assessing the Efficacy and Safety of Olomorasib in Combination with Standard of Care Immunotherapy in Participants with Resected or Unresectable KRAS G12C-Mutant, Non-Small Cell Lung Cancer - SUNRAY-02",
+      "condition": "Thoracic",
+      "intervention": "AMP-514 (Durvalumab); Durvalumab (); MEDI4736 (Durvalumab); Olomorasib/Placebo (); Pembrolizumab (Keytruda)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://www.justice-program.com/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GrayJhanelle_3726.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3726"
   },
-  "content_hash": "170c87dfc22505e56303121bcdd3973be3628c22e75c950ee1f0318b986f7718",
-  "researcher_name": "Jhanelle Gray",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "d05159a6c915b9d0dfd522ccddddca15e711dce1a7fb5e400c1dd1b1611f2b5c",
+  "researcher_name": "jhanelle gray",
+  "department": "tumor microenvironment and metastasis"
 }

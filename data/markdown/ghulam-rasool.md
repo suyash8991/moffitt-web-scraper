@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/ghulam-rasool)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/ghulam-rasool)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -512,18 +511,20 @@ Status: Open
   * ## Publications
     * Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB. The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma. Cancer Epidemiol Biomarkers Prev. 2025 Sep.34(9):1609-1617. Pubmedid: [40553455](https://www.ncbi.nlm.nih.gov/pubmed/40553455). 
     * Flack D, Tripathi A, Waqas A, Rasool G, Dera D. Robust Multimodal Fusion for Survival Prediction in Cancer Patients. Cancer Inform. 2025 Sep.24. Pubmedid: [41024938](https://www.ncbi.nlm.nih.gov/pubmed/41024938). Pmcid: PMC12476512. 
+    * Ahmed S, Parker N, Park M, Davis EW, Jeong D, Permuth JB, Schabath MB, Yilmaz Y, Rasool G. Multimodal AI-driven Biomarker for Early Detection of Cancer Cachexia. medRxiv. 2025 Sep. Pubmedid: [41001462](https://www.ncbi.nlm.nih.gov/pubmed/41001462). Pmcid: PMC12458964. 
+    * Tripathi A, Waqas A, Schabath MB, Yilmaz Y, Rasool G. HONeYBEE: enabling scalable multimodal AI in oncology through foundation model-driven embeddings. NPJ Digit Med. 2025 Oct.8(1):622. Pubmedid: [41131352](https://www.ncbi.nlm.nih.gov/pubmed/41131352). Pmcid: PMC12549884. 
     * Moassefi M, Houshmand S, Faghani S, Chang PD, Sun SH, Khosravi B, Triphati AG, Rasool G, Bhatia NK, Folio L, Andriole KP, Gichoya JW, Erickson BJ. Cross-Institutional Evaluation of Large Language Models for Radiology Diagnosis Extraction: A Prompt-Engineering Perspective. J Imaging Inform Med. 2025 May. Pubmedid: [40341981](https://www.ncbi.nlm.nih.gov/pubmed/40341981). 
     * Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel). 2025 Mar.17(6). Pubmedid: [40149388](https://www.ncbi.nlm.nih.gov/pubmed/40149388). Pmcid: PMC11941415. 
     * Koutsoubis N, Waqas A, Yilmaz Y, Ramachandran RP, Schabath MB, Rasool G. Privacy-preserving Federated Learning and Uncertainty Quantification in Medical Imaging. Radiol Artif Intell. 2025 Jul.7(4):e240637. Pubmedid: [40366260](https://www.ncbi.nlm.nih.gov/pubmed/40366260). Pmcid: PMC12319697. 
-    * Waqas A, Tripathi A, Ahmed S, Mukund A, Farooq H, Johnson JO, Stewart PA, Naeini M, Schabath MB, Rasool G. Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication. Int J Mol Sci. 2025 Jul.26(15). Pubmedid: [40806487](https://www.ncbi.nlm.nih.gov/pubmed/40806487). Pmcid: PMC12347193. 
     * Tripathi A, Nielsen IE, Umer M, Ramachandran RP, Rasool G. Explainable AI in Genomics: Transcription Factor Binding Site Prediction with Mixture of Experts. ArXiv. 2025 Jul. Pubmedid: [40709306](https://www.ncbi.nlm.nih.gov/pubmed/40709306). Pmcid: PMC12288655. 
+    * Waqas A, Tripathi A, Ahmed S, Mukund A, Farooq H, Johnson JO, Stewart PA, Naeini M, Schabath MB, Rasool G. Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication. Int J Mol Sci. 2025 Jul.26(15). Pubmedid: [40806487](https://www.ncbi.nlm.nih.gov/pubmed/40806487). Pmcid: PMC12347193. 
     * Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A. Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma. Res Sq. 2025 Feb. Pubmedid: [39989973](https://www.ncbi.nlm.nih.gov/pubmed/39989973). Pmcid: PMC11844656. 
     * Waqas A, Khan A, Ozturk ZG, Saeed-Vafa D, Chen W, Dhillon J, Bychkov A, Bui MM, Ullah E, Khalil F, Chumbalkar V, Jameel Z, Bittar HT, Singh RS, Parwani AV, Schabath MB, Rasool G. REASONING BEYOND ACCURACY: EXPERT EVALUATION OF LARGE LANGUAGE MODELS IN DIAGNOSTIC PATHOLOGY. medRxiv. 2025 Apr. Pubmedid: [40297448](https://www.ncbi.nlm.nih.gov/pubmed/40297448). Pmcid: PMC12036407. 
     * Tripathi A, Waqas A, Venkatesan K, Ullah E, Khan A, Khalil F, Chen WS, Ozturk ZG, Saeed-Vafa D, Bui MM, Schabath MB, Rasool G. Employing Consensus-Based Reasoning with Locally Deployed LLMs for Enabling Structured Data Extraction from Surgical Pathology Reports. medRxiv. 2025 Apr. Pubmedid: [40343037](https://www.ncbi.nlm.nih.gov/pubmed/40343037). Pmcid: PMC12060942. 
-    * Ahmed S, Parker N, Park M, Jeong D, Peres L, Davis EW, Permuth JB, Siegel E, Schabath MB, Yilmaz Y, Rasool G. Reliable Radiologic Skeletal Muscle Area Assessment - A Biomarker for Cancer Cachexia Diagnosis. medRxiv. 2025 Apr. Pubmedid: [40313262](https://www.ncbi.nlm.nih.gov/pubmed/40313262). Pmcid: PMC12045449. 
-    * Ullah E, Baig MM, Waqas A, Rasool G, Singh R, Shandilya A, GholamHossieni H, Parwani AV. Multimodal Generative AI for Anatomic Pathology-A Review of Current Applications to Envisage the Future Direction. Adv Anat Pathol. 2025 Apr. Pubmedid: [40298358](https://www.ncbi.nlm.nih.gov/pubmed/40298358). 
     * Brodsky V, Ullah E, Bychkov A, Song AH, Walk EE, Louis P, Rasool G, Singh RS, Mahmood F, Bui MM, Parwani AV. Generative Artificial Intelligence in Anatomic Pathology. Arch Pathol Lab Med. 2025 Apr.149(4):298-318. Pubmedid: [39836377](https://www.ncbi.nlm.nih.gov/pubmed/39836377). 
     * Hartsock I, Araujo C, Folio L, Rasool G. Improving Radiology Report Conciseness and Structure via Local Large Language Models. J Imaging Inform Med. 2025 Apr. Pubmedid: [40259201](https://www.ncbi.nlm.nih.gov/pubmed/40259201). 
+    * Ullah E, Baig MM, Waqas A, Rasool G, Singh R, Shandilya A, GholamHossieni H, Parwani AV. Multimodal Generative AI for Anatomic Pathology-A Review of Current Applications to Envisage the Future Direction. Adv Anat Pathol. 2025 Apr. Pubmedid: [40298358](https://www.ncbi.nlm.nih.gov/pubmed/40298358). 
+    * Ahmed S, Parker N, Park M, Jeong D, Peres L, Davis EW, Permuth JB, Siegel E, Schabath MB, Yilmaz Y, Rasool G. Reliable Radiologic Skeletal Muscle Area Assessment - A Biomarker for Cancer Cachexia Diagnosis. medRxiv. 2025 Apr. Pubmedid: [40313262](https://www.ncbi.nlm.nih.gov/pubmed/40313262). Pmcid: PMC12045449. 
     * Villanueva-Meyer JE, Bakas S, Tiwari P, Lupo JM, Calabrese E, Davatzikos C, Bi WL, Ismail M, Akbari H, Lohmann P, Booth TC, Wiestler B, Aerts HJWL, Rasool G, Tonn JC, Nowosielski M, Jain R, Colen RR, Pati S, Baid U, Vollmuth P, Macdonald D, Vogelbaum MA, Chang SM, Huang RY, Galldiks N. Artificial Intelligence for Response Assessment in Neuro Oncology (AI-RANO), part 1: review of current advancements. Lancet Oncol. 2024 Nov.25(11):e581-e588. Pubmedid: [39481414](https://www.ncbi.nlm.nih.gov/pubmed/39481414). 
     * Bakas S, Vollmuth P, Galldiks N, Booth TC, Aerts HJWL, Bi WL, Wiestler B, Tiwari P, Pati S, Baid U, Calabrese E, Lohmann P, Nowosielski M, Jain R, Colen R, Ismail M, Rasool G, Lupo JM, Akbari H, Tonn JC, Macdonald D, Vogelbaum M, Chang SM, Davatzikos C, Villanueva-Meyer JE, Huang RY. Artificial Intelligence for Response Assessment in Neuro Oncology (AI-RANO), part 2: recommendations for standardisation, validation, and good clinical practice. Lancet Oncol. 2024 Nov.25(11):e589-e601. Pubmedid: [39481415](https://www.ncbi.nlm.nih.gov/pubmed/39481415). 
     * Hartsock I, Rasool G. Vision-language models for medical report generation and visual question answering: a review. Front Artif Intell. 2024 Nov.7:1430984. Pubmedid: [39628839](https://www.ncbi.nlm.nih.gov/pubmed/39628839). Pmcid: PMC11611889. 
@@ -650,7 +651,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -705,7 +706,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/ghulam-rasool#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/ghulam-rasool#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -723,7 +724,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1077,7 +1078,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/ghulam-rasool#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/ghulam-rasool#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

@@ -1,0 +1,137 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/william-caceres/",
+  "last_updated": "2025-11-21T22:50:27.358659",
+  "researcher_id": "3969",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer biology & evolution",
+  "overview": "",
+  "research_interests": [
+    "Molecular Oncology & Drug Discovery Program",
+    "Cancer Biology & Evolution Program"
+  ],
+  "associations": [
+    "Molecular Oncology & Drug Discovery Program",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Puerto Rico",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "San Juan Veterans Administration",
+      "position": "Intern",
+      "specialty": "Internal Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "San Juan City Hospital/VAH",
+      "specialty": "Hematology/Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Case Report of IgM Multiple Myeloma: Diagnosing a Rare Hematologic Entity",
+      "pubmed_id": "29318955",
+      "pmc_id": "PMC5811765",
+      "year": "2018",
+      "publication_date": "2018 Jan",
+      "authors": "Bonilla-Valent\u00edn FJ, Cerra J, C\u00e1ceres-Perkins W, Alsina M",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "Soto AR, Vazquez EG, Grigg-Gutierrez NM, Magno-Pagatzaurtundua P, C\u00e1ceres W, Toro DH. Conundrum of a Large Bowel Neoplasm: Collision Tumor. ACG Case Rep J. 2018.5:e13. Pubmedid: [29484306](https://www.ncbi.nlm.nih.gov/pubmed/29484306). Pmcid: PMC5814571.",
+      "pubmed_id": "29484306",
+      "pmc_id": "PMC5814571",
+      "year": "2018",
+      "authors": ""
+    },
+    {
+      "title": "Primary Enteropathy-Associated T-Cell Lymphoma Type 2: An Emerging Entity?",
+      "pubmed_id": "26068772",
+      "year": "2015",
+      "publication_date": "2015 Apr",
+      "authors": "Grigg-Gutierrez NM, Estremera-Marcial R, Caceres WW, Toro DH",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "Building a long distance training program to enhance clinical cancer research capacity in Puerto Rico",
+      "pubmed_id": "25626061",
+      "pmc_id": "PMC4378863",
+      "year": "2014",
+      "publication_date": "2014 Dec",
+      "authors": "Appleyard CB, Antonia SJ, Sullivan DM, Santiago-Cardona PG, C\u00e1ceres W, Velez H, Torres-Ruiz JA, Wright KL",
+      "journal": "Rev Recent Clin Trials"
+    },
+    {
+      "title": "Renal cell carcinoma: molecularly targeted therapy",
+      "pubmed_id": "21682150",
+      "year": "2011",
+      "publication_date": "2011 Jun",
+      "authors": "C\u00e1ceres W, Cruz-Chac\u00f3n A",
+      "journal": "P R Health Sci J"
+    },
+    {
+      "title": "AIDS-related malignancies: revisited",
+      "pubmed_id": "20222338",
+      "year": "2010",
+      "publication_date": "2010 Mar",
+      "authors": "C\u00e1ceres W, Cruz-Amy M, D\u00edaz-Mel\u00e9ndez V",
+      "journal": "P R Health Sci J"
+    },
+    {
+      "title": "Adult Evans syndrome: complete hematologic recovery with steroids and rituximab: a case report",
+      "pubmed_id": "20939201",
+      "year": "2010",
+      "publication_date": "2010 Apr",
+      "authors": "Santiago-R\u00edos KJ, Reyes O, Cruz A, Rodr\u00edguez-Pab\u00f3n N, C\u00e1ceres W",
+      "journal": "Bol Asoc Med P R"
+    },
+    {
+      "title": "Central nervous system involvement by follicular lymphoma: a case report",
+      "pubmed_id": "20939202",
+      "year": "2010",
+      "publication_date": "2010 Apr",
+      "authors": "Paulo Malave L, Caceres W",
+      "journal": "Bol Asoc Med P R"
+    },
+    {
+      "title": "Current status of allogeneic hematopoietic stem cell transplantation for paroxysmal nocturnal hemoglobinuria",
+      "pubmed_id": "19450749",
+      "year": "2009",
+      "publication_date": "2009 Jun",
+      "authors": "Matos-Fernandez NA, Abou Mourad YR, Caceres W, Kharfan-Dabaja MA",
+      "journal": "Biol Blood Marrow Tr"
+    },
+    {
+      "title": "Anemia and infections in multiple myeloma: supportive therapy",
+      "pubmed_id": "19954102",
+      "year": "2009",
+      "publication_date": "2009 Apr",
+      "authors": "C\u00e1ceres W, Santiago K, Paulo L, Rom\u00e1n J",
+      "journal": "Bol Asoc Med P R"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3969"
+  },
+  "content_hash": "d244279ad505a87058a2eff8711a6ae232e704a87c3049f3d2fb7570b3580350",
+  "researcher_name": "william caceres",
+  "department": ""
+}

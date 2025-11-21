@@ -1,0 +1,194 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jong-park/",
+  "last_updated": "2025-11-21T22:50:24.748267",
+  "researcher_id": "1723",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
+  "overview": "Prostate cancer, biomarkers for risk and progression of prostate cancer, and health disparity.",
+  "research_interests": [
+    "Prostate cancer is the most common cancer and the second leading cause of cancer death in American men. Among several treatment options, the primary treatment option for initial therapy for localized prostate cancer is radical prostatectomy or radiation therapy. Among prostate cancer patients who had these treatments, approximately 30% will have recurrence. Currently, the level of prostate specific antigen (PSA), cancer stage (TNM system) and the grade of tumor (Gleason score) are used to estimate prognosis and inform treatment modalities. Although these measurements are extremely useful, additional biomarkers are needed to better predict the outcome of prostate cancer. Dr. Park and his laboratory team are interested in genetic and epigenetic variations associated with prostate cancer recurrence. In addition, Dr. Park is also interested in health disparity on risk for prostate cancer, among African American men.\n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Genitourinary Oncology",
+    "Cancer Epidemiology Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Cancer Chemoprevention Research Interest Group"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Alabama at Birmingham, MPH"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Alabama at Birmingham, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Temple University School of Medicine",
+      "specialty": "Pathology & Laboratory Medicine"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Methylation-based biological age and cardiotoxicity risk in breast cancer patients treated with trastuzumab",
+      "pubmed_id": "40349094",
+      "pmc_id": "PMC12065287",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Mammadova J, Richards A, Gonzalez-Torriente A, Adler ER, Cruz RJ, Palfi S, Lee DH, Sam C, Al-Jumayli M, Berglund A, Park JY, Alomar M, Kresovich JK",
+      "journal": "Cardiooncology"
+    },
+    {
+      "title": "CLO25-078: Deciphering Risk of Early Biochemical Recurrence in Prostate Cancer Prior to Definitive Therapy",
+      "pubmed_id": "40154471",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Trivedi P, Awasthi S, Dhillon J, Park J, Davicioni E, Hakansson A, Liu S, Katende E, Smith R, Gage K, Burri R, Ercole C, Pow-Sang J, Yamoah K",
+      "journal": "J Natl Compr Canc Ne"
+    },
+    {
+      "title": "5-hydroxymethylcytosine sequencing of plasma cell-free DNA identifies epigenomic features in prostate cancer patients receiving androgen deprivation therapies",
+      "pubmed_id": "40038525",
+      "pmc_id": "PMC11880319",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Li Q, Huang CC, Huang S, Tian Y, Huang J, Bitaraf A, Dong X, Nevalainen MT, Patel M, Wong J, Zhang J, Manley BJ, Park JY, Kohli M, Gore EM, Kilari D, Wang L",
+      "journal": "Commun Med (Lond)"
+    },
+    {
+      "title": "Role of region-of-interest magnetic resonance imaging fusion biopsy in mitigating overtreatment of localized prostate cancer - A retrospective cohort study",
+      "pubmed_id": "40125074",
+      "pmc_id": "PMC11930199",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Wang C, Trivedi P, Katende E, Awasthi V, Smith R, Putney R, Bondokji Y, Park JY, Dhillon J, Yamoah K",
+      "journal": "Eur J Radiol Open"
+    },
+    {
+      "title": "Cost-Utility Analysis of a Group Mindfulness Program Compared to an Education Support Program for Breast Cancer Survivors With Cognitive Impairment: Evidence From a Randomized Controlled Trial",
+      "pubmed_id": "40696563",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Meng H, Lengacher CA, Tate R, Rodr\u00edguez C, Kip KE, Park JY, Hueluer G, Nguyen AT, Morgan S, Tinsley S, Veal B, Joshi A, Krothapalli M, Nidamanur S, Cox C, Padgett LS, Moscoso M, Bornstein E, Lucas JM, Fonseca T, Donovan KA, Chamkeri R, Reich RR",
+      "journal": "Psychooncology"
+    },
+    {
+      "title": "DNA Repair Capacity and Clinicopathological Characteristics in Puerto Rican Hispanic/Latino Patients with Metastatic Castration-Resistant Prostate Cancer",
+      "pubmed_id": "39858060",
+      "pmc_id": "PMC11763443",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Matta J, Ortiz-S\u00e1nchez C, Encarnaci\u00f3n-Medina J, Torres-Caraballo S, Oliveras J, Park J, Arroyo MM, Ruiz-Deya G",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Efficacy of Mindfulness-Based Stress Reduction for Breast Cancer (MBSR(BC)) a Treatment for Cancer-related Cognitive Impairment (CRCI): A Randomized Controlled Trial",
+      "pubmed_id": "39291332",
+      "pmc_id": "PMC11839530",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Lengacher CA, Reich RR, Rodriguez CS, Nguyen AT, Park JY, Meng H, Tinsley S, Hueluer G, Donovan KA, Moscoso MS, Bornstein E, Kiluk J, Nidamanur S, Padgett LS, Lucas JM, Fonseca T, Joshi A, Lin KJ, Goodman M, Kip KE",
+      "journal": "J Integr Complement Med"
+    },
+    {
+      "title": "Reciprocal regulation between DNMT3A/3B and microRNAs miRs-299-3p/-30e is a causal factor for the downregulation of microRNAs targeting androgen receptor in prostate cancer",
+      "pubmed_id": "39944334",
+      "pmc_id": "PMC11815930",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Ganapathy K, Harrs CF, Harris S, Staklinski SJ, Khatib A, Park JY, Chakrabarti R",
+      "journal": "Heliyon"
+    },
+    {
+      "title": "Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study",
+      "pubmed_id": "40075682",
+      "pmc_id": "PMC11898942",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Avasthi KK, Choi JW, Glushko T, Manley BJ, Yu A, Park JY, Brown JS, Pow-Sang J, Gatenby R, Wang L, Balagurunathan Y",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Plasma Cell-Free DNA Methylation-Based Prognosis in Metastatic Castrate-Resistant Prostate Cancer",
+      "pubmed_id": "40313768",
+      "pmc_id": "PMC12045346",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Wong J, Tian Y, Patel MS, Avasthi K, Hanson C, Larsen M, Ampaw E, Fadlullah MZH, Finklestein J, Tan AC, Park J, Manley BJ, Huang CC, Kohli M, Wang L",
+      "journal": "Res Sq"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: PROTEIN BIOMARKERS IN AFRICAN AMERICAN MINORITIES WITH PROSTATE CANCER  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nBalagurunathan, Y. (PD/PI), Park, J. (Co-PD/PI)",
+      "title": "PROTEIN BIOMARKERS IN AFRICAN AMERICAN MINORITIES WITH PROSTATE CANCER",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Balagurunathan, Y.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Park, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: The ODC A Allele as a Driver and Therapeutic Target of Aggressive Prostate Cancer in African American Men  \nAward Number: 5R21CA253343-02  \nSponsor: National Cancer Institute (NCI)  \nPark, J. (PD/PI)",
+      "title": "The ODC A Allele as a Driver and Therapeutic Target of Aggressive Prostate Cancer in African American Men",
+      "award_number": "5R21CA253343-02",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Park, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: miRNA-related Polygenic Risk Score and miRNA Expression on Prostate Cancer Survival in Whites and Blacks  \nAward Number: HT94252310438  \nSponsor: Department of Defense (DOD)  \nPark, J. (PD/PI)",
+      "title": "miRNA-related Polygenic Risk Score and miRNA Expression on Prostate Cancer Survival in Whites and Blacks",
+      "award_number": "HT94252310438",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Park, J.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22726/",
+      "trial_id": "22726",
+      "title": "miRNA-Related Polygenic Risk Score and miRNA Expression on Prostate Cancer Survival",
+      "condition": "Genitourinary",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "http://labpages2.moffitt.org/park",
+  "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=-xPK6m8AAAAJ",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ParkJong_1723.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1723"
+  },
+  "content_hash": "db7e971929e57a6c7b8f51d74fbb45249d1411c4b1684b4736a4af84bf77e8c9",
+  "researcher_name": "jong park",
+  "department": "cancer epidemiology"
+}

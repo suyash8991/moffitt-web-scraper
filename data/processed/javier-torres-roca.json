@@ -1,0 +1,148 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/javier-torres-roca/",
+  "last_updated": "2025-11-21T22:50:24.302675",
+  "researcher_id": "2645",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "radiation oncology",
+  "research_program": "molecular medicine",
+  "overview": "The central interest of Dr. Torres-Roca\u2019s laboratory is in the development of a systems level understanding of the biological networks that regulate radiosensitivity.",
+  "research_interests": [
+    "The central interest of Dr. Torres-Roca\u2019s laboratory is in the development of a systems level understanding of the biological networks that regulate radiosensitivity. We apply and integrate engineering principles and mathematical modeling along with experimental cellular and molecular biology in an effort to elucidate the topology and function of the radiosensitivity network. In collaboration with ET members (Eschrich SA and Chen DT) his group has developed a mathematical approach to integrate genomics, genotype, tissue type and biological pathway interactions to identify radiation-specific biomarkers in a large dataset of cancer cell lines. This strategy has resulted in the identification of a novel and highly redundant genetic free-scale network with 10 central nodes that we have proposed as central in the determination of radiophenotype. We applied this knowledge by developing in cell lines a gene expression linear regression model of cellular radiosensitivity based on the expression of the ten central network hubs. This model was subsequently independently validated as a predictor of response and prognosis in 277 patients in four different disease sites (breast, head and neck, rectal, esophagus), thus providing critical clinical validation for this approach. An NCI-sponsored prospective clinical trial is currently underway at Moffitt to further test the systems-based gene expression model as a predictor of clinical response in rectal and esophageal cancer patients treated with preoperative concurrent chemoradiation. A major implication of this work is that mathematical modeling of cellular systems can lead to the development of technologies that can impact the clinic. Current efforts in the laboratory are aimed at integrating experimentally quantified cellular and clonogenic heterogeneity into computer-based virtual models of the clonogenic assay.\n  *"
+  ],
+  "associations": [
+    "Radiation Oncology",
+    "Molecular Medicine Program",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Puerto Rico School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "University of California, Irvine Medical Center",
+      "position": "Intern",
+      "specialty": "Internal Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of California, Irvine Medical Center",
+      "specialty": "Radiation Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Stanford University School of Medicine",
+      "specialty": "Genetics"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Institut Pasteur",
+      "specialty": "Immunology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Neoadjuvant prostate artery embolization prior to prostate radiation therapy: A single institution experience on the durability of clinical urinary improvement after radiation",
+      "pubmed_id": "41122670",
+      "pmc_id": "PMC12536586",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Khatri VM, Grass GD, Thapa R, Maun-Garcia L, Latifi K, Naghavi AO, Garg A, Fernandez D, Torres-Roca J, Rishi A, Jazayeri-Moghaddas O, Pow-Sang J, Johnstone PAS, Yamoah K, Parikh N",
+      "journal": "Clin Transl Radiat Oncol"
+    },
+    {
+      "title": "Evaluating the Radiation Sensitivity Index and 12-Chemokine Gene Expression Signature for Clinical Use in a CLIA Laboratory",
+      "pubmed_id": "39932296",
+      "pmc_id": "PMC11873780",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Berglund AE, Puskas J, Yoder SJ, Smith AT, Marchion DC, Qin D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "In Reply to Li",
+      "pubmed_id": "40382168",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Eschrich SA, Torres-Roca JF",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Intricacies of human-AI interaction in dynamic decision-making for precision oncology",
+      "pubmed_id": "39881134",
+      "pmc_id": "PMC11779952",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Niraula D, Cuneo KC, Dinov ID, Gonzalez BD, Jamaluddin JB, Jin JJ, Luo Y, Matuszak MM, Ten Haken RK, Bryant AK, Dilling TJ, Dykstra MP, Frakes JM, Liveringhouse CL, Miller SR, Mills MN, Palm RF, Regan SN, Rishi A, Torres-Roca JF, Yu HM, El Naqa I",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Prostate Artery Embolization in the Setting of Prostate Cancer: Review and Opinion",
+      "pubmed_id": "39876663",
+      "pmc_id": "PMC11775958",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Parikh N, Yamoah K, Johnstone P, Torres-Roca J, Pow-Sang J, Fernandez D, Rishi A, Grass GD",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "Evaluating the Radiation Sensitivity Index and 12-chemokine gene expression signature for clinical use in a CLIA laboratory",
+      "pubmed_id": "39345465",
+      "pmc_id": "PMC11429982",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Berglund A, Puskas J, Yoder S, Smith AT, Marchion DC, Qian D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "Changes in Daily Apparent Diffusion Coefficient on Fully Quantitative Magnetic Resonance Imaging Correlate With Established Genomic Pathways of Radiation Sensitivity and Reveal Novel Biologic Associations",
+      "pubmed_id": "38819340",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Hall WA, Mathison AJ, DeVoe E, Tschannen M, Wendt-Andrae J, Straza M, Awan M, Puckett LL, Lawton CAF, Schultz C, Urrutia R, Kerns S, Torres-Roca JF, Li XA, Erickson B, Nevalainen MT, Zimmermann MT, Paulson E",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Clinical Outcomes of Prostate SBRT Using Non-adaptive MR-Guided Radiotherapy",
+      "pubmed_id": "39206515",
+      "pmc_id": "PMC11363040",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Sandoval ML, Rishi A, Latifi K, Grass GD, Torres-Roca J, Rosenberg SA, Yamoah K, Johnstone PAS",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "A Single Institution Experience in the Management of Localized Neuroendocrine Carcinoma of the Bladder",
+      "pubmed_id": "39353214",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Liveringhouse C, Sim AJ, Zhang J, Jain RK, Naidu SU, Linkowski L, Zemp LW, Yu A, Sexton WJ, Spiess PE, Gilbert SM, Poch MA, Pow-Sang J, Li R, Manley BJ, Vosoughi A, Dhillon J, Xu H, Torres-Roca JF, Johnstone PAS, Yamoah K, Grass GD",
+      "journal": "Clin Genitourin Cancer"
+    },
+    {
+      "title": "Intricacies of Human-AI Interaction in Dynamic Decision-Making for Precision Oncology: A Case Study in Response-Adaptive Radiotherapy",
+      "pubmed_id": "38746238",
+      "pmc_id": "PMC11092730",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Niraula D, Cuneo KC, Dinov ID, Gonzalez BD, Jamaluddin JB, Jin JJ, Luo Y, Matuszak MM, Ten Haken RK, Bryant AK, Dilling TJ, Dykstra MP, Frakes JM, Liveringhouse CL, Miller SR, Mills MN, Palm RF, Regan SN, Rishi A, Torres-Roca JF, Yu HM, El Naqa I",
+      "journal": "medRxiv"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/Torres-RocaJavier_2645.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2645"
+  },
+  "content_hash": "fb1a9762b763e958bc68759e5fd715675d61b31f13a8825726aa0f710e8db263",
+  "researcher_name": "javier torres roca",
+  "department": ""
+}

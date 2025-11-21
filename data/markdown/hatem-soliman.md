@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/hatem-soliman)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/hatem-soliman)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -522,11 +521,11 @@ Status: Open
 **If you believe you are eligible for one of these trials or studies, please call  
 [813-745-6100](tel:+813-745-6100) or toll-free [1-800-679-0775](tel:+1-800-679-0775). **
   * ## Publications
-    * Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST. Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study. Contemp Clin Trials. 2025 Sep.158:108096. Pubmedid: [40992541](https://www.ncbi.nlm.nih.gov/pubmed/40992541). 
     * Hudson K, Gathirua-Mwangi W, Williams LA, Cui ZL, Richey M, Grimes B, Wang J, Liepa AM, Brechtelsbauer E, Volodarsky R, Moreira K, Soliman H. Abemaciclib Persistence in Patients with HR+, HER2-, Node-Positive Early Breast Cancer: a Real-World Analysis. Oncol Ther. 2025 Oct. Pubmedid: [41039165](https://www.ncbi.nlm.nih.gov/pubmed/41039165). 
+    * Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST. Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study. Contemp Clin Trials. 2025 Nov.158:108096. Pubmedid: [40992541](https://www.ncbi.nlm.nih.gov/pubmed/40992541). 
     * Weinfurtner RJ, Ataya D, Funaro K, Bhatt A, Abdalah M, Stringfield O, Raghunand N, Thompson Z, Lee MC, Czerniecki B, Muller AS, Soliman H, Han H. Quantitative habitat concentration analysis of triple negative breast cancer on MRI correlates with pathologic response to combination neoadjuvant immuno/chemotherapy. Clin Imaging. 2025 Nov.127:110618. Pubmedid: [40945432](https://www.ncbi.nlm.nih.gov/pubmed/40945432). 
-    * Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B. A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer. NPJ Breast Cancer. 2025 Mar.11(1):29. Pubmedid: [40097486](https://www.ncbi.nlm.nih.gov/pubmed/40097486). Pmcid: PMC11914126. 
     * Okines AFC, Curigliano G, Mizuno N, Oh DY, Rorive A, Soliman H, Takahashi S, Bekaii-Saab T, Burkard ME, Chung KY, Debruyne PR, Fox JR, Gambardella V, Gil-Martin M, Hamilton EP, Monk BJ, Nakamura Y, Nguyen D, O'Malley DM, Olawaiye AB, Pothuri B, Reck M, Sudo K, Sunakawa Y, Van Marcke C, Yu EY, Ramos J, Tan S, Bieda M, Stinchcombe TE, Pohlmann PR. Tucatinib and trastuzumab in HER2-mutated metastatic breast cancer: a phase 2 basket trial. Nat Med. 2025 Mar.31(3):909-916. Pubmedid: [39825152](https://www.ncbi.nlm.nih.gov/pubmed/39825152). Pmcid: PMC11922774. 
+    * Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B. A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer. NPJ Breast Cancer. 2025 Mar.11(1):29. Pubmedid: [40097486](https://www.ncbi.nlm.nih.gov/pubmed/40097486). Pmcid: PMC11914126. 
     * Wolf DM, Yau C, Campbell M, Glas A, Barcaru A, Mittempergher L, Kuilman M, Brown-Swigart L, Hirst G, Basu A, Magbanua M, Sayaman R, Huppert L, Delson A, Symmans WF, Borowsky A, Pohlmann P, Rugo H, Clark A, Yee D, DeMichele A, Perlmutter J, Petricoin EF, Chien J, Stringer-Reasor E, Shatsky R, Liu M, Han H, Soliman H, Isaacs C, Nanda R, Hylton N, Pusztai L, Esserman L, van 't Veer L. Immune Subtyping Identifies Patients With Hormone Receptor-Positive Early-Stage Breast Cancer Who Respond to Neoadjuvant Immunotherapy (IO): Results From Five IO Arms of the I-SPY2 Trial. JCO Precis Oncol. 2025 Jun.9:e2400776. Pubmedid: [40526879](https://www.ncbi.nlm.nih.gov/pubmed/40526879). Pmcid: PMC12184982. 
     * Ahmed KA, Kim Y, Armaghani AJ, Arrington JA, Costa RL, Czerniecki BJ, Diaz R, Dowell RA, Extermann M, Forsyth PA, Lee KT, Loftus L, Mills MN, Phuoc VH, Rosa M, Soliman HH, Sam CS, Washington IR, Soyano AE, Han HS. Phase II trial of brain MRI surveillance in stage IV breast cancer. Neurooncol. 2025 Jul.27(6):1550-1558. Pubmedid: [39851040](https://www.ncbi.nlm.nih.gov/pubmed/39851040). Pmcid: PMC12309701. 
     * Joshi U, Budhathoki P, Gaire S, Yadav SK, Niu C, Agrawal V, Low SK, Soliman HH. Clinical Outcomes and Prognostic Factors in Epithelial-Myoepithelial Carcinoma (EMC) of the Breast. Clin Breast Cancer. 2025 Jul.25(5):e511-e516.e8. Pubmedid: [39934001](https://www.ncbi.nlm.nih.gov/pubmed/39934001). 
@@ -595,8 +594,8 @@ Status: Open
     * Soliman H, Khambati F, Han HS, Ismail-Khan R, Bui MM, Sullivan DM, Antonia S. A phase-1/2 study of adenovirus-p53 transduced dendritic cell vaccine in combination with indoximod in metastatic solid tumors and invasive breast cancer. Oncotarget. 2018 Feb.9(11):10110-10117. Pubmedid: [29515795](https://www.ncbi.nlm.nih.gov/pubmed/29515795). Pmcid: PMC5839376. 
     * Cox K, Alford B, Soliman H. Emerging Therapeutic Strategies in Breast Cancer. South Med J. 2017 Oct.110(10):632-637. Pubmedid: [28973703](https://www.ncbi.nlm.nih.gov/pubmed/28973703). 
     * Tauro M, Shay G, Sansil SS, Laghezza A, Tortorella P, Neuger AM, Soliman H, Lynch CC. Bone-Seeking Matrix Metalloproteinase-2 Inhibitors Prevent Bone Metastatic Breast Cancer Growth. Mol Cancer Ther. 2017 Mar.16(3):494-505. Pubmedid: [28069877](https://www.ncbi.nlm.nih.gov/pubmed/28069877). Pmcid: PMC5337166. 
-    * Prabhakaran S, Rizk VT, Ma Z, Cheng CH, Berglund AE, Coppola D, Khalil F, Mulé JJ, Soliman HH. Evaluation of invasive breast cancer samples using a 12-chemokine gene expression score: correlation with clinical outcomes. Breast Cancer Res. 2017 Jun.19(1):71. Pubmedid: [28629479](https://www.ncbi.nlm.nih.gov/pubmed/28629479). Pmcid: PMC5477261. 
     * Poleszczuk J, Luddy K, Chen L, Lee JK, Harrison LB, Czerniecki BJ, Soliman H, Enderling H. Neoadjuvant radiotherapy of early-stage breast cancer and long-term disease-free survival. Breast Cancer Res. 2017 Jun.19(1):75. Pubmedid: [28666457](https://www.ncbi.nlm.nih.gov/pubmed/28666457). Pmcid: PMC5493088. 
+    * Prabhakaran S, Rizk VT, Ma Z, Cheng CH, Berglund AE, Coppola D, Khalil F, Mulé JJ, Soliman HH. Evaluation of invasive breast cancer samples using a 12-chemokine gene expression score: correlation with clinical outcomes. Breast Cancer Res. 2017 Jun.19(1):71. Pubmedid: [28629479](https://www.ncbi.nlm.nih.gov/pubmed/28629479). Pmcid: PMC5477261. 
     * Musolino A, Campone M, Neven P, Denduluri N, Barrios CH, Cortes J, Blackwell K, Soliman H, Kahan Z, Bonnefoi H, Squires M, Zhang Y, Deudon S, Shi MM, André F. Phase II, randomized, placebo-controlled study of dovitinib in combination with fulvestrant in postmenopausal patients with HR+, HER2- breast cancer that had progressed during or after prior endocrine therapy. Breast Cancer Res. 2017 Feb.19(1):18. Pubmedid: [28183331](https://www.ncbi.nlm.nih.gov/pubmed/28183331). Pmcid: PMC5301372. 
     * Reed DR, Oshrine B, Pratt C, Fridgen O, Elstner C, Wilson L, Soliman H, Lee MC, McLeod HL, Shah B, Donovan KA, Pabbathi S, Turney M, Binitie O, Healy C, Nieder M, Shaw PH, Galligan A, Letson GD, Stern M, Quinn GP, Davies S. Sink or Collaborate: How the Immersive Model Has Helped Address Typical Adolescent and Young Adult Barriers at a Single Institution and Kept the Adolescent and Young Adult Program Afloat. J Adolesc Young Adult Oncol. 2017 Dec.6(4):503-511. Pubmedid: [28777007](https://www.ncbi.nlm.nih.gov/pubmed/28777007). Pmcid: PMC5725631. 
     * Costa RLB, Soliman H, Czerniecki BJ. The clinical development of vaccines for HER2+ breast cancer: Current landscape and future perspectives. Cancer Treat Rev. 2017 Dec.61:107-115. Pubmedid: [29125981](https://www.ncbi.nlm.nih.gov/pubmed/29125981). 
@@ -606,9 +605,9 @@ Status: Open
     * Soliman HH. nab-Paclitaxel as a potential partner with checkpoint inhibitors in solid tumors. Onco Targets Ther. 2016 Dec.10:101-112. Pubmedid: [28053544](https://www.ncbi.nlm.nih.gov/pubmed/28053544). Pmcid: PMC5189972. 
     * Yardley DA, Reeves J, Dees EC, Osborne C, Paul D, Ademuyiwa F, Soliman H, Guthrie T, Andersen J, Krekow L, Choksi J, Daniel B, Danso M, Favret A, Oommen S, Brufsky A, Bromund JL, Lin Y, Ibrahim AB, Richards PD. Ramucirumab With Eribulin Versus Eribulin in Locally Recurrent or Metastatic Breast Cancer Previously Treated With Anthracycline and Taxane Therapy: A Multicenter, Randomized, Phase II Study. Clin Breast Cancer. 2016 Dec.16(6):471-479.e1. Pubmedid: [27569274](https://www.ncbi.nlm.nih.gov/pubmed/27569274). 
     * Soliman HH, Minton SE, Han HS, Ismail-Khan R, Neuger A, Khambati F, Noyes D, Lush R, Chiappori AA, Roberts JD, Link C, Vahanian NN, Mautino M, Streicher H, Sullivan DM, Antonia SJ. A phase I study of indoximod in patients with advanced malignancies. Oncotarget. 2016 Apr.7(16):22928-22938. Pubmedid: [27008709](https://www.ncbi.nlm.nih.gov/pubmed/27008709). Pmcid: PMC5008412. 
+    * Gradishar WJ, Anderson BO, Balassanian R, Blair SL, Burstein HJ, Cyr A, Elias AD, Farrar WB, Forero A, Giordano SH, Goetz M, Goldstein LJ, Hudis CA, Isakoff SJ, Marcom PK, Mayer IA, McCormick B, Moran M, Patel SA, Pierce LJ, Reed EC, Salerno KE, Schwartzberg LS, Smith KL, Smith ML, Soliman H, Somlo G, Telli M, Ward JH, Shead DA, Kumar R. NCCN Guidelines Insights Breast Cancer, Version 1.2016. J Natl Compr Canc Ne. 2015 Dec.13(12):1475-1485. Pubmedid: [26656517](https://www.ncbi.nlm.nih.gov/pubmed/26656517). 
     * Tchekmedyian N, Gray JE, Creelan BC, Chiappori AA, Beg AA, Soliman H, Perez BA, Antonia SJ. Propelling Immunotherapy Combinations Into the Clinic. Oncology (Williston Park). 2015 Dec.29(12):990-1002. Pubmedid: [26680224](https://www.ncbi.nlm.nih.gov/pubmed/26680224). 
     * Soliman H, Mediavilla-Varela M, Antonia SJ. A GM-CSF and CD40L bystander vaccine is effective in a murine breast cancer model. Breast Cancer (Dove Med Press). 2015 Dec.7:389-397. Pubmedid: [26719725](https://www.ncbi.nlm.nih.gov/pubmed/26719725). Pmcid: PMC4687618. 
-    * Gradishar WJ, Anderson BO, Balassanian R, Blair SL, Burstein HJ, Cyr A, Elias AD, Farrar WB, Forero A, Giordano SH, Goetz M, Goldstein LJ, Hudis CA, Isakoff SJ, Marcom PK, Mayer IA, McCormick B, Moran M, Patel SA, Pierce LJ, Reed EC, Salerno KE, Schwartzberg LS, Smith KL, Smith ML, Soliman H, Somlo G, Telli M, Ward JH, Shead DA, Kumar R. NCCN Guidelines Insights Breast Cancer, Version 1.2016. J Natl Compr Canc Ne. 2015 Dec.13(12):1475-1485. Pubmedid: [26656517](https://www.ncbi.nlm.nih.gov/pubmed/26656517). 
     * Yang L, Song T, Chen L, Soliman H, Chen J. Nucleolar repression facilitates initiation and maintenance of senescence. Cell Cycle. 2015 Dec.14(22):3613-3623. Pubmedid: [26505814](https://www.ncbi.nlm.nih.gov/pubmed/26505814). Pmcid: PMC4825723. 
     * Gradishar WJ, Anderson BO, Balassanian R, Blair SL, Burstein HJ, Cyr A, Elias AD, Farrar WB, Forero A, Giordano SH, Goetz M, Goldstein LJ, Hudis CA, Isakoff SJ, Marcom PK, Mayer IA, McCormick B, Moran M, Patel SA, Pierce LJ, Reed EC, Salerno KE, Schwartzberg LS, Smith KL, Smith ML, Soliman H, Somlo G, Telli M, Ward JH, Shead DA, Kumar R. Breast Cancer Version 2.2015. J Natl Compr Canc Ne. 2015 Apr.13(4):448-475. Pubmedid: [25870381](https://www.ncbi.nlm.nih.gov/pubmed/25870381). 
     * Soliman HH, Jackson E, Neuger T, Dees EC, Harvey RD, Han H, Ismail-Khan R, Minton S, Vahanian NN, Link C, Sullivan DM, Antonia S. A first in man phase I trial of the oral immunomodulator, indoximod, combined with docetaxel in patients with metastatic solid tumors. Oncotarget. 2014 Sep.5(18):8136-8146. Pubmedid: [25327557](https://www.ncbi.nlm.nih.gov/pubmed/25327557). Pmcid: PMC4226672. 
@@ -718,7 +717,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -773,7 +772,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/hatem-soliman#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/hatem-soliman#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -791,7 +790,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1145,7 +1144,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/hatem-soliman#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/hatem-soliman#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

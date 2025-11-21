@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jose-pimiento",
-  "last_updated": "2025-10-21T16:38:33.866698",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jose-pimiento/",
+  "last_updated": "2025-11-21T22:50:24.833698",
   "researcher_id": "6667",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Gastrointestinal Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "gastrointestinal oncology",
+  "research_program": "molecular medicine",
   "overview": "Dr. Pimiento\u2019s research focus is in the treatment of gastrointestinal malignancies, studying the outcomes related with minimally invasive approaches for their treatment, also in identifying clinical, pathologic and molecular factors related to tumor behavior that will impact the response to different treatment modalities. His translational research is focused on chemoprevention of upper gastrointestinal malignancies.",
   "research_interests": [
     "Dr. Pimiento\u2019s research focus is in the treatment of gastrointestinal malignancies, studying the outcomes related with minimally invasive approaches for their treatment, also in identifying clinical, pathologic and molecular factors related to tumor behavior that will impact the response to different treatment modalities. His translational research is focused on chemoprevention of upper gastrointestinal malignancies.\n  *"
@@ -67,13 +67,13 @@
       "journal": "J Surg Oncol"
     },
     {
-      "title": "Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy",
-      "pubmed_id": "40507279",
-      "pmc_id": "PMC12153592",
+      "title": "Lifetime stressor exposure and depression among patients with pancreatic cancer: insights from the Florida Pancreas Collaborative",
+      "pubmed_id": "41062956",
+      "pmc_id": "PMC12506433",
       "year": "2025",
-      "publication_date": "2025 May",
-      "authors": "Yu J, Laborde JM, Park R, Shahzad M, Kim Y, Cheon J, Imanirad I, Kim RD, Biachi de Castria T, Nardella NL, Malafa M, Denbo JW, Fleming JB, Hoffe SE, Frakes JM, Sinnamon AJ, Pimiento JM, Hodul PJ, Kim DW",
-      "journal": "Cancers (Basel)"
+      "publication_date": "2025 Oct",
+      "authors": "DeSomma A, Maletz S, Basinski TL, Morales R, de Castria TB, Bloomston M, Chen DT, Douglas WG, Huguet KL, Jeong D, Jiang K, Kim DW, Luthra A, Pimiento JM, Rajasekhara S, Velanovich V, Park MA, Shields GS, Slavich GM, Permuth JB",
+      "journal": "BMC Cancer"
     },
     {
       "title": "Gastric Cancer, Version 2",
@@ -81,6 +81,15 @@
       "year": "2025",
       "publication_date": "2025 May",
       "authors": "Ajani JA, D'Amico TA, Bentrem DJ, Corvera CU, Das P, Enzinger PC, Enzler T, Gerdes H, Gibson MK, Grierson P, Gupta G, Hofstetter WL, Ilson DH, Jalal S, Kim S, Kleinberg LR, Klempner S, Lacy J, Lee B, Licciardi F, Lloyd S, Ly QP, Matsukuma K, McNamara M, Merkow RP, Miller AM, Mukherjee S, Mulcahy MF, Perry KA, Pimiento JM, Reddi DM, Reznik S, Roses RE, Strong VE, Su S, Uboha N, Wainberg ZA, Willett CG, Woo Y, Yoon HH, McMillian NR, Stein M"
+    },
+    {
+      "title": "Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy",
+      "pubmed_id": "40507279",
+      "pmc_id": "PMC12153592",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Yu J, Laborde JM, Park R, Shahzad M, Kim Y, Cheon J, Imanirad I, Kim RD, Biachi de Castria T, Nardella NL, Malafa M, Denbo JW, Fleming JB, Hoffe SE, Frakes JM, Sinnamon AJ, Pimiento JM, Hodul PJ, Kim DW",
+      "journal": "Cancers (Basel)"
     },
     {
       "title": "ASO Visual Abstract: Clinical and Pathologic Response to Neoadjuvant Immunotherapy in DNA Mismatch Repair Protein-Deficient Gastroesophageal Cancers",
@@ -114,14 +123,6 @@
       "publication_date": "2025 Feb",
       "authors": "Lin YC, Pimiento JM, Milano J, Riccardi D, Mckinnie N, Hume E, Sprow O, Diaz-Carraway S, Budnetz M, Hagen R, Al-Jumayli M, Pereira AL, Sinnamon AJ, Somasundaram A, Permuth JB, Tabriz AA, Turner K",
       "journal": "Contemp Clin Trials Commun"
-    },
-    {
-      "title": "Survival after esophagectomy for metastatic esophageal cancer: should the role of surgery be reconsidered?",
-      "pubmed_id": "40513811",
-      "year": "2025",
-      "publication_date": "2025 Aug",
-      "authors": "Saeed SH, Sinnamon AJ, Fontaine JP, Mehta RJ, Baldonado JJR, Pena LR, Pereira AAL, Hoffe SE, Frakes JM, Pimiento JM",
-      "journal": "J Gastrointest Surg"
     },
     {
       "title": "Invited commentary on \"Outcomes of minimally invasive vs open total gastrectomy for gastric adenocarcinoma\"",
@@ -162,11 +163,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PimientoJose_6667.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=6667"
   },
-  "content_hash": "97f8919dfeb8d22132c1c2e1cde3b275c4146dc8e98e5a4eb20d45ff08704919",
-  "researcher_name": "Jose Pimiento",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "3562256278bd1ac51aa2a0898c99e307343f1e4f16f84400e21902e7240a3621",
+  "researcher_name": "jose pimiento",
+  "department": "tumor microenvironment and metastasis"
 }

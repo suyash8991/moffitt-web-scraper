@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/renee-brady",
-  "last_updated": "2025-10-21T16:33:49.746417",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/renee-brady/",
+  "last_updated": "2025-11-21T22:50:26.543672",
   "researcher_id": "19089",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Integrated Mathematical Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "integrated mathematical oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "To develop predictive mathematical models of easily accessible, minimally-invasive biomarkers, such as blood markers and patient-reported outcomes. The goal is to quantify and predict individual patient response, while understanding and reducing cancer health disparities.",
   "research_interests": [
     "The Brady-Nicholls lab is focused on improving patient care using accessible, minimally-invasive biomarkers through the integration of mathematical modeling, with a special interest on improving outcomes for underrepresented minorities. To accomplish this, we develop predictive mathematical models of these biomarker dynamics that propose patient-tailored treatment strategies that maximize patient response and quality of life.\n  *"
@@ -145,11 +145,14 @@
       "description": ""
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/brady-nicholls/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BradyRenee_19089.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19089"
   },
-  "content_hash": "695ead197ecddab47f18ba66b732d3a69380412ce0a66ca5842b79fcf4180243",
-  "researcher_name": "Renee Brady",
-  "department": "Integrated Mathematical Oncology"
+  "content_hash": "acd1b2d1d1f030ac6679e2bc13fdd73a5e626981bbd2d44ae5bdd33311b9053e",
+  "researcher_name": "renee brady",
+  "department": "integrated mathematical oncology"
 }

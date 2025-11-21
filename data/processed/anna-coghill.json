@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/anna-coghill",
-  "last_updated": "2025-10-21T16:35:38.661906",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/anna-coghill/",
+  "last_updated": "2025-11-21T22:50:22.743758",
   "researcher_id": "22486",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Antiretroviral therapy has proven to be remarkably effective at improving overall survival in people living with HIV (PLWH). One unintended correlate of this longevity is a growing burden of chronic diseases such as cancer in patients with HIV. In fact, cancer is now the second leading cause of death in PLWH. My research program focuses on the intersection between HIV and cancer, including projects to identify immunological and healthcare-associated factors in PLWH that may be associated with clinical outcomes in these patients.",
   "research_interests": [
     "Anna E. Coghill, PhD, MPH is an Assistant Member in the Cancer Epidemiology Program at the H. Lee Moffitt Cancer Center & Research Institute. Her interest in the intersection between infectious agents and cancer began during her dissertation work focusing on HIV as a determinant of cancer patient survival at the UCI/Hutchinson Cancer Center Alliance in Uganda. This work suggested that HIV was not only related to cancer development but that it also played a role in how patients survived after a cancer diagnosis. Dr. Coghill\u2019s publications using the HIV/AIDS Cancer Match Study and National Cancer Database, as well as collaborations with the Brazilian National Cancer Institute, have established that HIV-infected cancer patients experience worse stage-specific survival that their HIV-uninfected counterparts. Her research program is now focused on identifying both healthcare-related and molecular reasons for this survival disparity, and she serves as the Moffitt Site Principal Investigator for the AIDS Malignancy Consortium, an NCI-funded clinical trials network to support innovative cancer prevention and treatment trials for PLWH and cancer. \n  *"
@@ -35,7 +35,7 @@
   ],
   "publications": [
     {
-      "title": "Comparison of QuPath and HALO platforms for analysis of the tumor microenvironment in prostate cancer",
+      "title": "Comparison of QuPath and HALO Platforms for Analysis of the Tumor Microenvironment in Prostate Cancer",
       "pubmed_id": "41005710",
       "year": "2025",
       "publication_date": "2025 Sep",
@@ -50,6 +50,14 @@
       "publication_date": "2025 Oct",
       "authors": "Jackson SS, Francis J, Pfeiffer RM, Proietti C, Coghill AE, Yu KJ, Sarathkumara YD, Hsu WL, Argirion I, Wang CP, Chen CJ, Rothman N, Lan Q, Hildesheim A, Doolan DL, Liu Z",
       "journal": "J Infect Dis"
+    },
+    {
+      "title": "The association of immunosuppression and HIV control with Kaposi sarcoma among patients on antiretroviral therapy",
+      "pubmed_id": "40704994",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Coghill AE, Thompson Z, Bamford L, Burkholder G, Enron J, Gopal S, Kitahata MM, Mayer KH, Moore R, Yendewa G, Dickey BL, Yanik E, Achenbach C",
+      "journal": "Aids"
     },
     {
       "title": "Elevated Tumor Mutation Burden in Cancer Patients with Underlying HIV Infection: Data from the Oncology Research Information Exchange Network (ORIEN)",
@@ -94,14 +102,6 @@
       "publication_date": "2025 Jun",
       "authors": "Fenlon J, Van Bibber N, Mahlow J, Yamoah K, Soupir AC, Nguyen JV, Moran Segura C, Spivak AM, Knudsen BS, Zhou Q, Hu-Lieskovan S, Puri S, Zhang W, DeRose YS, Suneja G, Coghill AE",
       "journal": "Cancer Epidemiol Biomarkers Prev"
-    },
-    {
-      "title": "The association of immunosuppression and HIV control with Kaposi sarcoma among patients on antiretroviral therapy",
-      "pubmed_id": "40704994",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Coghill AE, Thompson Z, Bamford L, Burkholder G, Enron J, Gopal S, Kitahata MM, Mayer KH, Moore R, Yendewa G, Dickey BL, Yanik E, Achenbach C",
-      "journal": "Aids"
     },
     {
       "title": "Cervical Cancer Outcomes in Women With HIV in the Age of Antiretroviral Therapy",
@@ -216,11 +216,29 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23131/",
+      "trial_id": "23131",
+      "title": "Impact of Behavior Modification Interventions and Lung Cancer Screening on Smoking Cessation in People Living with HIV: A Feasibility Study",
+      "condition": "Multiple",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23143/",
+      "trial_id": "23143",
+      "title": "Trends and Outcomes in HIV-positive Patients Undergoing Treatment for Invasive or Preinvasive Cervical and Other Gynecologic Neoplasias",
+      "condition": "Gynecological Tumor",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?user=6n4ZHtAAAAAJ&hl=en&oi=ao",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/CoghillAnna_22486.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22486"
   },
-  "content_hash": "9b312e5267dc1e14a71c055abf44c76ff373b9bcf99058678b6cfb133bb8570c",
-  "researcher_name": "Anna Coghill",
-  "department": "Cancer Epidemiology"
+  "content_hash": "cac6bee84cb2c80dc3e748cdce1e8e4b5d550589bf25e58693b0b4c36e4703e4",
+  "researcher_name": "anna coghill",
+  "department": "cancer epidemiology"
 }

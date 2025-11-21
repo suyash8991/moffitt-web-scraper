@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/mingxiang-teng",
-  "last_updated": "2025-10-21T16:33:11.060632",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mingxiang-teng/",
+  "last_updated": "2025-11-21T22:50:25.943121",
   "researcher_id": "22424",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "cancer biology & evolution",
   "overview": "Dr. Teng\u2019s research focuses on data science questions in decoding cancer epigenomic mechanisms. Epigenomics complement genomics studies in understanding cancer oncogenesis and provide new insights in cancer treatment. His data science researches, in conjunction with wet-lab collaborations, generate novel approaches to process, integrate and interpret epigenomic data toward cancer discovery.",
   "research_interests": [
     "Dr. Teng\u2019s research areas include: 1) Integrative approaches in decoding enhancer functions in cancers; 2) Computational modeling of viral-tumorigenesis and immune responses in DNA virus-related cancers; 3) Machine learning in identifying clonal hematopoiesis biomarkers in solid tumors. \n  *"
@@ -52,14 +52,6 @@
       "journal": "medRxiv"
     },
     {
-      "title": "Epstein-Barr virus exploits desmocollin 2 as the principal epithelial cell entry receptor",
-      "pubmed_id": "41006833",
-      "year": "2025",
-      "publication_date": "2025 Sep",
-      "authors": "Wang H, Mou Z, Yeo YY, Ge Q, Liu X, Narita Y, Li Z, Wang C, Li W, Zhao KR, Li J, Bu W, Gewurz B, Cohen JI, Teng M, Dai X, Liu X, Jiang S, Zhao B",
-      "journal": "Nat Microbiol"
-    },
-    {
       "title": "qcCHIP: an R package to identify clonal hematopoiesis variants using cohort-specific data characteristics",
       "pubmed_id": "40973027",
       "pmc_id": "PMC12466928",
@@ -69,10 +61,19 @@
       "journal": "Bioinformatics"
     },
     {
+      "title": "Epstein-Barr virus exploits desmocollin 2 as the principal epithelial cell entry receptor",
+      "pubmed_id": "41006833",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Wang H, Mou Z, Yeo YY, Ge Q, Liu X, Narita Y, Li Z, Wang C, Li W, Zhao KR, Li J, Bu W, Gewurz B, Cohen JI, Teng M, Dai X, Liu X, Jiang S, Zhao B",
+      "journal": "Nat Microbiol"
+    },
+    {
       "title": "PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo",
       "pubmed_id": "40376796",
+      "pmc_id": "PMC12353786",
       "year": "2025",
-      "publication_date": "2025 May",
+      "publication_date": "2025 Nov",
       "authors": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J",
       "journal": "Mol Cancer Ther"
     },
@@ -186,11 +187,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://lab.moffitt.org/teng",
+  "google_scholar_url": "https://scholar.google.com/citations?user=T7QIObwAAAAJ",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TengMingxiang_22424.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22424"
   },
-  "content_hash": "29d6fa9b18274c30fa06676a316c6ab4f436aea98b87ac52e54e3944ace6abe3",
-  "researcher_name": "Mingxiang Teng",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "6b9587f12c13b8f29ea100221f044e7ec6c5372c87f044a20644a7537c09858b",
+  "researcher_name": "mingxiang teng",
+  "department": "biostatistics and bioinformatics"
 }

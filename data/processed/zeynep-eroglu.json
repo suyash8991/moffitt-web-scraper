@@ -1,0 +1,204 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/zeynep-eroglu/",
+  "last_updated": "2025-11-21T22:50:27.509872",
+  "researcher_id": "16007",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "cutaneous oncology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Eroglu\u2019s research interests are translational and clinical research in targeted therapies and combination immunotherapeutics for melanoma and other skin cancers, along with development of personalized treatment strategies and biomarkers for patients with melanoma.",
+  "research_interests": [
+    "Dr. Eroglu\u2019s research interests are translational and clinical research in targeted therapies and combination immunotherapeutics for melanoma and other skin cancers, along with development of personalized treatment strategies and biomarkers for patients with melanoma. \n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "UCLA David Geffen School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of California, Irvine",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "City of Hope/Harbor-UCLA Medical Center",
+      "specialty": "Hematology/Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Recurrence and Survival Outcomes in Patients with Primary Merkel Cell Carcinoma with Positive, Negative, or Not Performed Sentinel Lymph Node Biopsy",
+      "pubmed_id": "41168606",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Dugan MM, Balsay-Patel C, Chin N, Israeli J, Ward KR, Nichols M, Greenbaum S, Fan W, Cruse CW, Harrington M, Neves RI, Gonzalez RJ, Perez MC, Sarnaik AA, Sondak VK, Messina JL, Tarhini AA, Khushalani N, Brohl AS, Markowitz J, Eroglu Z, Karapetyan L, Tsai KY, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Advanced stage melanoma during pregnancy: recommendations from a retrospective, multicentre, registry-based study",
+      "pubmed_id": "41127564",
+      "pmc_id": "PMC12538904",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Borgers JSW, Johnson DB, Livingstone E, Schadendorf D, Buchbinder EI, Haydu LE, Gohil L, Robinson WA, Mehmi I, Hamid O, Ferreira M, Salama AKS, Dimitriou F, Carlino MS, Long GV, Ascierto PA, Simeone E, Najjar YG, Hospers GAP, Choi J, Chandra S, Wayne JD, Garc\u00eda CIR, Xu W, Lebb\u00e9 C, Da-Meda L, Atkinson V, Mckean M, Forschner A, Asare EA, Daletzakis A, Taylor JS, Amant F, Tsai KK, Eroglu Z, Haanen JBAG, Glitza de Oliva IC",
+      "journal": "EClinicalMedicine"
+    },
+    {
+      "title": "Role of high-dose interleukin-2 for melanoma in the age of cellular therapy",
+      "pubmed_id": "40447314",
+      "pmc_id": "PMC12128428",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Buchbinder E, Lotze MT, Margolin KA, Amaria R, Sarnaik A, Seery V, Eroglu Z, Khaddour K, Betof Warner A, Kluger HM, Sznol M, Atkins MB, Mcdermott DF, Silk AW",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Phase II Trial of Pembrolizumab in Combination With Bevacizumab for Untreated Melanoma Brain Metastases",
+      "pubmed_id": "40048689",
+      "pmc_id": "PMC12058415",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Weiss SA, Djureinovic D, Wei W, Tran T, Austin M, Markowitz J, Eroglu Z, Khushalani NI, Hegde U, Cohen J, Sznol M, Anderson G, Johnson B, Piteo C, Mahajan A, Adeniran A, Jilaveanu L, Goldberg S, Chiang V, Forsyth P, Kluger HM",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "FDG-PET associations with pathological response and survival with neoadjuvant immunotherapy for melanoma",
+      "pubmed_id": "40132907",
+      "pmc_id": "PMC11938238",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Zhou L, Barros E Silva MJ, Hsiao E, Eroglu Z, Sandhu S, Samoylenko I, Lo SN, Carlino MS, Au-Yeung G, Gonzalez M, Spillane AJ, Pennington TE, Shannon KF, Kapoor R, Burton EM, Tawbi HA, Amaria RN, Blank CU, Duprat JP, Brito de Paula R, Gyorki DE, Saw RPM, Ch'Ng S, Rawson RV, Scolyer RA, Pires da Silva I, Akkooi ACJV, Long GV, Menzies AM",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Proceedings of the seventh annual Women in Melanoma Conference",
+      "pubmed_id": "40535733",
+      "pmc_id": "PMC12174741",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Najjar YG, Orloff M, Mitchell TC, Bowles TL, Betof Warner A, Bollin K, Chandra S, Cohen JV, Eroglu Z, Funchain P, Gaughan E, Glitza Oliva I, Hsu S, Hu-Lieskovan S, Kennedy LB, Truong TG, McKean M, Mehnert J, Moon H, Tsai KK, Wilson M, Tran T, Buchbinder EI, Fecher LA, Guild S, Patel SP",
+      "journal": "Ther Adv Med Oncol"
+    },
+    {
+      "title": "Publisher Correction: Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S",
+      "pubmed_id": "40858972",
+      "year": "1512",
+      "publication_date": "1512 trial",
+      "authors": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Khushalani NI, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A"
+    },
+    {
+      "title": "Combined Targeting of PD-1 and TIM-3 in Patients with Locally Advanced or Metastatic Melanoma: AMBER Cohorts 1c, 1e, and 2A",
+      "pubmed_id": "40552935",
+      "pmc_id": "PMC12351273",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Davar D, Eroglu Z, P\u00e9rez CL, Di Pace B, Wang T, Yanamandra N, Ghosh S, Jansen K, Dhar A, Borgovan T, Waszak A, Ribas A",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Combined Targeting of PD-1 and TIM-3 in Patients with Locally Advanced or Metastatic Non-Small Cell Lung Cancer: AMBER Part 2B",
+      "pubmed_id": "40552922",
+      "pmc_id": "PMC12351275",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Davar D, Eroglu Z, Milhem M, Becerra C, Gutierrez M, Ribas A, Di Pace B, Wang T, Zhang H, Ghosh S, Yanamandra N, Borgovan T, Srivats S, Waszak A, Dhar A, LoRusso P",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S",
+      "pubmed_id": "40813711",
+      "pmc_id": "PMC12419231",
+      "year": "1512",
+      "publication_date": "1512 trial",
+      "authors": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Nikhil IK, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Adjuvant/neoadjuvant immunotherapy in melanoma based on serial plasma ctDNA monitoring  \nAward Number: 25B07  \nSponsor: Florida Department of Health  \nEroglu, Z. (PD/PI)",
+      "title": "Adjuvant/neoadjuvant immunotherapy in melanoma based on serial plasma ctDNA monitoring",
+      "award_number": "25B07",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Eroglu, Z.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20641/",
+      "trial_id": "20641",
+      "title": "A Randomized Pilot Trial of Adjuvant Therapy Based on Pathologic Response After Neoadjuvant Encorafenib and Binimetinib in Advanced Melanoma",
+      "condition": "Cutaneous",
+      "intervention": "BMS-936558 (Nivolumab); Binimetinib (); Encorafenib (); Nivolumab (Opdivo); Not Applicable ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20731/",
+      "trial_id": "20731",
+      "title": "Phase 2 Study of Afatinib in Advanced Cutaneous Squamous Cell Carcinoma",
+      "condition": "Cutaneous",
+      "intervention": "Afatinib (); BIBW 2992 (Afatinib)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21112/",
+      "trial_id": "21112",
+      "title": "Phase 2 Study of Axitinib + Ipilimumab in Advanced Melanoma",
+      "condition": "Cutaneous",
+      "intervention": "Ipilimumab (); Yervoy (Ipilimumab); axitinib (AG-013736)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21997/",
+      "trial_id": "21997",
+      "title": "Adaptive Therapy of Vismodegib in Advanced Basal Cell Carcinoma",
+      "condition": "Cutaneous",
+      "intervention": "Not Applicable (); Vismodegib (Erivedge)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22279/",
+      "trial_id": "22279",
+      "title": "A phase 1a/b open-label master study of pf-07799544 as a Single-agent and in combination with other targeted agents In participants with braf-mutant melanoma and other solid Tumors",
+      "condition": "Cutaneous",
+      "intervention": "PF-07284890 (); PF-07799544 (); PF-0779993 (); PF-07799933 ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23474/",
+      "trial_id": "23474",
+      "title": "A Multicenter, Open-Label, Randomized, Controlled Study to Assess the Antitumor Activity of LNS8801 With and Without Pembrolizumab in Patients With Treatment-Refractory, Unresectable Melanoma",
+      "condition": "Cutaneous",
+      "intervention": "BMS-936558 (Nivolumab); BMS-986016 (Relatlimab); DTIC (Dacarbazine); Dacarbazine (); Ipilimumab (); LNS8801 (); Nivolumab (Opdivo); Pembrolizumab (Keytruda); Relatlimab (); Temodal (Temozolomide); Temozolomide (); Yervoy (Ipilimumab)",
+      "status": "OPEN (SUSPENDED)"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ErogluZeynep_16007.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16007"
+  },
+  "content_hash": "07869d59385f32b6ddfff842caf1ef6601290f59b4bad6433c8fe149e6734f36",
+  "researcher_name": "zeynep eroglu",
+  "department": ""
+}

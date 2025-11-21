@@ -1,0 +1,166 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lee-green/",
+  "last_updated": "2025-11-21T22:50:25.306382",
+  "researcher_id": "3647",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "health outcomes and behavior",
+  "research_program": "health outcomes & behavior",
+  "overview": "At Moffitt, we seek to create an environment where diverse individuals are welcome and feel confident they will receive the best cancer care in the nation.",
+  "research_interests": [
+    "Dr. Green\u2019s research focuses on cancer health disparities, particularly in education, knowledge and awareness among minority populations with strong interest in community-based participatory research and minority participation in clinical trials and research studies. He has completed extensive work in the area of minority participation in clinical trials and research studies. Dr. Green is currently serving as the Co-Principal Investigator of the USF/Moffitt Health Disparities Center. This grant is designed to help build infrastructure with-in institutions to better equip them to address health disparities. He is also a co-investigator on an NIH grant examining the influence of the U.S. Public Health Service Syphilis Study on willingness to participate in biomedical studies. The research has involved the development of a survey tool to assess participation into clinical trials and research studies and is one of the first studies to quantitatively assess the impact of the Syphilis Study on minority participation in clinical trials.\n  *"
+  ],
+  "associations": [
+    "Health Outcomes and Behavior",
+    "Radiation Oncology",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Valdosta State University, MEd"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Alabama, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data",
+      "pubmed_id": "40111867",
+      "pmc_id": "PMC11986816",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y",
+      "journal": "JNCI Cancer Spectr"
+    },
+    {
+      "title": "Racial and ethnic differences in acute post-operative pain management: Systematic review and meta-analysis",
+      "pubmed_id": "40328199",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Jones A, Feldtmann EJ, Bellido C, Coughlin EC, Mhaskar RS, Smith CR, Green BL, Le-Wendling LT",
+      "journal": "J Clin Anesth"
+    },
+    {
+      "title": "Bridging Health Disparities in the Data-Driven World of Artificial Intelligence: A Narrative Review",
+      "pubmed_id": "38955956",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Murphy A, Bowen K, Naqa IME, Yoga B, Green BL",
+      "journal": "J Racial Ethn Health Disparities"
+    },
+    {
+      "title": "Leveraging real-world data to predict cancer cachexia stage, quality of life, and survival in a racially and ethnically diverse multi-institutional cohort of treatment-na\u00efve patients with pancreatic ductal adenocarcinoma",
+      "pubmed_id": "39109281",
+      "pmc_id": "PMC11300308",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Permuth JB, Park MA, Chen DT, Basinski T, Powers BD, Gwede CK, Dezsi KB, Gomez M, Vyas SL, Biachi T, Cortizas EM, Crowder S, Genilo-Delgado M, Green BL, Greene A, Gregg C, Hoffe SE, Jiang K, Kim B, Vasudevan V, Garcialopez De Llano J, Menon AA, Mo Q, MorenoUrazan LM, Mok S, Parker N, Rajasekhara S, Rasool G, Sinnamon A, Sparks L, Stewart PA, Tardif K, Tassielli AF, Teer JK, Tran DV, Turner KL, Vadaparampil ST, Whelan CJ, Douglas WG, Velanovich V, Karachristos A, Legaspi A, Meredith K, Molina-Vega MA, Huguet KL, Arnoletti JP, Bloomston M, Trevino J, Merchant NB, Pimiento JM, Hodul PJ, Malafa M, Fleming J, Judge SM, Jeong DK, Judge A",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "Understanding and Addressing Prostate Cancer Disparities in Diagnosis, Treatment, and Outcomes Among Black Men",
+      "pubmed_id": "39149902",
+      "pmc_id": "PMC11329981",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Murphy A, Cottrell-Daniels CC, Awasthi S, Katende E, Park JY, Denis J, Green BL, Yamoah K",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "Accelerating health disparities research with artificial intelligence",
+      "pubmed_id": "38322109",
+      "pmc_id": "PMC10844447",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Green BL, Murphy A, Robinson E",
+      "journal": "Front Digit Health"
+    },
+    {
+      "title": "Willingness to participate in various nontherapeutic cancer research activities among urban and rural African American and Latinx healthy volunteers",
+      "pubmed_id": "35404020",
+      "year": "2022",
+      "publication_date": "2022 Aug",
+      "authors": "Scarinci IC, Hansen B, Green BL, Sodeke SO, Price-Haywood EG, Kim YI",
+      "journal": "Cancer Causes Control"
+    },
+    {
+      "title": "The Florida Pancreas Collaborative Next-Generation Biobank: Infrastructure to Reduce Disparities and Improve Survival for a Diverse Cohort of Patients with Pancreatic Cancer",
+      "pubmed_id": "33671939",
+      "pmc_id": "PMC7919015",
+      "year": "2021",
+      "publication_date": "2021 Feb",
+      "authors": "Permuth JB, Dezsi KB, Vyas S, Ali KN, Basinski TL, Utuama OA, Denbo JW, Klapman J, Dam A, Carballido E, Kim DW, Pimiento JM, Powers BD, Otto AK, Choi JW, Chen DT, Teer JK, Beato F, Ward A, Cortizas EM, Whisner SY, Williams IE, Riner AN, Tardif K, Velanovich V, Karachristos A, Douglas WG, Legaspi A, Allan BJ, Meredith K, Molina-Vega MA, Bao P, St Julien J, Huguet KL, Green L, Odedina FT, Kumar NB, Simmons VN, George TJ, Vadaparampil ST, Hodul PJ, Arnoletti JP, Awad ZT, Bose D, Jiang K, Centeno BA, Gwede CK, Malafa M, Judge SM, Judge AR, Jeong D, Bloomston M, Merchant NB, Fleming JB, Trevino JG",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Predictors of Cancer Screening Among Culturally Diverse Men",
+      "pubmed_id": "27118456",
+      "pmc_id": "PMC6131431",
+      "year": "2018",
+      "publication_date": "2018 Jun",
+      "authors": "Tucker CM, Wippold GM, Guastello AD, Arthur TM, Desmond FF, Rivers BM, Davis JL, Rivers D, Green BL",
+      "journal": "Am J Mens Health"
+    },
+    {
+      "title": "Race Is Associated With Poor Outcomes in Head and Neck Cancer",
+      "pubmed_id": "27674609",
+      "year": "2016",
+      "publication_date": "2016 Oct",
+      "authors": "Naghavi AO, Echevarria M, Strom T, Abuodeh YA, Ahmed KA, Venkat PS, Trotti A, Harrison LB, Green BL, Yamoah K, Caudell JJ",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Developing a Longitudinal Health Initiative to Positively Impact the Cardiovascular and Cancer Health of Black/African-American men nationally \u2013 The Kappa Alpha Psi Health Impact Initiative (KAPHII)  \nAward Number: FR-015516  \nSponsor: GENENTECH, INC.  \nGreen, B. (PD/PI)",
+      "title": "Developing a Longitudinal Health Initiative to Positively Impact the Cardiovascular and Cancer Health of Black/African-American men nationally \u2013 The Kappa Alpha Psi Health Impact Initiative (KAPHII)",
+      "award_number": "FR-015516",
+      "sponsor": "GENENTECH, INC.",
+      "investigators": [
+        {
+          "name": "Green, B.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Health Equity Leadership Program (HELP): An Equity of Care Catalyst Development Program  \nAward Number: 11455, First Amendment  \nSponsor: FLORIDA BLUE  \nVillarroel d. (PD/PI), Green, B. (Co-PD/PI), Sanchez, J. (Co-PD/PI)",
+      "title": "Health Equity Leadership Program (HELP): An Equity of Care Catalyst Development Program",
+      "award_number": "11455, First Amendment",
+      "sponsor": "FLORIDA BLUE  \nVillarroel d. (PD/PI),",
+      "investigators": [
+        {
+          "name": "Green, B.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Sanchez, J.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23286/",
+      "trial_id": "23286",
+      "title": "Developing a Longitudinal Health Initiative to Positively Impact the Cardiovascular and Cancer Health of Black/African-American Men Nationally - The Kappa Alpha Psi Health Impact Initiative (KAPHII)",
+      "condition": "Healthy Subjects",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "http://labpages2.moffitt.org/green",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GreenLee_3647.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3647"
+  },
+  "content_hash": "e76bc362e9a93081addb3ad8aff51a784e89ba81504928c7a13d29de76875be4",
+  "researcher_name": "lee green",
+  "department": "health outcomes & behavior"
+}

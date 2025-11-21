@@ -1,0 +1,119 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kathrin-dvir/",
+  "last_updated": "2025-11-21T22:50:25.060929",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "breast oncology",
+  "research_program": "health outcomes & behavior",
+  "overview": "I am interested in outcome research in the field of breast cancer, with a specific focus on inflammatory breast cancer and strategies for preventing breast cancer both in the general population and in individuals with a history of the disease.",
+  "research_interests": [
+    "Breast Oncology",
+    "Health Outcomes and Behavior",
+    "Health Outcomes & Behavior Program"
+  ],
+  "associations": [
+    "Breast Oncology",
+    "Health Outcomes and Behavior",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "A Real-World Single-Center Cohort Study on the Tolerability of Trastuzumab Deruxtecan for HER2+ Metastatic Breast Cancer",
+      "pubmed_id": "40759100",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Basta A, Lien K, Sun W, Whiting J, Armitage M, Soyano AE, Armaghani A, Loftus L, O Apos Connor T, Dvir K, Han HS, Soliman H, Czerniecki BJ, Costa RLB",
+      "journal": "Oncology-Basel"
+    },
+    {
+      "title": "Immunotherapy in Breast Cancer",
+      "pubmed_id": "39062758",
+      "pmc_id": "PMC11276856",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Dvir K, Giordano S, Leone JP",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Subsegmental approaches to S7: anatomic laparoscopic transdiaphragmatic and nonanatomic robotic transthoracic",
+      "pubmed_id": "37644157",
+      "year": "2023",
+      "publication_date": "2023 Oct",
+      "authors": "Vega EA, Salehi O, Panettieri E, Salirrosas O, Brauner E, Mellado S, Dvir K, Perepletchikov A, Kozyreva O, Conrad C",
+      "journal": "Surg Endosc"
+    },
+    {
+      "title": "Real-World Data on Liquid Biopsy Use in Non-Small Cell Lung Cancer in the Community Setting",
+      "pubmed_id": "35664822",
+      "pmc_id": "PMC9161665",
+      "year": "2021",
+      "publication_date": "2021 Feb",
+      "authors": "Dvir K, Galarza-Fortuna GM, Haines JM, Gines P, Ruiz AL, Rodriguez E",
+      "journal": "J Immunother Precis Oncol"
+    },
+    {
+      "title": "Circulating tumor DNA: Where are we now? A mini review of the literature",
+      "pubmed_id": "33033694",
+      "pmc_id": "PMC7522544",
+      "year": "2020",
+      "publication_date": "2020 Sep",
+      "authors": "Galarza Fortuna GM, Dvir K",
+      "journal": "World J Clin Oncol"
+    },
+    {
+      "title": "Diagnosis and Treatment of Metastatic Disease to the Pancreas",
+      "pubmed_id": "32614661",
+      "year": "2020",
+      "publication_date": "2020 Sep",
+      "authors": "Cortez N, Berzosa M, Mahfouz M, Dvir K, Galarza Fortuna GM, Ben-David K",
+      "journal": "J Laparoendosc Adv S"
+    },
+    {
+      "title": "A Rare Case of Light Chain Amyloidosis of the Gastrointestinal Tract",
+      "pubmed_id": "32665873",
+      "pmc_id": "PMC7345595",
+      "year": "2020",
+      "publication_date": "2020 Jun",
+      "authors": "Dvir K, Galarza-Fortuna GM, Willet A, Febres-Aldana C, Cortez N, Rapaka S, Coombs A, Goldberg R, Schwartz M, Ben-David K",
+      "journal": "Case Rep Surg"
+    },
+    {
+      "title": "Papillary Thyroid Carcinoma With Cystic Changes in a Patient With Prior History of Toxic Nodule",
+      "pubmed_id": "32666838",
+      "pmc_id": "PMC7364832",
+      "year": "2020",
+      "publication_date": "2020 Jan",
+      "authors": "Fortuna GMG, Rios P, Rivero A, Zuniga G, Dvir K, Pagacz MM, Manzano A",
+      "journal": "J Investig Med High Impact Case Rep"
+    },
+    {
+      "title": "Advances in Cholangiocarcinoma Treatment in the Personalized Medicine Era",
+      "year": "2020",
+      "publication_date": "2020 Dec",
+      "authors": "Dvir K, Galarza Fortuna GM, Guerra V, Cortez N, Cusnir M",
+      "journal": "Journal of Cancer Research Reviews & Reports"
+    },
+    {
+      "title": "Reactivation of Epstein-Barr Virus Presenting as Massive Splenomegaly after Initiation of Golimumab Treatment",
+      "pubmed_id": "32328321",
+      "pmc_id": "PMC7171624",
+      "year": "2020",
+      "publication_date": "2020 Apr",
+      "authors": "Febres-Aldana AJ, Febres-Aldana CA, Dvir K, Galarza-Fortuna G, Schwartz M, Medina AM, Sriganeshan V",
+      "journal": "Case Rep Hematol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DvirKathrin_41390.jpg",
+  "contact": {},
+  "content_hash": "79b4401d9b5a4d5c587a37509d72fc416b376fadb7d7599b1d9be32fce41adf9",
+  "researcher_name": "kathrin dvir",
+  "department": "health outcomes & behavior"
+}

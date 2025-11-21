@@ -1,0 +1,128 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/laura-kruper/",
+  "last_updated": "2025-11-21T22:50:25.232660",
+  "researcher_id": "34199",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "breast oncology",
+  "research_program": "cancer epidemiology",
+  "overview": "As a breast oncology fellowship-trained surgeon, the focus of my research is improving the delivery of care to breast cancer patients as well as addressing health care disparities. During the research portion of my surgical residency, I received a T32 National Research Service Award grant to pursue a Masters in Clinical Epidemiology (MSCE). My background in cancer epidemiology and outcomes research has provided me with the skills to conduct outcomes studies and participate in translational research projects. I have spent my career in academic Cancer Centers, first City of Hope and now Moffitt. I am actively engaged in clinical research and participate in clinical trials. I am particularly interested in the de-escalation of care in the treatment of breast cancer, using immunotherapy and vaccines to decrease breast tumor size in order to reduce toxic chemotherapies or offer less extensive surgeries. My research and clinical focus is de-escalating systemic breast cancer treatment, while bringing new technologies and therapies to breast cancer surgery to minimize toxicities and improve outcomes.",
+  "research_interests": [
+    "I was an active participant in accruing to the Selene Perimeter Device Trial (Perimeter MCC 21937) and accrued a total of 9 patients in 2024 to the trial. I am the Site Principal Investigator for the Agendia FLEX Registry trial slated to open July 2025. The purpose study is to create a large-scale, population-based database to better understand the biology, treatment and outcomes of breast cancer patients, enrolling patients for whom MammaPrint\u00ae and BluePrint\u2122 have been ordered to guide treatment decisions, MammaPrint\u00ae is an FDA cleared test used clinically to determine a patient\u2019s risk for distant metastasis and is used to guide treatment decisions. BluePrint\u2122 provides physicians with more information about an individual\u2019s breast cancer\u2019s biology. I will also be the Site PI for I-SPY's DCIS RECAST Study, slated for Fall 2025. This study is to determine whether 6 months of neoadjuvant exposure to novel endocrine therapy for women with ductal cell carcinoma in situ (DCIS) will increase the fraction of patients suitable for long-term active surveillance without surgery. The patients will be randomized to either standard neoendocrine therapies (tamoxifen or aromatase inhibitors) or novel therapies (endoxifen, elacestrant, testosterone + anastrazole pellet). My research interests include being able to employ large databases (cancer registries, population databases) to answer relevant questions to breast cancer care as therapies and treatments evolve over time. In 2024, I was granted access to the National Cancer Database (NCDB) and obtained the Participant User Files (PUF) with the hope to examine the interplay of de-escalation of specific breast cancer treatments and subsequent escalation of other breast cancer tests and/or therapies. However, 2024 was the first year that NCDB decided they will no longer code for STATA, the one statististical program I know. I am planning on collaborating with one of the sarcoma surgeons who was recently hired who is familiar with using SAS. \n  *"
+  ],
+  "associations": [
+    "Breast Oncology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Identifying Axillary Metastases in Patients with T3 Invasive Lobular Carcinoma",
+      "pubmed_id": "41072035",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Baumrucker C, Aiello P, Harris N, Whiting J, Funaro K, Hoover S, Kiluk J, Kruper L, Mallory M, Khakpour N, Laronga C, Czerniecki BJ, Lee MC, Detz D",
+      "journal": "South Med J"
+    },
+    {
+      "title": "Breast Cancer Risk Assessment Tool (BCRAT) and long-term breast cancer mortality in the Women's Health Initiative",
+      "pubmed_id": "39254768",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Nelson RA, Chlebowski RT, Pan K, Rohan TE, Mortimer J, Wactawski-Wende J, Lane DS, Kruper L",
+      "journal": "Breast Cancer Res Treat"
+    },
+    {
+      "title": "Gene expression associated with endocrine therapy resistance in estrogen receptor-positive breast cancer",
+      "pubmed_id": "40021703",
+      "pmc_id": "PMC11871144",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Jones V, Yin HH, Yuan YC, Wang Y, Li SM, Aljaber D, Sanchez A, Quinones C, Schmolze D, Yuan Y, Mortimer J, Yee L, Kruper L, Jovanovic-Talisman T, Tomsic J, Sanchez N, Chavez T, O'Regan RM, Khan QJ, Davis M, Kalinsky K, Meisel J, Kittles R, Rodriguez-Rodriguez L, Seewaldt V",
+      "journal": "Sci Rep"
+    },
+    {
+      "title": "Effects of vitamin D supplementation on a deep learning-based mammographic evaluation in SWOG S0812",
+      "pubmed_id": "38814817",
+      "pmc_id": "PMC11216724",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "McGuinness JE, Anderson GL, Mutasa S, Hershman DL, Terry MB, Tehranifar P, Lew DL, Yee M, Brown EA, Kairouz SS, Kuwajerwala N, Bevers TB, Doster JE, Zarwan C, Kruper L, Minasian LM, Ford L, Arun B, Neuhouser ML, Goodman GE, Brown PH, Ha R, Crew KD",
+      "journal": "JNCI Cancer Spectr"
+    },
+    {
+      "title": "Retrieval of the Clipped Axillary Lymph Node and Its Impact on Treatment Decisions",
+      "pubmed_id": "39272859",
+      "pmc_id": "PMC11393888",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Detz D, Hanssen D, Whiting J, Sun W, Czerniecki B, Hoover S, Khakpour N, Kiluk J, Laronga C, Mallory M, Lee MC, Kruper L",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Ductal carcinoma in situ and cause-specific mortality among younger and older postmenopausal women: the Women's Health Initiative",
+      "pubmed_id": "38730133",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Pan K, Nelson RA, Chlebowski RT, Piela R, Mullooly M, Simon MS, Rohan TE, Wactawski-Wende J, Manson JE, Mortimer JE, Lane D, Kruper L",
+      "journal": "Breast Cancer Res Treat"
+    },
+    {
+      "title": "African Ancestry and Triple-Negative Breast Cancer in the Women's Health Initiative",
+      "pubmed_id": "32909446",
+      "pmc_id": "PMC8976497",
+      "year": "2022",
+      "publication_date": "2022 Jul",
+      "authors": "Jones VC, Chlebowski RT, Pan K, Kruper L, Mortimer J, Nassir R, Nelson RA",
+      "journal": "Am Surg"
+    },
+    {
+      "title": "Tumor-infiltrating exhausted CD8+ T cells dictate reduced survival in premenopausal estrogen receptor-positive breast cancer",
+      "pubmed_id": "35132960",
+      "pmc_id": "PMC8855819",
+      "year": "2022",
+      "publication_date": "2022 Feb",
+      "authors": "Egelston CA, Guo W, Tan J, Avalos C, Simons DL, Lim MH, Huang YJ, Nelson MS, Chowdhury A, Schmolze DB, Yim JH, Kruper L, Melstrom L, Margolin K, Mortimer JE, Yuan Y, Waisman JR, Lee PP",
+      "journal": "JCI Insight"
+    },
+    {
+      "title": "A Cross-Sectional Study of Distress Levels in Patients with Newly Diagnosed Breast Cancer: The Impact of Race, Ethnicity, and Language Preference",
+      "pubmed_id": "34585296",
+      "year": "2022",
+      "publication_date": "2022 Feb",
+      "authors": "Gonzalez L, Sun C, Loscalzo M, Clark K, Kruper L, Mortimer J, Jones V",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Phase II Trial of Neoadjuvant Carboplatin and Nab-Paclitaxel in Patients with Triple-Negative Breast Cancer",
+      "pubmed_id": "33098195",
+      "pmc_id": "PMC7930424",
+      "year": "2021",
+      "publication_date": "2021 Mar",
+      "authors": "Yuan Y, Lee JS, Yost SE, Li SM, Frankel PH, Ruel C, Schmolze D, Robinson K, Tang A, Martinez N, Stewart D, Waisman J, Kruper L, Jones V, Menicucci A, Uygun S, Yoder E, van der Baan B, Yim JH, Yeon C, Somlo G, Mortimer J",
+      "journal": "Oncologist"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23426/",
+      "trial_id": "23426",
+      "title": "MammaPrint, BluePrint, and Full-genome Data Linked with Clinical Data to Evaluate New Gene EXpression Profiles: An Adaptable Registry (FLEX Study)",
+      "condition": "Breast",
+      "intervention": "Not Applicable ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KruperLaura_34199.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=34199"
+  },
+  "content_hash": "f8f6e61289cb2c9152a5ff465ad2219ac03457de7b657d6167459c8a6722bb71",
+  "researcher_name": "laura kruper",
+  "department": ""
+}

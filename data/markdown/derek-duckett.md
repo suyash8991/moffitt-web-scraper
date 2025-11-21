@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/derek-duckett)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/derek-duckett)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -499,6 +498,7 @@ Dr. Duckett has a wealth of experience in identifying tractable anti-cancer targ
   * ## Research Interest
 Dr. Duckett earned his PhD degree in Biochemistry from the University of Dundee under the mentorship of Professor David M. J. Lilley, a Member of Royal Society and the Director of the Cancer Research UK Nucleic Acid Structure Research Group, where Derek had a remarkable string of studies that defined the structures for DNA and RNA four-way helical junctions, and how these interact with resolving enzymes (Duckett, et al., Cell, 1988, 1995). Derek then was a Howard Hughes Research Fellow in the laboratory of Nobel Laureate Dr. Paul Modrich, where his work established that mismatch repair was the principal repair pathway invoked by DNA damage induced by cytotoxic chemotherapies, including cisplatin and methylating agents (Duckett et al., PNAS, 1996, 1999). Following his fellowship, Dr. Duckett was a Senior Research Scientist at DuPont Pharmaceuticals and then served as a Research Investigator for GlaxoSmithKline from 2000 to 2005, where he directed several clinical kinase inhibitor campaigns, including two that entered Phase I trials. In 2005, Derek joined the Scripps Research Institute (Scripps) as the Associate Director of the Translational Research Institute, where he directed the biology efforts of the High Throughput Screening Facility. In 2009, Dr. Duckett was appointed as an Assistant Professor in the Department of Molecular Therapeutics at Scripps and he was promoted to Associate Professor in 2013. 
   * ## Publications
+    * Stern YE, Ghosh P, Peroza J, Solanki HS, Imbody D, Bridenstine L, Pandurangan T, Frydman SM, Nickens KN, Walker-Mimms HL, Suvarna K, Chaudhary N, Monastyrskyi A, Duckett D, Haura EB. Targeting CDK12/13 Drives Mitotic Arrest to Overcome Resistance to KRASG12C Inhibitors. Cancer Res. 2025 Oct. Pubmedid: [41165466](https://www.ncbi.nlm.nih.gov/pubmed/41165466). 
     * Junyent M, Noori H, De Schepper R, Frajdenberg S, Elsaigh RKAH, McDonald PH, Duckett D, Maudsley S. Unravelling Convergent Signaling Mechanisms Underlying the Aging-Disease Nexus Using Computational Language Analysis. Curr Issues Mol Biol. 2025 Mar.47(3). Pubmedid: [40136443](https://www.ncbi.nlm.nih.gov/pubmed/40136443). Pmcid: PMC11941692. 
     * Karolak A, Urbaniak K, Monastyrskyi A, Duckett DR, Branciamore S, Stewart PA. Structure-independent machine-learning predictions of the CDK12 interactome. Biophys J. 2024 Sep.123(17):2910-2920. Pubmedid: [38762754](https://www.ncbi.nlm.nih.gov/pubmed/38762754). Pmcid: PMC11393676. 
     * González-Rodriguez MA, Troutman S, Bayle S, Lester DK, Grove M, Duckett D, Kareta MS, Kissil JL. Synergistic effects of combined BET and FAK inhibition against Vestibular Schwannomas in NF2-related Schwannomatosis. Oncogene. 2024 Sep.43(40):2995-3002. Pubmedid: [39209965](https://www.ncbi.nlm.nih.gov/pubmed/39209965). 
@@ -686,7 +686,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -741,7 +741,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/derek-duckett#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/derek-duckett#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -759,7 +759,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1113,7 +1113,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/derek-duckett#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/derek-duckett#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 
@@ -1286,4 +1285,4 @@ English
   * [Fundraise for Moffitt](https://www.moffitt.org/give/get-involved/fundraise-for-moffitt/ "Fundraise for Moffitt")
 
 
-[](https://www.moffitt.org/research-science/researchers/derek-duckett#page)
+[](https://www.moffitt.org/research-science/researchers/derek-duckett#page)![](https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=a1ac47dd-ea8a-41a6-a1bd-c9530f34c911&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c04d4dfc-adfc-4702-9f50-42ec7d8324e3&pt=Derek%20Duckett%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fderek-duckett&tw_iframe_status=0&txn_id=oiyf6&type=javascript&version=2.3.34)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=a1ac47dd-ea8a-41a6-a1bd-c9530f34c911&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c04d4dfc-adfc-4702-9f50-42ec7d8324e3&pt=Derek%20Duckett%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fderek-duckett&tw_iframe_status=0&txn_id=oiyf6&type=javascript&version=2.3.34)![](https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=b1133f38-e6dd-4c58-8cc8-5fd2b9314dbd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c04d4dfc-adfc-4702-9f50-42ec7d8324e3&pt=Derek%20Duckett%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fderek-duckett&tw_iframe_status=0&txn_id=otli4&type=javascript&version=2.3.34)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=b1133f38-e6dd-4c58-8cc8-5fd2b9314dbd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c04d4dfc-adfc-4702-9f50-42ec7d8324e3&pt=Derek%20Duckett%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fderek-duckett&tw_iframe_status=0&txn_id=otli4&type=javascript&version=2.3.34)![](https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=b332df1d-7bf6-4779-a58d-68d6200eca12&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c04d4dfc-adfc-4702-9f50-42ec7d8324e3&pt=Derek%20Duckett%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fderek-duckett&tw_iframe_status=0&txn_id=otqq0&type=javascript&version=2.3.34)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=b332df1d-7bf6-4779-a58d-68d6200eca12&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=c04d4dfc-adfc-4702-9f50-42ec7d8324e3&pt=Derek%20Duckett%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fderek-duckett&tw_iframe_status=0&txn_id=otqq0&type=javascript&version=2.3.34)

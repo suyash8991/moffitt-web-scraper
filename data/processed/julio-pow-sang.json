@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/julio-pow-sang",
-  "last_updated": "2025-10-21T16:33:33.910244",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/julio-pow-sang/",
+  "last_updated": "2025-11-21T22:50:24.946818",
   "researcher_id": "1813",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Genitourinary Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "genitourinary oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Molecular markers in prostate cancer. Artificial intelligence applied to radiomics and genomics in determining aggressive prostate cancer.",
   "research_interests": [
     "Focus on molecular markers for prostate cancer behavior.\n  *"
@@ -54,6 +54,15 @@
       "authors": ""
     },
     {
+      "title": "Neoadjuvant prostate artery embolization prior to prostate radiation therapy: A single institution experience on the durability of clinical urinary improvement after radiation",
+      "pubmed_id": "41122670",
+      "pmc_id": "PMC12536586",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Khatri VM, Grass GD, Thapa R, Maun-Garcia L, Latifi K, Naghavi AO, Garg A, Fernandez D, Torres-Roca J, Rishi A, Jazayeri-Moghaddas O, Pow-Sang J, Johnstone PAS, Yamoah K, Parikh N",
+      "journal": "Clin Transl Radiat Oncol"
+    },
+    {
       "title": "Challenges in Using Deep Neural Networks Across Multiple Readers in Delineating Prostate Gland Anatomy",
       "pubmed_id": "40392414",
       "year": "2025",
@@ -70,6 +79,14 @@
       "journal": "J Natl Compr Canc Ne"
     },
     {
+      "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR",
+      "journal": "Nat Med"
+    },
+    {
       "title": "Prostate Artery Embolization in the Setting of Prostate Cancer: Review and Opinion",
       "pubmed_id": "39876663",
       "pmc_id": "PMC11775958",
@@ -77,14 +94,6 @@
       "publication_date": "2025 Jan",
       "authors": "Parikh N, Yamoah K, Johnstone P, Torres-Roca J, Pow-Sang J, Fernandez D, Rishi A, Grass GD",
       "journal": "Cancer Control"
-    },
-    {
-      "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
-      "pubmed_id": "39521884",
-      "year": "2025",
-      "publication_date": "2025 Jan",
-      "authors": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR",
-      "journal": "Nat Med"
     },
     {
       "title": "Extracellular Microvesicle MicroRNAs and Imaging Metrics Improve the Detection of Aggressive Prostate Cancer: A Pilot Study",
@@ -119,23 +128,17 @@
       "publication_date": "2024 Jan",
       "authors": "Yu A, Dinckal M, Pow-Sang J",
       "journal": "Cancer Control"
-    },
-    {
-      "title": "Quantitative DCE Dynamics on Transformed MR Imaging Discriminates Clinically Significant Prostate Cancer",
-      "pubmed_id": "39545376",
-      "pmc_id": "PMC11565616",
-      "year": "2024",
-      "publication_date": "2024 Jan",
-      "authors": "Wei Z, Iluppangama M, Qi J, Choi JW, Yu A, Gage K, Chumbalkar V, Dhillon J, Balaji KC, Venkataperumal S, Hernandez DJ, Park J, Yedjou C, Alo R, Gatenby RA, Pow-Sang J, Balagurunanthan Y",
-      "journal": "Cancer Control"
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/Pow-SangJulio_1813.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1813"
   },
-  "content_hash": "ff4ebe32ff19c016bcac370ccedd40bc12c1944ea0c19b30ef1f3c0f4326d36d",
-  "researcher_name": "Julio Pow Sang",
-  "department": "Integrated Mathematical Oncology"
+  "content_hash": "804d690a60ee76b127912f0089e85194bb09966ac33e803ad440021adb5c7604",
+  "researcher_name": "julio pow sang",
+  "department": "integrated mathematical oncology"
 }

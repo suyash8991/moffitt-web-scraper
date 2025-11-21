@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/uwe-rix",
-  "last_updated": "2025-10-21T16:37:35.647681",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/uwe-rix/",
+  "last_updated": "2025-11-21T22:50:27.233283",
   "researcher_id": "10126",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Drug Discovery",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "drug discovery",
+  "research_program": "molecular medicine",
   "overview": "Many drugs are unselective. This is a potential liability, but also an opportunity to find novel targets, cancer vulnerabilities and drug repurposing prospects. Key to this is our expertise in chemical proteomics, a powerful technology to identify targets of small molecule drugs/probes and launch mechanistic studies to elucidate their cancer-specific contexts and better understand cancer signaling networks.",
   "research_interests": [
     "My scientific interest centers on chemical biology, targeted drugs, drug-protein interaction networks, synergy and molecular mechanisms of action in the context of cancer, particularly lung and ovarian cancer. I am pursuing a multi-layered chemical biology/systems pharmacology strategy based on the systematic screening for drug synergy and subsequent identification of the molecular basis underlying the observed synergy by for instance combining chemical proteomics, phosphoproteomics and gene expression profiling approaches. This integrated strategy can identify on one hand novel synergistic drug combinations, which due to the focus on clinical drug candidates has high potential for translation into clinical trials. In addition, the mechanistic understanding helps to further dissect complex oncogenic signaling networks, as well as providing potential mechanism-based biomarkers that can guide patient stratification. We also use small molecule fragments for screening cancer cells and subsequent target identification by chemical proteomics, which represents an excellent starting point for subsequent collaborative drug discovery efforts. We have many years of expertise in chemical proteomics, a postgenomic adaptation of classical drug-affinity chromatography that is powered by downstream mass spectrometry and bioinformatics analysis. This technology is optimally suited to support systematic investigations of cellular drug activities and mechanisms of action by characterizing in an unbiased fashion the cell-specific native drug-target interaction profiles, which are important starting points for identifying the engaged signaling pathways and networks. By applying this strategy, we have been able to identify a large number of new drug-protein interactions, predict drug side effects, characterize circuitries of oncogenic signaling and identify novel synergistic drug combinations. \n  *"
@@ -47,6 +47,14 @@
     }
   ],
   "publications": [
+    {
+      "title": "RAS-GTP Inhibition Overcomes Acquired Resistance to KRASG12C Inhibitors Mediated by Oncogenic and Wildtype RAS Activation in Non-Small Cell Lung Cancer",
+      "pubmed_id": "41165456",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Solanki HS, Shah H, Imbody D, Desai B, Kato R, Miroshnychenko D, Stern YE, Majumder A, Sarcar B, Xieraili A, Stewart PA, Fang B, Zhang Y, Yao J, Darville LN, Koomen JM, Rix U, Evans JW, Yang YC, Ahler E, Marusyk A, Singh M, Aronchik I, Haura EB",
+      "journal": "Cancer Res"
+    },
     {
       "title": "SART1 modulates poly-(ADP-ribose) chain accumulation and PARP1 chromatin localization",
       "pubmed_id": "39569366",
@@ -126,15 +134,6 @@
       "publication_date": "2022 Aug",
       "authors": "Remsing Rix LL, Sumi NJ, Hu Q, Desai B, Bryant AT, Li X, Welsh EA, Fang B, Kinose F, Kuenzi BM, Chen YA, Antonia SJ, Lovly CM, Koomen JM, Haura EB, Marusyk A, Rix U",
       "journal": "Sci Signal"
-    },
-    {
-      "title": "Targeted Therapy Given after Anti-PD-1 Leads to Prolonged Responses in Mouse Melanoma Models through Sustained Antitumor Immunity",
-      "pubmed_id": "33653716",
-      "pmc_id": "PMC8102376",
-      "year": "2021",
-      "publication_date": "2021 May",
-      "authors": "Phadke MS, Chen Z, Li J, Mohamed E, Davies MA, Smalley I, Duckett D, Palve V, Czerniecki BJ, Forsyth PA, Noyes D, Adeegbe DO, Eroglu Z, Nguyen KT, Tsai KY, Rix U, Burd CE, Chen YA, Rodriguez PC, Smalley KSM",
-      "journal": "Cancer Immunol Res"
     }
   ],
   "grants": [
@@ -219,11 +218,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers/RixUwe_10126.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10126"
   },
-  "content_hash": "45e163d1815670fe38e9f9cf59dbe5ee2d52b1e3ba7e7a59f612443d49f4c7c4",
-  "researcher_name": "Uwe Rix",
-  "department": "Drug Discovery"
+  "content_hash": "dad8d8bc9a52bd098ac77de27db3e80e9823fb6e0b81462ba304c0f85556df5b",
+  "researcher_name": "uwe rix",
+  "department": "drug discovery"
 }

@@ -1,0 +1,175 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/vernon-sondak/",
+  "last_updated": "2025-11-21T22:50:27.267880",
+  "researcher_id": "2995",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "cutaneous oncology",
+  "research_program": "immuno-oncology",
+  "overview": "New treatments for adults and children with melanoma and other cutaneous malignancies, with particular emphasis on preoperative (neoadjuvant) therapy approaches and on the prediction of nodal metastasis in clinically localized melanoma.",
+  "research_interests": [
+    "Dr. Sondak has been a leader in studies of surgical treatment of melanoma and other cutaneous malignancies, particularly the application of sentinel lymph node biopsy and lymph node dissection to the staging and treatment of melanoma, and has been instrumental in mentoring and training many surgeons in these techniques over the years. His research interests include surgical treatment of melanoma in adults and children; adjuvant (postoperative) and neoadjuvant (preoperative) therapy of melanoma; and evaluation of new therapies for localized or disseminated melanoma.\n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Immuno-Oncology Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Boston University School of Medicine, Boston, MA"
+    },
+    {
+      "type": "Internship",
+      "institution": "UCLA School of Medicine, Los Angeles, CA",
+      "position": "Resident",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "UCLA School of Medicine, Los Angeles, CA",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "UCLA School of Medicine, Los Angeles, CA",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "UCLA School of Medicine, Los Angeles, CA",
+      "specialty": "Surgical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Design considerations for randomized comparisons of neoadjuvant-adjuvant versus adjuvant-only cancer immunotherapy when tumor measurement schedules do not align (SWOG S1801)",
+      "pubmed_id": "40099861",
+      "pmc_id": "PMC12353050",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Othus M, Sharon E, Wu MC, Sondak VK, Ribas A, Patel SP",
+      "journal": "Clin Trials"
+    },
+    {
+      "title": "Clinical factors influencing retreatment with anti-PD-(L)1 therapies after treatment in early-stage cancers: a modified Delphi consensus study",
+      "pubmed_id": "40425232",
+      "pmc_id": "PMC12107590",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Pusztai L, Sondak VK, Aguiar-Ib\u00e1\u00f1ez R, Cappuzzo F, Chouaid C, Elder C, Hirasawa Y, Ishida M, Jones R, Lee SH, Mizuno R, Nagata M, Okonji D, Parente P, Shah B, Sun A, Ferreira D, Spiteri C, Lauer A, Kaliasethi A, Kao C, Kothari S, McKendrick J",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "A multivariable disease-specific model enhances prognostication beyond current Merkel cell carcinoma staging: An international cohort study of 10,958 patients",
+      "pubmed_id": "39577698",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Andrew TW, Erdmann S, Alrawi M, Plummer R, Shalhout SZ, Sondak V, Brownell I, Lovat PE, Rose A",
+      "journal": "J Am Acad Dermatol"
+    },
+    {
+      "title": "Evaluation and Surgical Management of Pediatric Cutaneous Melanoma and Atypical Spitz and Non-Spitz Melanocytic Tumors (Melanocytomas): A Report From Children's Oncology Group",
+      "pubmed_id": "39365959",
+      "pmc_id": "PMC11908957",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Sargen MR, Barnhill RL, Elder DE, Swetter SM, Prieto VG, Ko JS, Bahrami A, Gerami P, Karunamurthy A, Pappo AS, Schuchter LM, LeBoit PE, Yeh I, Kirkwood JM, Jen M, Dunkel IJ, Durham MM, Christison-Lagay ER, Austin MT, Aldrink JH, Mehrhoff C, Hawryluk EB, Chu EY, Busam KJ, Sondak V, Messina J, Puig S, Colebatch AJ, Coughlin CC, Berrebi KG, Laetsch TW, Mitchell SG, Seynnaeve B",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "The Use of Radar-Guided Localization to Identify Metastatic Melanoma After Neoadjuvant Immunotherapy",
+      "pubmed_id": "40279056",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dugan MM, Beekman KE, DePalo DK, Parker LM, Elleson KM, Mullinax JE, Sarnaik AA, Sondak VK, Perez MC, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Southwest Oncology Group S0826: A phase 2 trial of SCH 727965 (NSC 727135, dinaciclib) in patients with stage IV melanoma",
+      "pubmed_id": "39342463",
+      "pmc_id": "PMC11694162",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Lao CD, Moon J, Ma VT, Fruehauf JP, Flaherty LE, Bury MJ, Martin WG, Gross H, Akerley W, Hopkins JO, Patel SP, Sondak VK, Ribas A",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Neoadjuvant or perioperative therapy for melanoma metastasis in clinical practice: an international survey",
+      "pubmed_id": "39756440",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Hauschild A, Garbe C, Ascierto PA, Demidov L, Dreno B, Dummer R, Eggermont A, Forsea AM, Gebhardt C, Gershenwald JE, Hamid O, Hoeller C, Kandolf L, Kaufmann R, Kirkwood JM, Lebb\u00e9 C, Long GV, Malvehy J, Martin-Algarra S, McArthur G, Neyns B, Richtig E, Robert C, Schadendorf D, Scolyer R, Sondak VK, Wainstein A, Weichenthal M, Nuti P",
+      "journal": "Lancet Oncol"
+    },
+    {
+      "title": "Enabling next-generation engineered TCR-T therapies based on high-throughput TCR discovery from diagnostic tumor biopsies",
+      "pubmed_id": "39809767",
+      "pmc_id": "PMC11733228",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Kuilman T, Schrikkema DS, Gadiot J, Gomez-Eerland R, Bies L, Walker J, Spaapen RM, Kok H, Houg D, Viyacheva M, Claassen YB, Saornil M, Krijgsman O, Stringer B, Ding H, Geleijnse A, Meinema AC, Weissbrich B, Lancee M, Engele CG, Sabatino M, Chen PL, Tsai KY, Mul\u00e9 JJ, Sondak VK, van den Bulk J, de Miranda NF, Jedema I, Haanen JG, van Heijst JWJ, Schumacher TN, Linnemann C, Bendle GM",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Annals of Surgical Oncology Practice Guidelines Series: Adjuvant and Neoadjuvant Therapy for Melanoma",
+      "pubmed_id": "39495363",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Farma JM, Olszanski AJ, Messina JL, Sondak VK",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "A hybrid machine learning approach for the personalized prognostication of aggressive skin cancers",
+      "pubmed_id": "39779875",
+      "pmc_id": "PMC11711377",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Andrew TW, Alrawi M, Plummer R, Reynolds N, Sondak V, Brownell I, Lovat PE, Rose A, Shalhout SZ",
+      "journal": "NPJ Digit Med"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Establishing Melanoma PDXs for Neoantigen TCR Testing  \nAward Number: 22VA002-S3  \nSponsor: NEOGENE THERAPEUTICS  \nSmalley, K. (PD/PI), Sondak, V. (Co-PD/PI)",
+      "title": "Establishing Melanoma PDXs for Neoantigen TCR Testing",
+      "award_number": "22VA002-S3",
+      "sponsor": "NEOGENE THERAPEUTICS",
+      "investigators": [
+        {
+          "name": "Smalley, K.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Sondak, V.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Developing/Optimizing Neogene's Platform Technology and Address Biological Questions Relating to Fully Personalized Neo-Antigen Specific TCR Therapies  \nAward Number: 22VA002-S2.02  \nSponsor: NEOGENE THERAPEUTICS  \nSondak, V. (PD/PI)",
+      "title": "Developing/Optimizing Neogene's Platform Technology and Address Biological Questions Relating to Fully Personalized Neo-Antigen Specific TCR Therapies",
+      "award_number": "22VA002-S2.02",
+      "sponsor": "NEOGENE THERAPEUTICS",
+      "investigators": [
+        {
+          "name": "Sondak, V.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SondakVernon_2995.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2995"
+  },
+  "content_hash": "1b3ad13dcacf5ec8cd07cb6fe305292da63a66037757ede28758026a9d91c953",
+  "researcher_name": "vernon sondak",
+  "department": ""
+}

@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/guilherme-rabinowits/",
+  "last_updated": "2025-11-21T22:50:23.935451",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "head and neck oncology",
+  "research_program": "immuno-oncology",
+  "overview": "I am a medical oncologist focused on head and neck, endocrine and non-melanoma skin cancers. I have experience in clinical and translational research, identifying new therapeutic agents for those tumors, based on their molecular biology. In collaboration with other medical, surgical and radiation oncologists, and lab scientists, we prospectively collect tumor tissues over the years to identify actionable target mutations and tested innovative treatments in both pre-clinical and clinical settings.",
+  "research_interests": [
+    "I am interested in clinical and translational research to identify new predictive and prognostic biomarkers in head and neck, endocrine and non-melanoma skin cancers. I am also interested in early detection and prevention, and identification of new therapies that would optimize the outcome of my patients.\n  *"
+  ],
+  "associations": [
+    "Head and Neck-Endocrine Oncology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "CASE (CemiplimAb-rwlc Survivorship and Epidemiology): a study in advanced basal cell carcinoma",
+      "pubmed_id": "39797702",
+      "pmc_id": "PMC11812358",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Park SJ, Ellison DM, Weight R, Homsi J, Rabinowits G, Ruiz ES, Strasswimmer J, Simmons J, Panella T, Quek RG, Pouliot JF, Khushalani NI",
+      "journal": "Future Oncol"
+    },
+    {
+      "title": "Hypofractionated versus standard fractionation radiotherapy for merkel cell carcinoma",
+      "pubmed_id": "39394124",
+      "pmc_id": "PMC11468079",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Gonzalez L, Rubens M, Yarlagadda S, Rabinowits G, Kalman NS",
+      "journal": "Radiat Oncol"
+    },
+    {
+      "title": "A Review of Immunotherapy for Head and Neck Cancer",
+      "pubmed_id": "39370694",
+      "pmc_id": "PMC11653306",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Goetz JW, Rabinowits G, Kalman N, Villa A",
+      "journal": "J Dent Res"
+    },
+    {
+      "title": "Head and Neck Squamous Cell Carcinoma of Unknown Primary: A Diagnostic Work-Up",
+      "pubmed_id": "37995312",
+      "pmc_id": "PMC10911926",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Manoharan M, Kalman NS, Rabinowits G",
+      "journal": "Oncologist"
+    },
+    {
+      "title": "Pain management for post-treatment survivors of complex cancers: a qualitative study of opioids and cannabis",
+      "pubmed_id": "38318666",
+      "pmc_id": "PMC10918509",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Salz T, Chimonas S, Jinna S, Brens J, Kriplani A, Salner A, Rabinowits G, Currier B, Daly B, Korenstein D",
+      "journal": "Pain Manag"
+    },
+    {
+      "title": "Phase I Study of Fianlimab, a Human Lymphocyte Activation Gene-3 (LAG-3) Monoclonal Antibody, in Combination With Cemiplimab in Advanced Melanoma",
+      "pubmed_id": "38900987",
+      "pmc_id": "PMC11328921",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Hamid O, Lewis KD, Weise A, McKean M, Papadopoulos KP, Crown J, Kim TM, Lee DH, Thomas SS, Mehnert J, Kaczmar J, Lakhani NJ, Kim KB, Middleton MR, Rabinowits G, Spira AI, Yushak M, Mehmi I, Fang F, Chen S, Mani J, Jankovic V, Wang F, Fiaschi N, Brennan L, Paccaly A, Masinde S, Salvati M, Fury MG, Kroog G, Lowy I, Gullo G",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Submandibular gland transfer for the prevention of radiation-induced xerostomia in oropharyngeal cancer: Dosimetric impact in the intensity modulated radiotherapy era",
+      "pubmed_id": "35243719",
+      "year": "2022",
+      "publication_date": "2022 May",
+      "authors": "Kutuk T, McAllister NC, Rzepczynski AE, Williams A, Young G, Crawley MB, Rabinowits G, Kaiser A, Contreras JA, Kalman NS",
+      "journal": "Head Neck"
+    },
+    {
+      "title": "Society for Immunotherapy of Cancer (SITC) clinical practice guideline on immunotherapy for the treatment of nonmelanoma skin cancer",
+      "pubmed_id": "35902131",
+      "pmc_id": "PMC9341183",
+      "year": "2022",
+      "publication_date": "2022 Jul",
+      "authors": "Silk AW, Barker CA, Bhatia S, Bollin KB, Chandra S, Eroglu Z, Gastman BR, Kendra KL, Kluger H, Lipson EJ, Madden K, Miller DM, Nghiem P, Pavlick AC, Puzanov I, Rabinowits G, Ruiz ES, Sondak VK, Tavss EA, Tetzlaff MT, Brownell I",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Characterization of clinical outcomes after shorter course hypofractionated and standard-course radiotherapy for stage I-III curatively-treated Merkel cell carcinoma",
+      "pubmed_id": "35595174",
+      "year": "2022",
+      "publication_date": "2022 Aug",
+      "authors": "Liu KX, Milligan MG, Schoenfeld JD, Tishler RB, Ng AK, Devlin PM, Fite E, Rabinowits G, Hanna GJ, Silk AW, Yoon CH, Thakuria M, Margalit DN",
+      "journal": "Radiother Oncol"
+    },
+    {
+      "title": "Phase 1 Trial of ALRN-6924, a Dual Inhibitor of MDMX and MDM2, in Patients with Solid Tumors and Lymphomas Bearing Wild-type TP53",
+      "pubmed_id": "34301750",
+      "pmc_id": "PMC9401461",
+      "year": "2021",
+      "publication_date": "2021 Oct",
+      "authors": "Saleh MN, Patel MR, Bauer TM, Goel S, Falchook GS, Shapiro GI, Chung KY, Infante JR, Conry RM, Rabinowits G, Hong DS, Wang JS, Steidl U, Naik G, Guerlavais V, Vukovic V, Annis DA, Aivado M, Meric-Bernstam F",
+      "journal": "Clin Cancer Res"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23229/",
+      "trial_id": "23229",
+      "title": "An Open-Label Phase 1/2a Clinical Trial to Evaluate the Safety, Immunogenicity, and Preliminary Efficacy of a Lentiviral Vector-Based Therapeutic Vaccine Against Human Papilloma Virus (Lenti-HPV-07) in Participants with HPV-Associated Oropharyngeal Squamous Cell Cancer or Cervical Cancer",
+      "condition": "Multiple",
+      "intervention": "Lenti-HPV-07 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23298/",
+      "trial_id": "23298",
+      "title": "A Phase 2/3, Randomized, Double-Blind, Controlled Study of Zanzalintinib (XL092) in Combination with Pembrolizumab Vs Pembrolizumab in the First-Line Treatment Of Subjects with PD-L1 Positive Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma",
+      "condition": "Head & Neck",
+      "intervention": "Pembrolizumab (Keytruda); Placebo (); Zanzalintinib ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23766/",
+      "trial_id": "23766",
+      "title": "A First-in-Human Phase 1 Dose Escalation Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of FID-022 as Monotherapy in Patients with Advanced Solid Tumors",
+      "condition": "Multiple",
+      "intervention": "FID-022 ()",
+      "status": "OPEN (SUSPENDED)"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/RabinowitsGuilherme_37843.jpg",
+  "contact": {},
+  "content_hash": "7ca3f640f8f1238674efb9806d2b0533d670b71c1ebd16969a870a5e8c59270c",
+  "researcher_name": "guilherme rabinowits",
+  "department": ""
+}

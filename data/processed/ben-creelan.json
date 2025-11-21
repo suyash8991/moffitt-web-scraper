@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ben-creelan/",
+  "last_updated": "2025-11-21T22:50:22.882470",
+  "researcher_id": "9608",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "thoracic oncology",
+  "research_program": "immuno-oncology",
+  "overview": "Dr. Creelan's research focuses on novel cell therapy such as CAR-T or TIL for solid tumors, especially the treatment of lung cancers. His interest include finding novel antigenic targets for immune cells to use against tumors, and translating these findings into groundbreaking early phase clinical trials.",
+  "research_interests": [
+    "Dr. Creelan's research focuses on translational and clinical research, specifically the development of new immune therapies, for the treatment of lung cancers. His research efforts aim to more effectively treat these cancers based on new insights into the biology of the disease. \n  *"
+  ],
+  "associations": [
+    "Thoracic Oncology",
+    "Immuno-Oncology Program",
+    "Lung Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, MS"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Jefferson Medical College",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Thomas Jefferson University, Department of Internal Medicine",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida Moffitt Cancer Center",
+      "specialty": "Hematology Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma",
+      "pubmed_id": "41072416",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F",
+      "journal": "Cancer Cell"
+    },
+    {
+      "title": "Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy",
+      "pubmed_id": "40341231",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC",
+      "journal": "Nat Cancer"
+    },
+    {
+      "title": "Art of TIL immunotherapy: SITC's perspective on demystifying a complex treatment",
+      "pubmed_id": "39837618",
+      "pmc_id": "PMC11752064",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Turcotte S, Donia M, Gastman B, Besser M, Brown R, Coukos G, Creelan B, Mullinax J, Sondak VK, Yang JC, Rohaan MW, Marie Svane I, Lotze MT, Haanen JBAG, Goff SL",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "A Multicenter Open-Label Randomized Phase II Study of Osimertinib With and Without Ramucirumab in Tyrosine Kinase Inhibitor-Na\u00efve EGFR-Mutant Metastatic Non-Small Cell Lung Cancer (RAMOSE trial)",
+      "pubmed_id": "39378386",
+      "pmc_id": "PMC11776886",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Le X, Patel JD, Shum E, Baik C, Sanborn RE, Shu CA, Kim C, Fidler MJ, Hall R, Elamin YY, Tu J, Blumenschein G, Zhang J, Gibbons D, Gay C, Mohindra NA, Chae Y, Boumber Y, Sabari J, Santana-Davila R, Rogosin S, Herzberg B, Creelan B, Pellini B, Tanvetyanon T, Heeke S, Hernandez M, Gray JE, Saltos A, Heymach JV",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "CD40L stimulates tumor-infiltrating B-cells and improves ex vivo TIL expansion",
+      "pubmed_id": "40199608",
+      "pmc_id": "PMC11979601",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Rossetti RAM, Tordesillas L, Beatty MS, Cianne J, Martinez Planes E, Du D, Snedal S, Wang C, Perez BA, Berglund A, Chen YA, Sarnaik A, Mul\u00e9 JJ, Creelan B, Pilon-Thomas S, Abate-Daga D",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Neoantigen immunogenicity landscapes and evolution of tumor ecosystems during immunotherapy with nivolumab",
+      "pubmed_id": "39349627",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Alban TJ, Riaz N, Parthasarathy P, Makarov V, Kendall S, Yoo SK, Shah R, Weinhold N, Srivastava R, Ma X, Krishna C, Mok JY, van Esch WJE, Garon E, Akerley W, Creelan B, Aanur N, Chowell D, Geese WJ, Rizvi NA, Chan TA",
+      "journal": "Nat Med"
+    },
+    {
+      "title": "Beyond Chemoimmunotherapy in Advanced Non-Small Cell Lung Cancer: New Frontiers, New Challenges",
+      "pubmed_id": "38781566",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Mountzios G, Naidoo J, Wang C, Creelan BC, Trotier DC, Campbell TC, Peters S",
+      "journal": "Am Soc Clin Oncol Educ Book"
+    },
+    {
+      "title": "Clinical Outcomes of Patients with Non-Small Cell Lung Cancer Leptomeningeal Disease Following Receipt of EGFR-Targeted Therapy, Immune-Checkpoint Blockade, Intrathecal Chemotherapy, or Radiation Therapy Alone",
+      "pubmed_id": "38719648",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Mills MN, Uno A, Li P, Liveringhouse C, Kim Y, Oliver DE, Perez BA, Creelan BC, Yu M, Forsyth PA, Pina Y, Ahmed KA",
+      "journal": "Clin Lung Cancer"
+    },
+    {
+      "title": "Pegargiminase Plus First-Line Chemotherapy in Patients With Nonepithelioid Pleural Mesothelioma: The ATOMIC-Meso Randomized Clinical Trial",
+      "pubmed_id": "38358753",
+      "pmc_id": "PMC10870227",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Szlosarek PW, Creelan BC, Sarkodie T, Nolan L, Taylor P, Olevsky O, Grosso F, Cortinovis D, Chitnis M, Roy A, Gilligan D, Kindler H, Papadatos-Pastos D, Ceresoli GL, Mansfield AS, Tsao A, O'Byrne KJ, Nowak AK, Steele J, Sheaff M, Shiu CF, Kuo CL, Johnston A, Bomalaski J, Zauderer MG, Fennell DA",
+      "journal": "JAMA Oncol"
+    },
+    {
+      "title": "A phase I/IB trial of binimetinib in combination with erlotinib in NSCLC harboring activating KRAS or EGFR mutations",
+      "pubmed_id": "37499521",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Saltos AN, Creelan BC, Tanvetyanon T, Chiappori AA, Antonia SJ, Shafique MR, Ugrenovic-Petrovic M, Sansil S, Neuger A, Ozakinci H, Boyle TA, Kim J, Haura EB, Gray JE",
+      "journal": "Lung Cancer"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21027/",
+      "trial_id": "21027",
+      "title": "A Phase 2 Multicenter Study of Autologous Tumor Infiltrating Lymphocytes (LN-145) in Patients with Metastatic Non-Small-Cell Lung Cancer",
+      "condition": "Thoracic",
+      "intervention": "Acyclovir (); Diphenhydramine (); Fluconazole (); H1 Histamine Antagonist (); IL-2 (Interleukin-2); LN-145 (); MESNA (); Neupogen (filgrastim); Valacyclovir (); acetaminophen (); cyclophosphamide (); cytoxan (cyclophosphamide); filgrastim ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21971/",
+      "trial_id": "21971",
+      "title": "Phase I Clinical Trial of CD40L-augmented Tumor Infiltrating Lymphocytes (CD40L TIL) for Patients with Oncogene-Driven Advanced Non-Small Cell Lung Cancer (NSCLC)",
+      "condition": "Thoracic",
+      "intervention": "Aldesleukin (Interleukin-2); BMS-936558 (Nivolumab); IL-2 (Interleukin-2); Interleukin-2 (); MESNA (); Nivolumab (Opdivo); Proleukin (Interleukin-2); TIL (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate)",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23183/",
+      "trial_id": "23183",
+      "title": "A Platform Study of RAS(ON) Inhibitor Combinations in Patients with RAS-Mutated Non-Small Cell Lung Cancer (NSCLC)",
+      "condition": "Thoracic",
+      "intervention": "Alimta (Pemetrexed); Paraplatin (carboplatin); Pembrolizumab (Keytruda); Pemetrexed (); RMC-6236 (); RMC-6291 (); RMC-9805 (); carboplatin (); cisplatin ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/CreelanBen_9608.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=9608"
+  },
+  "content_hash": "44b35f25d2ea7dc82f26f72e4979ce63448e805993c7224bcc499d2a4da41e18",
+  "researcher_name": "ben creelan",
+  "department": ""
+}

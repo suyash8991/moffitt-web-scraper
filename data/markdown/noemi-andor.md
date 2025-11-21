@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/noemi-andor)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/noemi-andor)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -506,8 +505,8 @@ Dr. Andor's research focuses on the development and integration of methods to qu
     * Alahmari S, Schultz A, Albrecht J, Tagal V, Siddiqui Z, Prabhakaran S, El Naqa I, Anderson A, Heiser L, Andor N. Cell identity revealed by precise cell cycle state mapping links data modalities. bioRxiv. 2024 Sep. Pubmedid: [39282313](https://www.ncbi.nlm.nih.gov/pubmed/39282313). Pmcid: PMC11398313. 
     * Carrillo-Perez F, Cramer EM, Pizurica M, Andor N, Gevaert O. Towards Digital Quantification of Ploidy from Pan-Cancer Digital Pathology Slides using Deep Learning. bioRxiv. 2024 Aug. Pubmedid: [39229200](https://www.ncbi.nlm.nih.gov/pubmed/39229200). Pmcid: PMC11370345. 
     * Nowicka Z, Rentzeperis F, Beck R, Tagal V, Pinto AF, Scanu E, Veith T, Cole J, Ilter D, Viqueira WD, Teer JK, Maksin K, Pasetto S, Abdalah MA, Fiandaca G, Prabhakaran S, Schultz A, Ojwang M, Barnholtz-Sloan JS, Farinhas JM, Gomes AP, Katira P, Andor N. Interactions between ploidy and resource availability shape clonal interference at initiation and recurrence of glioblastoma. bioRxiv. 2023 Oct. Pubmedid: [37905142](https://www.ncbi.nlm.nih.gov/pubmed/37905142). Pmcid: PMC10614845. 
-    * Gatenbee CD, Baker AM, Prabhakaran S, Swinyard O, Slebos RJC, Mandal G, Mulholland E, Andor N, Marusyk A, Leedham S, Conejo-Garcia JR, Chung CH, Robertson-Tessi M, Graham TA, Anderson ARA. Virtual alignment of pathology image series for multi-gigapixel whole slide images. Nat Commun. 2023 Jul.14(1):4502. Pubmedid: [37495577](https://www.ncbi.nlm.nih.gov/pubmed/37495577). Pmcid: PMC10372014. 
     * Veith T, Schultz A, Alahmari S, Beck R, Johnson J, Andor N. Mathematical Modeling of Clonal Interference by Density-Dependent Selection in Heterogeneous Cancer Cell Lines. Cells. 2023 Jul.12(14). Pubmedid: [37508513](https://www.ncbi.nlm.nih.gov/pubmed/37508513). Pmcid: PMC10378185. 
+    * Gatenbee CD, Baker AM, Prabhakaran S, Swinyard O, Slebos RJC, Mandal G, Mulholland E, Andor N, Marusyk A, Leedham S, Conejo-Garcia JR, Chung CH, Robertson-Tessi M, Graham TA, Anderson ARA. Virtual alignment of pathology image series for multi-gigapixel whole slide images. Nat Commun. 2023 Jul.14(1):4502. Pubmedid: [37495577](https://www.ncbi.nlm.nih.gov/pubmed/37495577). Pmcid: PMC10372014. 
     * Kimmel GJ, Beck RJ, Yu X, Veith T, Bakhoum S, Altrock PM, Andor N. Intra-tumor heterogeneity, turnover rate and karyotype space shape susceptibility to missegregation-induced extinction. PLoS Comput Biol. 2023 Jan.19(1):e1010815. Pubmedid: [36689467](https://www.ncbi.nlm.nih.gov/pubmed/36689467). Pmcid: PMC9917311. 
     * Andor N, Altrock PM, Jain N, Gomes AP. Tipping Cancer Cells Over the Edge: The Context-Dependent Cost of High Ploidy. Cancer Res. 2022 Mar.82(5):741-748. Pubmedid: [34785577](https://www.ncbi.nlm.nih.gov/pubmed/34785577). Pmcid: PMC8898264. 
     * Su A, Lee H, Tan X, Suarez CJ, Andor N, Nguyen Q, Ji HP. A deep learning model for molecular label transfer that enables cancer cell identification from histopathology images. NPJ Precis Oncol. 2022 Mar.6(1):14. Pubmedid: [35236916](https://www.ncbi.nlm.nih.gov/pubmed/35236916). Pmcid: PMC8891271. 
@@ -621,7 +620,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -676,7 +675,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/noemi-andor#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/noemi-andor#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -694,7 +693,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1048,7 +1047,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/noemi-andor#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/noemi-andor#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

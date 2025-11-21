@@ -1,0 +1,58 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ignacio-wistuba/",
+  "last_updated": "2025-11-21T22:50:24.096960",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "translational pathology",
+  "research_program": "molecular medicine",
+  "overview": "Elucidation of the molecular abnormalities involved in the pathogenesis and progression of lung cancer and other solid tumors, and the development of predictive biomarkers for novel therapies, including targeted therapy and immunotherapy,",
+  "research_interests": [
+    "pathogenesis and progression of lung cancer and other solid tumors. His research interests also include identifying new molecular targets, validating biomarkers for targeted therapy and immunotherapy, and identifying molecular markers associated with lung cancer and other solid tumors development, progression and metastasis development using annotated human specimens.\n  *"
+  ],
+  "associations": [
+    "Translational Pathology",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Comparison of imaging based single-cell resolution spatial transcriptomics profiling platforms using formalin-fixed paraffin-embedded tumor samples",
+      "pubmed_id": "41006245",
+      "pmc_id": "PMC12474935",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Ozirmak Lermi N, Molina Ayala M, Hernandez S, Lu W, Khan K, Serrano A, Lubo I, Hamana L, Tomczak K, Barnes S, Dou J, Liang Q, Raso MG, Tang X, Jiang M, Sanchez-Espiridion B, Weissferdt A, Heymach J, Zhang J, Sepesi B, Cascone T, Tsao A, Altan M, Mehran R, Gibbons D, Wistuba I, Haymaker C, Chen K, Solis Soto LM",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: SWOG Network Group Operations Center of the NCTN  \nAward Number: 5U10CA180888-11 REVISED  \nSponsor: National Cancer Institute (NCI)  \nWistuba, I. (PD/PI)",
+      "title": "SWOG Network Group Operations Center of the NCTN",
+      "award_number": "5U10CA180888-11 REVISED",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Wistuba, I.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WistubaIgnacio_44545.jpg",
+  "contact": {},
+  "content_hash": "3b526dad88efc05027ed591c9e5711a595d9873944cfbf2fd95bc6ee4f468486",
+  "researcher_name": "ignacio wistuba",
+  "department": ""
+}

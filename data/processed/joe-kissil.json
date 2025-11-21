@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/joe-kissil",
-  "last_updated": "2025-10-21T16:34:21.790482",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/joe-kissil/",
+  "last_updated": "2025-11-21T22:50:24.557247",
   "researcher_id": "28058",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Research in the Kissil lab focuses on mechanistic understanding of mitogenic and developmental signaling pathways crosstalk in cancer and on identification of therapeutic targets. In particular, we focus on understanding the molecular basis for lung cancer and neurofibromatosis type 2 (NF2) by employing molecular and chemical tools to identify and elucidate the function of different effectors and combine this with in vivo models to assess the therapeutic value of targeting these pathways.",
   "research_interests": [
     "Research in the Kissil lab focuses on mechanistic understanding of mitogenic and developmental signaling pathways crosstalk in cancer and on identification of therapeutic targets. We employ a diverse toolkit which includes molecular and biochemical techniques, cellular biology and cutting-edge animal models of human cancer. In particular, we focus on understanding the molecular basis for lung cancer and neurofibromatosis type 2 (NF2). We employ in vivo models to dissect the function of different effectors in KRAS driven tumors in vivo. Examples include identifying the function of the small G-protein from the Rac/cdc42 family and Notch family receptors in KRAS-driven tumorigenesis. More recently, we have been developing and deploying advanced cell-based models to identify small molecules that are synthetic-lethal to oncogenic KRAS. These models involve the use of isogenic cell pairs and 3D culturing platforms, exploring novel chemical space utilizing functionalized fragment probes. Our work on NF2 aims to understand the consequences of loss of the NF2 tumor suppressor gene. We identified and validated several therapeutic targets including the p21-activated kinases (PAKs) and the focal adhesion kinase (FAK). The latter identification stemmed from our work with the FDA approved drug Crizotinib, as a potential treatment for NF2 associated schwannoma. This work led to the initiation of a phase II clinical trial for NF2. More recently, we characterized the role and function of Hippo/Yap signaling in NF2, resulting in identification of previously unknown effectors in this pathway, the Angiomotins, and elucidated a mechanism through which Merlin, the product of the NF2 tumor suppressor gene, regulates multiple signaling pathways from cell junctions. This work also resulted in identification of novel functions for YAP, as a transcriptional repressor. We are interested in expanding the understanding of YAP function and are engaged in efforts to identify small-molecule inhibitors of YAP. These studies are conducted in collaboration with multidisciplinary teams with expertise in chemistry, proteomics and small-molecule screening.\n  *"
@@ -176,11 +176,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://www.kissillab.com/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KissilJoe_28058.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28058"
   },
-  "content_hash": "1e1e1bb28ccb49fcdbf788f8285395eb74e9788ada14440c53524f0a0c2030d0",
-  "researcher_name": "Joe Kissil",
-  "department": "Molecular Oncology"
+  "content_hash": "383164deacc5015999eb007142a42864d76841047b48cf3459f384dde447a6dd",
+  "researcher_name": "joe kissil",
+  "department": "molecular oncology"
 }

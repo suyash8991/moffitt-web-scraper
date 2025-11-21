@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/patrick-grogan/",
+  "last_updated": "2025-11-21T22:50:26.196320",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "neuro-oncology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Grogan's research focus involves evaluating novel therapeutic strategies for high-grade gliomas, both preclinically and clinically, and understanding disease growth characteristics as they relate to molecular driver alterations that can impact the treatment approaches as well as heterogeneity amongst tumors as well as implications for immunocellular therapy. Specifically, Dr. Grogan co-heads the Moffitt Glioma Translation Glioma Program with a focus on preclinical modeling of novel drug delivery strategies and novel agents for the treatment of gliomas as well as the identification of targets for immune-targeted approaches. He is actively working to expand glioma/glioblastoma and meningioma clinical trial access at Moffitt in conjunction with the Neuro-Oncology, Neurosurgery, and Radiation Oncology teams to provide patients with unique opportunities to receive promising new therapies before those options are made widely available.",
+  "research_interests": [
+    "Dr. Grogan\u2019s research interests involve preclinical disease modeling and therapeutic targeting in primary central nervous system tumors, specifically high-grade gliomas like glioblastoma, as well as exploring clinical observations that drive disease behavior and treatment decisions. He has a specific interested in understanding glioblastoma heterogeneity and clonality in the setting of temozolomide chemotherapy resistance and how this disease evolution can be overcome with novel therapeutic strategies and precision-based approaches. Dr. Grogan co-heads the Moffitt Glioma Translation Glioma Program with a focus on preclinical modeling of novel drug delivery strategies and novel agents for the treatment of gliomas as well as the identification of targets for immune-targeted approaches. Recurrent gliomas including glioblastoma have limited effective therapeutic options, but 5-15% demonstrate hypermutation, usually following temozolomide exposure. This leads to a heterogeneic mutational landscape and variable neoantigenicity that is sometimes but not always associated with mismatch repair deficiency. Despite this hypermutation, treatment with immune checkpoint inhibition has remained disappointing, much in contrast to non-CNS hypermutant malignancies. One component of Dr. Grogan\u2019s research involves development of a CRISPR-based modifiable murine model of hypermutation-associated clonality/subclonality to evaluate pressured and unpressured selection which will allow for better prospective understanding of immune editing in the setting of disease heterogeneity. In addition to the evolving mutational profiles amongst hypermutant gliomas, he will be characterizing expression adaptation following temozolomide-induced hypermutation with the goal of using bioinformatics to better identify replicable changes that are known to promote immune activation/suppression; using knock-out/knock-down modeling, this can subsequently identify therapeutic targets to enhance immune recognition of these tumors. In addition, Dr. Grogan has an interested in improved drug delivery mechanisms, repurposing of small molecular inhibitors for synergistic strategies, and exploration of novel molecular targets for high-grade gliomas like glioblastoma along with application and development of novel immunocellular therapeutic strategies in this realm with a focus on IDH mutant tumors. As a clinician-investigator, he is working to facilitate translation of novel treatment options into clinic trials for patients with gliomas.\n  *"
+  ],
+  "associations": [
+    "Neuro-Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Pulsed reduced-dose rate re-irradiation for patients with recurrent grade 2 gliomas",
+      "pubmed_id": "38845694",
+      "pmc_id": "PMC11154132",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Harari CM, Burr AR, Morris BA, Tom\u00e9 WA, Bayliss A, Bhatia A, Grogan PT, Robins HI, Howard SP",
+      "journal": "Neurooncol Adv"
+    },
+    {
+      "title": "Diffuse midline (H3 K27M-mutant) glioma in adults-When resection fails to matter",
+      "pubmed_id": "38829317",
+      "pmc_id": "PMC11300008",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Grogan PT, Vogelbaum MA",
+      "journal": "Neurooncol"
+    },
+    {
+      "title": "Case report: Radiographic complete response of radiation-induced glioblastoma to front-line radiotherapy: A report and molecular characterization of two unique cases",
+      "pubmed_id": "37025206",
+      "pmc_id": "PMC10070702",
+      "year": "2023",
+      "publication_date": "2023 Mar",
+      "authors": "Grogan PT, Helgager JJ, Deming DA, Howard SP, Jenkins RB, Robins HI",
+      "journal": "Front Neurol"
+    },
+    {
+      "title": "Entrectinib demonstrates prolonged efficacy in an adult case of radiation-refractory NTRK fusion glioblastoma",
+      "pubmed_id": "35673607",
+      "pmc_id": "PMC9167633",
+      "year": "2022",
+      "publication_date": "2022 Apr",
+      "authors": "Grogan PT, Deming DA, Helgager J, Ruszkiewicz T, Baskaya MK, Howard SP, Robins HI",
+      "journal": "Neurooncol Adv"
+    },
+    {
+      "title": "Novel C-terminal heat shock protein 90 inhibitors target breast cancer stem cells and block migration, self-renewal, and epithelial-mesenchymal transition",
+      "pubmed_id": "32255264",
+      "pmc_id": "PMC7463342",
+      "year": "2020",
+      "publication_date": "2020 Sep",
+      "authors": "Subramanian C, Grogan PT, Wang T, Bazzill J, Zuo A, White PT, Kalidindi A, Kuszynski D, Wang G, Blagg BSJ, Cohen MS",
+      "journal": "Mol Oncol"
+    },
+    {
+      "title": "Therapy after cyclin-dependent kinase inhibition in metastatic hormone receptor-positive breast cancer: Resistance mechanisms and novel treatment strategies",
+      "pubmed_id": "32426848",
+      "year": "2020",
+      "publication_date": "2020 Aug",
+      "authors": "Sharifi MN, Anandan A, Grogan P, O'Regan RM",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Human Colon Organoids and Other Laboratory Strategies to Enhance Patient Treatment Selection",
+      "pubmed_id": "32328818",
+      "pmc_id": "PMC7924903",
+      "year": "2020",
+      "publication_date": "2020 Apr",
+      "authors": "Johnson KA, DeStefanis RA, Emmerich PB, Grogan PT, Kratz JD, Makkar SK, Clipson L, Deming DA",
+      "journal": "CURR TREAT OPTION ON"
+    },
+    {
+      "title": "Novel natural withanolides induce apoptosis and inhibit migration of neuroblastoma cells through down regulation of N-myc and suppression of Akt/mTOR/NF-\u03baB activation",
+      "pubmed_id": "29581860",
+      "pmc_id": "PMC5865686",
+      "year": "2018",
+      "publication_date": "2018 Mar",
+      "authors": "Subramanian C, Grogan PT, Opipari VP, Timmermann BN, Cohen MS",
+      "journal": "Oncotarget"
+    },
+    {
+      "title": "Go, no-go decision making for phase 3 clinical trials: ACT IV revisited",
+      "pubmed_id": "29208432",
+      "year": "2017",
+      "publication_date": "2017 Dec",
+      "authors": "Nguyen HTN, Grogan P, Robins HI",
+      "journal": "Lancet Oncol"
+    },
+    {
+      "title": "Effects of peritumoral nanoconjugated cisplatin on laryngeal cancer stem cells",
+      "pubmed_id": "26690734",
+      "pmc_id": "PMC4842141",
+      "year": "2016",
+      "publication_date": "2016 May",
+      "authors": "Sim MW, Grogan PT, Subramanian C, Bradford CR, Carey TE, Forrest ML, Prince ME, Cohen MS",
+      "journal": "Laryngoscope"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20110/",
+      "trial_id": "20110",
+      "title": "GBM Agile: Global Adaptive Trial Master Protocol",
+      "condition": "Neurologic Oncology",
+      "intervention": "ADI-PEG 20 (); AZD1390 (); BAY 73-4506 (Regorafenib); Lomustine (CeeNU); Paxalisib (); Regorafenib (Stivarga); Temodal (Temozolomide); Temozolomide (); Troriluzole (); VAL-083 (); VT1021 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23369/",
+      "trial_id": "23369",
+      "title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Optune\u00ae (TTFields, 200 kHz) Concomitant with Maintenance Temozolomide and Pembrolizumab Versus Optune\u00ae Concomitant with Maintenance Temozolomide and Placebo for the Treatment of Newly Diagnosed Glioblastoma (EF-41/KEYNOTE D58)",
+      "condition": "Neurologic Oncology",
+      "intervention": "Pembrolizumab (Keytruda); Placebo (); Temodal (Temozolomide); Temozolomide ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23439/",
+      "trial_id": "23439",
+      "title": "A Phase 1 and Randomized Phase 2 Trial of Selinexor and Temozolomide in Recurrent Glioblastoma",
+      "condition": "Neurologic Oncology",
+      "intervention": "KPT-330 (Selinexor); Selinexor (); Temodal (Temozolomide); Temozolomide ()",
+      "status": "OPEN (SUSPENDED)"
+    }
+  ],
+  "lab_page_url": "https://www.moffitt.org/providers/Patrick-Grogan",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GroganPatrick_36745.jpg",
+  "contact": {},
+  "content_hash": "d35850b9b62e778a5927c93397d3501a4515947eafad346e67a8b6e0847332ca",
+  "researcher_name": "patrick grogan",
+  "department": ""
+}

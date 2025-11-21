@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/andriy-marusyk",
-  "last_updated": "2025-10-21T16:35:14.533827",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/andriy-marusyk/",
+  "last_updated": "2025-11-21T22:50:22.725010",
   "researcher_id": "16347",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Tumor Microenvironment and Metastasis",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "tumor microenvironment and metastasis",
+  "research_program": "cancer biology & evolution",
   "overview": "The main focus of research in my lab is filling this gap through development of experimental models that allow characterization and quantification of dynamics of populations of cancers cells under base-like conditions as well as under the stress of anti-cancer therapies. Another major research effort is centered on characterization of interactions between malignant cells and tumor associated fibroblasts with the aim of developing means to overcome stromal resistance to anti-cancer therapies.",
   "research_interests": [
     "Tumors are mini eco-systems, where evolving populations of genetically and phenotypically heterogeneous malignant cells are engaged in a network of reciprocal interactions with multiple normal cell types as well as with non-cellular components of tumor micro and macro environment. Research over recent decades shed light on molecular pathways essential for cancer cell survival, leading to development of multiple novel therapeutic approaches. Unfortunately, almost in all cases anti-cancers therapies provide only a temporary success, as tumors eventually relapse owing to outgrowth of therapy-resistant phenotypes. Preventing and limiting this outgrowth cannot be achieved only by focusing on proximal molecular mechanisms of resistance. We also need to develop adequate level of understanding of evolutionary dynamics, a knowledge that is mostly lacking.\n  *"
@@ -39,6 +39,23 @@
     }
   ],
   "publications": [
+    {
+      "title": "Evolutionary antifragile therapy",
+      "pubmed_id": "41000654",
+      "pmc_id": "PMC12458151",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "West J, Desai B, Strobl M, Gallaher J, Robertson-Tessi M, Marusyk A, Anderson ARA",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "RAS-GTP Inhibition Overcomes Acquired Resistance to KRASG12C Inhibitors Mediated by Oncogenic and Wildtype RAS Activation in Non-Small Cell Lung Cancer",
+      "pubmed_id": "41165456",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Solanki HS, Shah H, Imbody D, Desai B, Kato R, Miroshnychenko D, Stern YE, Majumder A, Sarcar B, Xieraili A, Stewart PA, Fang B, Zhang Y, Yao J, Darville LN, Koomen JM, Rix U, Evans JW, Yang YC, Ahler E, Marusyk A, Singh M, Aronchik I, Haura EB",
+      "journal": "Cancer Res"
+    },
     {
       "title": "Evolutionary gambit to defeat drug resistance in cancer",
       "pubmed_id": "38965429",
@@ -109,23 +126,6 @@
       "publication_date": "2024 Nov",
       "authors": "Thomas F, DeGregori J, Marusyk A, Dujon AM, Ujvari B, Capp JP, Gatenby R, Nedelcu AM",
       "journal": "Mesut Tez"
-    },
-    {
-      "title": "Author Correction: Subclonal cooperation drives metastasis by modulating local and systemic immune microenvironments",
-      "pubmed_id": "38443568",
-      "year": "2024",
-      "publication_date": "2024 May",
-      "authors": "Janiszewska M, Tabassum DP, Casta\u00f1o Z, Cristea S, Yamamoto KN, Kingston NL, Murphy KC, Shu S, Harper NW, Del Alcazar CG, Ale\u010dkovi\u0107 M, Ekram MB, Cohen O, Kwak M, Qin Y, Laszewski T, Luoma A, Marusyk A, Wucherpfennig KW, Wagle N, Fan R, Michor F, McAllister SS, Polyak K",
-      "journal": "Nat Cell Biol"
-    },
-    {
-      "title": "Dissecting the Spatially Restricted Effects of Microenvironment-Mediated Resistance on Targeted Therapy Responses",
-      "pubmed_id": "39001467",
-      "pmc_id": "PMC11240540",
-      "year": "2024",
-      "publication_date": "2024 Jun",
-      "authors": "Miti T, Desai B, Miroshnychenko D, Basanta D, Marusyk A",
-      "journal": "Cancers (Basel)"
     }
   ],
   "grants": [
@@ -184,11 +184,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages2.moffitt.org/marusyk",
+  "google_scholar_url": "https://scholar.google.com/citations?user=APi9dQkAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MarusykAndriy_16347.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16347"
   },
-  "content_hash": "ef6709a76d193c5604336c8eaa7a38807d7300f7c06295f21c782791fffa8346",
-  "researcher_name": "Andriy Marusyk",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "8430eeb61277d822d95e853840c3fcc879731295961174c77e100d716fcb4fe8",
+  "researcher_name": "andriy marusyk",
+  "department": "tumor microenvironment and metastasis"
 }

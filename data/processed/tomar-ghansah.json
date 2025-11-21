@@ -1,0 +1,127 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/tomar-ghansah/",
+  "last_updated": "2025-11-21T22:50:27.185181",
+  "researcher_id": "830",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "immuno-oncology",
+  "overview": "",
+  "research_interests": [
+    "Immuno-Oncology Program"
+  ],
+  "associations": [
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Meharry Medical College, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "H. Lee Moffitt Cancer Center & Research Institute",
+      "specialty": "Immunology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Protein kinase 2 (CK2): a potential regulator of immune cell development and function in cancer",
+      "pubmed_id": "33164702",
+      "year": "2021",
+      "publication_date": "2021 Sep",
+      "authors": "Husain K, Williamson TT, Nelson N, Ghansah T",
+      "journal": "Immunol Med"
+    },
+    {
+      "title": "Apigenin Increases SHIP-1 Expression, Promotes Tumoricidal Macrophages and Anti-Tumor Immune Responses in Murine Pancreatic Cancer",
+      "pubmed_id": "33291556",
+      "pmc_id": "PMC7761852",
+      "year": "2020",
+      "publication_date": "2020 Dec",
+      "authors": "Villalobos-Ayala K, Ortiz Rivera I, Alvarez C, Husain K, DeLoach D, Krystal G, Hibbs ML, Jiang K, Ghansah T",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Expression of Sestrin Genes in Radiotherapy for Prostate Cancer and Its Association With Fatigue: A Proof-of-Concept Study",
+      "pubmed_id": "29325451",
+      "pmc_id": "PMC5824984",
+      "year": "2018",
+      "publication_date": "2018 Mar",
+      "authors": "Gonzalez VJ, Abbas-Aghababazadeh F, Fridley BL, Ghansah T, Saligan LN",
+      "journal": "Biol Res Nurs"
+    },
+    {
+      "title": "Nelson N, Szekeres K, Iclozan C, Rivera IO, McGill A, Johnson G, Nwogu O, Ghansah T. Apigenin: Selective CK2 inhibitor increases Ikaros expression and improves T cell homeostasis and function in murine pancreatic cancer. PLoS One. 2017.12(2):e0170197. Pubmedid: [28152014](https://www.ncbi.nlm.nih.gov/pubmed/28152014). Pmcid: PMC5289423.",
+      "pubmed_id": "28152014",
+      "pmc_id": "PMC5289423",
+      "year": "2017",
+      "authors": ""
+    },
+    {
+      "title": "Murine pancreatic adenocarcinoma reduces Ikaros expression and disrupts T cell homeostasis",
+      "pubmed_id": "25629611",
+      "pmc_id": "PMC4309586",
+      "year": "2015",
+      "publication_date": "2015 Jan",
+      "authors": "Nelson N, Xiang S, Zhang X, Gilvary D, Djeu J, Husain K, Malafa M, Vohra N, Pilon-Thomas S, Ghansah T",
+      "journal": "PLoS One"
+    },
+    {
+      "title": "Comparison of Markers and Functional Attributes of Human Adipose-Derived Stem Cells and Dedifferentiated Adipocyte Cells from Subcutaneous Fat of an Obese Diabetic Donor",
+      "pubmed_id": "24669358",
+      "pmc_id": "PMC3955970",
+      "year": "2014",
+      "publication_date": "2014 Mar",
+      "authors": "Watson JE, Patel NA, Carter G, Moor A, Patel R, Ghansah T, Mathur A, Murr MM, Bickford P, Gould LJ, Cooper DR",
+      "journal": "Adv Wound Care (New Rochelle)"
+    },
+    {
+      "title": "Dendritic cell immunotherapy combined with gemcitabine chemotherapy enhances survival in a murine model of pancreatic carcinoma",
+      "pubmed_id": "23604104",
+      "pmc_id": "PMC3666559",
+      "year": "2013",
+      "publication_date": "2013 Jun",
+      "authors": "Ghansah T, Vohra N, Kinney K, Weber A, Kodumudi K, Springett G, Sarnaik AA, Pilon-Thomas S",
+      "journal": "Cancer Immunol Immun"
+    },
+    {
+      "title": "A novel strategy for modulation of MDSC to enhance cancer immunotherapy",
+      "pubmed_id": "23162780",
+      "pmc_id": "PMC3489768",
+      "year": "2012",
+      "publication_date": "2012 Sep",
+      "authors": "Ghansah T",
+      "journal": "Oncoimmunology"
+    },
+    {
+      "title": "Identification of a novel antiapoptotic human protein kinase C delta isoform, PKCdeltaVIII in NT2 cells",
+      "pubmed_id": "18092819",
+      "year": "2008",
+      "publication_date": "2008 Jan",
+      "authors": "Jiang K, Apostolatos AH, Ghansah T, Watson JE, Vickers T, Cooper DR, Epling-Burnette PK, Patel NA",
+      "journal": "Biochemistry-Us"
+    },
+    {
+      "title": "Induced SHIP deficiency expands myeloid regulatory cells and abrogates graft-versus-host disease",
+      "pubmed_id": "17312133",
+      "year": "2007",
+      "publication_date": "2007 Mar",
+      "authors": "Paraiso K, Ghansah T, Costello A, Engelman R, Kerr W",
+      "journal": "J Immunol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=830"
+  },
+  "content_hash": "aec8c7d58dcb7ba177ec2a6c914fba6740e11279015808cb7edf03bf6448bace",
+  "researcher_name": "tomar ghansah",
+  "department": ""
+}

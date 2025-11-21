@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/eduardo-moros",
-  "last_updated": "2025-10-21T16:34:18.505668",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/eduardo-moros/",
+  "last_updated": "2025-11-21T22:50:23.591261",
   "researcher_id": "9068",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Radiation Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "radiation oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Dr. Eduardo G. Moros career has focused on developing mathematical models, devices, techniques and systems to advance medical physics and radiation oncology. Currently, he is working on advancing adaptive (personalized) radiation therapy using quantitative imaging analysis (radiomics) and artificial intelligence (machine learning) to gain biological/functional information from standard of care medical images.",
   "research_interests": [
     "Personalized (Adaptive) Radiation Therapy. Quantitative Image Analysis (radiomics, imaging habitats). Machine learning applications in medical physics and radiation oncology. Physics and dosimetry of radiopharmaceuticals for imaging and therapy (theranostics). Estimating dose using ionizing radiation induced acoustic imaging (iRAI). Ultra-high dose rate irradiation using protons and electrons to cause the normal tissue sparing FLASH effect. Mathematical oncology applications in radiotherapy. Proton and heavier ions therapy physics. \n  *"
@@ -147,11 +147,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5mIXDK8ENMEYxphdgBY685eAJ0_XCylOZhOLqZGI2f0iLRqTz-3CtA5Gb-MKOITHpVQ7uP2-8thkuJwvomKvKGZkGSSg&user=BslTuE0AAAAJ",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MorosEduardo_9068.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=9068"
   },
-  "content_hash": "539d91b7ad051b219c4b2f1eade1666a49326da69658107b52fae4c50f166b3a",
-  "researcher_name": "Eduardo Moros",
-  "department": "Machine Learning"
+  "content_hash": "ed5235e8797e92e60c7d524e29621f12ac5e869bcc80a8ee7491cb33eec68f0f",
+  "researcher_name": "eduardo moros",
+  "department": "machine learning"
 }

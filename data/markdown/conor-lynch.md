@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/conor-lynch)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/conor-lynch)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -512,8 +511,8 @@ The goal of our laboratory is to understand how metastatic prostate cancer cells
     * Baratchart E, Lo CH, Lynch CC, Basanta D. Integrated computational and in vivo models reveal Key Insights into macrophage behavior during bone healing. PLoS Comput Biol. 2022 May.18(5):e1009839. Pubmedid: [35559958](https://www.ncbi.nlm.nih.gov/pubmed/35559958). Pmcid: PMC9106165. 
     * Lo CH, Shay G, McGuire J, Li T, Shain K, Choi JY, Fuerst R, Roush WR, Knapinska AM, Fields GB, Lynch CC. Host-Derived Matrix Metalloproteinase-13 Activity Promotes Multiple Myeloma-Induced Osteolysis and Reduces Overall Survival. Cancer Res. 2021 May.81(9):2415-2428. Pubmedid: [33526510](https://www.ncbi.nlm.nih.gov/pubmed/33526510). Pmcid: PMC8809361. 
     * Lo CH, Baratchart E, Basanta D, Lynch CC. Computational modeling reveals a key role for polarized myeloid cells in controlling osteoclast activity during bone injury repair. Sci Rep. 2021 Mar.11(1):6055. Pubmedid: [33723343](https://www.ncbi.nlm.nih.gov/pubmed/33723343). Pmcid: PMC7961065. 
-    * McGuire JJ, Frieling JS, Lo CH, Li T, Muhammad A, Lawrence HR, Lawrence NJ, Cook LM, Lynch CC. Mesenchymal stem cell-derived interleukin-28 drives the selection of apoptosis resistant bone metastatic prostate cancer. Nat Commun. 2021 Feb.12(1):723. Pubmedid: [33526787](https://www.ncbi.nlm.nih.gov/pubmed/33526787). Pmcid: PMC7851397. 
     * Araujo A, Cook LM, Frieling JS, Tan W, Copland JA, Kohli M, Gupta S, Dhillon J, Pow-Sang J, Lynch CC, Basanta D. Quantification and Optimization of Standard-of-Care Therapy to Delay the Emergence of Resistant Bone Metastatic Prostate Cancer. Cancers (Basel). 2021 Feb.13(4). Pubmedid: [33567529](https://www.ncbi.nlm.nih.gov/pubmed/33567529). Pmcid: PMC7915310. 
+    * McGuire JJ, Frieling JS, Lo CH, Li T, Muhammad A, Lawrence HR, Lawrence NJ, Cook LM, Lynch CC. Mesenchymal stem cell-derived interleukin-28 drives the selection of apoptosis resistant bone metastatic prostate cancer. Nat Commun. 2021 Feb.12(1):723. Pubmedid: [33526787](https://www.ncbi.nlm.nih.gov/pubmed/33526787). Pmcid: PMC7851397. 
     * Vaught DB, Merkel AR, Lynch CC, Edwards J, Tantawy MN, Hilliard T, Wang S, Peterson T, Johnson RW, Sterling JA, Brantley-Sieders D. EphA2 Is a Clinically Relevant Target for Breast Cancer Bone Metastatic Disease. JBMR Plus. 2021 Apr.5(4):e10465. Pubmedid: [33869989](https://www.ncbi.nlm.nih.gov/pubmed/33869989). Pmcid: PMC8046157. 
     * Frieling JS, Li T, Tauro M, Lynch CC. Prostate cancer-derived MMP-3 controls intrinsic cell growth and extrinsic angiogenesis. Neoplasia. 2020 Oct.22(10):511-521. Pubmedid: [32896761](https://www.ncbi.nlm.nih.gov/pubmed/32896761). Pmcid: PMC7481881. 
     * McGuire JJ, Nerlakanti N, Lo CH, Tauro M, Utset-Ward TJ, Reed DR, Lynch CC. Histone deacetylase inhibition prevents the growth of primary and metastatic osteosarcoma. Int J Cancer. 2020 Nov.147(10):2811-2823. Pubmedid: [32599665](https://www.ncbi.nlm.nih.gov/pubmed/32599665). Pmcid: PMC7787271. 
@@ -687,7 +686,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -742,7 +741,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/conor-lynch#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/conor-lynch#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -760,7 +759,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1114,7 +1113,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/conor-lynch#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/conor-lynch#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

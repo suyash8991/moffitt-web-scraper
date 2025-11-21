@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/peter-kanetsky)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/peter-kanetsky)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -512,6 +511,7 @@ Status: Open
 **If you believe you are eligible for one of these trials or studies, please call  
 [813-745-6100](tel:+813-745-6100) or toll-free [1-800-679-0775](tel:+1-800-679-0775). **
   * ## Publications
+    * Parker NH, Ramos JD, Tarhini AA, Schell MJ, Egan KM, Kanetsky PA. A retrospective cohort study of physical activity and survival in patients treated with immune checkpoint inhibitors. Cancer Epidemiol Biomarkers Prev. 2025 Sep. Pubmedid: [40971247](https://www.ncbi.nlm.nih.gov/pubmed/40971247). Pmcid: PMC12579459. 
     * Gibbs DC, Small BM, Autuori I, Leong SF, Ali E, Kenney J, Luo L, Kanetsky PA, Busam KJ, Cust AE, Anton-Culver H, Gallagher RP, Zanetti R, Rosso S, Sacchetto L, Edmiston SN, Conway K, Ollila DW, Begg CB, Berwick M, Orlow I, Thomas NE. Association of Inherited Genetic Variants with Multiple Primary Melanoma. Cancer Epidemiol Biomarkers Prev. 2025 May.34(5):805-814. Pubmedid: [40036058](https://www.ncbi.nlm.nih.gov/pubmed/40036058). Pmcid: PMC12067251. 
     * Ugalde-Morales E, Wilf R, Pluta J, Ploner A, Fan M, Damra M, Aben KK, Anson-Cartwright L, Chen C, Cortessis VK, Daneshmand S, Ferlin A, Gamulin M, Gietema JA, Gonzalez-Niera A, Grotmol T, Hamilton RJ, Harland M, Haugen TB, Hauser R, Hildebrandt MAT, Karlsson R, Kiemeney LA, Kim J, Lessel D, Lothe RA, Loveday C, Chanock SJ, McGlynn KA, Meijer C, Nead KT, Nsengimana J, Popovic M, Rafnar T, Richiardi L, Rocca MS, Schwartz SM, Skotheim RI, Stefansson K, Stewart DR, Turnbull C, Vaughn DJ, Winge SB, Zheng T, Monteiro AN, Almstrup K, Kanetsky PA, Nathanson KL, Wiklund F. Identification of genes associated with testicular germ cell tumor susceptibility through a transcriptome-wide association study. Am J Hum Genet. 2025 Mar.112(3):630-643. Pubmedid: [39999848](https://www.ncbi.nlm.nih.gov/pubmed/39999848). Pmcid: PMC11947167. 
     * Stefanaki I, D'Ecclesiis O, Vignati S, Gaeta A, Kypreou K, Caini S, Gandini S, Nagore E, Sera F, Botta F, Newton-Bishop J, Polsky D, Lazovich D, Kanetsky PA, Puig S, Gruis NA, Landi MT, Fargnoli MC, Stratigos A, Guida G, Ghiorzo P, Menin C, García-Borrón JC, Little J, Nan H, Raimondi S. Association of MC1R variants with melanoma risk and interaction with sun exposure: An M-SKIP project. J Eur Acad Dermatol Venereol. 2025 Jul.39(7):e568-e571. Pubmedid: [39425518](https://www.ncbi.nlm.nih.gov/pubmed/39425518). Pmcid: PMC12008258. 
@@ -522,9 +522,9 @@ Status: Open
     * Lacson JCA, Soto-Torres B, Sutton SK, Doyle SH, Kim Y, Roetzheim RG, Vadaparampil ST, Kanetsky PA. Skin cancer prevention behaviors, beliefs, distress, and worry among hispanics in Florida and Puerto Rico. BMC Public Health. 2023 Nov.23(1):2234. Pubmedid: [37957686](https://www.ncbi.nlm.nih.gov/pubmed/37957686). Pmcid: PMC10644628. 
     * Ward SV, Autuori I, Luo L, LaPilla E, Yoo S, Sharma A, Busam KJ, Olilla DW, Dwyer T, Anton-Culver H, Zanetti R, Sacchetto L, Cust AE, Gallagher RP, Kanetsky PA, Rosso S, Begg CB, Berwick M, Thomas NE, Orlow I. Sex-Specific Associations of MDM2 and MDM4 Variants with Risk of Multiple Primary Melanomas and Melanoma Survival in Non-Hispanic Whites. Cancers (Basel). 2023 May.15(10). Pubmedid: [37345045](https://www.ncbi.nlm.nih.gov/pubmed/37345045). Pmcid: PMC10216616. 
     * Li X, Roy S, Damonte J, Park HY, Hoogland AI, Jamison K, Komrokji KR, Yeo CD, Kim Y, Dhillon J, Gudenkauf LM, Oswald LB, Jim HSL, Yamoah K, Pow-Sang JM, Kanetsky PA, Gwede CK, Park JY, Gonzalez BD. Recruiting African American Prostate Cancer Survivors for a Population-based Biobank Study. Cancer Epidemiol Biomarkers Prev. 2023 Jun.32(6):768-775. Pubmedid: [36958853](https://www.ncbi.nlm.nih.gov/pubmed/36958853). Pmcid: PMC10308568. 
+    * Lewicka M, Hamilton JG, Waters EA, Orom H, Schofield E, Kiviniemi MT, Kanetsky PA, Hay JL. Associations between social COVID-19 exposure and psychological functioning. J Behav Med. 2023 Jun.46(3):472-482. Pubmedid: [36334169](https://www.ncbi.nlm.nih.gov/pubmed/36334169). Pmcid: PMC9638199. 
     * Lindström S, Wang L, Feng H, Majumdar A, Huo S, Macdonald J, Harrison T, Turman C, Chen H, Mancuso N, Bammler T, Gallinger S, Gruber SB, Gunter MJ, Le Marchand L, Moreno V, Offit K, de Vivo I, O'Mara TA, Spurdle AB, Tomlinson I, Fitzgerald R, Gharahkhani P, Gockel I, Jankowski J, Macgregor S, Schumacher J, Barnholtz-Sloan J, Bondy ML, Houlston RS, Jenkins RB, Melin B, Wrensch M, Brennan P, Christiani D, Johansson M, Mckay J, Aldrich MC, Amos CI, Landi MT, Tardon A, Bishop DT, Demenais F, Goldstein AM, Iles MM, Kanetsky PA, Law MH, Amundadottir LT, Stolzenberg-Solomon R, Wolpin BM, Klein A, Petersen G, Risch H, Chanock SJ, Purdue MP, Scelo G, Pharoah P, Kar S, Hung RJ, Pasaniuc B, Kraft P. Genome-wide analyses characterize shared heritability among cancers and identify novel cancer susceptibility regions. J Natl Cancer Inst. 2023 Jun.115(6):712-732. Pubmedid: [36929942](https://www.ncbi.nlm.nih.gov/pubmed/36929942). Pmcid: PMC10248849. 
     * Kano M, Tamí-Maury I, Pratt-Chapman ML, Chang S, Kosich M, Quinn GP, Poteat T, Kanetsky PA, Elk R, Boehmer U, Sanchez J, Kamen C, Sanchez NF. Piloting the Sexual and Gender Minority Cancer Curricular Advances for Research and Education (SGM Cancer CARE) Workshop: Research Training in the Service of SGM Cancer Health Equity. J Cancer Educ. 2023 Jun.38(3):1066-1076. Pubmedid: [36399283](https://www.ncbi.nlm.nih.gov/pubmed/36399283). Pmcid: PMC9673892. 
-    * Lewicka M, Hamilton JG, Waters EA, Orom H, Schofield E, Kiviniemi MT, Kanetsky PA, Hay JL. Associations between social COVID-19 exposure and psychological functioning. J Behav Med. 2023 Jun.46(3):472-482. Pubmedid: [36334169](https://www.ncbi.nlm.nih.gov/pubmed/36334169). Pmcid: PMC9638199. 
     * Crowder SL, Buro AW, Lacson JCA, Del Rio J, Kim Y, Roetzheim RG, Sutton SK, Vadaparampil ST, Soto-Torres B, Stern M, Kanetsky PA. Qualitative assessment of uptake retention and evaluation of prevention materials for skin cancer among Hispanics. Patient Educ Couns. 2023 Jul.112:107742. Pubmedid: [37028174](https://www.ncbi.nlm.nih.gov/pubmed/37028174). Pmcid: PMC10164708. 
     * Zhang R, Smit AK, Espinoza D, Allen M, Reyes-Marcelino G, Kimlin MG, Lo SN, Sharman AR, Law MH, Kanetsky PA, Mann GJ, Cust AE. Validation of self-reported sun exposure against electronic ultraviolet radiation dosimeters. Int J Epidemiol. 2023 Feb.52(1):324-328. Pubmedid: [36153755](https://www.ncbi.nlm.nih.gov/pubmed/36153755). 
     * Rivera Rivera JN, Lacson JCA, Kim Y, Roetzheim RG, Sutton SK, Soto-Torres B, Vadaparampil ST, Kanetsky PA. Sharing and seeking information about skin cancer risk and prevention among Hispanic people from Florida and Puerto Rico. PEC Innov. 2023 Dec.3:100232. Pubmedid: [38028436](https://www.ncbi.nlm.nih.gov/pubmed/38028436). Pmcid: PMC10679524. 
@@ -797,7 +797,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -852,7 +852,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/peter-kanetsky#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/peter-kanetsky#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -870,7 +870,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1224,7 +1224,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/peter-kanetsky#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/peter-kanetsky#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

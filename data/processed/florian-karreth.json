@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/florian-karreth",
-  "last_updated": "2025-10-21T16:34:53.824637",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/florian-karreth/",
+  "last_updated": "2025-11-21T22:50:23.768278",
   "researcher_id": "17021",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "My lab is interested in the intersection of oncogenic signaling pathways and non-coding RNAs in the initiation, progression, and resistance of cancers driven by the MAPK pathway, with an emphasis on melanoma. We study how secondary genetic events enhance or cooperate with the MAPK pathway to promote the oncogenic evolution of melanoma. Such secondary events may represent targetable vulnerabilities that could be therapeutically explored in combination with current standard-of-care targeted therapy or immunotherapy.",
   "research_interests": [
     "My lab is interested in the intersection of oncogenic signaling pathways and non-coding RNAs in the initiation, progression, and resistance of cancers driven by the MAPK pathway, with an emphasis on melanoma. We study how secondary genetic events enhance or cooperate with the MAPK pathway to promote the oncogenic evolution of melanoma. Such secondary events may represent targetable vulnerabilities that could be therapeutically explored in combination with current standard-of-care targeted therapy or immunotherapy.\n  *"
@@ -39,6 +39,15 @@
     }
   ],
   "publications": [
+    {
+      "title": "The Roles of PTEN in Melanoma Suppression",
+      "pubmed_id": "40976930",
+      "pmc_id": "PMC12451098",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Parkman GL, Xu X, Holmen SL, Karreth FA",
+      "journal": "Pigment Cell Melanoma Res"
+    },
     {
       "title": "A multi-step immune-competent genetic mouse model reveals phenotypic plasticity in uveal melanoma",
       "pubmed_id": "40502063",
@@ -118,15 +127,6 @@
       "publication_date": "2023 Jun",
       "authors": "DeBlasi JM, Falzone A, Caldwell S, Prieto-Farigua N, Prigge JR, Schmidt EE, Chio IIC, Karreth FA, DeNicola GM",
       "journal": "Cancer Res"
-    },
-    {
-      "title": "Genetically engineered mouse models of head and neck cancers",
-      "pubmed_id": "37474617",
-      "pmc_id": "PMC10457205",
-      "year": "2023",
-      "publication_date": "2023 Aug",
-      "authors": "Tasoulas J, Srivastava S, Xu X, Tarasova V, Maniakas A, Karreth FA, Amelio AL",
-      "journal": "Oncogene"
     }
   ],
   "grants": [
@@ -234,11 +234,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages2.moffitt.org/karreth",
+  "google_scholar_url": "https://scholar.google.com/citations?user=a-3LnGUAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KarrethFlorian_17021.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17021"
   },
-  "content_hash": "ea875eaff5b3f7fd98539bda4c5b3f3f11fc567b3d6a4fb348c42b40b7e408f2",
-  "researcher_name": "Florian Karreth",
-  "department": "Molecular Oncology"
+  "content_hash": "4d1c15fd7fba56e6c1d37665be1b5c109dbabe5b99643a3fa5939852c5849703",
+  "researcher_name": "florian karreth",
+  "department": "molecular oncology"
 }

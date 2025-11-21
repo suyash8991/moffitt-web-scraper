@@ -1,0 +1,182 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/martine-extermann/",
+  "last_updated": "2025-11-21T22:50:25.689086",
+  "researcher_id": "689",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "senior adult oncology",
+  "research_program": "health outcomes & behavior",
+  "overview": "Dr. Extermann\u2019s main interest is understanding how the health of the older patient, which can vary greatly, interacts with the choice of cancer treatment.",
+  "research_interests": [
+    "Dr. Extermann\u2019s work seeks to understand how general health of the older patient interacts with cancer behavior, and conduct and outcomes of their cancer treatment. She works on designing models that intertwine geriatric assessment and oncology decision tools. She has designed a model for estimating the benefit from adjuvant therapy in older breast cancer patients, adjusting for comorbidity. She has also devised an index that allows assessing the individual risk of severe toxicity from chemotherapy: the Chemotherapy Risk Assessment Scale for High-age patients (CRASH) score. She is conducting studies to explore the interaction of comorbidity with cancer behavior and treatment.\n  *"
+  ],
+  "associations": [
+    "Gastrointestinal Oncology",
+    "Health Outcomes and Behavior",
+    "Cancer Chemoprevention Research Interest Group",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University Hospital, Geneva, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University of Geneva, Switzerland",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Hospital de la Chaux-de-Fonds",
+      "specialty": "Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "Hospital Cantonal de Fribourg and University Hospital, Geneva",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University Hospital (CHUV) Lausanne",
+      "specialty": "Hematology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida College of Medicine",
+      "specialty": "Medical Oncology/Senior Adult Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Acute Change in Perceived Cognitive Performance Across Different Age Groups Following First Chemotherapy Infusion in Female Patients With Breast Cancer",
+      "pubmed_id": "41058041",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Yang HY, Li X, Hoogland AI, Welniak TL, Rodriguez Y, Carpenter KM, Fischer SM, Kinney AY, Li D, Nguyen O, Rotroff DM, Mariam A, Berry DL, Extermann M, Kim R, Lee KT, Jim HSL",
+      "journal": "Psychooncology"
+    },
+    {
+      "title": "Technology ownership, use, and perceptions of web-based program design features for older adults prescribed oral anticancer medication",
+      "pubmed_id": "39827698",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Marshall VK, Chavez MN, Mason TM, Extermann M, Simon LA, Ligatti J, Menon U, Szalacha LA",
+      "journal": "Geriatr Oncol"
+    },
+    {
+      "title": "Will evidence-based patient-centred care meet the future inter-generational needs of older adults with cancer? A diverse perspective",
+      "pubmed_id": "40288274",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Gardner R, Canin B, Loh KP, O'Shea C, Puts M, Rostoft S, Sen S, Steer C, Brill S, Cardone A, Dale W, Ewals B, Extermann M, Karnakis T, Marcaida R, Saur N, Williams G, Battisti NML",
+      "journal": "Geriatr Oncol"
+    },
+    {
+      "title": "Corrigendum to: Technology ownership, use, and perceptions of web-based program design features for older adults prescribed oral anticancer medication [Journal of Geriatric Oncology, 16(2), (2025) 102190]",
+      "pubmed_id": "40482354",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Marshall VK, Chavez MN, Mason TM, Extermann M, Simon LA, Ligatti J, Menon U, Szalacha LA",
+      "journal": "Geriatr Oncol"
+    },
+    {
+      "title": "Phase II trial of brain MRI surveillance in stage IV breast cancer",
+      "pubmed_id": "39851040",
+      "pmc_id": "PMC12309701",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Ahmed KA, Kim Y, Armaghani AJ, Arrington JA, Costa RL, Czerniecki BJ, Diaz R, Dowell RA, Extermann M, Forsyth PA, Lee KT, Loftus L, Mills MN, Phuoc VH, Rosa M, Soliman HH, Sam CS, Washington IR, Soyano AE, Han HS",
+      "journal": "Neurooncol"
+    },
+    {
+      "title": "Geriatric Assessment: ASCO Global Guideline",
+      "pubmed_id": "40865024",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Bergerot CD, Temin S, Verduzco-Aguirre HC, Aapro MS, Alibhai SMH, Aziz Z, de Celis Herrero MCP, Basu T, Extermann M, Kanesvaran R, Koczwara B, Loh KP, Mariamidze E, Mutombo AB, Noronha V, Williams GR, Soto-Perez-de-Celis E",
+      "journal": "JCO Glob Oncol"
+    },
+    {
+      "title": "Body Composition Assessment Provides Prognostic Information in Patients With Cancer Affected by Chronic Graft vs",
+      "pubmed_id": "40151989",
+      "pmc_id": "PMC11950734",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Mishra A, Thapa R, Bigam K, Extermann M, Faramand R, Khimani F, Wang X, Baracos V, Pidala JA",
+      "journal": "Host Disease"
+    },
+    {
+      "title": "Depressive symptom trajectories in older breast cancer survivors: the Thinking and Living with Cancer Study",
+      "pubmed_id": "37924476",
+      "pmc_id": "PMC11068856",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Nakamura ZM, Small BJ, Zhai W, Ahles TA, Ahn J, Artese AL, Bethea TN, Breen EC, Cohen HJ, Extermann M, Graham D, Irwin MR, Isaacs C, Jim HSL, Kuhlman KR, McDonald BC, Patel SK, Rentscher KE, Root JC, Saykin AJ, Tometich DB, Van Dyk K, Zhou X, Mandelblatt JS, Carroll JE",
+      "journal": "J Cancer Surviv"
+    },
+    {
+      "title": "Alzheimer disease-related biomarkers and cancer-related cognitive decline: the Thinking and Living with Cancer study",
+      "pubmed_id": "38788675",
+      "pmc_id": "PMC11378315",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Mandelblatt J, Dage JL, Zhou X, Small BJ, Ahles TA, Ahn J, Artese A, Bethea TN, Breen EC, Carroll JE, Cohen HJ, Extermann M, Graham D, Isaacs C, Jim HSL, Mcdonald BC, Nakamura ZM, Patel SK, Rebeck GW, Rentscher KE, Root JC, Russ KA, Tometich DB, Turner RS, Van Dyk K, Zhai W, Huang LW, Saykin AJ",
+      "journal": "J Natl Cancer Inst"
+    },
+    {
+      "title": "Clonal Hematopoiesis in Patients With Human Immunodeficiency Virus and Cancer",
+      "pubmed_id": "38657098",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Gillis N, Dickey BL, Colin-Leitzinger C, Tang YH, Putney RM, Mesa TE, Yoder SJ, Suneja G, Spivak AM, Patel AB, Extermann M, Giuliano AR, Teng M, Kresovich J, Berglund A, Coghill AE",
+      "journal": "J Infect Dis"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Exploring the Use of a Web-Based Program for Older Adults Receiving Oral Anticancer Agents to Improve Communication and Self-Management  \nAward Number: 1R03CA262908-01A1  \nSponsor: National Cancer Institute (NCI)  \nExtermann, M. (PD/PI)",
+      "title": "Exploring the Use of a Web-Based Program for Older Adults Receiving Oral Anticancer Agents to Improve Communication and Self-Management",
+      "award_number": "1R03CA262908-01A1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Extermann, M.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-19646/",
+      "trial_id": "19646",
+      "title": "Prospective Observational Cohort Study of Patients with Metastatic HER-2+ Breast Cancer at Risk of Cardiac Toxicity",
+      "condition": "Breast",
+      "intervention": "Carvedilol (); Not Applicable ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23719/",
+      "trial_id": "23719",
+      "title": "A Phase III, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Inavolisib Plus a CDK4/6 Inhibitor and Letrozole Versus Placebo Plus a CDK4/6 Inhibitor and Letrozole in Patients with Endocrine-Sensitive PIK3CA-Mutated, Hormone Receptor-Positive, HER2-Negative Advanced Breast Cancer",
+      "condition": "Breast",
+      "intervention": "772256 (Palbociclib); Femara (Letrozole); Inavolisib/Placebo (); Letrozole (); Palbociclib ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ExtermannMartine_689.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=689"
+  },
+  "content_hash": "be8198405975105f98cdd895e9a8b3feadfe8b11157ff4acab448f6f2b4085e5",
+  "researcher_name": "martine extermann",
+  "department": "health outcomes & behavior"
+}

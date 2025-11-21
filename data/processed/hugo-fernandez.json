@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/hugo-fernandez/",
+  "last_updated": "2025-11-21T22:50:24.052961",
+  "researcher_id": "3653",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology and cellular therapy at memorial healthcare system",
+  "research_program": "molecular medicine",
+  "overview": "",
+  "research_interests": [
+    "Dr. Fernandez's research focuses on developing cell-based therapies for acute myeloid leukemia, including the development of new transplant conditioning regimens for myeloid leukemias. He also works in the development of vaccine therapy pre- and post-transplantation for myeloid and lymphoid disorders.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology and Cellular Therapy at Memorial Healthcare System",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Florida College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "University of Miami/Jackson Memorial Medical Center",
+      "position": "Intern"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Miami/Jackson Memorial Medical Center",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Miami/Jackson Memorial Medical Center",
+      "specialty": "Hematology/Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Texas, MD Anderson Cancer Center",
+      "specialty": "BMT, Division of Hematology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Hematology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Correction: Shorter long-term post-transplant life expectancy may be due to prior chemotherapy for the underlying disease: analysis of 3012 patients with acute myeloid leukemia enrolled on 9 consecutive ECOG-ACRIN trials",
+      "pubmed_id": "39025917",
+      "pmc_id": "PMC11368803",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Ganzel C, Wang Y, Roopcharan K, Sun Z, Rowe JM, Fernandez HF, Paietta EM, Luger SM, Lazarus HM, Cripe LD, Douer D, Wiernik PH, Tallman MS, Litzow MR",
+      "journal": "Bone Marrow Transplant"
+    },
+    {
+      "title": "Shorter long-term post-transplant life expectancy may be due to prior chemotherapy for the underlying disease: analysis of 3012 patients with acute myeloid leukemia enrolled on 9 consecutive ECOG-ACRIN trials",
+      "pubmed_id": "38778148",
+      "pmc_id": "PMC11368814",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Ganzel C, Yating W, Roopcharan K, Sun Z, Rowe JM, Fernandez HF, Paietta EM, Luger SM, Lazarus HM, Cripe LD, Douer D, Wiernik PH, Tallman MS, Litzow MR",
+      "journal": "Bone Marrow Transplant"
+    },
+    {
+      "title": "Lower Weight-Based Mycophenolate Mofetil Dosing is Associated with Superior Outcomes after Haploidentical Hematopoietic Cell Transplant with Post-transplant Cyclophosphamide",
+      "pubmed_id": "39102983",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Elmariah H, Otoukesh S, Kumar A, Ali H, Arslan S, Dimaggio E, Gonzalez R, Shouse G, Pourhassan H, Nishihori T, Faramand R, Mishra A, Khimani F, Fernandez H, Lazaryan A, Nieder M, Perez L, Liu H, Nakamura R, Pidala J, Marcucci G, Forman SJ, Anasetti C, Bejanyan N, Al Malki MM",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Melphalan Dose in Combination With Fludarabine Affects Gastrointestinal Toxicity and Graft-Versus-Host Disease After Allogeneic Transplantation in Acute Myeloid Leukemia and Myelodysplastic Syndromes",
+      "pubmed_id": "39147136",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Albanyan O, Elmariah H, Kalos D, Kim J, Faramand R, Sallman D, Mishra A, Sweet K, Perez L, Ochoa-Bayona J, Nieder M, Komrokji R, Lancet J, Fernandez H, Nishihori T, Pidala J, Anasetti C, Bejanyan N",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Transplant options and outcomes for TP53 myeloid disease",
+      "pubmed_id": "39644031",
+      "pmc_id": "PMC11665708",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Fern\u00e1ndez HF, Mishra A",
+      "journal": "Hematology Am Soc Hematol Educ Program"
+    },
+    {
+      "title": "Sirolimus Is an Acceptable Alternative to Tacrolimus for Graft-versus-Host Disease Prophylaxis after Haploidentical Peripheral Blood Stem Cell Transplantation with Post-Transplantation Cyclophosphamide",
+      "pubmed_id": "37952648",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Elmariah H, Otoukesh S, Kumar A, Ali H, Arslan S, Shouse G, Pourhassan H, Nishihori T, Faramand R, Mishra A, Khimani F, Fernandez H, Lazaryan A, Nieder M, Perez L, Liu H, Nakamura R, Pidala J, Marcucci G, Forman SJ, Anasetti C, Locke F, Bejanyan N, Al Malki MM",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "DNA polymerase \u03b8 protects leukemia cells from metabolically induced DNA damage",
+      "pubmed_id": "36580665",
+      "pmc_id": "PMC10273171",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Vekariya U, Toma MM, Nieborowska-Skorska M, Le BV, Caron MC, Kukuyan AM, Sullivan-Reed K, Podszywalow-Bartnicka P, Chitrala KN, Atkins J, Drzewiecka M, Feng W, Chan J, Chatla S, Golovine K, Jelinek J, Sliwinski T, Ghosh J, Matlawska-Wasowska K, Chandramouly G, Nejati R, Wasik MA, Sykes S, Piwocka K, Hadzijusufovic E, Valent P, Pomerantz RT, Morton G, Childers W, Zhao H, Paietta E, Levine RL, Tallman MS, Fernandez H, Litzow MR, Gupta G, Masson JY, Skorski T",
+      "journal": "Blood"
+    },
+    {
+      "title": "Correction: Integrative analysis identifies an older female-linked AML patient group with better risk in ECOG-ACRIN Cancer Research Group's clinical trial E3999",
+      "pubmed_id": "37407550",
+      "pmc_id": "PMC10322919",
+      "year": "2023",
+      "publication_date": "2023 Jul",
+      "authors": "Rapaport F, Seier K, Neelamraju Y, Hassane D, Baslan T, Gildea DT, Haddox S, Lee T, Murdock HM, Sheridan C, Thurmond A, Wang L, Carroll M, Cripe LD, Fernandez H, Mason CE, Paietta E, Roboz GJ, Sun Z, Tallman MS, Zhang Y, G\u00f6nen M, Levine R, Melnick AM, Kleppe M, Garrett-Bakelman FE",
+      "journal": "Blood Cancer J"
+    },
+    {
+      "title": "Obesity in adult acute myeloid leukemia is not associated with inferior response or survival even when dose capping anthracyclines: An ECOG-ACRIN analysis",
+      "pubmed_id": "37185873",
+      "year": "2023",
+      "publication_date": "2023 Aug",
+      "authors": "Foran JM, Sun Z, Lai C, Fernandez HF, Cripe LD, Ketterling RP, Racevskis J, Luger SM, Paietta E, Lazarus HM, Zhang Y, Bennett JM, Levine RL, Rowe JM, Litzow MR, Tallman MS",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Integrative analysis identifies an older female-linked AML patient group with better risk in ECOG-ACRIN Cancer Research Group's clinical trial E3999",
+      "pubmed_id": "36151075",
+      "pmc_id": "PMC9508258",
+      "year": "2022",
+      "publication_date": "2022 Sep",
+      "authors": "Rapaport F, Seier K, Neelamraju Y, Hassane D, Baslan T, Gildea DT, Haddox S, Lee T, Murdock HM, Sheridan C, Thurmond A, Wang L, Carroll M, Cripe LD, Fernandez H, Mason CE, Paietta E, Roboz GJ, Sun Z, Tallman MS, Zhang Y, G\u00f6nen M, Levine R, Melnick AM, Kleppe M, Garrett-Bakelman FE",
+      "journal": "Blood Cancer J"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23060/",
+      "trial_id": "23060",
+      "title": "A Controlled Multi-Arm Phase 1 Umbrella Study Evaluating the Safety and Feasibility of T-Cell Receptor Engineered Donor T-Cells Targeting HA-1 (TSC-100) or HA-2 (TSC-101) in HLA-A*02:01 Positive Patients Undergoing Haploidentical Allogeneic Peripheral Blood Stem Cell Transplantation",
+      "condition": "Malignant Hematology",
+      "status": "Open (affiliates only)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23101/",
+      "trial_id": "23101",
+      "title": "A phase 2 study to investigate the efficacy and safety of CYP-001 in combination with corticosteroids in adults with high-risk acute graft versus host disease",
+      "condition": "Malignant Hematology",
+      "status": "Open (affiliates only)"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/FernandezHugo_3653.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3653"
+  },
+  "content_hash": "c0f92e73343f0ee5113b044d041e90e0c09d37dad1eafd812763dd3f1611d2fc",
+  "researcher_name": "hugo fernandez",
+  "department": ""
+}

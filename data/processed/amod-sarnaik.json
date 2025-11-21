@@ -1,0 +1,159 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/amod-sarnaik/",
+  "last_updated": "2025-11-21T22:50:22.618535",
+  "researcher_id": "4193",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "cutaneous oncology",
+  "research_program": "immuno-oncology",
+  "overview": "Investigating novel immunotherapeutics in the treatment of melanoma.",
+  "research_interests": [
+    "Dr. Sarnaik's primary research interest involves investigation of novel immunotherapeutics in the treatment of melanoma. This includes tumor-based vaccines, immune-activating antibodies, targeted inhibition of oncogenic proteins, and autologous T cell therapy.\n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Michigan",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "University of Cincinnati",
+      "position": "Intern",
+      "specialty": "Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Cincinnati",
+      "specialty": "Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Cincinnati",
+      "specialty": "Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Cincinnati",
+      "position": "Fellow",
+      "specialty": ", Molecular Genetics"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida",
+      "position": "Fellow",
+      "specialty": ", Moffitt Cancer Center"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Surgery",
+      "certification": "General Surgery"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Lifileucel tumor-infiltrating lymphocyte cell therapy in patients with unresectable or metastatic mucosal melanoma after disease progression on immune checkpoint inhibitors",
+      "pubmed_id": "40693376",
+      "pmc_id": "PMC12531414",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Kluger H, Grigoleit GU, Thomas S, Domingo-Musibay E, Chesney JA, Sanmamed MF, Medina T, Ziemer M, Whitman E, Finckenstein FG, Gastman B, Chou J, Wu X, Sulur G, Fiaz R, Qi R, Sarnaik AA",
+      "journal": "Cancer Commun (Lond)"
+    },
+    {
+      "title": "Role of high-dose interleukin-2 for melanoma in the age of cellular therapy",
+      "pubmed_id": "40447314",
+      "pmc_id": "PMC12128428",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Buchbinder E, Lotze MT, Margolin KA, Amaria R, Sarnaik A, Seery V, Eroglu Z, Khaddour K, Betof Warner A, Kluger HM, Sznol M, Atkins MB, Mcdermott DF, Silk AW",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Long-term Efficacy and Safety of Lifileucel Tumor-infiltrating Lymphocyte (TIL) Cell Therapy in Patients with Advanced Melanoma: A 5-year Analysis of the C-144-01 Study",
+      "pubmed_id": "40454684",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Medina T, Chesney JA, Kluger HM, Hamid O, Whitman ED, Cusnir M, Thomas SS, Wermke M, Domingo-Musibay E, Phan GQ, Kirkwood JM, Larkin J, Weber J, Finckenstein FG, Chou J, Gastman B, Wu X, Fiaz R, Sarnaik AA",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "The Use of Radar-Guided Localization to Identify Metastatic Melanoma After Neoadjuvant Immunotherapy",
+      "pubmed_id": "40279056",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dugan MM, Beekman KE, DePalo DK, Parker LM, Elleson KM, Mullinax JE, Sarnaik AA, Sondak VK, Perez MC, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "CD40L stimulates tumor-infiltrating B-cells and improves ex vivo TIL expansion",
+      "pubmed_id": "40199608",
+      "pmc_id": "PMC11979601",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Rossetti RAM, Tordesillas L, Beatty MS, Cianne J, Martinez Planes E, Du D, Snedal S, Wang C, Perez BA, Berglund A, Chen YA, Sarnaik A, Mul\u00e9 JJ, Creelan B, Pilon-Thomas S, Abate-Daga D",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Preexisting Skin-Resident CD8 and \u03b3\u03b4 T-cell Circuits Mediate Immune Response in Merkel Cell Carcinoma and Predict Immunotherapy Efficacy",
+      "pubmed_id": "39058036",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Reinstein ZZ, Zhang Y, Ospina OE, Nichols MD, Chu VA, Pulido AM, Prieto K, Nguyen JV, Yin R, Moran Segura C, Usman A, Sell B, Ng S, de la Iglesia JV, Chandra S, Sosman JA, Cho RJ, Cheng JB, Ivanova E, Koralov SB, Slebos RJC, Chung CH, Khushalani NI, Messina JL, Sarnaik AA, Zager JS, Sondak VK, Vaske C, Kim S, Brohl AS, Mi X, Pierce B, Wang X, Fridley BL, Tsai KY, Choi J",
+      "journal": "Cancer Discov"
+    },
+    {
+      "title": "Radar-Guided Localization and Resection for Metastatic Nodal and Soft Tissue Melanoma: A Single-Institution Retrospective Study",
+      "pubmed_id": "38429650",
+      "pmc_id": "PMC10908225",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Beekman KE, DePalo DK, Parker LM, Elleson KM, Mullinax JE, Sarnaik AA, Sondak VK, Zager JS",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "Expert consensus guidelines on management and best practices for tumor-infiltrating lymphocyte cell therapy",
+      "pubmed_id": "38423748",
+      "pmc_id": "PMC11005706",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Betof Warner A, Hamid O, Komanduri K, Amaria R, Butler MO, Haanen J, Nikiforow S, Puzanov I, Sarnaik A, Bishop MR, Schoenfeld AJ",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Neoadjuvant Intratumoral Plasmid IL-12 Electro-Gene-Transfer and Nivolumab in Patients with Operable, Locoregionally Advanced Melanoma",
+      "pubmed_id": "39417680",
+      "pmc_id": "PMC11611651",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Tarhini AA, Eroglu Z, Eljilany I, Zager JS, Gonzalez RJ, Sarnaik AA, Cruse CW, Khushalani NI, De Aquino DB, Abraham E, Acevedo DM, Richards A, Schell MJ, Kalos D, Chen PL, Messina JL, Canton DA, Sondak VK",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "First-in-Human Stage III/IV Melanoma Clinical Trial of Immune Priming Agent IFx-Hu2",
+      "pubmed_id": "38657233",
+      "pmc_id": "PMC11292317",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Markowitz J, Shamblott M, Brohl AS, Sarnaik AA, Eroglu Z, Khushalani NI, Dukes CW, Chamizo A, Bastawrous M, Garcia ET, Delhawi A, Chen PL, De Aquino DB, Sondak VK, Tarhini AA, Kim Y, Lawman P, Pilon-Thomas S"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SarnaikAmod_4193.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4193"
+  },
+  "content_hash": "81421aa439bb3ed9772f16ce7a155fd1fdf434c363e9f82a16a9faca14ba6ddd",
+  "researcher_name": "amod sarnaik",
+  "department": ""
+}

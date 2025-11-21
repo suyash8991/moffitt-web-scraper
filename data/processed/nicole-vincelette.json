@@ -1,0 +1,146 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/nicole-vincelette/",
+  "last_updated": "2025-11-21T22:50:26.137895",
+  "researcher_id": "unknown",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
+  "overview": "My research investigates how somatic mutations and mosaic chromosomal alterations (mCAs) reprogram hematopoiesis, alter the microenvironment, and drive the initiation and progression of hematologic malignancies. By uncovering the mechanisms linking genetic alterations to disease evolution, my team seeks to develop predictive models and targeted interventions that advance precision medicine in hematology.",
+  "research_interests": [
+    "My research focuses on uncovering the molecular mechanisms that drive disease progression in myelofibrosis and the transformation of chronic lymphocytic leukemia (CLL) into Richter\u2019s syndrome. These diseases serve as model systems to study how somatic genomic alterations arising in hematopoietic stem cells reprogram blood formation, amplify inflammatory signaling, and accelerate malignant evolution. Specifically, I investigate how MYC-driven alarmin pathways sustain chronic inflammation, disrupt normal hematopoiesis, and promote aberrant myeloid expansion in myelofibrosis, as well as how these same programs facilitate the aggressive transformation of CLL into Richter\u2019s syndrome. The overarching goal is to define how genetic alterations shape clonal evolution and to translate these insights into precision medicine strategies for hematologic malignancies. In parallel, I am examining how somatic chromosomal alterations in hematopoietic stem cells that heighten inflammatory responses contribute to the pathogenesis of non-hematologic diseases, such as non-alcoholic steatohepatitis (NASH) and liver fibrosis.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Proapoptotic activity of JNK-sensitive BH3-only proteins underpins ovarian cancer response to replication checkpoint inhibitors",
+      "pubmed_id": "39375715",
+      "pmc_id": "PMC11457406",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Venkatachalam A, Correia C, Peterson KL, Hou X, Schneider PA, Strathman AR, Flatten KS, Sine CC, Balczewski EA, McGehee CD, Larson MC, Duffield LN, Meng XW, Vincelette ND, Ding H, Oberg AL, Couch FJ, Swisher EM, Li H, Weroha SJ, Kaufmann SH",
+      "journal": "Mol Cancer"
+    },
+    {
+      "title": "Trisomy 8 Defines a Distinct Subtype of Myeloproliferative Neoplasms Driven by the MYC-Alarmin Axis",
+      "pubmed_id": "38713018",
+      "pmc_id": "PMC11215389",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Vincelette ND, Yu X, Kuykendall AT, Moon J, Su S, Cheng CH, Sammut R, Razabdouski TN, Nguyen HV, Eksioglu EA, Chan O, Al Ali N, Patel PC, Lee DH, Nakanishi S, Ferreira RB, Hyjek E, Mo Q, Cory S, Lawrence HR, Zhang L, Murphy DJ, Komrokji RS, Lee D, Kaufmann SH, Cleveland JL, Yun S",
+      "journal": "Blood Cancer Discov"
+    },
+    {
+      "title": "Integrative molecular subtypes of acute myeloid leukemia",
+      "pubmed_id": "37156780",
+      "pmc_id": "PMC10167212",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Mo Q, Yun S, Sallman DA, Vincelette ND, Peng G, Zhang L, Lancet JE, Padron E",
+      "journal": "Blood Cancer J"
+    },
+    {
+      "title": "Oxidized Mitochondrial DNA Engages TLR9 to Activate the NLRP3 Inflammasome in Myelodysplastic Syndromes",
+      "pubmed_id": "36835307",
+      "pmc_id": "PMC9966808",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Ward GA, Dalton RP, Meyer BS, McLemore AF, Aldrich AL, Lam NB, Onimus AH, Vincelette ND, Trinh TL, Chen X, Calescibetta AR, Christiansen SM, Hou HA, Johnson JO, Wright KL, Padron E, Eksioglu EA, List AF",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "CK1\u03b4 and CK1\u03b5 Signaling Sustains Mitochondrial Metabolism and Cell Survival in Multiple Myeloma",
+      "pubmed_id": "37702657",
+      "pmc_id": "PMC10690099",
+      "year": "2023",
+      "publication_date": "2023 Dec",
+      "authors": "Burger KL, Fernandez MR, Meads MB, Sudalagunta PR, Oliveira PS, Renatino Canevarolo R, Alugubelli RR, Tungsevik A, De Avila G, Silva M, Graeter AI, Dai H, Vincelette ND, Prabhu A, Magaletti D, Yang C, Li W, Kulkarni A, Hampton OA, Koomen JM, Roush WR, Monastyrskyi A, Berglund AE, Silva AS, Cleveland JL, Shain KH",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Somatic gene mutations expose cytoplasmic DNA to co-opt the cGAS/STING/NLRP3 axis in myelodysplastic syndromes",
+      "pubmed_id": "35788117",
+      "pmc_id": "PMC9462508",
+      "year": "2022",
+      "publication_date": "2022 Aug",
+      "authors": "McLemore AF, Hou HA, Meyer BS, Lam NB, Ward GA, Aldrich AL, Rodrigues MA, Vedder A, Zhang L, Padron E, Vincelette ND, Sallman DA, Abdel-Wahab O, List AF, McGraw KL",
+      "journal": "JCI Insight"
+    },
+    {
+      "title": "CDK2-Mediated Upregulation of TNF\u03b1 as a Mechanism of Selective Cytotoxicity in Acute Leukemia",
+      "pubmed_id": "33414171",
+      "pmc_id": "PMC8137540",
+      "year": "2021",
+      "publication_date": "2021 May",
+      "authors": "Ding H, Vincelette ND, McGehee CD, Kohorst MA, Koh BD, Venkatachalam A, Meng XW, Schneider PA, Flatten KS, Peterson KL, Correia C, Lee SH, Patnaik M, Webster JA, Ghiaur G, Smith BD, Karp JE, Pratz KW, Li H, Karnitz LM, Kaufmann SH",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "TFEB links MYC signaling to epigenetic control of myeloid differentiation and acute myeloid leukemia",
+      "pubmed_id": "33860275",
+      "pmc_id": "PMC8043621",
+      "year": "2021",
+      "publication_date": "2021 Mar",
+      "authors": "Yun S, Vincelette ND, Yu X, Watson GW, Fernandez MR, Yang C, Hitosugi T, Cheng CH, Freischel AR, Zhang L, Li W, Hou H, Schaub FX, Vedder AR, Cen L, McGraw KL, Moon J, Murphy DJ, Ballabio A, Kaufmann SH, Berglund AE, Cleveland JL",
+      "journal": "Blood Cancer Discov"
+    },
+    {
+      "title": "MYC overexpression is associated with an early disease progression from MDS to AML",
+      "pubmed_id": "34749168",
+      "pmc_id": "PMC8643343",
+      "year": "2021",
+      "publication_date": "2021 Dec",
+      "authors": "Gajzer D, Logothetis CN, Sallman DA, Calon G, Babu A, Chan O, Vincelette ND, Volpe VO, Al Ali NH, Basra P, Talati C, Kuykendall AT, Mo Q, Padron E, Sweet K, Komrokji RS, Lancet JE, Yun S, Zhang L",
+      "journal": "Leuk Res"
+    },
+    {
+      "title": "Oxidized mitochondrial DNA released after inflammasome activation is a disease biomarker for myelodysplastic syndromes",
+      "pubmed_id": "33890980",
+      "pmc_id": "PMC8095151",
+      "year": "2021",
+      "publication_date": "2021 Apr",
+      "authors": "Ward GA, McGraw KL, Abbas-Aghababazadeh F, Meyer BS, McLemore AF, Vincelette ND, Lam NB, Aldrich AL, Al Ali NH, Padron E, Pinilla-Ibarz J, Masala E, Santini V, Kosmider O, Fontenay M, Fenaux P, Johnson J, Fridley BL, List AF",
+      "journal": "Blood Adv"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: MYC-Alarmin Axis as a Novel Therapeutic Vulnerability in Myelofibrosis  \nAward Number: N/A  \nSponsor: American Society of Hematology (ASH)  \nVincelette, N. (PD/PI)",
+      "title": "MYC-Alarmin Axis as a Novel Therapeutic Vulnerability in Myelofibrosis",
+      "sponsor": "American Society of Hematology (ASH)",
+      "investigators": [
+        {
+          "name": "Vincelette, N.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: The oncogenic roles of alarmins and monocytes in triple negative myelofibrosis  \nAward Number: 1K22CA292451-01  \nSponsor: National Cancer Institute (NCI)  \nVincelette, N. (PD/PI)",
+      "title": "The oncogenic roles of alarmins and monocytes in triple negative myelofibrosis",
+      "award_number": "1K22CA292451-01",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Vincelette, N.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/VinceletteNicole_17654.jpg",
+  "contact": {},
+  "content_hash": "f37c3e343f9853bb9cc83fb21952f5ee6d8bb43b518697a2b1d9b5e13880da0c",
+  "researcher_name": "nicole vincelette",
+  "department": ""
+}

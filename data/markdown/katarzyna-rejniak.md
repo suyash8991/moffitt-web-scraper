@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -526,8 +525,8 @@ Our research focuses on mathematical modeling and computational simulations of t
     * Karolak A, Markov DA, McCawley LJ, Rejniak KA. Towards personalized computational oncology: from spatial models of tumour spheroids, to organoids, to tissues. J R Soc Interface. 2018 Jan.15(138). Pubmedid: [29367239](https://www.ncbi.nlm.nih.gov/pubmed/29367239). Pmcid: PMC5805971. 
     * Karolak A, Estrella VC, Huynh AS, Chen T, Vagner J, Morse DL, Rejniak KA. Targeting Ligand Specificity Linked to Tumor Tissue Topological Heterogeneity via Single-Cell Micro-Pharmacological Modeling. Sci Rep. 2018 Feb.8(1):3638. Pubmedid: [29483578](https://www.ncbi.nlm.nih.gov/pubmed/29483578). Pmcid: PMC5827036. 
     * Rejniak KA. Circulating Tumor Cells: When a Solid Tumor Meets a Fluid Microenvironment. Adv Exp Med Biol. 2016 Oct.936:93-106. Pubmedid: [27739044](https://www.ncbi.nlm.nih.gov/pubmed/27739044). Pmcid: PMC5113997. 
-    * Pérez-Velázquez J, Gevertz JL, Karolak A, Rejniak KA. Microenvironmental Niches and Sanctuaries: A Route to Acquired Resistance. Adv Exp Med Biol. 2016 Dec.936:149-164. Pubmedid: [27739047](https://www.ncbi.nlm.nih.gov/pubmed/27739047). Pmcid: PMC5113820. 
     * Shah AB, Rejniak KA, Gevertz JL. Limiting the development of anti-cancer drug resistance in a spatial model of micrometastases. Math Biosci Eng. 2016 Dec.13(6):1185-1206. Pubmedid: [27775375](https://www.ncbi.nlm.nih.gov/pubmed/27775375). Pmcid: PMC5113823. 
+    * Pérez-Velázquez J, Gevertz JL, Karolak A, Rejniak KA. Microenvironmental Niches and Sanctuaries: A Route to Acquired Resistance. Adv Exp Med Biol. 2016 Dec.936:149-164. Pubmedid: [27739047](https://www.ncbi.nlm.nih.gov/pubmed/27739047). Pmcid: PMC5113820. 
     * Rejniak KA, Lloyd MC, Reed DR, Bui MM. Diagnostic assessment of osteosarcoma chemoresistance based on Virtual Clinical Trials. Med Hypotheses. 2015 Sep.85(3):348-354. Pubmedid: [26130106](https://www.ncbi.nlm.nih.gov/pubmed/26130106). Pmcid: PMC4549200. 
     * Lloyd MC, Rejniak KA, Brown JS, Gatenby RA, Minor ES, Bui MM. Pathology to enhance precision medicine in oncology: lessons from landscape ecology. Adv Anat Pathol. 2015 Jul.22(4):267-272. Pubmedid: [26050264](https://www.ncbi.nlm.nih.gov/pubmed/26050264). Pmcid: PMC4729443. 
     * Wojtkowiak JW, Cornnell HC, Matsumoto S, Saito K, Takakusagi Y, Dutta P, Kim M, Zhang X, Leos R, Bailey KM, Martinez G, Lloyd MC, Weber C, Mitchell JB, Lynch RM, Baker AF, Gatenby RA, Rejniak KA, Hart C, Krishna MC, Gillies RJ. Pyruvate sensitizes pancreatic tumors to hypoxia-activated prodrug TH-302. Cancer Metab. 2015 Jan.3(1):2. Pubmedid: [25635223](https://www.ncbi.nlm.nih.gov/pubmed/25635223). Pmcid: PMC4310189. 
@@ -535,8 +534,8 @@ Our research focuses on mathematical modeling and computational simulations of t
     * Kim M, Reed D, Rejniak KA. The formation of tight tumor clusters affects the efficacy of cell cycle inhibitors: a hybrid model study. J Theor Biol. 2014 Jul.352:31-50. Pubmedid: [24607745](https://www.ncbi.nlm.nih.gov/pubmed/24607745). Pmcid: PMC5483857. 
     * Rejniak KA. Homeostatic imbalance in epithelial ducts and its role in carcinogenesis. Scientifica (Cairo). 2013 Nov.2012:132978. Pubmedid: [24278670](https://www.ncbi.nlm.nih.gov/pubmed/24278670). Pmcid: PMC3820568. 
     * Kim M, Gillies RJ, Rejniak KA. Current advances in mathematical modeling of anti-cancer drug penetration into tumor tissues. Front Oncol. 2013 Nov.3:278. Pubmedid: [24303366](https://www.ncbi.nlm.nih.gov/pubmed/24303366). Pmcid: PMC3831268. 
-    * Rejniak KA, Estrella V, Chen T, Cohen AS, Lloyd MC, Morse DL. The role of tumor tissue architecture in treatment penetration and efficacy: an integrative study. Front Oncol. 2013.3:111. Pubmedid: [23717812](https://www.ncbi.nlm.nih.gov/pubmed/23717812). Pmcid: PMC3650652. 
     * Enderling H, Rejniak KA. Simulating cancer: computational models in oncology. Front Oncol. 2013.3:233. Pubmedid: [24062986](https://www.ncbi.nlm.nih.gov/pubmed/24062986). Pmcid: PMC3772565. 
+    * Rejniak KA, Estrella V, Chen T, Cohen AS, Lloyd MC, Morse DL. The role of tumor tissue architecture in treatment penetration and efficacy: an integrative study. Front Oncol. 2013.3:111. Pubmedid: [23717812](https://www.ncbi.nlm.nih.gov/pubmed/23717812). Pmcid: PMC3650652. 
     * Rejniak KA, Anderson AR. State of the art in computational modelling of cancer. Math Med Biol. 2012 Mar.29(1):1-2. Pubmedid: [22200587](https://www.ncbi.nlm.nih.gov/pubmed/22200587). 
     * Rejniak KA, Quaranta V, Anderson AR. Computational investigation of intrinsic and extrinsic mechanisms underlying the formation of carcinoma. Math Med Biol. 2012 Mar.29(1):67-84. Pubmedid: [21106672](https://www.ncbi.nlm.nih.gov/pubmed/21106672). Pmcid: PMC3499074. 
     * Kam Y, Rejniak KA, Anderson AR. Cellular modeling of cancer invasion: integration of in silico and in vitro approaches. J Cell Physiol. 2012 Feb.227(2):431-438. Pubmedid: [21465465](https://www.ncbi.nlm.nih.gov/pubmed/21465465). Pmcid: PMC3687536. 
@@ -646,7 +645,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -701,7 +700,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -719,7 +718,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1073,7 +1072,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

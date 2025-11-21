@@ -1,0 +1,162 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/daniel-jeong/",
+  "last_updated": "2025-11-21T22:50:23.332088",
+  "researcher_id": "13929",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "diagnostic imaging and interventional radiology",
+  "research_program": "cancer epidemiology",
+  "overview": "Dr. Jeong's research is focused on using advanced MRI techniques to evaluate tumor extent and guide radiation therapy.",
+  "research_interests": [
+    "Dr. Jeong\u2019s research interests include oncologic cardiac imaging and applying quantitative imaging techniques in renal cell carcinoma, neuroendocrine tumors, and pancreatic adenocarcinoma.\n  *"
+  ],
+  "associations": [
+    "Diagnostic Imaging and Interventional Radiology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Rush University Medical Center, Master's in Science"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University of Iowa Carver College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Rush University Medical Center",
+      "position": "Intern",
+      "specialty": "Preliminary Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "Rush University Medical Center",
+      "specialty": "Diagnostic Radiology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Wisconsin",
+      "specialty": "MRI"
+    }
+  ],
+  "publications": [
+    {
+      "title": "The Impact of Edema on Skeletal Muscle Changes among Patients with Pancreatic Ductal Adenocarcinoma",
+      "pubmed_id": "40553455",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Davis EW, Park MA, Basinski TL, Arnoletti JP, Bloomston M, Carson TL, Biachi De Castria T, Chen DT, Cortizas EM, Crowder SL, Genilo-Delgado M, Douglas WG, Huguet KL, Jiang K, Hodul PJ, Karolak A, Kim DW, Koomen JM, Menon AA, Mo Q, Mok SR, Molina-Vega MA, Moreno-Urazan L, Ahmed S, Parker NH, Pimiento JM, Rasool G, Sparks LM, Stewart PA, Tassielli AF, Teer JK, Trevino JG, Velanovich V, Wang X, Whelan CJ, Judge SM, Judge AR, Fleming JB, Malafa MP, Jeong D, Permuth JB",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    },
+    {
+      "title": "Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival",
+      "pubmed_id": "40532592",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK",
+      "journal": "Eur J Radiol"
+    },
+    {
+      "title": "Multimodal AI-driven Biomarker for Early Detection of Cancer Cachexia",
+      "pubmed_id": "41001462",
+      "pmc_id": "PMC12458964",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Ahmed S, Parker N, Park M, Davis EW, Jeong D, Permuth JB, Schabath MB, Yilmaz Y, Rasool G",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "Lifetime stressor exposure and depression among patients with pancreatic cancer: insights from the Florida Pancreas Collaborative",
+      "pubmed_id": "41062956",
+      "pmc_id": "PMC12506433",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "DeSomma A, Maletz S, Basinski TL, Morales R, de Castria TB, Bloomston M, Chen DT, Douglas WG, Huguet KL, Jeong D, Jiang K, Kim DW, Luthra A, Pimiento JM, Rajasekhara S, Velanovich V, Park MA, Shields GS, Slavich GM, Permuth JB",
+      "journal": "BMC Cancer"
+    },
+    {
+      "title": "Correction: Park et al",
+      "pubmed_id": "40149388",
+      "pmc_id": "PMC11941415",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB",
+      "journal": "Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration"
+    },
+    {
+      "title": "Molecular signatures of intrahepatic cholangiocarcinoma: role in targeted therapy selection",
+      "pubmed_id": "40222184",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Glushko T, Costello J, Chima R, McGettigan M, Kim R, Jeong D, Qayyum A",
+      "journal": "Eur J Radiol"
+    },
+    {
+      "title": "Adrenal hemangiomas versus adrenal pheochromocytomas with radiologic-pathologic correlation",
+      "pubmed_id": "40318501",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Glushko T, Chumbalkar V, Honarmand AR, Araujo C, McGettigan M, Jeong D",
+      "journal": "Eur J Radiol"
+    },
+    {
+      "title": "Preoperative prediction of high-risk lymph nodes in penile cancer: Graafland criteria vs radiomics",
+      "pubmed_id": "40130666",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Morse B, Jeong D, Ahmed A, Kim J, Spiess P, Chahoud J",
+      "journal": "BJU Int"
+    },
+    {
+      "title": "Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma",
+      "pubmed_id": "39989973",
+      "pmc_id": "PMC11844656",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Reliable Radiologic Skeletal Muscle Area Assessment - A Biomarker for Cancer Cachexia Diagnosis",
+      "pubmed_id": "40313262",
+      "pmc_id": "PMC12045449",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Ahmed S, Parker N, Park M, Jeong D, Peres L, Davis EW, Permuth JB, Siegel E, Schabath MB, Yilmaz Y, Rasool G",
+      "journal": "medRxiv"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Using Radiogenomics to Noninvasively Predict the Malignant Potential of Intraductal Papillary Mucinous Neoplasms of the Pancreas and Uncover Hidden Biology  \nAward Number: 5R37CA229810-07  \nSponsor: National Cancer Institute (NCI)  \nJeong, D. (PD/PI), Permuth, J. (PD/PI)",
+      "title": "Using Radiogenomics to Noninvasively Predict the Malignant Potential of Intraductal Papillary Mucinous Neoplasms of the Pancreas and Uncover Hidden Biology",
+      "award_number": "5R37CA229810-07",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Jeong, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Permuth, J.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JeongDaniel_13929.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=13929"
+  },
+  "content_hash": "983d4e40de2cf651085bc889b79a2cdb6d9d8c18730b98c846d9a8a9705cfcd0",
+  "researcher_name": "daniel jeong",
+  "department": ""
+}

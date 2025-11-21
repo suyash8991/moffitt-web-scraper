@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/eric-padron",
-  "last_updated": "2025-10-21T16:37:39.339603",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/eric-padron/",
+  "last_updated": "2025-11-21T22:50:23.686241",
   "researcher_id": "7709",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Malignant Hematology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
   "overview": "The Padron Lab explores how to combat leukemia by investigating different drugs available for treatment, novel combinations of available drugs, or researching the non-coding genome. Investigating the non-coding part of the human genome is important. Another area of the Padron Lab is looking at what happens to patients before they get leukemia to identify any genetic risk factors. One of these Padron is investigating is an entity called clonal hematopoiesis. Clonal hematopoiesis puts older individuals at much higher risk of getting leukemia, but also puts them at higher risk for cardiovascular disease.",
   "research_interests": [
     "Chronic myelomonocytic leukemia (CMML) is a rare hematopoeitic malignancy characterized by dysplasia, cytopenias, a propensity to transform to Acute Myeloid Leukemia (AML) and a characteristic monocytosis that defines this entity. In the past, CMML was grouped together with the Myelodysplasitc Syndromes (MDS) but its clinical and genetic behavior is now known to be distinctly different from MDS. As a result, this disease is now grouped in a separate MDS/MPN category by WHO. Our research interests focus on understanding the molecular and genetic pathway of chronic myelomonocytic leukemia to better design targeted agents for study in the clinic. Our previous efforts have identified the GM-CSF signaling cascade as a target for CMML therapeutics and current efforts are underway to test this in the clinic. Future work will focus on uncovering new targets for CMML specific therapies. Dr. Padron has developed an interest in working with existing pharmaceutical compounds to evaluate their effectiveness for bone marrow failure disorders. Other work Dr. Padron is pursuing involves the SRSF2 mutation that can occur in MDS and may be related to progression to other diseases. The research underway examines the ability of an existing compound in development to destroy leukemic cells through targeting the cell's RNA. Positive results from these studies would be a benefit to patients in reducing the symptoms of bone marrow failure diseases, in particular the constitutional symptoms that can distress patients, including enlarged spleen, weight loss and fevers.\n  *"
@@ -79,12 +79,20 @@
       "journal": "Am J Hematol"
     },
     {
-      "title": "Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm",
-      "pubmed_id": "40453136",
-      "pmc_id": "PMC12067887",
+      "title": "XPO1 drives resistance to eprenetapopt and azacitidine and can be targeted in TP53-mutated myeloid malignancies",
+      "pubmed_id": "40737597",
       "year": "2025",
-      "publication_date": "2025 May",
-      "authors": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS",
+      "publication_date": "2025 Oct",
+      "authors": "Kruer TL, Quintana-Gonzalez A, Newman HL, Ferrall-Fairbanks MC, Zhang L, McLemore AF, Neupane S, Yang Q, Ben-Crentsil NA, Balasis ME, Letson CT, Komrokji RS, Chaudhry S, Totiger TM, Traina JA, Figueroa ME, Ryder CB, Cluzeau T, Taylor J, Sallman DA, Padron E",
+      "journal": "Blood"
+    },
+    {
+      "title": "A comparative assessment of molecular-based prognostic models in CMML",
+      "pubmed_id": "41036482",
+      "pmc_id": "PMC12483596",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Aguirre LE, Al Ali N, Ball S, Jain AG, Sallman DA, Kuykendall AT, Walker AR, Sweet K, Lancet JE, Padron E, Komrokji RS",
       "journal": "Blood Neoplasia"
     },
     {
@@ -96,12 +104,13 @@
       "journal": "Blood"
     },
     {
-      "title": "Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML)",
-      "pubmed_id": "39921921",
+      "title": "Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm",
+      "pubmed_id": "40453136",
+      "pmc_id": "PMC12067887",
       "year": "2025",
-      "publication_date": "2025 Mar",
-      "authors": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS",
-      "journal": "Leuk Res"
+      "publication_date": "2025 May",
+      "authors": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS",
+      "journal": "Blood Neoplasia"
     },
     {
       "title": "Reducing clinical trial eligibility barriers for patients with MDS: an icMDS position statement",
@@ -113,28 +122,19 @@
       "journal": "Blood"
     },
     {
-      "title": "Characteristics and survival outcomes of patients with myelodysplastic syndromes with isolated 11q deletion",
-      "pubmed_id": "39938357",
+      "title": "Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML)",
+      "pubmed_id": "39921921",
       "year": "2025",
       "publication_date": "2025 Mar",
-      "authors": "Takaoka K, Komrokji R, Chien K, Montalban-Bravo G, Salman JB, Urrutia S, Bataller A, Bazinet A, Kekedjian J, Al Ali NH, Sallman D, Padron E, Xie Z, Kanagal-Shamanna R, Tang G, Yang H, Rodriguez-Sevilla JJ, Garcia-Manero G, Sasaki K",
+      "authors": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS",
       "journal": "Leuk Res"
-    },
-    {
-      "title": "Long-term follow-up and combined Phase 2 results of eprenetapopt and azacitidine in patients with TP53 mutant MDS/AML",
-      "pubmed_id": "40657305",
-      "pmc_id": "PMC12255903",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Sallman DA, Komrokji RS, Dezern AE, Sebert M, Garcia-Manero G, Rahm\u00e9 R, Winer ES, Lehmann-Che J, Roboz GJ, Madelaine I, Sekeres MA, Peterlin P, Chan O, Beyne-Rauzy O, Kuykendall A, Recher C, McLemore A, Stamatoullas A, Zhang L, Willems L, Mo Q, Raffoux E, Nardelli L, Berthon C, Al Ali NH, Quesnel B, Padron E, Kantarjian HM, List AF, Ades L, Lancet JE, Fenaux P, Cluzeau T",
-      "journal": "Hemasphere"
     }
   ],
   "grants": [
     {
-      "description": "Title: Advancing the Therapeutic Landscape for Chronic Myelomonocytic Leukemia (CMML)  \nAward Number:   \nSponsor: Blood Cancer United  \nPadron, E. (PD/PI)",
+      "description": "Title: Advancing the Therapeutic Landscape for Chronic Myelomonocytic Leukemia (CMML)  \nAward Number: 8043-24  \nSponsor: Blood Cancer United  \nPadron, E. (PD/PI)",
       "title": "Advancing the Therapeutic Landscape for Chronic Myelomonocytic Leukemia (CMML)",
-      "award_number": "",
+      "award_number": "8043-24",
       "sponsor": "Blood Cancer United",
       "investigators": [
         {
@@ -211,11 +211,30 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22367/",
+      "trial_id": "22367",
+      "title": "The Impact Of Inflammation On HSPC Composition And Disease Progression In Chronic Myelomonocytic Leukemia (CMML INTERCEPT STUDY) SUB-TITLE: Intercepting CMML Disease Progression Driven by Acute Inflammation",
+      "condition": "Malignant Hematology",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23548/",
+      "trial_id": "23548",
+      "title": "A Phase 1, Open-Label, Dose Escalation and Expansion Study of STX-0712 in Patients with Advanced Hematologic Malignancies",
+      "condition": "Malignant Hematology",
+      "intervention": "STX-0712 ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "http://padronlab.moffitt.org/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=B6AkLQ0AAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PadronEric_7709.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7709"
   },
-  "content_hash": "ee5cf4a429b955be849361cc084dacf1f01f64a0c8d66828044ea41929e2a829",
-  "researcher_name": "Eric Padron",
-  "department": "Immunology"
+  "content_hash": "87494c59d581f7c281ae911c86b1471aab364b120f4c48ad277d705603e1118d",
+  "researcher_name": "eric padron",
+  "department": "immunology"
 }

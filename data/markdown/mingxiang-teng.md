@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/mingxiang-teng)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/mingxiang-teng)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -500,9 +499,9 @@ Dr. Teng’s research areas include: 1) Integrative approaches in decoding enhan
   * ## Publications
     * Shepard A, Lester DK, Troutman S, Hoxha S, Khaled WT, Smith ESJ, Park TJ, Buffenstein R, Du D, Teng M, Dengler-Crish CM, Tsai KY, Flores ER, Ventura A, Kissil JL. An Autochthonous Model of Lung Cancer Identifies Requirements for Cellular Transformation in the Naked Mole-Rat. Cancer Discov. 2025 Sep. Pubmedid: [40920097](https://www.ncbi.nlm.nih.gov/pubmed/40920097). Pmcid: PMC12486303. 
     * Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N. Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes. medRxiv. 2025 Sep. Pubmedid: [40950448](https://www.ncbi.nlm.nih.gov/pubmed/40950448). Pmcid: PMC12424905. 
-    * Wang H, Mou Z, Yeo YY, Ge Q, Liu X, Narita Y, Li Z, Wang C, Li W, Zhao KR, Li J, Bu W, Gewurz B, Cohen JI, Teng M, Dai X, Liu X, Jiang S, Zhao B. Epstein-Barr virus exploits desmocollin 2 as the principal epithelial cell entry receptor. Nat Microbiol. 2025 Sep. Pubmedid: [41006833](https://www.ncbi.nlm.nih.gov/pubmed/41006833). 
     * Liu X, Tang YH, Blachly J, Edge S, Jakubek YA, McCarter M, Naqash AR, Nepple KG, Osman A, Reilley MJ, Riedlinger G, Salhia B, Schneider BP, Shriver C, Churchman ML, Rounbehler RJ, Teer JK, Gillis N, Teng M. qcCHIP: an R package to identify clonal hematopoiesis variants using cohort-specific data characteristics. Bioinformatics. 2025 Sep.41(9). Pubmedid: [40973027](https://www.ncbi.nlm.nih.gov/pubmed/40973027). Pmcid: PMC12466928. 
-    * Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther. 2025 May.OF1-OF10. Pubmedid: [40376796](https://www.ncbi.nlm.nih.gov/pubmed/40376796). 
+    * Wang H, Mou Z, Yeo YY, Ge Q, Liu X, Narita Y, Li Z, Wang C, Li W, Zhao KR, Li J, Bu W, Gewurz B, Cohen JI, Teng M, Dai X, Liu X, Jiang S, Zhao B. Epstein-Barr virus exploits desmocollin 2 as the principal epithelial cell entry receptor. Nat Microbiol. 2025 Nov.10(11):2781-2796. Pubmedid: [41006833](https://www.ncbi.nlm.nih.gov/pubmed/41006833). 
+    * Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther. 2025 Nov.24(11):1712-1721. Pubmedid: [40376796](https://www.ncbi.nlm.nih.gov/pubmed/40376796). Pmcid: PMC12353786. 
     * Colin-Leitzinger C, Tang YH, Teng M, Gillis N. Peripheral blood somatic mosaicism and clonal hematopoiesis across ancestry backgrounds. medRxiv. 2025 Mar. Pubmedid: [40166537](https://www.ncbi.nlm.nih.gov/pubmed/40166537). Pmcid: PMC11957158. 
     * Wang C, Leong MM, Ding W, Narita Y, Liu X, Wang H, Yiu SPT, Lee J, Zhao KRS, Cui A, Gewurz B, Hammerschmidt W, Teng M, Zhao B. Viral oncogene EBNALP regulates YY1 DNA binding and alters host 3D genome organization. EMBO Rep. 2025 Feb.26(3):810-835. Pubmedid: [39747661](https://www.ncbi.nlm.nih.gov/pubmed/39747661). Pmcid: PMC11811279. 
     * Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq. 2025 Aug. Pubmedid: [40799741](https://www.ncbi.nlm.nih.gov/pubmed/40799741). Pmcid: PMC12340904. 
@@ -534,8 +533,8 @@ Dr. Teng’s research areas include: 1) Integrative approaches in decoding enhan
     * Vander Velde R, Yoon N, Marusyk V, Durmaz A, Dhawan A, Miroshnychenko D, Lozano-Peral D, Desai B, Balynska O, Poleszhuk J, Kenian L, Teng M, Abazeed M, Mian O, Tan AC, Haura E, Scott J, Marusyk A. Resistance to targeted therapies as a multifactorial, gradual adaptation to inhibitor specific selective pressures. Nat Commun. 2020 May.11(1):2393. Pubmedid: [32409712](https://www.ncbi.nlm.nih.gov/pubmed/32409712). Pmcid: PMC7224215. 
     * Guo R, Jiang C, Zhang Y, Govande A, Trudeau SJ, Chen F, Fry CJ, Puri R, Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG, Teng M, Gewurz BE. MYC Controls the Epstein-Barr Virus Lytic Switch. Mol Cell. 2020 May.78(4):653-669.e8. Pubmedid: [32315601](https://www.ncbi.nlm.nih.gov/pubmed/32315601). Pmcid: PMC7245572. 
     * Wang C, Zhang L, Ke L, Ding W, Jiang S, Li D, Narita Y, Hou I, Liang J, Li S, Xiao H, Gottwein E, Kaye KM, Teng M, Zhao B. Primary effusion lymphoma enhancer connectome links super-enhancers to dependency factors. Nat Commun. 2020 Dec.11(1):6318. Pubmedid: [33298918](https://www.ncbi.nlm.nih.gov/pubmed/33298918). Pmcid: PMC7726151. 
-    * Guo R, Zhang Y, Teng M, Jiang C, Schineller M, Zhao B, Doench JG, O'Reilly RJ, Cesarman E, Giulino-Roth L, Gewurz BE. DNA methylation enzymes and PRC1 restrict B-cell Epstein-Barr virus oncoprotein expression. Nat Microbiol. 2020 Aug.5(8):1051-1063. Pubmedid: [32424339](https://www.ncbi.nlm.nih.gov/pubmed/32424339). Pmcid: PMC7462085. 
     * Vena F, Bayle S, Nieto A, Quereda V, Aceti M, Frydman SM, Sansil SS, Grant W, Monastyrskyi A, McDonald P, Roush WR, Teng M, Duckett D. Targeting Casein Kinase 1 Delta Sensitizes Pancreatic and Bladder Cancer Cells to Gemcitabine Treatment by Upregulating Deoxycytidine Kinase. Mol Cancer Ther. 2020 Aug.19(8):1623-1635. Pubmedid: [32430484](https://www.ncbi.nlm.nih.gov/pubmed/32430484). Pmcid: PMC7415672. 
+    * Guo R, Zhang Y, Teng M, Jiang C, Schineller M, Zhao B, Doench JG, O'Reilly RJ, Cesarman E, Giulino-Roth L, Gewurz BE. DNA methylation enzymes and PRC1 restrict B-cell Epstein-Barr virus oncoprotein expression. Nat Microbiol. 2020 Aug.5(8):1051-1063. Pubmedid: [32424339](https://www.ncbi.nlm.nih.gov/pubmed/32424339). Pmcid: PMC7462085. 
     * Wang C, Jiang S, Ke L, Zhang L, Li D, Liang J, Narita Y, Hou I, Chen CH, Wang LW, Zhong Q, Ling Y, Lv X, Xiang Y, Guo X, Teng M, Tsao SW, Gewurz BE, Zeng MS, Zhao B. Genome-wide CRISPR-based gene knockout screens reveal cellular factors and pathways essential for nasopharyngeal carcinoma. J Biol Chem. 2019 Jun.294(25):9734-9745. Pubmedid: [31073033](https://www.ncbi.nlm.nih.gov/pubmed/31073033). Pmcid: PMC6597810. 
     * Wang C, Li D, Zhang L, Jiang S, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, Xiao H, Gewurz BE, Teng M, Zhao B. RNA Sequencing Analyses of Gene Expression during Epstein-Barr Virus Infection of Primary B Lymphocytes. J Virol. 2019 Jun.93(13). Pubmedid: [31019051](https://www.ncbi.nlm.nih.gov/pubmed/31019051). Pmcid: PMC6580941. 
     * Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, Teng M, Shukla C, Alm EJ, Hicks SC. A practical guide to methods controlling false discoveries in computational biology. Genome Biol. 2019 Jun.20(1):118. Pubmedid: [31164141](https://www.ncbi.nlm.nih.gov/pubmed/31164141). Pmcid: PMC6547503. 
@@ -664,7 +663,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -719,7 +718,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/mingxiang-teng#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/mingxiang-teng#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -737,7 +736,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1091,7 +1090,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/mingxiang-teng#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/mingxiang-teng#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

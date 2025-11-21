@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kristina-schmidt/",
+  "last_updated": "2025-11-21T22:50:25.191624",
+  "researcher_id": "3828",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer biology & evolution",
+  "overview": "",
+  "research_interests": [
+    "My research interests are in cancer genetics, DNA repair and recombination, DNA damage and mutagenesis, the DNA damage checkpoint response, and genome instability. Our current investigations focus on the REcQ-like DNA helicases Sgs1 (yeast) and BLM (human) to understand their role at the interface between DNA replication, repair and recombination and in the suppression of genome instability. We are using model organisms (yeast, C.elegans) to identify genetic pathways required for the maintenance of genome stability and how these pathways interact with each other. Besides genetic and biochemical approaches, we also use NMR to understand structure-function relationships and mass spectometry of complex mixtures to identify proteomic changes in mutant cells. Significant effort in the lab is also dedicated to developing yeast models for functional and mutational characterization of human cancer genes, with a current focus on Bloom's helicase.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology & Drug Discovery Program",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Leipzig University, Germany, MSc"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Edinburgh, UK, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of California School of Medicine, Ludwig Institute for Cancer Research",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Condensin II interacts with BLM helicase in S phase to maintain genome stability",
+      "pubmed_id": "40133469",
+      "pmc_id": "PMC11937517",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Rodemoyer B, Kariyawasam G, Subramanian V, Schmidt K",
+      "journal": "Commun Biol"
+    },
+    {
+      "title": "Mitochondrial superoxide dismutase Sod2 suppresses nuclear genome instability during oxidative stress",
+      "pubmed_id": "37638880",
+      "pmc_id": "PMC10550321",
+      "year": "2023",
+      "publication_date": "2023 Oct",
+      "authors": "Gupta SV, Campos L, Schmidt KH",
+      "journal": "Genetics"
+    },
+    {
+      "title": "Helicase activities of Rad5 and Rrm3 genetically interact in the prevention of recombinogenic DNA lesions in Saccharomyces cerevisiae",
+      "pubmed_id": "37054652",
+      "year": "2023",
+      "publication_date": "2023 Jun",
+      "authors": "Muellner J, Schmidt KH",
+      "journal": "DNA Repair (Amst)"
+    },
+    {
+      "title": "A novel cell-cycle-regulated interaction of the Bloom syndrome helicase BLM with Mcm6 controls replication-linked processes",
+      "pubmed_id": "34370039",
+      "pmc_id": "PMC8421143",
+      "year": "2021",
+      "publication_date": "2021 Sep",
+      "authors": "Shastri VM, Subramanian V, Schmidt KH",
+      "journal": "Nucleic Acids Res"
+    },
+    {
+      "title": "Bloom syndrome DNA helicase deficiency is associated with oxidative stress and mitochondrial network changes",
+      "pubmed_id": "33495511",
+      "pmc_id": "PMC7835382",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Subramanian V, Rodemoyer B, Shastri V, Rasmussen LJ, Desler C, Schmidt KH",
+      "journal": "Sci Rep"
+    },
+    {
+      "title": "Yeast Genome Maintenance by the Multifunctional PIF1 DNA Helicase Family",
+      "pubmed_id": "32093266",
+      "pmc_id": "PMC7073672",
+      "year": "2020",
+      "publication_date": "2020 Feb",
+      "authors": "Muellner J, Schmidt KH",
+      "journal": "Genes (Basel)"
+    },
+    {
+      "title": "Maintenance of Yeast Genome Integrity by RecQ Family DNA Helicases",
+      "pubmed_id": "32085395",
+      "pmc_id": "PMC7074392",
+      "year": "2020",
+      "publication_date": "2020 Feb",
+      "authors": "Gupta SV, Schmidt KH",
+      "journal": "Genes (Basel)"
+    },
+    {
+      "title": "Sgs1 Binding to Rad51 Stimulates Homology-Directed DNA Repair in",
+      "pubmed_id": "29162625",
+      "pmc_id": "PMC5753853",
+      "year": "2018",
+      "publication_date": "2018 Jan",
+      "authors": "Campos-Doerfler L, Syed S, Schmidt KH",
+      "journal": "Genetics"
+    },
+    {
+      "title": "Genetic Separation of Sae2 Nuclease Activity from Mre11 Nuclease Functions in Budding Yeast",
+      "pubmed_id": "28970327",
+      "pmc_id": "PMC5705816",
+      "year": "2017",
+      "publication_date": "2017 Dec",
+      "authors": "Arora S, Deshpande RA, Budd M, Campbell J, Revere A, Zhang X, Schmidt KH, Paull TT",
+      "journal": "Mol Cell Biol"
+    },
+    {
+      "title": "Cellular defects caused by hypomorphic variants of the Bloom syndrome helicase gene BLM",
+      "pubmed_id": "26788541",
+      "pmc_id": "PMC4707026",
+      "year": "2016",
+      "publication_date": "2016 Jan",
+      "authors": "Shastri VM, Schmidt KH",
+      "journal": "Mol Genet Genomic Med"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3828"
+  },
+  "content_hash": "7f5cf77da5959dca9d9f1cde897b49db3f786b4fe6c0eaf83a0819109ba7562b",
+  "researcher_name": "kristina schmidt",
+  "department": ""
+}

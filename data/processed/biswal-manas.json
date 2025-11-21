@@ -1,0 +1,95 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/biswal-manas/",
+  "last_updated": "2025-11-21T22:50:22.937835",
+  "researcher_id": "28067",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "molecular medicine",
+  "overview": "",
+  "research_interests": [
+    "Molecular Medicine Program"
+  ],
+  "associations": [
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Mice Lacking the Systemic Vitamin A Receptor RBPR2 Show Decreased Ocular Retinoids and Loss of Visual Function",
+      "pubmed_id": "35745101",
+      "pmc_id": "PMC9231411",
+      "year": "2022",
+      "publication_date": "2022 Jun",
+      "authors": "Radhakrishnan R, Leung M, Roehrich H, Walterhouse S, Kondkar AA, Fitzgibbon W, Biswal MR, Lobo GP",
+      "journal": "Nutrients"
+    },
+    {
+      "title": "Conditional Loss of the Exocyst Component Exoc5 in Retinal Pigment Epithelium (RPE) Results in RPE Dysfunction, Photoreceptor Cell Degeneration, and Decreased Visual Function",
+      "pubmed_id": "34064901",
+      "pmc_id": "PMC8151988",
+      "year": "2021",
+      "publication_date": "2021 May",
+      "authors": "Rohrer B, Biswal MR, Obert E, Dang Y, Su Y, Zuo X, Fogelgren B, Kondkar AA, Lobo GP, Lipschutz JH",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Erythropoietin Gene Therapy Delays Retinal Degeneration Resulting from Oxidative Stress in the Retinal Pigment Epithelium",
+      "pubmed_id": "34070383",
+      "pmc_id": "PMC8229633",
+      "year": "2021",
+      "publication_date": "2021 May",
+      "authors": "Biswal MR, Wang Z, Paulson RJ, Uddin RR, Tong Y, Zhu P, Li H, Lewin AS",
+      "journal": "Antioxidants (Basel)"
+    },
+    {
+      "title": "Loss of Motor Protein MYO1C Causes Rhodopsin Mislocalization and Results in Impaired Visual Function",
+      "pubmed_id": "34073294",
+      "pmc_id": "PMC8229726",
+      "year": "2021",
+      "publication_date": "2021 May",
+      "authors": "Solanki AK, Biswal MR, Walterhouse S, Martin R, Kondkar AA, Kn\u00f6lker HJ, Rahman B, Arif E, Husain S, Montezuma SR, Nihalani D, Lobo GP",
+      "journal": "Cells"
+    },
+    {
+      "title": "Editorial: Molecular Mechanisms of Retinal Cell Degeneration and Regeneration",
+      "pubmed_id": "33748148",
+      "pmc_id": "PMC7973204",
+      "year": "2021",
+      "publication_date": "2021 Mar",
+      "authors": "Lobo GP, Biswal MR, Kondkar AA",
+      "journal": "Front Cell Dev Biol"
+    },
+    {
+      "title": "Role of Nuclear Factor of Activated T Cells (NFAT) Pathway in Regulating Autophagy and Inflammation in Retinal Pigment Epithelial Cells",
+      "pubmed_id": "34445390",
+      "pmc_id": "PMC8395439",
+      "year": "2021",
+      "publication_date": "2021 Aug",
+      "authors": "Pan HY, Ladd AV, Biswal MR, Valapala M",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Carbon Dot Nanoparticles: Exploring the Potential Use for Gene Delivery in Ophthalmic Diseases",
+      "pubmed_id": "33917548",
+      "pmc_id": "PMC8067473",
+      "year": "2021",
+      "publication_date": "2021 Apr",
+      "authors": "Biswal MR, Bhatia S",
+      "journal": "Nanomaterials (Basel)"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28067"
+  },
+  "content_hash": "1e1d04554d505b482d2ecacfbc96160a25ef902563a988b129ebb18945d127ad",
+  "researcher_name": "biswal manas",
+  "department": ""
+}

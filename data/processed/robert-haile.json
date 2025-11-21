@@ -1,11 +1,11 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/robert-haile",
-  "last_updated": "2025-10-21T16:35:49.643875",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/robert-haile/",
+  "last_updated": "2025-11-21T22:50:26.657288",
   "researcher_id": "unknown",
   "degrees": [],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Cancer epidemiology. Genetic epidemiology. Cancer disparities.",
   "research_interests": [
     "I have been conducting cancer research for 35 years, with a focus on cancer epidemiology, genetic epidemiology, and most recently cancer disparities. My interest at Moffitt is developing major initiatives that move population sciences towards intervention trials and translational impact. The first four grant applications that will be submitted are on the following topics: 1) Cancer Grand Challenge on Cancer Avoidance, with colleagues from Moffitt, Harvard, Oxford, and the DKFZ (German CAncer REsearch Center) in Heidelberg; 2) large R01 to establish a multi-institutional registry of Lynch Syndrome families who have been historically understudied (rural, low SES White, Hispanic, African American) to support future intervention trials to increase cascade testing, uptake of genetic counseling, screening, pan-cancer early detection tests, and vaccine trials; 3) intervention trials focused on MASLD and MASH, precursor conditions to liver cancer that are associated with metabolic disorder and obesity; 4) self-sampling of HPV as part of a strategy to prevent cervical cancer or detect it early (goal is for Moffitt to lead a statewide effort)..\n  *"
@@ -75,9 +75,12 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HaileRobert_42708.jpg",
   "contact": {},
-  "content_hash": "7191801164a50a9304e2064d275a790f34fe6aa5f953c3ffddc049f5b1e9d218",
-  "researcher_name": "Robert Haile",
-  "department": "Cancer Epidemiology"
+  "content_hash": "1b552e5fb964f8d7436ab63fe24a82480b0edea72ef005b102f48c7dcea543a5",
+  "researcher_name": "robert haile",
+  "department": "cancer epidemiology"
 }

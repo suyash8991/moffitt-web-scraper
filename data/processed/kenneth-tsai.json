@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/kenneth-tsai",
-  "last_updated": "2025-10-21T16:35:17.972625",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kenneth-tsai/",
+  "last_updated": "2025-11-21T22:50:25.124088",
   "researcher_id": "16980",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "Chair",
-  "primary_program": "Pathology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "pathology",
+  "research_program": "cancer biology & evolution",
   "overview": "The Tsai Lab has the collective goals of identifying, testing, and validating novel targets for the targeted chemoprevention and treatment of skin cancer.",
   "research_interests": [
     "The focus of Dr. Tsai\u2019s laboratory is the identification and validation of new molecularly-targeted approaches for skin cancer prevention and treatment. In contrast to melanoma, which has 27 FDA-approved therapies, the non-melanoma skin cancers, which include basal cell, squamous cell, and Merkel cell carcinomas have but two (as of early 2017), highlighting vast differences in the fundamental molecular understanding of these diseases. Following Dr. Tsai\u2019s clinical training, he started his laboratory at MD Anderson Cancer Center, where he refined his focus on cutaneous squamous cell carcinoma (cuSCC) development. His work is centered on (1) developing an integrated genomic characterization of cuSCC development using next generation sequencing and UV-driven mouse models to identify and validate chemoprevention and therapeutic targets; (2) characterizing the roles of JNK signaling and validating JNK2 as a target in skin cancers (cuSCC and melanoma); (3) developing novel technologies to assess skin cancer risk and measure skin-based surrogate pharmacodynamic endpoints in cancer therapy. In this last area of technology development, he collaborates extensively on extramurally-funded projects with Samir Mitragotri, Ph.D. (UCSB) and Kevin Dalby, Ph.D. (UT Austin) to develop novel technologies to non-invasively sample skin for biomarker discovery and to validate additional kinase targets for cancer therapy. Dr. Tsai\u2019s work has been internationally recognized and he was an active member of the international melanoma TCGA Analysis Working Group. He has served as a mentor and thesis advisor to several MD/PhD and PhD graduate students, residents, and postdoctoral fellows. Most recently, he assumed the role of Section Head, Non-Melanoma Skin Cancer Research and Treatment within the Moffitt Cancer Center Donald A. Adam Melanoma and Skin Cancer Center of Excellence, where his mission is to develop and lead a premier translational research and clinical trial program for high-risk squamous cell and Merkel cell carcinomas.\n  *"
@@ -191,11 +191,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=b3mvUMsAAAAJ",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TsaiKenneth_16980.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16980"
   },
-  "content_hash": "fc69bcd4578cb0af9ab74b98836da723eda08fda350b41bc870593a51c1e5213",
-  "researcher_name": "Kenneth Tsai",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "a6e8c7b01fc8af2971a861a481469bffe2ff93b877220cadbd251f02cd8c7d77",
+  "researcher_name": "kenneth tsai",
+  "department": "tumor microenvironment and metastasis"
 }

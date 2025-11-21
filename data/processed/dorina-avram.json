@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/dorina-avram",
-  "last_updated": "2025-10-21T16:39:42.754232",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/dorina-avram/",
+  "last_updated": "2025-11-21T22:50:23.501439",
   "researcher_id": "27668",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Immunology",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "immunology",
+  "research_program": "immuno-oncology",
   "overview": "Avram lab investigates transcriptional and epigenetic regulators that dictate the programs of tumor infiltrating CD4+ and CD8+ T lymphocytes, as well as of T cells used in adoptive cell therapies. Through complex manipulations of these decision factors, including genome CRISPR editing, the goal is to reach favorable states and make the TILs resistant to tumor immune suppression. In further steps, we plan to engineer the TILs to reprogram the immune tumor microenvironment to favorable states. We use patient derived samples, genetically engineered mouse models, along with state of the art molecular methodologies, including transcriptomics (bulk and scRNAseq), epigenomics, CRISPR-genome editing, multiplex immunofluorescence and spatial transcriptomics. We hope that our studies will lead to technologies that improve adoptive cell therapies with TILs, as well as CAR-T cell behavior in solid tumors. Additional research interests in Avram Lab include ubiquitination in inflammation and cancer, with the goal of harnessing the immune responses for cancer therapies. Team: Dorina Avram, PhD (PI and Mentor), outstanding postdocs: Shamima Islam, PhD, Leonardo Silvane, PhD and Sayan Chakraborty (Postdoc) and fantastic collaborators, Dr. Timothy Shaw and Dr. Shari Pilon-Thomas. If interested to join our team, please send email to dorina.avram@moffitt.org.",
   "research_interests": [
     "Avram lab investigates transcriptional and epigenetic regulators that dictate the programs of tumor infiltrating CD4+ and CD8+ T lymphocytes, as well as of T cells used in adoptive cell therapies. Through complex manipulations of these decision factors, including genome CRISPR editing, the goal is to reach favorable states and make the TILs resistant to tumor immune suppression. In further steps, we plan to engineer the TILs to reprogram the immune tumor microenvironment to favorable states. We use patient derived samples, genetically engineered mouse models, along with state of the art molecular methodologies, including transcriptomics (bulk and scRNAseq), epigenomics, CRISPR-genome editing, multiplex immunofluorescence and spatial transcriptomics. We hope that our studies will lead to technologies that improve adoptive cell therapies with TILs, as well as CAR-T cell behavior in solid tumors. Additional research interests in Avram Lab include ubiquitination in inflammation and cancer, with the goal of harnessing the immune responses for cancer therapies. Team: Dorina Avram, PhD (PI and Mentor), outstanding postdocs: Shamima Islam, PhD, Leonardo Silvane, PhD and Sayan Chakraborty (Postdoc) and fantastic collaborators, Dr. Timothy Shaw and Dr. Shari Pilon-Thomas. If interested to join our team, please send email to dorina.avram@moffitt.org. \n  *"
@@ -187,12 +187,15 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AvramDorina_27668.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27668",
     "email": "dorina.avram@moffitt.org"
   },
-  "content_hash": "986630718d38a1cc121b34bf2305f8afcd17fed79926122c20c67cb3217caaa6",
-  "researcher_name": "Dorina Avram",
-  "department": "Immunology"
+  "content_hash": "e8117f78665603d53f33c3376ca18dbda59c58e3fbbd52ab28a5b158d76d9804",
+  "researcher_name": "dorina avram",
+  "department": "immunology"
 }

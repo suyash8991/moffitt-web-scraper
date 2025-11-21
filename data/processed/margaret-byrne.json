@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/margaret-byrne/",
+  "last_updated": "2025-11-21T22:50:25.528353",
+  "researcher_id": "18206",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "health outcomes and behavior",
+  "research_program": "health outcomes & behavior",
+  "overview": "My research efforts are dedicated to developing, evaluating, and implementing tools that help clinicians and patients make informed decisions about complicated medical decisions in full consideration of the ethical, psychosocial, and economic factors impacting the decision.",
+  "research_interests": [
+    "My research efforts are dedicated to developing, evaluating, and implementing tools that help clinicians and patients make informed decisions about complicated medical decisions in full consideration of the ethical, psychosocial, and economic factors impacting the decision. Research Interests: The three main areas of my current research arise from my graduate training in Economics (PhD), and a post-graduate NSF fellowship in ethics. Each of these areas will be briefly described below. Medical Decision Making: At its core, economics concerns itself with decision making: how people make decisions about activities and allocate resources to yield the greatest utility for themselves and others. My own research interests in the area of decision making current focus on how we can help patients and providers make decisions in preference sensitive situations. That is, when there is no \u201cone right\u201d decision for all patients, and so patients\u2019 preferences and values should be central or at least considered in the decision. The two areas that I am currently most focused on in this type of research are: 1) decisions about participation in a cancer clinical trial; and 2) decisions about screening for lung cancer. In both of these areas, decision making is often compromised by lack of information, non-consideration of patient values, or both. I and colleagues have developed interactive decision aids which aim to help individuals and patients make more informed decisions that align with the patient\u2019s preferences. Other topic areas in my decision making research have included: 1) decisions about eating shell fish and going to the beach during a Florida Red Tide; 2) decisions about pregnancy in HIV infected women; 3) decisions about screening for colorectal cancer; and 4) decisions about medical versus surgical interventions for knee osteoarthritis. Evaluation of Health Care Interventions: As a health economist, I am interested in the overall issue about where it is most important and useful for us to put resources to improve health care (by whatever measure we chose to use to evaluate improvements in health care). Specifically, in this area I have collaborated on a wide range of health care projects and interventions with the goal of determining the resource utilization (costs) and cost-effectiveness of these interventions. Such information is basic and essential in determining optimal resource all location and improving health care. Examples of specific interventions where I have assessed costs and cost-effectiveness include: 1) provision of diabetic retinopathy screening in a community setting; 2) provision of different forms of cervical and colorectal cancer screening in the community; 3) costs of secondary conditions in women with severe disabilities; 4) provision of diabetic outpatient treatment; and 5) costs and output of Institutional Review Boards in health research, among others. Ethical Issues in Research My background in ethical issues in health research was born from my interest in the use of financial incentives in health care situations. Early on in my career, I and a colleague published a number of economic modeling papers looking at the effect of financial incentives in: 1) End of life treatment; 2) Organ donation; 3) Participation in medical research; and 4) Promotion of prevention health care use. From the specific focus on the use of financial incentives in trials, I completed a 1 year NSF funded fellowship in which I studied ethical foundations broadly, and ethical issues specifically related to health care and use of financial incentives (for example, the possible roles of coercion and exploitation for example). I have been involved with bioethics research directly or indirectly for all of my career after that, with empirical studies including: 1) the effective of financial incentives in substance abuse treatment research; 2) the potential use of financial incentives to reduce the therapeutic misconception in research studies; and a variety of genomic studies which included both ethical concerns and patient decision making aspects.\n  *"
+  ],
+  "associations": [
+    "Health Outcomes and Behavior",
+    "Thoracic Oncology",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Florida, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Florida, MS"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "National Science Foundation",
+      "specialty": "Ethics"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study",
+      "pubmed_id": "40992541",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST",
+      "journal": "Contemp Clin Trials"
+    },
+    {
+      "title": "Using augmented reality to deliver cue exposure treatment for smoking cessation: App usability findings and protocol for a randomized controlled trial",
+      "pubmed_id": "39880329",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Poudel R, Dougan SO, Yates H, Sawyer L, Martinez U, Brandon KO, Sutton SK, Vidrine DJ, Ritterband LM, Wiseman KP, Vickerman KA, Turner K, Byrne MM, Yang MJ, Horta M, Brandon TH, Vinci C",
+      "journal": "Contemp Clin Trials"
+    },
+    {
+      "title": "Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data",
+      "pubmed_id": "40111867",
+      "pmc_id": "PMC11986816",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y",
+      "journal": "JNCI Cancer Spectr"
+    },
+    {
+      "title": "Recreational Travel of Patients with Brain Tumor and Their Caregivers: Context, Preparation, and Impact",
+      "pubmed_id": "39630568",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Reblin M, Walters K, Rountree O, Witte D, Choi H, Zebrack BJ, Wells KJ, Byrne MM",
+      "journal": "J Palliat Med"
+    },
+    {
+      "title": "Supporting community translation of lung cancer screening: A web-based decision aid to support informed decision making",
+      "pubmed_id": "39817729",
+      "pmc_id": "PMC11736779",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Studts JL, Thurer RS, Studts CR, Byrne MM",
+      "journal": "Transl Behav Med"
+    },
+    {
+      "title": "Developing a Conceptual Framework for a Person-Centered Approach to Improving Adherence and Outcomes in Lung Cancer Screening: The Engaged Approach to Lung Cancer Screening: A Brief Report",
+      "pubmed_id": "39564096",
+      "pmc_id": "PMC11574793",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Byrne MM, Hirsch EA, Hoover K, McCoy JH, Blair CR, Futrell M, Roy UB, Studts JL",
+      "journal": "JTO Clin Res Rep"
+    },
+    {
+      "title": "Support Through Remote Observation and Nutrition Guidance (STRONG), a digital health intervention to reduce malnutrition among pancreatic cancer patients: A study protocol for a pilot randomized controlled trial",
+      "pubmed_id": "38440777",
+      "pmc_id": "PMC10910065",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Turner K, Kim DW, Gonzalez BD, Gore LR, Gurd E, Milano J, Riccardi D, Byrne M, Al-Jumayli M, de Castria TB, Laber DA, Hoffe S, Costello J, Robinson E, Chadha JS, Rajasekhara S, Hume E, Hagen R, Nguyen OT, Nardella N, Parker N, Carson TL, Tabriz AA, Hodul P",
+      "journal": "Contemp Clin Trials Commun"
+    },
+    {
+      "title": "Cost Effectiveness of Treatment Sequences in Advanced Renal Cell Carcinoma",
+      "pubmed_id": "36797084",
+      "year": "2023",
+      "publication_date": "2023 Jun",
+      "authors": "Mason NT, Joshi VB, Adashek JJ, Kim Y, Shah SS, Schneider AM, Chadha J, Jim HSL, Byrne MM, Gilbert SM, Manley BJ, Spiess PE, Chahoud J",
+      "journal": "Eur Urol Oncol"
+    },
+    {
+      "title": "Precision Greenness and Stroke/Transient Ischemic Attack in 249,405 US Medicare Beneficiaries",
+      "pubmed_id": "36592966",
+      "pmc_id": "PMC9911840",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Brown SC, Aitken WW, Lombard J, Wang K, Rundek T, Byrne MM, Toro M, Nardi MI, Kardys J, Parrish A, Szapocznik J",
+      "journal": "J Stroke"
+    },
+    {
+      "title": "Risk stratification of adolescents for the screening of non-alcoholic fatty liver disease",
+      "pubmed_id": "35501286",
+      "year": "2022",
+      "publication_date": "2022 Sep",
+      "authors": "Abrams GA, Ware D, Byrne MM, Hecht EM",
+      "journal": "Pediatr Obes"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: A Stepped-Care Psychosocial Intervention for Brain Tumor Family Caregivers  \nAward Number: 5R01CA236034-05  \nSponsor: National Cancer Institute (NCI)  \nByrne, M. (PD/PI)",
+      "title": "A Stepped-Care Psychosocial Intervention for Brain Tumor Family Caregivers",
+      "award_number": "5R01CA236034-05",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Byrne, M.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Identifying Community-based Interventions to Improve Florida African American Eligible Patients Participation and Adherence to Lung Cancer Screening in Their Screening Deserts and Incidence Hotspots based on Fair Artificial Intelligence and Geospatial Analysis  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nLuo, Y. (PD/PI), Byrne, M. (Co-PD/PI)",
+      "title": "Identifying Community-based Interventions to Improve Florida African American Eligible Patients Participation and Adherence to Lung Cancer Screening in Their Screening Deserts and Incidence Hotspots based on Fair Artificial Intelligence and Geospatial Analysis",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Luo, Y.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Byrne, M.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/byrne/",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ByrneMargaret_18206.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=18206"
+  },
+  "content_hash": "dbb02b44455b4257412b90acb9284b1306eee798e2d84a4c51592501453b880f",
+  "researcher_name": "margaret byrne",
+  "department": "health outcomes & behavior"
+}

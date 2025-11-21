@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -497,6 +496,8 @@ Dr. Gillis is a molecular epidemiologist with a primary focus on hematologic mal
   * ## Research Interest
 Dr. Gillis is a molecular epidemiologist with a background in pharmacogenomics and precision medicine. Her research focuses on the use of genetic biomarkers to predict risk, adverse events, and outcomes in the setting of cancer, with an emphasis on myeloid pre-leukemic conditions, such as clonal hematopoiesis (CH or CHIP), clonal cytopenias (CCUS), and myelodysplastic syndromes (MDS). Her translational research program aims to inform interventions and management strategies that can be implemented in clinical settings to improve outcomes for patients affected by these conditions. 
   * ## Publications
+    * Arabzadeh M, Tang YH, Colin-Leitzinger C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E, Teng M, Kresovich JK, Washington I, Parsons HA, Garber JE, West J, Ganesan S, Khiabanian H, Gillis N. Clonal Hematopoiesis Dynamics and Evolutionary Fitness During Cancer Treatment Impact Clinical Outcomes. medRxiv. 2025 Sep. Pubmedid: [40950448](https://www.ncbi.nlm.nih.gov/pubmed/40950448). Pmcid: PMC12424905. 
+    * Liu X, Tang YH, Blachly J, Edge S, Jakubek YA, McCarter M, Naqash AR, Nepple KG, Osman A, Reilley MJ, Riedlinger G, Salhia B, Schneider BP, Shriver C, Churchman ML, Rounbehler RJ, Teer JK, Gillis N, Teng M. qcCHIP: an R package to identify clonal hematopoiesis variants using cohort-specific data characteristics. Bioinformatics. 2025 Sep.41(9). Pubmedid: [40973027](https://www.ncbi.nlm.nih.gov/pubmed/40973027). Pmcid: PMC12466928. 
     * Colin-Leitzinger C, Tang YH, Teng M, Gillis N. Peripheral blood somatic mosaicism and clonal hematopoiesis across ancestry backgrounds. medRxiv. 2025 Mar. Pubmedid: [40166537](https://www.ncbi.nlm.nih.gov/pubmed/40166537). Pmcid: PMC11957158. 
     * Gillis N, Dickey BL, Colin-Leitzinger C, Tang YH, Putney RM, Mesa TE, Yoder SJ, Suneja G, Spivak AM, Patel AB, Extermann M, Giuliano AR, Teng M, Kresovich J, Berglund A, Coghill AE. Clonal Hematopoiesis in Patients With Human Immunodeficiency Virus and Cancer. J Infect Dis. 2024 Sep.230(3):680-688. Pubmedid: [38657098](https://www.ncbi.nlm.nih.gov/pubmed/38657098). 
     * Williams LS, Williams KM, Gillis N, Bolton K, Damm F, Deuitch NT, Farhadfar N, Gergis U, Keel SB, Michelis FV, Panch SR, Porter CC, Sucheston-Campbell L, Tamari R, Stefanski HE, Godley LA, Lai C. Donor-Derived Malignancy and Transplantation Morbidity: Risks of Patient and Donor Genetics in Allogeneic Hematopoietic Stem Cell Transplantation. Transplant Cell Ther. 2024 Mar.30(3):255-267. Pubmedid: [37913908](https://www.ncbi.nlm.nih.gov/pubmed/37913908). Pmcid: PMC10947964. 
@@ -507,9 +508,9 @@ Dr. Gillis is a molecular epidemiologist with a background in pharmacogenomics a
     * Gillis N, Padron E, Wang T, Chen K, DeVos JD, Spellman SR, Lee SJ, Kitko CL, MacMillan ML, West J, Tang YH, Teng M, McNulty S, Druley TE, Pidala JA, Lazaryan A. Pilot Study of Donor-Engrafted Clonal Hematopoiesis Evolution and Clinical Outcomes in Allogeneic Hematopoietic Cell Transplantation Recipients Using a National Registry. Transplant Cell Ther. 2023 Oct.29(10):640.e1-640.e8. Pubmedid: [37517612](https://www.ncbi.nlm.nih.gov/pubmed/37517612). Pmcid: PMC10592088. 
     * Gorak E, Otterstatter M, Al Baghdadi T, Gillis N, Foran JM, Liu JJ, Bejar R, Gore SD, Kroft SH, Harrington AM, Saber W, Starczynowski DT, Rollison DE, Zhang L, Moscinski LC, Wilson SH, Thompson J, Borchert C, Sherman S, Hebert D, Walker ME, Padron E, DeZern A, Sekeres MA. Discordant pathologic diagnoses of myelodysplastic neoplasms and their implications for registries and therapies. Blood Adv. 2023 Oct.7(20):6120-6129. Pubmedid: [37552083](https://www.ncbi.nlm.nih.gov/pubmed/37552083). Pmcid: PMC10582385. 
     * Dickey BL, Putney RM, Suneja G, Kresovich JK, Spivak AM, Patel AB, Teng M, Extermann M, Giuliano AR, Gillis N, Berglund A, Coghill AE. Differences in epigenetic age by HIV status among patients with a non-AIDS defining cancer. Aids. 2023 Nov.37(13):2049-2057. Pubmedid: [37467055](https://www.ncbi.nlm.nih.gov/pubmed/37467055). Pmcid: PMC10538418. 
-    * Gillis N, Etheridge AS, Patil SA, Hayes DN, Hayward MC, Auman JT, Parker JS, Innocenti F. Sequencing of genes of drug response in tumor DNA and implications for precision medicine in cancer patients. Pharmacogenomics J. 2023 Jul.23(4):73-81. Pubmedid: [36709390](https://www.ncbi.nlm.nih.gov/pubmed/36709390). 
     * Abel GA, Hebert D, Lee C, Rollison DE, Gillis N, Komrokji RS, Foran JM, Liu JJ, Al Baghdadi T, Deeg HJ, Gore SD, Saber W, Wilson SH, Otterstatter M, Thompson J, Borchert C, Padron E, DeZern A, Cella D, Sekeres MA. Health-related quality of life and vulnerability among people with myelodysplastic syndromes: a US national study. Blood Adv. 2023 Jul.7(14):3506-3515. Pubmedid: [37146263](https://www.ncbi.nlm.nih.gov/pubmed/37146263). Pmcid: PMC10362255. 
     * DeZern AE, Goll JB, Lindsley RC, Bejar R, Wilson SH, Hebert D, Deeg HJ, Zhang L, Gore SD, Al Baghdadi T, Maciejewski JP, Liu JJ, Padron E, Komrokji RS, Saber W, Abel GA, Kroft SH, Harrington AM, Grimes T, Reed HHV, Fulton RS, DiFronzo NL, Gillis N, Sekeres MA, Walter MJ. Utility of targeted gene sequencing to differentiate myeloid malignancies from other cytopenic conditions. Blood Adv. 2023 Jul.7(14):3749-3759. Pubmedid: [36947201](https://www.ncbi.nlm.nih.gov/pubmed/36947201). Pmcid: PMC10368770. 
+    * Gillis N, Etheridge AS, Patil SA, Hayes DN, Hayward MC, Auman JT, Parker JS, Innocenti F. Sequencing of genes of drug response in tumor DNA and implications for precision medicine in cancer patients. Pharmacogenomics J. 2023 Jul.23(4):73-81. Pubmedid: [36709390](https://www.ncbi.nlm.nih.gov/pubmed/36709390). 
     * Saini NY, Swoboda DM, Greenbaum U, Ma J, Patel RD, Devashish K, Das K, Tanner MR, Strati P, Nair R, Fayad L, Ahmed S, Lee HJ, Iyer SP, Steiner R, Jain N, Nastoupil L, Loghavi S, Tang G, Bassett RL, Jain P, Wang M, Westin JR, Green MR, Sallman DA, Padron E, Davila ML, Locke FL, Champlin RE, Garcia-Manero G, Shpall EJ, Kebriaei P, Flowers CR, Jain MD, Wang F, Futreal AP, Gillis N, Neelapu SS, Takahashi K. Clonal Hematopoiesis Is Associated with Increased Risk of Severe Neurotoxicity in Axicabtagene Ciloleucel Therapy of Large B-Cell Lymphoma. Blood Cancer Discov. 2022 Sep.3(5):385-393. Pubmedid: [35533245](https://www.ncbi.nlm.nih.gov/pubmed/35533245). Pmcid: PMC9445749. 
     * Peres LC, Colin-Leitzinger C, Teng M, Dutil J, Alugubelli RR, DeAvila G, Teer JK, Du D, Mo Q, Siegel EM, Hampton O, Alsina M, Brayer J, Blue B, Baz R, Siqueira Silva A, Nishihori T, Shain KH, Gillis N. Racial and ethnic differences in clonal hematopoiesis, tumor markers, and outcomes of patients with multiple myeloma. Blood Adv. 2022 Jun.6(12):3767-3778. Pubmedid: [35500227](https://www.ncbi.nlm.nih.gov/pubmed/35500227). Pmcid: PMC9631567. 
     * Braithwaite D, Anton S, Mohile S, DeGregori J, Gillis N, Zhou D, Bloodworth S, Pahor M, Licht J. Cancer and aging: A call to action. Aging Cancer. 2022 Jun.3(2):87-94. Pubmedid: [36188489](https://www.ncbi.nlm.nih.gov/pubmed/36188489). Pmcid: PMC9521708. 
@@ -624,7 +625,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -679,7 +680,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -697,7 +698,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1051,7 +1052,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/nancy-gillis-johnson#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/matthew-schabath",
-  "last_updated": "2025-10-21T16:35:31.572511",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/matthew-schabath/",
+  "last_updated": "2025-11-21T22:50:25.718281",
   "researcher_id": "4627",
   "degrees": [
     "PhD",
     "MD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "I am Senior Member (Tenured) with joint appointments in the Departments of Cancer Epidemiology and Thoracic Oncology. I have expertise in quantitative imaging/radiomics, molecular epidemiology, and health disparities among LGBTQ/SGM populations.",
   "research_interests": [
     "I am a Moffitt Distinguished Scholar, Co-Leader of the Cancer Epidemiology Program, and Senior Member in the Department of Cancer Epidemiology and Department of Thoracic Oncology at the Moffitt Cancer Center. I have published over 230 peer-reviewed papers (Pubmed, IEEE, SPIE) and have research expertise in quantitative imaging/radiomics, molecular epidemiology, and cancer care disparities and health equity. My h-index is 67 with over 22,000 citations. My career started in molecular epidemiology studying germline genetic variations on lung cancer risk and I have been continuously publishing in this area for over 24 years. I am a co-developer on one of the earliest lung cancer risk models (PMID: 17470739) and author for the first GWAS of pulmonary function (PMID: 20010835). I am one of the first epidemiologists to conduct research utilizing artificial intelligence (AI) approaches to analyze medical images to identify image-based biomarkers (e.g., radiomics/quantitative imaging) across the cancer care continuum including risk prediction, early detection, diagnosis, and patient outcomes. I have been publishing and funded in this area for over 14 years with a successful funding history from National Cancer Institute (NCI) Early Detection Research Network (EDRN), NCI Quantitative Imaging Network (QIN), NCI Consortium for Molecular and Cellular Characterization of Screen-Detected Lesions (MCL), and multiple R01-equivalent awards from the Florida Biomedical Research Program (FBRP). I have co-led several multi-institutional studies building large data and medical image repositories to conduct biomarker development studies. I have consented 1000s of patients to multiple prospective observational trials including several that are currently actively recruiting patients and banking images, data, and biospecimens. In addition to my areas of research, I have been active within the scientific community as an editorial board member, regular reviewer for journals, an active participant in many professional societies, a reviewer for NIH/ NCI study sections, and I am also a member of the NCCN Lung Cancer Screening guidelines committee. I also am Programmatic Member of the Department of Defense Lung Cancer Research Program (LCRP). With respect to health equity research, I have conducted numerous studies measuring oncology care providers\u2019 attitudes, knowledge, and affirming practices of SGM/LGBTQ+ patients. These studies consistently revealed providers had limited knowledge about SGM/LGBTQ+ health care needs but a high interest in receiving education regarding these communities. As such, I co-led the development of the first-ever educational curriculum for SGM/LGBTQ+ cultural humility for oncologists called COLORS: Curriculum for Oncologists on LGBT populations to Optimize Relevance & Skills. To test the efficacy of COLORS, I led three randomized pragmatic trial which showed COLORS was effective at improving knowledge, attitudes, and affirming practices regarding the care of SGM/LGBTQ+ patients with cancer. In 2015, I co-led a catchment area survey study among SGM populations in the Tampa Bay region which revealed high rates of disclosure of sexual orientation and gender identity (SOGI) to their healthcare providers (HCPs), and low rates of negative reactions from their HCPs. Based on this publication, Moffitt Cancer Center implemented SOGI collection as standard-of-care demographic items in an institution-wide patient intake form and SOGI has been disclosed over 150,000 patients. To follow-up on these efforts, I recently received a P30 Cancer Center Support Grant-supplement to conduct a mixed methods approach to assess implementation outcomes, barriers, and facilitators of SOGI data collection and SGM healthcare delivery. Because of my passion for eliminating cancer disparities, I recently accepted an invitation to serve on the Steering Committee for the AACR Cancer Disparities Progress Report 2024, and in June 2023 I was awarded the \u201c2023 Florida LGBTQ+ Ally Award\u201d from the Florida Diversity Council. I am PI of a research protocol at the Moffitt Cancer Center focused on characterizing patient outcomes regarding SGM patients with cancer and I am co-chair of the SGM working group in the ECOG-ACRIN Cancer Research Group. A complete listing of publications can be found at: Pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=schabath+m&sort=date ResearchGate: https://www.researchgate.net/profile/Matthew_Schabath2 Google Scholar: https://scholar.google.com/citations?hl=en&user=W_8qYaIAAAAJ&view_op=list_works&sortby=pubdate nstitute of Electrical and Electronics Engineers (IEEE): https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Schabath&highlight=true&returnFacets=ALL&returnType=SEARCH&matchPubs=true&sortType=newest SPIE, the international society for optics and photonics: https://www.spiedigitallibrary.org/Search?term=Schabath&sortBy=PubDateDesc\n  *"
@@ -46,6 +46,24 @@
       "journal": "Acad Radiol"
     },
     {
+      "title": "Multimodal AI-driven Biomarker for Early Detection of Cancer Cachexia",
+      "pubmed_id": "41001462",
+      "pmc_id": "PMC12458964",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Ahmed S, Parker N, Park M, Davis EW, Jeong D, Permuth JB, Schabath MB, Yilmaz Y, Rasool G",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "Panorama of Chromosomal Instability in Lung Cancer",
+      "pubmed_id": "41018008",
+      "pmc_id": "PMC12466783",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Yang Y, Zhong X, Phillips W, Zhao W, Hoang PH, Wirth C, Yang SR, Leduc C, Baine MK, Travis WD, Sholl LM, Joubert P, Homer R, Sang J, Khandekar A, McElderry JP, Tran TV, Hartman C, Miraftab M, Saha M, Lee OW, Sharma S, Jones KM, Zhu B, D\u00edaz-Gay M, Edell ES, Santamar\u00eda JM, Schabath MB, Yendamuri SS, Manczuk M, Lissowska J, \u015awi\u0105tkowska B, Mukeria A, Shangina O, Zaridze D, Holcatova I, Janout V, Mates D, Ognjanovic S, Savic M, Kontic M, Boss\u00e9 Y, Rothberg BEG, Christiani DC, Gaborieau V, Brennan P, Liu G, Hofman P, Wong MP, Leung KC, Chen CY, Hsiung CA, Pesatori AC, Consonni D, Rothman N, Lan Q, Nowak MA, Wedge DC, Alexandrov LB, Chanock SJ, Shi J, Zhang T, Yang L, Landi MT",
+      "journal": "medRxiv"
+    },
+    {
       "title": "The Association Between Alcohol Consumption and Anal Human Papillomavirus in the HPV Infection in Men Study",
       "pubmed_id": "40475161",
       "pmc_id": "PMC12140543",
@@ -63,15 +81,6 @@
       "journal": "Cancer Treat Res Commun"
     },
     {
-      "title": "Correction: Park et al",
-      "pubmed_id": "40149388",
-      "pmc_id": "PMC11941415",
-      "year": "2025",
-      "publication_date": "2025 Mar",
-      "authors": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB",
-      "journal": "Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration"
-    },
-    {
       "title": "Deciphering lung adenocarcinoma evolution and the role of LINE-1 retrotransposition",
       "pubmed_id": "40161734",
       "pmc_id": "PMC11952568",
@@ -79,6 +88,15 @@
       "publication_date": "2025 Mar",
       "authors": "Zhang T, Zhao W, Wirth C, D\u00edaz-Gay M, Yin J, Cecati M, Marchegiani F, Hoang PH, Leduc C, Baine MK, Travis WD, Sholl LM, Joubert P, Sang J, McElderry JP, Klein A, Khandekar A, Hartman C, Rosenbaum J, Col\u00f3n-Matos FJ, Miraftab M, Saha M, Lee OW, Jones KM, Caporaso NE, Wong MP, Leung KC, Agnes Hsiung C, Chen CY, Edell ES, Mart\u00ednez Santamar\u00eda J, Schabath MB, Yendamuri SS, Manczuk M, Lissowska J, \u015awi\u0105tkowska B, Mukeria A, Shangina O, Zaridze D, Holcatova I, Mates D, Milosavljevic S, Savic M, Boss\u00e9 Y, Gould Rothberg BE, Christiani DC, Gaborieau V, Brennan P, Liu G, Hofman P, Homer R, Yang SR, Pesatori AC, Consonni D, Yang L, Zhu B, Shi J, Brown K, Rothman N, Chanock SJ, Alexandrov LB, Choi J, Cardelli M, Lan Q, Nowak MA, Wedge DC, Landi MT",
       "journal": "bioRxiv"
+    },
+    {
+      "title": "Correction: Park et al",
+      "pubmed_id": "40149388",
+      "pmc_id": "PMC11941415",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB",
+      "journal": "Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration"
     },
     {
       "title": "Difference-Makers for Collecting Sexual Orientation and Gender Identity Data in Oncology Settings",
@@ -106,23 +124,6 @@
       "publication_date": "2025 Jul",
       "authors": "Koutsoubis N, Waqas A, Yilmaz Y, Ramachandran RP, Schabath MB, Rasool G",
       "journal": "Radiol Artif Intell"
-    },
-    {
-      "title": "Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication",
-      "pubmed_id": "40806487",
-      "pmc_id": "PMC12347193",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Waqas A, Tripathi A, Ahmed S, Mukund A, Farooq H, Johnson JO, Stewart PA, Naeini M, Schabath MB, Rasool G",
-      "journal": "Int J Mol Sci"
-    },
-    {
-      "title": "Genome-wide association study for lung cancer in 6531 African Americans reveals new susceptibility loci",
-      "pubmed_id": "40341939",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Byun J, Han Y, Choi J, Sun R, Shaw VR, Zhu C, Xiao X, Lusk C, Badr H, Lee HS, Jang HJ, Li Y, Lim H, Long E, Liu Y, Kachuri L, Walsh KM, Wiencke JK, Albanes D, Lam S, Tardon A, Neuhouser ML, Barnett MJ, Chen C, Bojesen S, Brenner H, Landi MT, Johansson M, Risch A, Wichmann HE, Bickeb\u00f6ller H, Christiani DC, Rennert G, Arnold S, Field JK, Shete S, Le Marchand L, Liu G, Andrew AS, Zienolddiny S, Grankvist K, Johansson M, Caporaso N, Taylor F, Lazarus P, Schabath MB, Aldrich MC, Patel A, Lin X, Zanetti KA, Harris CC, Chanock S, McKay J, Schwartz AG, Hung RJ, Amos CI",
-      "journal": "Hum Mol Genet"
     }
   ],
   "grants": [
@@ -297,11 +298,29 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-14690/",
+      "trial_id": "14690",
+      "title": "Total Cancer Care Protocol: A Lifetime Partnership with Patients Who Have or May be at Risk of Having Cancer",
+      "condition": "Cancer Control",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-17723/",
+      "trial_id": "17723",
+      "title": "Radiomics and Non-Imaging Biomarkers in Lung Cancer Screening and Early Detection",
+      "condition": "Thoracic",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SchabathMatthew_4627.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4627"
   },
-  "content_hash": "2b0a2ea7996e56a770f7bff9c004e881ee10a22bf7ec0e51ea90ced3f79b41c6",
-  "researcher_name": "Matthew Schabath",
-  "department": "Cancer Epidemiology"
+  "content_hash": "db599d56ac7790bbf3d57db27e1fe489a8a8f3af3542889310782f51629ec397",
+  "researcher_name": "matthew schabath",
+  "department": "cancer epidemiology"
 }

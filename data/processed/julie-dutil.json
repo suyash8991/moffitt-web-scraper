@@ -1,0 +1,131 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/julie-dutil/",
+  "last_updated": "2025-11-21T22:50:24.919163",
+  "researcher_id": "14666",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer epidemiology",
+  "overview": "",
+  "research_interests": [
+    "The overall goal of my research program is to understand the contribution of genetic variations to disease susceptibility in the population of Puerto Rico. Breast cancer genetics and genomics: Our team established a breast cancer genetics and genomics program in Puerto Rico. Through this work, we were the first to describe the BRCA mutation spectrum in hereditary breast cancer in this population. In addition, we identified single nucleotide polymorphism conferring increased breast cancer risk in non-hereditary breast cancer cases. Ongoing projects include understanding the role and functional significance of copy number variants in DNA repair candidate genes that are determining the risk of breast cancer, next-gen sequencing of candidate gene for non-BRCA hereditary breast cancers, and the role of ancestry in breast cancer risk and the molecular characteristics of breast cancers in Puerto Rico. Population genetics: We also participated to several collaborative projects aimed at characterizing genetic variation in various populations with the purpose of 1) using this information for improving the design of genetic studies; and 2) understand how population characteristics and migrations shaped the genetic variation spectrum, shared and private of different populations or ethnic groups. In addition, as a result of our participation in the 1000 Genomes project, whole genome sequence data from Puerto Rican individuals and cells lines are publically available to the scientific community for genetics and molecular studies. \n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Montreal, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Osaka University Hospital",
+      "specialty": "SNPs"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Creation and Characterization of a Breast Cancer Tissue Microarray Including Black and White Patients from Florida and Hispanic Patients from Puerto Rico and Florida",
+      "pubmed_id": "40309949",
+      "pmc_id": "PMC12082392",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Lantz AE, Gordi\u00e1n ER, Rosa M, Rodr\u00edguez Ru\u00edz M, Johnson JO, Gebert R, Bahr A, Chen DT, Dutil J, Li J, Oliveras Torres JA, Saavedra HI, Eschrich SA, Flores I, Cress WD",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles",
+      "pubmed_id": "40126181",
+      "pmc_id": "PMC12234169",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "5hmC-profiles in Puerto Rican Hispanic/Latino men with aggressive prostate cancer",
+      "pubmed_id": "40265030",
+      "pmc_id": "PMC12011585",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Patel MS, Almubarak M, Matta J, Ortiz-Sanchez C, Encarnacion J, Ruiz-Deya G, Dutil J, Dhillon J, Yamoah K, Berglund A, Park H, Kilari D, Balagurunathan Y, Wang L, Park JY",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "Worse Clinical and Survival Outcomes in Breast Cancer Patients Living in Puerto Rico Compared to Hispanics, Non-Hispanic Blacks, and Non-Hispanic Whites from Florida",
+      "pubmed_id": "39543072",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Lantz AE, Gebert R, Li J, Oliveras JA, Gordi\u00e1n ER, Perez-Morales J, Eschrich S, Chen DT, Rosa M, Dutil J, Saavedra HI, Mu\u00f1oz-Antonia T, Flores I, Cress WD",
+      "journal": "J Racial Ethn Health Disparities"
+    },
+    {
+      "title": "Piloting a Spanish-Language Web-Based Tool for Hereditary Cancer Genetic Testing",
+      "pubmed_id": "37754521",
+      "pmc_id": "PMC10529239",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Cragun D, Manso G, Arcusa SA, Zuniga B, Dutil J, Cruz M, Pal T",
+      "journal": "Curr Oncol"
+    },
+    {
+      "title": "Behavioral beliefs about genetic counseling among high-risk Latina breast cancer survivors in Florida and Puerto Rico",
+      "pubmed_id": "35941731",
+      "pmc_id": "PMC9972095",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Rivera Rivera JN, Conley CC, Castro-Figueroa EM, Moreno L, Dutil J, Garc\u00eda JD, Ricker C, Quinn GP, Soliman H, Vadaparampil ST",
+      "journal": "Cancer Med"
+    },
+    {
+      "title": "Differential Expression of miRNAs Contributes to Tumor Aggressiveness and Racial Disparity in African American Men with Prostate Cancer",
+      "pubmed_id": "37190259",
+      "pmc_id": "PMC10136561",
+      "year": "2023",
+      "publication_date": "2023 Apr",
+      "authors": "Ottman R, Ganapathy K, Lin HY, Osterman CD, Dutil J, Matta J, Ruiz-Deya G, Wang L, Yamoah K, Berglund A, Chakrabarti R, Park JY",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Provider discussion of genetic counseling among high-risk Spanish-preferring Latina breast cancer survivors",
+      "pubmed_id": "36205471",
+      "pmc_id": "PMC9540969",
+      "year": "2022",
+      "publication_date": "2022 Oct",
+      "authors": "Conley CC, Rivera Rivera JN, Castro-Figueroa EM, Moreno L, Dutil J, Garc\u00eda JD, Ricker C, Quinn GP, Soliman H, Vadaparampil ST",
+      "journal": "Transl Behav Med"
+    },
+    {
+      "title": "Racial and ethnic differences in clonal hematopoiesis, tumor markers, and outcomes of patients with multiple myeloma",
+      "pubmed_id": "35500227",
+      "pmc_id": "PMC9631567",
+      "year": "2022",
+      "publication_date": "2022 Jun",
+      "authors": "Peres LC, Colin-Leitzinger C, Teng M, Dutil J, Alugubelli RR, DeAvila G, Teer JK, Du D, Mo Q, Siegel EM, Hampton O, Alsina M, Brayer J, Blue B, Baz R, Siqueira Silva A, Nishihori T, Shain KH, Gillis N",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Germline Pathogenic Variant Prevalence Among Latin American and US Hispanic Individuals Undergoing Testing for Hereditary Breast and Ovarian Cancer: A Cross-Sectional Study",
+      "pubmed_id": "35867948",
+      "pmc_id": "PMC9812461",
+      "year": "2022",
+      "publication_date": "2022 Jul",
+      "authors": "Ossa Gomez CA, Achatz MI, Hurtado M, Sanabria-Salas MC, Sullcahuaman Y, Ch\u00e1varri-Guerra Y, Dutil J, Nielsen SM, Esplin ED, Michalski ST, Bristow SL, Hatchell KE, Nussbaum RL, Pineda-Alvarez DE, Ashton-Prolla P",
+      "journal": "JCO Glob Oncol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14666"
+  },
+  "content_hash": "64ad22d338a53441a56230b4798f52624b66ed8f08c1ebb9f6119b4d28c09864",
+  "researcher_name": "julie dutil",
+  "department": ""
+}

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/gilmer-valdes",
-  "last_updated": "2025-10-21T16:36:19.214342",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/gilmer-valdes/",
+  "last_updated": "2025-11-21T22:50:23.892417",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Machine Learning",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "machine learning",
+  "research_program": "cancer epidemiology",
   "overview": "",
   "research_interests": [
     "Radiation Oncology",
@@ -40,9 +40,12 @@
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/valdes/",
+  "google_scholar_url": "",
   "photo_url": "",
   "contact": {},
-  "content_hash": "0c25218f1cb307bdb5b0e7b2d7ab73ada58ddfbf0bc3359ee80a814f6c82ed75",
-  "researcher_name": "Gilmer Valdes",
-  "department": "Machine Learning"
+  "content_hash": "6302428ba670020e77a7c4f4b8fd92fcbdda2ef25aa191d0974fab75b74cc151",
+  "researcher_name": "gilmer valdes",
+  "department": "machine learning"
 }

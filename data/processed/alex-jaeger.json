@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/alex-jaeger",
-  "last_updated": "2025-10-21T16:34:50.459238",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/alex-jaeger/",
+  "last_updated": "2025-11-21T22:50:22.420824",
   "researcher_id": "31015",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Dr. Jaeger\u2019s research is focused on understanding the fundamental relationships between gene expression and protein metabolism that shape antigen presentation in the tumor microenvironment. Using inducible affinity tags, Dr. Jaeger is able to isolate tumor specific MHC-I peptides from genetically engineered models of pancreatic and lung adenocarcinomas, using this information to profile the evolution of the immunopeptidome through tumor progression. These approaches will pave the way to new strategies for cancer immunotherapy, including cancer vaccines, tumor targeting antibodies, and adoptive cell therapy. Dr. Jaeger\u2019s work has been published in top-tier journals such as Nature Structural Molecular Biology, Clinical Cancer Research, Cancer Cell and Nature Cancer.",
   "research_interests": [
     "Dr. Jaeger\u2019s research is focused on understanding the fundamental relationships between gene expression and protein metabolism that shape antigen presentation in the tumor microenvironment. Using inducible affinity tags, Dr. Jaeger is able to isolate tumor specific MHC-I peptides from genetically engineered models of pancreatic and lung adenocarcinomas, using this information to profile the evolution of the immunopeptidome through tumor progression. These approaches will pave the way to new strategies for cancer immunotherapy, including cancer vaccines, tumor targeting antibodies, and adoptive cell therapy. Dr. Jaeger\u2019s work has been published in top-tier journals such as Nature Structural Molecular Biology, Clinical Cancer Research, Cancer Cell and Nature Cancer.\n  *"
@@ -72,15 +72,6 @@
       "journal": "Nature"
     },
     {
-      "title": "Antigen dominance hierarchies shape TCF1+ progenitor CD8 T cell phenotypes in tumors",
-      "pubmed_id": "34534464",
-      "pmc_id": "PMC8522630",
-      "year": "2021",
-      "publication_date": "2021 Sep",
-      "authors": "Burger ML, Cruz AM, Crossland GE, Gaglia G, Ritch CC, Blatt SE, Bhutkar A, Canner D, Kienka T, Tavana SZ, Barandiaran AL, Garmilla A, Schenkel JM, Hillman M, de Los Rios Kobara I, Li A, Jaeger AM, Hwang WL, Westcott PMK, Manos MP, Holovatska MM, Hodi FS, Regev A, Santagata S, Jacks T",
-      "journal": "Cell"
-    },
-    {
       "title": "Inhibition of translation initiation factor eIF4a inactivates heat shock factor 1 (HSF1) and exerts anti-leukemia activity in AML",
       "pubmed_id": "34127794",
       "pmc_id": "PMC8764661",
@@ -90,13 +81,13 @@
       "journal": "Leukemia"
     },
     {
-      "title": "The CD155/TIGIT axis promotes and maintains immune evasion in neoantigen-expressing pancreatic cancer",
-      "pubmed_id": "34358448",
-      "pmc_id": "PMC8511341",
+      "title": "Antigen dominance hierarchies shape TCF1+ progenitor CD8 T cell phenotypes in tumors",
+      "pubmed_id": "34534464",
+      "pmc_id": "PMC8522630",
       "year": "2021",
-      "publication_date": "2021 Oct",
-      "authors": "Freed-Pastor WA, Lambert LJ, Ely ZA, Pattada NB, Bhutkar A, Eng G, Mercer KL, Garcia AP, Lin L, Rideout WM, Hwang WL, Schenkel JM, Jaeger AM, Bronson RT, Westcott PMK, Hether TD, Divakar P, Reeves JW, Deshpande V, Delorey T, Phillips D, Yilmaz OH, Regev A, Jacks T",
-      "journal": "Cancer Cell"
+      "publication_date": "2021 Sep",
+      "authors": "Burger ML, Cruz AM, Crossland GE, Gaglia G, Ritch CC, Blatt SE, Bhutkar A, Canner D, Kienka T, Tavana SZ, Barandiaran AL, Garmilla A, Schenkel JM, Hillman M, de Los Rios Kobara I, Li A, Jaeger AM, Hwang WL, Westcott PMK, Manos MP, Holovatska MM, Hodi FS, Regev A, Santagata S, Jacks T",
+      "journal": "Cell"
     },
     {
       "title": "Low neoantigen expression and poor T-cell priming underlie early immune escape in colorectal cancer",
@@ -106,6 +97,15 @@
       "publication_date": "2021 Oct",
       "authors": "Westcott PMK, Sacks NJ, Schenkel JM, Ely ZA, Smith O, Hauck H, Jaeger AM, Zhang D, Backlund CM, Beytagh MC, Patten JJ, Elbashir R, Eng G, Irvine DJ, Yilmaz OH, Jacks T",
       "journal": "Nat Cancer"
+    },
+    {
+      "title": "The CD155/TIGIT axis promotes and maintains immune evasion in neoantigen-expressing pancreatic cancer",
+      "pubmed_id": "34358448",
+      "pmc_id": "PMC8511341",
+      "year": "2021",
+      "publication_date": "2021 Oct",
+      "authors": "Freed-Pastor WA, Lambert LJ, Ely ZA, Pattada NB, Bhutkar A, Eng G, Mercer KL, Garcia AP, Lin L, Rideout WM, Hwang WL, Schenkel JM, Jaeger AM, Bronson RT, Westcott PMK, Hether TD, Divakar P, Reeves JW, Deshpande V, Delorey T, Phillips D, Yilmaz OH, Regev A, Jacks T",
+      "journal": "Cancer Cell"
     },
     {
       "title": "Microenvironment drives cell state, plasticity, and drug response in pancreatic cancer",
@@ -246,11 +246,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JaegerAlex_31015.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=31015"
   },
-  "content_hash": "b4788187a458fce87b0606c90836c2e2b532e650c3e9e02b5336fadcadb95ada",
-  "researcher_name": "Alex Jaeger",
-  "department": "Molecular Oncology"
+  "content_hash": "faf571b5726a3702788c10e3cec66a8e360799ee97011dfa628f175d1f41ffcb",
+  "researcher_name": "alex jaeger",
+  "department": "molecular oncology"
 }

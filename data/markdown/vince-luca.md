@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/vince-luca)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/vince-luca)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -500,15 +499,15 @@ Dr. Luca's research harnesses the power of directed evolution to understand how 
     * Perez DH, Antfolk D, Chang S, Bustos XE, Medina E, Ramadan AA, Gonzalez-Perez D, Abate-Daga D, Rodriguez PC, Luca VC. Engineering synthetic agonists for targeted activation of Notch signaling. Nat Chem Biol. 2025 Sep. Pubmedid: [40993428](https://www.ncbi.nlm.nih.gov/pubmed/40993428). 
     * Luca VC. LAG Time in the Era of Immunotherapy-New Molecular Insights Into the Immunosuppression Mechanism of Lymphocyte Activation Gene-3. Immunol Rev. 2025 Mar.330(1):e70002. Pubmedid: [39887765](https://www.ncbi.nlm.nih.gov/pubmed/39887765). Pmcid: PMC11917464. 
     * Antfolk D, Ming Q, Manturova A, Goebel EJ, Thompson TB, Luca VC. Molecular mechanism of Activin receptor inhibition by DLK1. Nat Commun. 2025 Jul.16(1):5976. Pubmedid: [40593645](https://www.ncbi.nlm.nih.gov/pubmed/40593645). Pmcid: PMC12216052. 
-    * Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM. Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models. J Immunother Cancer. 2025 Aug.13(8). Pubmedid: [40825611](https://www.ncbi.nlm.nih.gov/pubmed/40825611). Pmcid: PMC12366563. 
     * Singh S, Julia E, Kalita P, Mason C, Ming Q, Lee-Sam A, Gordon S, Buitrago ME, Leung DW, Hwu P, Luca VC. Structure-guided engineering of CD112 receptor variants for optimized immunotherapy. Mol Ther. 2025 Aug.33(8):3590-3604. Pubmedid: [40285356](https://www.ncbi.nlm.nih.gov/pubmed/40285356). Pmcid: PMC12368799. 
+    * Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM. Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models. J Immunother Cancer. 2025 Aug.13(8). Pubmedid: [40825611](https://www.ncbi.nlm.nih.gov/pubmed/40825611). Pmcid: PMC12366563. 
     * Foran G, Hallam RD, Megaly M, Turgambayeva A, Antfolk D, Li Y, Luca VC, Necakov A. Notch1 Phase Separation Coupled Percolation facilitates target gene expression and enhancer looping. Sci Rep. 2024 Sep.14(1):21912. Pubmedid: [39300145](https://www.ncbi.nlm.nih.gov/pubmed/39300145). Pmcid: PMC11413390. 
     * Fowler JL, Zheng SL, Nguyen A, Chen A, Xiong X, Chai T, Chen JY, Karigane D, Banuelos AM, Niizuma K, Kayamori K, Nishimura T, Cromer MK, Gonzalez-Perez D, Mason C, Liu DD, Yilmaz L, Miquerol L, Porteus MH, Luca VC, Majeti R, Nakauchi H, Red-Horse K, Weissman IL, Ang LT, Loh KM. Lineage-tracing hematopoietic stem cell origins in vivo to efficiently make human HLF+ HOXA+ hematopoietic progenitors from pluripotent stem cells. Dev Cell. 2024 May.59(9):1110-1131.e22. Pubmedid: [38569552](https://www.ncbi.nlm.nih.gov/pubmed/38569552). Pmcid: PMC11072092. 
     * Smyrlaki I, Fördős F, Rocamonde-Lago I, Wang Y, Shen B, Lentini A, Luca VC, Reinius B, Teixeira AI, Högberg B. Soluble and multivalent Jag1 DNA origami nanopatterns activate Notch without pulling force. Nat Commun. 2024 Jan.15(1):465. Pubmedid: [38238313](https://www.ncbi.nlm.nih.gov/pubmed/38238313). Pmcid: PMC10796381. 
-    * Ming Q, Antfolk D, Price DA, Manturova A, Medina E, Singh S, Mason C, Tran TH, Smalley KSM, Leung DW, Luca VC. Structural basis for mouse LAG3 interactions with the MHC class II molecule I-Ab. Nat Commun. 2024 Aug.15(1):7513. Pubmedid: [39209860](https://www.ncbi.nlm.nih.gov/pubmed/39209860). Pmcid: PMC11362559. 
     * Perez DH, Antfolk D, Medina E, Gonzalez-Perez D, Luca VC. Engineering synthetic agonists for targeted activation of Notch signaling. bioRxiv. 2024 Aug. Pubmedid: [39149362](https://www.ncbi.nlm.nih.gov/pubmed/39149362). Pmcid: PMC11326249. 
     * Gilbert MA, Keefer-Jacques E, Jadhav T, Antfolk D, Ming Q, Valente N, Shaw GT, Sottolano CJ, Matwijec G, Luca VC, Loomes KM, Rajagopalan R, Hayeck TJ, Spinner NB. Functional characterization of 2,832 JAG1 variants supports reclassification for Alagille syndrome and improves guidance for clinical variant interpretation. Am J Hum Genet. 2024 Aug.111(8):1656-1672. Pubmedid: [39043182](https://www.ncbi.nlm.nih.gov/pubmed/39043182). Pmcid: PMC11339624. 
     * Foran G, Hallam RD, Megaly M, Turgambayeva A, Antfolk D, Li Y, Luca VC, Necakov A. Notch1 Phase Separation Coupled Percolation facilitates target gene expression and enhancer looping. bioRxiv. 2024 Aug. Pubmedid: [39131356](https://www.ncbi.nlm.nih.gov/pubmed/39131356). Pmcid: PMC11312450. 
+    * Ming Q, Antfolk D, Price DA, Manturova A, Medina E, Singh S, Mason C, Tran TH, Smalley KSM, Leung DW, Luca VC. Structural basis for mouse LAG3 interactions with the MHC class II molecule I-Ab. Nat Commun. 2024 Aug.15(1):7513. Pubmedid: [39209860](https://www.ncbi.nlm.nih.gov/pubmed/39209860). Pmcid: PMC11362559. 
     * Gonzalez-Perez D, Das S, Antfolk D, Ahsan HS, Medina E, Dundes CE, Jokhai RT, Egan ED, Blacklow SC, Loh KM, Rodriguez PC, Luca VC. Affinity-matured DLL4 ligands as broad-spectrum modulators of Notch signaling. Nat Chem Biol. 2023 Jan.19(1):9-17. Pubmedid: [36050494](https://www.ncbi.nlm.nih.gov/pubmed/36050494). Pmcid: PMC10132381. 
     * Lester DK, Burton C, Gardner A, Innamarato P, Kodumudi K, Liu Q, Adhikari E, Ming Q, Williamson DB, Frederick DT, Sharova T, White MG, Markowitz J, Cao B, Nguyen J, Johnson J, Beatty M, Mockabee-Macias A, Mercurio M, Watson G, Chen PL, McCarthy S, MoranSegura C, Messina J, Thomas KL, Darville L, Izumi V, Koomen JM, Pilon-Thomas SA, Ruffell B, Luca VC, Haltiwanger RS, Wang X, Wargo JA, Boland GM, Lau EK. Fucosylation of HLA-DRB1 regulates CD4+ T cell-mediated anti-melanoma immunity and enhances immunotherapy efficacy. Nat Cancer. 2023 Feb.4(2):222-239. Pubmedid: [36690875](https://www.ncbi.nlm.nih.gov/pubmed/36690875). Pmcid: PMC9970875. 
     * Medina E, Easa Y, Lester DK, Lau EK, Sprinzak D, Luca VC. Structure of the planar cell polarity cadherins Fat4 and Dachsous1. Nat Commun. 2023 Feb.14(1):891. Pubmedid: [36797229](https://www.ncbi.nlm.nih.gov/pubmed/36797229). Pmcid: PMC9935876. 
@@ -642,7 +641,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -697,7 +696,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/vince-luca#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/vince-luca#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -715,7 +714,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1069,7 +1068,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/vince-luca#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/vince-luca#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/kenneth-tsai)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/kenneth-tsai)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -519,10 +518,10 @@ The focus of Dr. Tsai’s laboratory is the identification and validation of new
     * Bhattacharya R, Avdieiev SS, Bukkuri A, Whelan CJ, Gatenby RA, Tsai KY, Brown JS. The Hallmarks of Cancer as Eco-Evolutionary Processes. Cancer Discov. 2025 Apr.15(4):685-701. Pubmedid: [40170539](https://www.ncbi.nlm.nih.gov/pubmed/40170539). 
     * Ramadoss T, Nichols M, Palacios C, Eroglu Z, Markowitz J, Karapetyan L, Tarhini AA, Wuthrick EJ, Sondak VK, Khushalani NI, Tsai KY, Brohl AS. Durability of response to immune checkpoint blockade following treatment discontinuation and efficacy of rechallenge in advanced Merkel cell carcinoma. J Immunother Cancer. 2024 Sep.12(9). Pubmedid: [39242118](https://www.ncbi.nlm.nih.gov/pubmed/39242118). Pmcid: PMC11381633. 
     * Reinstein ZZ, Zhang Y, Ospina OE, Nichols MD, Chu VA, Pulido AM, Prieto K, Nguyen JV, Yin R, Moran Segura C, Usman A, Sell B, Ng S, de la Iglesia JV, Chandra S, Sosman JA, Cho RJ, Cheng JB, Ivanova E, Koralov SB, Slebos RJC, Chung CH, Khushalani NI, Messina JL, Sarnaik AA, Zager JS, Sondak VK, Vaske C, Kim S, Brohl AS, Mi X, Pierce B, Wang X, Fridley BL, Tsai KY, Choi J. Preexisting Skin-Resident CD8 and γδ T-cell Circuits Mediate Immune Response in Merkel Cell Carcinoma and Predict Immunotherapy Efficacy. Cancer Discov. 2024 Sep.14(9):1631-1652. Pubmedid: [39058036](https://www.ncbi.nlm.nih.gov/pubmed/39058036). 
+    * Vera O, Martinez M, Soto-Vargas Z, Wang K, Xu X, Ruiz-Buceta S, Mecozzi N, Chadourne M, Posorske B, Angarita A, Bok I, Liu Q, Murikipudi H, Kim Y, Messina JL, Tsai KY, Major MB, Lau EK, Yu X, Ibanez-de-Caceres I, Karreth FA. The small MAF transcription factor MAFG co-opts MITF to promote melanoma progression. bioRxiv. 2024 Sep. Pubmedid: [39282450](https://www.ncbi.nlm.nih.gov/pubmed/39282450). Pmcid: PMC11398417. 
     * Menon V, García-Ruiz A, Neveu S, Cartmel B, Ferrucci LM, Palmatier M, Ko C, Tsai KY, Nakamura M, Kim SR, Girardi M, Kornacker K, Brash DE. Pervasive Induction of Regulatory Mutation Microclones in Sun-exposed Skin. bioRxiv. 2024 Sep. Pubmedid: [39345638](https://www.ncbi.nlm.nih.gov/pubmed/39345638). Pmcid: PMC11429607. 
     * Kucharik AH, Curkovic NB, Chavez JC, Tsai KY, Brohl AS, Grichnik JM. Pseudoangiosarcoma and cutaneous collagenous vasculopathy in a patient on a Bruton's tyrosine kinase inhibitor. JAAD Case Rep. 2024 Sep.51:17-21. Pubmedid: [39345278](https://www.ncbi.nlm.nih.gov/pubmed/39345278). Pmcid: PMC11437239. 
     * Akaike T, Thakuria M, Silk AW, Hippe DS, Park SY, So NA, Maloney NJ, Gunnell L, Eschholz A, Kim EY, Sinha S, Hall ET, Bhatia S, Reddy S, Rodriguez AA, Aleshin A, Choi JS, Tsai KY, Yom SS, Yu SS, Choi J, Chandra S, Nghiem P, Zaba LC. Circulating Tumor DNA Assay Detects Merkel Cell Carcinoma Recurrence, Disease Progression, and Minimal Residual Disease: Surveillance and Prognostic Implications. J Clin Oncol. 2024 Sep.42(26):3151-3161. Pubmedid: [39052958](https://www.ncbi.nlm.nih.gov/pubmed/39052958). Pmcid: PMC11379364. 
-    * Vera O, Martinez M, Soto-Vargas Z, Wang K, Xu X, Ruiz-Buceta S, Mecozzi N, Chadourne M, Posorske B, Angarita A, Bok I, Liu Q, Murikipudi H, Kim Y, Messina JL, Tsai KY, Major MB, Lau EK, Yu X, Ibanez-de-Caceres I, Karreth FA. The small MAF transcription factor MAFG co-opts MITF to promote melanoma progression. bioRxiv. 2024 Sep. Pubmedid: [39282450](https://www.ncbi.nlm.nih.gov/pubmed/39282450). Pmcid: PMC11398417. 
     * Wasko UN, Jiang J, Dalton TC, Curiel-Garcia A, Edwards AC, Wang Y, Lee B, Orlen M, Tian S, Stalnecker CA, Drizyte-Miller K, Menard M, Dilly J, Sastra SA, Palermo CF, Hasselluhn MC, Decker-Farrell AR, Chang S, Jiang L, Wei X, Yang YC, Helland C, Courtney H, Gindin Y, Muonio K, Zhao R, Kemp SB, Clendenin C, Sor R, Vostrejs WP, Hibshman PS, Amparo AM, Hennessey C, Rees MG, Ronan MM, Roth JA, Brodbeck J, Tomassoni L, Bakir B, Socci ND, Herring LE, Barker NK, Wang J, Cleary JM, Wolpin BM, Chabot JA, Kluger MD, Manji GA, Tsai KY, Sekulic M, Lagana SM, Califano A, Quintana E, Wang Z, Smith JAM, Holderfield M, Wildes D, Lowe SW, Badgley MA, Aguirre AJ, Vonderheide RH, Stanger BZ, Baslan T, Der CJ, Singh M, Olive KP. Author Correction: Tumour-selective activity of RAS-GTP inhibition in pancreatic cancer. Nature. 2024 Nov.635(8040):E12. Pubmedid: [39533066](https://www.ncbi.nlm.nih.gov/pubmed/39533066). Pmcid: PMC11602731. 
     * Gatenby RA, Luddy KA, Teer JK, Berglund A, Freischel AR, Carr RM, Lam AE, Pienta KJ, Amend SR, Austin RH, Hammarlund EU, Cleveland JL, Tsai KY, Brown JS. Lung adenocarcinomas without driver genes converge to common adaptive strategies through diverse genetic, epigenetic, and niche construction evolutionary pathways. Med Oncol. 2024 May.41(6):135. Pubmedid: [38704802](https://www.ncbi.nlm.nih.gov/pubmed/38704802). Pmcid: PMC11070398. 
     * Wasko UN, Jiang J, Dalton TC, Curiel-Garcia A, Edwards AC, Wang Y, Lee B, Orlen M, Tian S, Stalnecker CA, Drizyte-Miller K, Menard M, Dilly J, Sastra SA, Palermo CF, Hasselluhn MC, Decker-Farrell AR, Chang S, Jiang L, Wei X, Yang YC, Helland C, Courtney H, Gindin Y, Muonio K, Zhao R, Kemp SB, Clendenin C, Sor R, Vostrejs WP, Hibshman PS, Amparo AM, Hennessey C, Rees MG, Ronan MM, Roth JA, Brodbeck J, Tomassoni L, Bakir B, Socci ND, Herring LE, Barker NK, Wang J, Cleary JM, Wolpin BM, Chabot JA, Kluger MD, Manji GA, Tsai KY, Sekulic M, Lagana SM, Califano A, Quintana E, Wang Z, Smith JAM, Holderfield M, Wildes D, Lowe SW, Badgley MA, Aguirre AJ, Vonderheide RH, Stanger BZ, Baslan T, Der CJ, Singh M, Olive KP. Tumour-selective activity of RAS-GTP inhibition in pancreatic cancer. Nature. 2024 May.629(8013):927-936. Pubmedid: [38588697](https://www.ncbi.nlm.nih.gov/pubmed/38588697). Pmcid: PMC11111406. 
@@ -730,7 +729,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -785,7 +784,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/kenneth-tsai#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/kenneth-tsai#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -803,7 +802,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1157,7 +1156,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/kenneth-tsai#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/kenneth-tsai#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

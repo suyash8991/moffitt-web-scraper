@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/eric-haura",
-  "last_updated": "2025-10-21T16:37:01.135451",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/eric-haura/",
+  "last_updated": "2025-11-21T22:50:23.658656",
   "researcher_id": "985",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Thoracic Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "thoracic oncology",
+  "research_program": "molecular medicine",
   "overview": "Our lab uses proteomic tools to characterize kinase pathways and networks in cancer cells to discover novel therapeutic strategies using kinase inhibitors",
   "research_interests": [
     "Dr. Haura\u2019s research focuses on tyrosine kinase signaling pathways and biomarkers in lung cancer. His group demonstrated activity of SRC kinase inhibitors in lung cancer cells with activating EGFR mutations (Song et al, Cancer Res, 2006); subsequently they reported a strategy to comprehend signaling pathways active in lung cancer cells and targeted by dasatinib employing chemical proteomics to identify direct interacting proteins combined with immunoaffinity purification of tyrosine phosphorylated peptides corresponding to activated tyrosine kinases. They identified nearly 40 different kinase targets of dasatinib, including SFK members (LYN, SRC, FYN, LCK, YES), non-receptor tyrosine kinases (FRK, BRK, ACK), and receptor tyrosine kinases (ephrin receptors, DDR1, EGFR). Using drug resistant gatekeeper mutants, they showed that SFK kinases, particularly SRC and FYN as well as EGFR, are relevant targets for dasatinib action. The combined mass spectrometry-based approach provides a system-level view of dasatinib action in cancer cells and suggests both functional targets and rationale combinatorial therapeutic strategies. A phase I trial of the EGFR inhibitor erlotinib in combination with dasatinib was performed; side effects of the combination were tolerable, disease control and inhibition of plasma angiogenesis markers were observed, and two partial responses and one bone response were observed. Reductions in plasma VEGF and bFGF were observed, and reductions in VEGF correlated with disease control (supported by P50 CA119997). Future directions involve using protein-protein interaction mapping to define novel targets and biomarkers of kinase inhibitors. Dr. Haura's clinical interests include lung Cancer, non-small cell lung cancer, novel signal tranduction inhibitors for the treatment of lung cancer and special interest in management of lifelong non-smokers with lung cancer.\n  *"
@@ -47,6 +47,15 @@
     }
   ],
   "publications": [
+    {
+      "title": "Using Bayesian Networks to Predict Urgent Care Visits in Patients Receiving Systemic Therapy for Non-Small Cell Lung Cancer",
+      "pubmed_id": "40939115",
+      "pmc_id": "PMC12483286",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Gonzalez BD, Li X, Gudenkauf LM, Pullukkara JJ, Oswald LB, Hoogland AI, Le T, El Naqa I, Saltos AN, Haura EB, Luo Y",
+      "journal": "JCO Clin Cancer Inform"
+    },
     {
       "title": "Amivantamab in Participants With Advanced NSCLC and MET Exon 14 Skipping Mutations: Final Results From the CHRYSALIS Study",
       "pubmed_id": "40383434",
@@ -116,15 +125,6 @@
       "publication_date": "2024 Jun",
       "authors": "Pandey G, Mazzacurati L, Rowsell TM, Horvat NP, Amin NE, Zhang G, Akuffo AA, Colin-Leitzinger CM, Haura EB, Kuykendall AT, Zhang L, Epling-Burnette PK, Reuther GW",
       "journal": "Am J Hematol"
-    },
-    {
-      "title": "Author Correction: Neoadjuvant atezolizumab for resectable non-small cell lung cancer: an open-label, single-arm phase II trial",
-      "pubmed_id": "37816821",
-      "pmc_id": "PMC10803254",
-      "year": "2024",
-      "publication_date": "2024 Jan",
-      "authors": "Chaft JE, Oezkan F, Kris MG, Bunn PA, Wistuba II, Kwiatkowski DJ, Owen DH, Tang Y, Johnson BE, Lee JM, Lozanski G, Pietrzak M, Seweryn M, Byun WY, Schulze K, Nicholas A, Johnson A, Grindheim J, Hilz S, Shames DS, Rivard C, Toloza E, Haura EB, McNamee CJ, Patterson GA, Waqar SN, Rusch VW, Carbone DP",
-      "journal": "Nat Med"
     },
     {
       "title": "Targeting SHP2 Signaling in Lung Cancer",
@@ -248,11 +248,31 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23599/",
+      "trial_id": "23599",
+      "title": "Phase 1a/1b Open-Label Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Efficacy of BBO-11818 in Subjects with Advanced KRAS Mutant Cancers",
+      "condition": "Multiple",
+      "intervention": "Alimta (Pemetrexed); BBO-11818 (); Cetuximab (); Erbitux (Cetuximab); Paraplatin (carboplatin); Pembrolizumab (Keytruda); Pemetrexed (); carboplatin (); cisplatin ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23697/",
+      "trial_id": "23697",
+      "title": "A Phase 1/1b, Open-label, Multicenter, First-in-human Dose Escalation and Dose Expansion Study to Evaluate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Anti-tumor Activity of VVD-159642, a RAS-PI3KA Inhibitor, as a Single Agent and in Combination in Participants With Advanced Solid Tumors",
+      "condition": "Multiple",
+      "intervention": "AMG 510 (Sotorasib); GSK1120212 (Trametinib); Sotorasib (); Trametinib (); VVD-159642 ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "http://labpages2.moffitt.org/haura",
+  "google_scholar_url": "https://scholar.google.com/citations?user=ttryhzUAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HauraEric_985.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=985"
   },
-  "content_hash": "8004855a59f9785b12090d2f77377446048114d986672ec9bb237588479f4405",
-  "researcher_name": "Eric Haura",
-  "department": "Drug Discovery"
+  "content_hash": "93cb7dcbd454a4da0f12c7a8c3e67db31f801eeb7797090b7749899a5bcc3a1c",
+  "researcher_name": "eric haura",
+  "department": "drug discovery"
 }

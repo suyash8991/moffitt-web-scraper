@@ -1,11 +1,11 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/kathleen-egan",
-  "last_updated": "2025-10-21T16:35:42.357488",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kathleen-egan/",
+  "last_updated": "2025-11-21T22:50:25.040910",
   "researcher_id": "3841",
   "degrees": [],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Epidemiology and prevention of breast cancer and tumors of the brain",
   "research_interests": [
     "Dr. Egan is an epidemiologist with research interests in molecular epidemiology and lifestyle-directed prevention of cancer. Over her career, she has published more than 240 primary research reports on breast and ovarian cancer risk factors and outcome, and etiologic and outcomes-focused research in melanoma and primary tumors of the brain. In the area of breast/ovarian cancer, she has published findings from the Nurses\u2019 Health Study cohorts. She was also site PI for the \u2018Collaborative Breast Cancer Study\u2019 (CBCS), a multi-institutional, population-based case-control study of breast cancer that ultimately enrolled more than 20,000 breast cancer cases and 20,000 community controls. Ovarian cancer cases were also enrolled in one cycle of funding. Based on 3 successive cycles of R01 funding, the CBCS is the basis for many original research studies focused on lifestyle risk factors in breast and ovarian cancer. Dr. Egan also served as PI on a study examining genetic variants in the estrogen pathway based on the CBCS and she remains an active member of the Breast Cancer Association Consortium (BCAC) to which CBCS has made a considerable contribution. The large CBCS case cohort also offers new insights on lifestyle factors associated with breast cancer survival based on follow up of case women enrolled in the CBCS beginning in 1992. Dr. Egan remains active in studies of breast cancer risk factors, with currently funded research examining the impact of gut microbial composition (the \u2018gut microbiome\u2019) on circulating estrogen levels and breast density in postmenopausal women. Dr. Egan\u2019s key area of active research is the elucidation of risk factors for primary tumors of the brain (glioma and meningioma). Glioma is one of the most devastating human tumors with a largely unknown etiology. Recognizing this knowledge gap, in 2005, Dr. Egan launched a multicenter case-control study to examine genetic and lifestyle risk factors for these tumors. Incident cases were enrolled at a network of high-volume academic medical centers in the Southeastern US. The infrastructure also provided opportunity to enroll patients with meningioma, a \u2018benign\u2019 tumor of the CNS, for etiologic research. More than 2000 glioma cases, 500 meningioma cases and 2000 community controls were enrolled in \u201cGliomaSE\u201d. Published findings pinpoint early life (higher birth order; delayed menarche; prolonged growth phase) as a critical period establishing risk of adult glioma. GliomaSE was also the first study to independently validate genetic risk associations from GWAS both for glioma and meningioma. Dr. Egan has also published novel findings linking viruses and other infectious agents with the risk of glioma based on the Janus Serum Bank and has prospectively investigated dietary factors in relation to glioma risk based on the Harvard cohort studies and UK Biobank. Dr. Egan has also been active in etiologic and clinical/ translational research in melanoma. She has published more than 50 research articles on clinical outcomes in and risk factors for melanoma of the uveal tract, a rare and poorly understood tumor of the pigmented layer of the inner eye, based on the large clinic population at the Massachusetts Eye & Ear Infirmary, a major referral center for treatment of these tumors. \n  *"
@@ -29,6 +29,15 @@
     }
   ],
   "publications": [
+    {
+      "title": "A retrospective cohort study of physical activity and survival in patients treated with immune checkpoint inhibitors",
+      "pubmed_id": "40971247",
+      "pmc_id": "PMC12579459",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Parker NH, Ramos JD, Tarhini AA, Schell MJ, Egan KM, Kanetsky PA",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    },
     {
       "title": "Global multi-ancestry genetic study elucidates genes and biological pathways associated with thyroid cancer and benign thyroid diseases",
       "pubmed_id": "40463558",
@@ -65,21 +74,21 @@
       "journal": "J Natl Cancer Inst Monogr"
     },
     {
-      "title": "Patient-provider communication about the use of medical cannabis for cancer symptoms: a cross-sectional study",
-      "pubmed_id": "39108232",
-      "pmc_id": "PMC11303860",
-      "year": "2024",
-      "publication_date": "2024 Aug",
-      "authors": "Turner K, Nguyen OT, Islam JY, Rajasekhara S, Martinez YC, Tabriz AA, Gonzalez BD, Jim HSL, Egan KM",
-      "journal": "J Natl Cancer Inst Monogr"
-    },
-    {
       "title": "Perceptions, prevalence, and patterns of cannabis use among cancer patients treated at 12 NCI-Designated Cancer Centers",
       "pubmed_id": "39108244",
       "pmc_id": "PMC11303851",
       "year": "2024",
       "publication_date": "2024 Aug",
       "authors": "Ellison GL, Helzlsouer KJ, Rosenfield SM, Kim Y, Ashare RL, Blaes AH, Cullen J, Doran N, Ebbert JO, Egan KM, Heffner JL, Lee RT, McClure EA, McDaniels-Davidson C, Meghani SH, Newcomb PA, Nugent S, Hernandez-Ortega N, Salz T, Vidot DC, Worster B, Zylla DM",
+      "journal": "J Natl Cancer Inst Monogr"
+    },
+    {
+      "title": "Patient-provider communication about the use of medical cannabis for cancer symptoms: a cross-sectional study",
+      "pubmed_id": "39108232",
+      "pmc_id": "PMC11303860",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Turner K, Nguyen OT, Islam JY, Rajasekhara S, Martinez YC, Tabriz AA, Gonzalez BD, Jim HSL, Egan KM",
       "journal": "J Natl Cancer Inst Monogr"
     },
     {
@@ -107,14 +116,6 @@
       "publication_date": "2022 Mar",
       "authors": "Samanic CM, Teer JK, Thompson ZJ, Creed JH, Fridley BL, Burt Nabors L, Williams SL, Egan KM",
       "journal": "Mitochondrion"
-    },
-    {
-      "title": "Response to Letter to the Editor",
-      "pubmed_id": "35303619",
-      "year": "2022",
-      "publication_date": "2022 Jun",
-      "authors": "Cote DJ, Stampfer MJ, Egan KM",
-      "journal": "Cancer Epidemiol"
     }
   ],
   "grants": [
@@ -144,11 +145,29 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21268/",
+      "trial_id": "21268",
+      "title": "Biobanking for Breast Cancer Prevention and Disparity Research in Florida",
+      "condition": "Healthy Subjects",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23424/",
+      "trial_id": "23424",
+      "title": "Urinary Microplastics in Renal Function and as a Risk Factor for Renal Cell Carcinoma and Bladder Cancer",
+      "condition": "Genitourinary",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/EganKathleen_3841.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3841"
   },
-  "content_hash": "bf2cc3b34762589c9c1cb031e65b7eb345efe35b5cec08609beeef86b3b24459",
-  "researcher_name": "Kathleen Egan",
-  "department": "Cancer Epidemiology"
+  "content_hash": "cd3083297157859f5f9100588b88d3fd26ece08d5afd7ee8c39b33a95f049187",
+  "researcher_name": "kathleen egan",
+  "department": "cancer epidemiology"
 }

@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/aleksandr-lazaryan",
-  "last_updated": "2025-10-21T16:40:02.740702",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/aleksandr-lazaryan/",
+  "last_updated": "2025-11-21T22:50:22.379310",
   "researcher_id": "20944",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Blood and Marrow Transplant and Cellular Immunotherapy",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "blood and marrow transplant and cellular immunotherapy",
+  "research_program": "immuno-oncology",
   "overview": "Dr. Lazaryan has clinical and research expertise in complications of Blood and Marrow Transplantation (BMT) such as chronic graft-vs-host disease (GVHD) and Cellular Immunotherapy of lymphoid malignancies (non-Hodgkin and Hodgkin Lymphomas) with focus on Post-Transplant Lymphoproliferative Disease (PTLD) and toxicities of CAR T cell therapy. His research efforts focus on developing safer and more effective approaches for CAR T-cell utilization and exploring new therapies for chronic GVHD and post-transplant lymphoproliferative disorders (PTLD). In recognition of his work, Dr. Lazaryan has secured funding from prestigious organizations, including the NIH's Chronic GVHD Consortium and the US Department of Defense, which awarded him a grant to study immune responses in aggressive lymphomas and PTLD.",
   "research_interests": [
     "Dr. Lazaryan completed his post-graduate medical training in Internal Medicine and Hematology/Medical Oncology at the Cleveland Clinic Foundation, Ohio followed by the faculty appointment in Blood and Marrow Transplantation and hematological malignancies at the University of Minnesota. He also obtained Masters and PhD in Public Health from the State University of NY at Albany and University of Alabama in Birmingham, respectively. Since joining Moffitt in 2018, Dr. Lazaryan has been focusing his clinical and research expertise in managing complex patients with lymphoma who are in need for BMT and/or cellular immunotherapy such as CAR T cell therapy. Dr. Lazaryan has been the recipient of a research grant from the US Department of Defense to study immune responses in patients with aggressive lymphomas including recipients of solid organ transplant. He has published over 100 peer-reviewed research manuscripts in leading professional journals.\n  *"
@@ -67,6 +67,22 @@
       "journal": "Am J Hematol"
     },
     {
+      "title": "Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide",
+      "pubmed_id": "40617898",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H",
+      "journal": "Bone Marrow Transplant"
+    },
+    {
+      "title": "Impact of Obesity and Weight-Based Chemotherapy Dosing Adjustments on Outcomes of Allogeneic Hematopoietic Cell Transplant for Acute Myeloid Leukemia",
+      "pubmed_id": "41115629",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Gaskill E, Albanyan O, Naqvi SMH, Mo Q, Belfon A, Nishihori T, Faramand R, Lazaryan A, Hansen DK, Khimani F, Mishra A, Nieder M, Perez L, Liu H, Pidala J, Anasetti C, Bejanyan N, Elmariah H",
+      "journal": "Transplant Cell Ther"
+    },
+    {
       "title": "Elephantiasis nostra verrucosa in sclerodermatous chronic graft-versus-host disease",
       "pubmed_id": "39936157",
       "pmc_id": "PMC11810717",
@@ -82,14 +98,6 @@
       "publication_date": "2025 Jun",
       "authors": "Mehta RS, Choe H, Saultz J, Gong Z, Sharma P, Al-Juhaishi T, Petitto GS, Lazaryan A, Singh A, Xue E, Dimitrova D, Hyder M, McCurdy S, Im A, Huber B, Aljawai YM, Kanakry J, Milano F, Kanakry CG",
       "journal": "Am J Hematol"
-    },
-    {
-      "title": "Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide",
-      "pubmed_id": "40617898",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H",
-      "journal": "Bone Marrow Transplant"
     },
     {
       "title": "Sarcopenia and Skeletal Muscle Loss after CAR T-cell Therapy in Diffuse Large B-cell Lymphoma",
@@ -124,15 +132,6 @@
       "publication_date": "2025 Aug",
       "authors": "Hall K, Lazaryan A, Der Laan MV, Lee CJ, Logan AC, Gruber S, Kabadi S, Khan I, Nicholls C, Rota LM, Nikai E, Ponomareva E, Koumas A, Waller EK",
       "journal": "Blood Adv"
-    },
-    {
-      "title": "Intravenous Immunoglobulin (IVIG) for Patients with Severe Neurotoxicity Associated with Chimeric Antigen Receptor T-Cell (CAR-T) Therapy",
-      "pubmed_id": "40332772",
-      "pmc_id": "PMC12028060",
-      "year": "2025",
-      "publication_date": "2025 Apr",
-      "authors": "Mokhtari S, Asquith JM, Kareem SS, Bachmeier CA, Pina Y, Faramand RG, Kim Y, Peguero EN, Sahebjam S, Jaffer MH, Iacono DP, Jain MD, Vogelbaum MA, Davila ML, Forsyth PA, Locke FL, Lazaryan A",
-      "journal": "Int J Mol Sci"
     }
   ],
   "grants": [
@@ -150,11 +149,23 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23320/",
+      "trial_id": "23320",
+      "title": "A Phase 2, Open-label, Multicenter Study of MB-105 in Patients with CD5 Positive (CD5+) Relapsed/Refractory T-cell Lymphoma (r/r TCL)",
+      "condition": "Malignant Hematology",
+      "intervention": "MB-105 (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers/LazaryanAleksandr_20944.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20944"
   },
-  "content_hash": "4df42b128730a642ce66474b821262d7205c6d93b8ab07336a212f00ca88c8af",
-  "researcher_name": "Aleksandr Lazaryan",
-  "department": "Immunology"
+  "content_hash": "8acd1dbb4af78b4d585d5dd72c8ea99a6fb64d6664dbef05e2bdeda6be474406",
+  "researcher_name": "aleksandr lazaryan",
+  "department": "immunology"
 }

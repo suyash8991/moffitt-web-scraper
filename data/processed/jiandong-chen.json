@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jiandong-chen",
-  "last_updated": "2025-10-21T16:34:34.171510",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jiandong-chen/",
+  "last_updated": "2025-11-21T22:50:24.450654",
   "researcher_id": "404",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Our laboratory mainly focuses on studying the p53 pathway in tumor cells.",
   "research_interests": [
     "My laboratory has a long-standing interest in studying the regulation of p53 by MDM2 and MDMX. An important goal of our research is the discovery of novel drug targets. Our work on p53 has contributed to the validation of MDM2 and MDMX as drug targets in cancer therapy. We have published extensively in the areas of p53/MDM2/MDMX phosphorylation, ubiquitination, transcriptional regulation, and drug discovery using biochemical/cellular assays and mouse tumor models. Ongoing research include targeting of tumors with temperature sensitive mutant p53, analysis of MDMX interaction with CK1 alpha, targeting of TAF1 transcription factor using PROTAC approach, evaluation of MDM2 as a PROTAC E3 ligase.\n  *"
@@ -33,8 +33,9 @@
     {
       "title": "PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo",
       "pubmed_id": "40376796",
+      "pmc_id": "PMC12353786",
       "year": "2025",
-      "publication_date": "2025 May",
+      "publication_date": "2025 Nov",
       "authors": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J",
       "journal": "Mol Cancer Ther"
     },
@@ -196,11 +197,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChenJiandong_404.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=404"
   },
-  "content_hash": "0ffd5cd8e49484e16292822d1756d6ee0ab23f9e642df0a7fac2c3ab97a9d756",
-  "researcher_name": "Jiandong Chen",
-  "department": "Molecular Oncology"
+  "content_hash": "658ed5f8aaf03d53421556fa5c2f314662120bba22f6e8aabbcc1af3ea741e08",
+  "researcher_name": "jiandong chen",
+  "department": "molecular oncology"
 }

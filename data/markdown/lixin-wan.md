@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/lixin-wan)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/lixin-wan)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -506,8 +505,8 @@ The research in Dr. Wan’s lab is focused on protein post-translational modific
     * Ullah R, Yin Q, Snell AH, Wan L. RAF-MEK-ERK pathway in cancer evolution and treatment. Semin Cancer Biol. 2022 Oct.85:123-154. Pubmedid: [33992782](https://www.ncbi.nlm.nih.gov/pubmed/33992782). 
     * Liu CH, Rao Y, Gao D, Wan L, Zhang L. Editorial: Ubiquitin Code: From Cell Biology to Translational Medicine. Front Cell Dev Biol. 2021 Oct.9:791967. Pubmedid: [34778279](https://www.ncbi.nlm.nih.gov/pubmed/34778279). Pmcid: PMC8581446. 
     * Dai X, Bu X, Gao Y, Guo J, Hu J, Jiang C, Zhang Z, Xu K, Duan J, He S, Zhang J, Wan L, Liu T, Zhou X, Hung MC, Freeman GJ, Wei W. Energy status dictates PD-L1 protein abundance and anti-tumor immunity to enable checkpoint blockade. Mol Cell. 2021 Jun.81(11):2317-2331.e6. Pubmedid: [33909988](https://www.ncbi.nlm.nih.gov/pubmed/33909988). Pmcid: PMC8178223. 
-    * Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W. Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle. Cell Res. 2021 Jan.31(1):80-93. Pubmedid: [32669607](https://www.ncbi.nlm.nih.gov/pubmed/32669607). Pmcid: PMC7852548. 
     * Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W. Author Correction: Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle. Cell Res. 2021 Jan.31(1):104. Pubmedid: [32859994](https://www.ncbi.nlm.nih.gov/pubmed/32859994). Pmcid: PMC7852582. 
+    * Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W. Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle. Cell Res. 2021 Jan.31(1):80-93. Pubmedid: [32669607](https://www.ncbi.nlm.nih.gov/pubmed/32669607). Pmcid: PMC7852548. 
     * Mo Q, Wan L, Schell MJ, Jim H, Tworoger SS, Peng G. Integrative Analysis Identifies Multi-Omics Signatures That Drive Molecular Classification of Uveal Melanoma. Cancers (Basel). 2021 Dec.13(24). Pubmedid: [34944787](https://www.ncbi.nlm.nih.gov/pubmed/34944787). Pmcid: PMC8699355. 
     * Deng J, Hua L, Han T, Tian M, Wang D, Tang H, Sun S, Chen H, Cheng H, Zhang T, Xie Q, Wan L, Zhu H, Gong Y. The CREB-binding protein inhibitor ICG-001: a promising therapeutic strategy in sporadic meningioma with NF2 mutations. Neurooncol Adv. 2020 Feb.2(1):vdz055. Pubmedid: [32642722](https://www.ncbi.nlm.nih.gov/pubmed/32642722). Pmcid: PMC7212891. 
     * Yin Q, Wyatt CJ, Han T, Smalley KSM, Wan L. ITCH as a potential therapeutic target in human cancers. Semin Cancer Biol. 2020 Dec.67(Pt 2):117-130. Pubmedid: [32165318](https://www.ncbi.nlm.nih.gov/pubmed/32165318). Pmcid: PMC7724637. 
@@ -647,7 +646,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -702,7 +701,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/lixin-wan#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/lixin-wan#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -720,7 +719,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1074,7 +1073,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/lixin-wan#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/lixin-wan#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jingsong-zhang",
-  "last_updated": "2025-10-21T16:37:46.185860",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jingsong-zhang/",
+  "last_updated": "2025-11-21T22:50:24.481653",
   "researcher_id": "7285",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Genitourinary Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "genitourinary oncology",
+  "research_program": "molecular medicine",
   "overview": "Theme 1: integrating mathematical modeling of cancer evolution into the management of advanced prostate cancer. As a member of IMO, I have been working closely with IMO and conducted 3 IITs and is opening another IIT in mid-December 2024 on adaptive therapy, our goal is to start a randomized phase 3 study on adaptative therapy in prostate cancer in 3 years. Theme 2: Immunotherapy in prostate and bladder cancer. I am a co-I for Dr. Abate-Daga's R01 grant to develop gamma delta T cell enriched CAR against PSCA in prostate cancer. This has translated into an ongoing phase 1 study. I am also actively involved in industry sponsored CAR T, T cell engager and cancer vaccine trials.",
   "research_interests": [
     "Dr. Zhang\u2019s research focuses on 1) defining and characterizing deregulated pathways with therapeutic relevance in subsets of human cancers, and 2) developing and implementing biomarker-driven therapeutics into patient-based therapeutic trials.He aims to identify the DNA damage repair pathways that metastatic prostate cancers rely on and then assess the therapeutic potential of targeting these pathways. Preliminary data indicates that blocking key proteins in DDR pathways with PARP inhibitor, DNA-PK inhibitor or BRCA1 shRNA sensitized metastatic prostate cancer cells to DNA damaging chemotherapy drugs. The synergistic combinations are being tested in metastatic prostate cancer mouse models.Secondly, Dr. Zhang is evaluating r-H2AX as a prognostic or predictive marker.Unrepaired DNA single strand breaks will be converted to double strand breaks (DSB) during DNA replication, and r-H2AX is a well-known marker for DNA DSB. High levels of r-H2AX expression in prostate cancers would correlate with diminished DNA repair pathways and therefore high mutation rates. Dr. Zhang and colleagues will develop a scoring system for r-H2AX expression by immunohistochemistry and correlate that with patients\u2019 clinical outcomes. Based on initial results, the value of r-H2AX can be further evaluated in larger patient cohorts with multi-variant analysis. Assays also can be developed to detect r-H2AX in circulating tumor cells.\n  *"
@@ -50,6 +50,14 @@
       "publication_date": "2025 Oct",
       "authors": "Yap TA, Tan DSP, Stathis A, Shapiro GI, Iwasa S, Joerger M, Zhang J, Plummer R, Sawyer MB, Tan DSW, Castonguay V, Gabrail NY, Matsubara N, Wilkinson G, Ludwig M, Schlicker A, Zhou Y, Merz C, D\u00e4britz JHM, Jeffers M, Hreiki J, de Bono JS",
       "journal": "Cancer Discov"
+    },
+    {
+      "title": "Phase 2 study of dostarlimab plus niraparib in stage III-IV recurrent or refractory Penile squamous cell carcinoma",
+      "pubmed_id": "41163621",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Hatoum F, Souza GR, Johnson J, Miller J, Fazili A, Pettaway CA, Campbell MT, Neubauer R, Johns A, Mizelle SR, Kim Y, Chadha J, Zhang J, Jameel G, Oschmann E, Dhillon J, Moscu A, Janeway R, Harris W, Lu X, Spiess PE, Chahoud J",
+      "journal": "Future Oncol"
     },
     {
       "title": "5-hydroxymethylcytosine sequencing of plasma cell-free DNA identifies epigenomic features in prostate cancer patients receiving androgen deprivation therapies",
@@ -118,15 +126,6 @@
       "publication_date": "2024 Jun",
       "authors": "Alonso-Gordoa T, Goodman M, Vulsteke C, Roubaud G, Zhang J, Parikh M, Piulats JM, Azaro A, James GD, Cavazzina R, Gangl ET, Thompson J, Pouliot G, Kumar R, Sweeney C",
       "journal": "ESMO Open"
-    },
-    {
-      "title": "How We Treat Metastatic Castration-Sensitive Prostate Cancer",
-      "pubmed_id": "39150340",
-      "pmc_id": "PMC11329962",
-      "year": "2024",
-      "publication_date": "2024 Jan",
-      "authors": "Ionescu F, Zhang J",
-      "journal": "Cancer Control"
     }
   ],
   "grants": [
@@ -148,11 +147,79 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20117/",
+      "trial_id": "20117",
+      "title": "A Phase 1/2 Study of Regn5678 (Anti-psmaxcd28) with Cemiplimab (Anti-pd-1) in Patients with Metastatic Castration-Resistant Prostate Cancer",
+      "condition": "Genitourinary",
+      "intervention": "Cemiplimab (); REGN2810 (Cemiplimab); REGN5678 (); Sarilumab (); [18]F-DCFPyL ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22003/",
+      "trial_id": "22003",
+      "title": "A Phase II Randomized Study of Sipuleucel-T with or without Continuing New Hormonal Agents (NHA) in Metastatic Prostate Cancer with PSA Progression while on NHA and LHRH Analog",
+      "condition": "Genitourinary",
+      "intervention": "Abiraterone (); Apalutamide (); Enzalutamide (Xtandi); Provenge (Sipuleucel-T); Sipuleucel-T (); prednisone ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22254/",
+      "trial_id": "22254",
+      "title": "A Phase 2 Multi-Cohort, Open-Label, Multi-Center Clinical Study Evaluating the Efficacy and Safety of Disitamab Vedotin (RC48-ADC) Alone or in Combination with Pembrolizumab in Subjects with Locally-Advanced Unresectable or Metastatic Urothelial Carcinoma That Expresses HER2",
+      "condition": "Genitourinary",
+      "intervention": "Disitamab Vedotin (); Pembrolizumab (Keytruda)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22344/",
+      "trial_id": "22344",
+      "title": "A Phase I Clinical Trial of an Infusion of Autologous gamma delta T cells Genetically Engineered with a Chimeric Receptor to Target the Prostate Stem Cell Antigen in Patients with Metastatic Castration Resistant Prostate Cancer",
+      "condition": "Genitourinary",
+      "intervention": "MSGV1-PSCA-8T28Z (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22350/",
+      "trial_id": "22350",
+      "title": "A Phase I/II Open Label Study to Evaluate the Safety, Cellular Kinetics, and Efficacy of AZD0754, a Chimeric Antigen Receptor (CAR) T-cell Therapy Directed Against STEAP2, in Adult Participants with Metastatic Prostate Cancer: APOLLO",
+      "condition": "Genitourinary",
+      "intervention": "AZD0754 (); AZD2287 (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22623/",
+      "trial_id": "22623",
+      "title": "HERO Trial: Phase I Study Investigating Intravesical HDAC Inhibition to Improve Response to Immuno-Oncology Agents in localized bladder cancer",
+      "condition": "Genitourinary",
+      "intervention": "AMP-514 (Durvalumab); Durvalumab (); FK228 (Romidepsin); MEDI4736 (Durvalumab); Romidepsin ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23260/",
+      "trial_id": "23260",
+      "title": "A Phase IIA study of adaptive androgen deprivation and Docetaxel in Metastatic Castration Sensitive Prostate Cancer",
+      "condition": "Genitourinary",
+      "intervention": "Abiraterone acetate (); Apalutamide (); Darolutamide (); Decapeptyl SR (Triptorelin); Degarelix (); Eligard (Leuprolide); Enzalutamide (Xtandi); Firmagon (); Leuprolide (); Lupron (leuprolide acetate); Relugolix (Orgovyx); Taxotere (docetaxel); Triptorelin (); Zytiga (Abiraterone acetate); docetaxel ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23692/",
+      "trial_id": "23692",
+      "title": "A Phase 1 Study to Assess the Safety, Pharmacokinetics, Pharmacodynamics, and Preliminary Efficacy of ACE-232 in Patients with Metastatic Castration-Resistant Prostate Cancer (CRPC)",
+      "condition": "Genitourinary",
+      "intervention": "ACE-232 ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ZhangJingsong_7285.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7285"
   },
-  "content_hash": "e4237f47b0633ae71092664d551528ae2b8ea9e0fcf6ba9fe4d92ed40ca4ef87",
-  "researcher_name": "Jingsong Zhang",
-  "department": "Integrated Mathematical Oncology"
+  "content_hash": "e88564c256716ed3ba51ce7d8f33388ba244aef13db1fe7e19ab6b4b0db1c675",
+  "researcher_name": "jingsong zhang",
+  "department": "integrated mathematical oncology"
 }

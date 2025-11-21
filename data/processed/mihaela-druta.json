@@ -1,0 +1,166 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mihaela-druta/",
+  "last_updated": "2025-11-21T22:50:25.895178",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "sarcoma",
+  "research_program": "immuno-oncology",
+  "overview": "I am a medical oncologist interested in improving the care and outcomes of patients with sarcomas. My areas of focus are clinical care of patients with sarcoma, conducting and developing clinical trials that will improve the outcome of patients with different subtypes of sarcomas and immunotherapy approach in the treatment of sarcomas. I am actively involved in conducting novel immunotherapy trials involving the T cell receptor (TCR) and other immunotherapeutic strategies. I was selected to participate in the first SITC Women in Cancer Immunotherapy Network (WIN) Leadership Institute. This is a unique program that explores topics that benefit female scientists as emerging leaders in the field of cancer immunotherapy. The program is designed to help women to develop and enhance their leadership skills, as well as explore topics around diversity and inclusivity. Female participants from industry, academia and the clinic will be given an opportunity to network with one another and share experiences unique to the female perspective in the field of cancer immunotherapy. Most recently I was selected to participate in the SITC Clinical Immuno-Oncology Network (SCION) Workshop working on an investigator initiated clinical trial involving T-Cell therapy for patients with different subtypes of sarcomas. I earned her MD degree from the University of Medicine and Pharmacy Carol Davila, Romania. I completed an Internal Medicine Residency and Hematology/Medical Oncology Fellowship at the University of South Florida at Moffitt Cancer Center. I completed a Sarcoma Medical Oncology Fellowship (Willie Tichenor Sarcoma Fellowship) at MD Anderson Cancer Center in Houston. Dr. Druta's clinical interest is in the development of clinical trials focusing on targeted therapeutics and immunotherapy approach specific to sarcoma patients. My research interest is in the translational aspects of sarcoma biology focusing specifically on Well-differentiated/Differential Liposarcoma, Myxoid Lipsarcoma, Synovial Sarcomas, GIST and Leiomyosarcoma. I am currently a member of several professional associations, including the American Association for Cancer Research, Connective Tissue Oncology Society, the Society for Immunotherapy of Cancer, and the American Society of Clinical Oncology.",
+  "research_interests": [
+    "My areas of focus are clinical care of patients with sarcoma, conducting and developing clinical trials that will improve the outcome of patients with different subtypes of sarcomas and immunotherapy approach in the treatment of sarcomas.\n  *"
+  ],
+  "associations": [
+    "Sarcoma",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Medicine and Pharmacy Carol Davilla",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of South Florida",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "H. Lee Moffitt Cancer Center",
+      "specialty": "Hematology and Medical Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "MD Anderson Cancer Center",
+      "specialty": "Sarcoma Medical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Hematology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes",
+      "pubmed_id": "40328759",
+      "pmc_id": "PMC12055966",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Letetresgene Autoleucel in Advanced/Metastatic Myxoid/Round Cell Liposarcoma",
+      "pubmed_id": "39836945",
+      "pmc_id": "PMC12084024",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "D'Angelo SP, Druta M, Van Tine BA, Liebner D, Schuetze SM, Tap WD, Preston J, Goodison S, D'Souza JW, Kapoor GS, Suchindran S, Zajic S, Bhaskar A, Kaczynski H, Kim J, Klohe E, Corigliano E, Eleftheriadou I, Nathenson MJ, Somaiah N",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Hypofractionated accelerated radiation dose-painting (HARD) improves outcomes in unresected soft-tissue sarcoma",
+      "pubmed_id": "39571685",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Bryant JM, Mills MN, Liveringhouse C, Palm R, Druta M, Brohl A, Reed DR, Johnstone PA, Miller JT, Latifi K, Feygelman V, Yang GQ, Naghavi AO",
+      "journal": "Radiother Oncol"
+    },
+    {
+      "title": "Radioembolization of Primary Splenic Angiosarcoma Complicated by Delayed Gastric Hemorrhage",
+      "pubmed_id": "39357601",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Garg A, Pena L, Lauwers GY, Druta M, Kis B",
+      "journal": "J Vasc Interv Radiol"
+    },
+    {
+      "title": "Ripretinib versus sunitinib in gastrointestinal stromal tumor: ctDNA biomarker analysis of the phase 3 INTRIGUE trial",
+      "pubmed_id": "38182785",
+      "pmc_id": "PMC10878977",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Heinrich MC, Jones RL, George S, Gelderblom H, Sch\u00f6ffski P, von Mehren M, Zalcberg JR, Kang YK, Razak AA, Trent J, Attia S, Le Cesne A, Siontis BL, Goldstein D, Boye K, Sanchez C, Steeghs N, Rutkowski P, Druta M, Serrano C, Somaiah N, Chi P, Reichmann W, Sprott K, Achour H, Sherman ML, Ruiz-Soto R, Blay JY, Bauer S",
+      "journal": "Nat Med"
+    },
+    {
+      "title": "Afamitresgene autoleucel for advanced synovial sarcoma and myxoid round cell liposarcoma (SPEARHEAD-1): an international, open-label, phase 2 trial",
+      "pubmed_id": "38554725",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "D'Angelo SP, Araujo DM, Abdul Razak AR, Agulnik M, Attia S, Blay JY, Carrasco Garcia I, Charlson JA, Choy E, Demetri GD, Druta M, Forcade E, Ganjoo KN, Glod J, Keedy VL, Le Cesne A, Liebner DA, Moreno V, Pollack SM, Schuetze SM, Schwartz GK, Strauss SJ, Tap WD, Thistlethwaite F, Valverde Morales CM, Wagner MJ, Wilky BA, McAlpine C, Hudson L, Navenot JM, Wang T, Bai J, Rafail S, Wang R, Sun A, Fernandes L, Van Winkle E, Elefant E, Lunt C, Norry E, Williams D, Biswas S, Van Tine BA",
+      "journal": "Lancet"
+    },
+    {
+      "title": "Patient-reported outcomes and tolerability in patients receiving ripretinib versus sunitinib after treatment with imatinib in INTRIGUE, a phase 3, open-label study",
+      "pubmed_id": "37598656",
+      "year": "2023",
+      "publication_date": "2023 Oct",
+      "authors": "Gelderblom H, Jones RL, Blay JY, George S, von Mehren M, Zalcberg JR, Kang YK, Razak AA, Trent J, Attia S, Le Cesne A, Siontis BL, Goldstein D, Boye K, Sanchez C, Steeghs N, Rutkowski P, Druta M, Serrano C, Somaiah N, Chi P, Harrow B, Becker C, Reichmann W, Sherman ML, Ruiz-Soto R, Heinrich MC, Bauer S",
+      "journal": "Eur J Cancer"
+    },
+    {
+      "title": "Anti-PD-1 therapy in advanced sarcomas: is cutaneous primary site a stronger predictor of response than histologic subtype?",
+      "pubmed_id": "36912932",
+      "pmc_id": "PMC10264480",
+      "year": "2023",
+      "publication_date": "2023 Jul",
+      "authors": "Miao R, Swank J, Melzer D, Ludlow S, Clark L, Finger M, Reed DR, Druta M, Brohl AS",
+      "journal": "Cancer Immunol Immun"
+    },
+    {
+      "title": "Autologous T cell therapy for MAGE-A4+ solid cancers in HLA-A*02+ patients: a phase 1 trial",
+      "pubmed_id": "36624315",
+      "pmc_id": "PMC9873554",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Hong DS, Van Tine BA, Biswas S, McAlpine C, Johnson ML, Olszanski AJ, Clarke JM, Araujo D, Blumenschein GR, Kebriaei P, Lin Q, Tipping AJ, Sanderson JP, Wang R, Trivedi T, Annareddy T, Bai J, Rafail S, Sun A, Fernandes L, Navenot JM, Bushman FD, Everett JK, Karadeniz D, Broad R, Isabelle M, Naidoo R, Bath N, Betts G, Wolchinsky Z, Batrakou DG, Van Winkle E, Elefant E, Ghobadi A, Cashen A, Grand'Maison A, McCarthy P, Fracasso PM, Norry E, Williams D, Druta M, Liebner DA, Odunsi K, Butler MO",
+      "journal": "Nat Med"
+    },
+    {
+      "title": "A Case of Hepatic Malignant Solitary Fibrous Tumor: A Case Report and Review of the Literature",
+      "pubmed_id": "36817074",
+      "pmc_id": "PMC9935885",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Fu Z, Henderson-Jackson EB, Centeno BA, Lauwers GY, Druta M, Anaya DA, Nakanishi Y",
+      "journal": "Case Rep Pathol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22695/",
+      "trial_id": "22695",
+      "title": "ADI-PEG 20 (Pegargiminase) or Placebo (PBO) plus Gemcitabine and Docetaxel in Previously Treated Subjects with Leiomyosarcoma (ARGSARC): A Randomized, Double-Blind, Multi-Center Phase 3 Trial",
+      "condition": "Sarcoma",
+      "intervention": "ADI-PEG 20 (); Gemzar (gemcitabine); Placebo (); Taxotere (docetaxel); docetaxel (); gemcitabine ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23228/",
+      "trial_id": "23228",
+      "title": "An International, Phase 3, Randomized, Multicenter, Open-label Study of Ripretinib vs Sunitinib in Patients with Advanced Gastrointestinal Stromal Tumor (GIST) with KIT Exon 11 and Co-occurring KIT Exons 17 and/or 18 Mutations Who Were Previously Treated with Imatinib (INSIGHT)",
+      "condition": "Sarcoma",
+      "intervention": "DCC-2618 (Ripretinib); Ripretinib (); Sunitinib ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DrutaMihaela_12706.jpg",
+  "contact": {},
+  "content_hash": "8335bd3cf160d6bf1ce755bca74f42980628a98f0ff1ea09a683ce692026ea36",
+  "researcher_name": "mihaela druta",
+  "department": ""
+}

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez",
-  "last_updated": "2025-10-21T16:33:45.769530",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez/",
+  "last_updated": "2025-11-21T22:50:23.358957",
   "researcher_id": "4771",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Integrated Mathematical Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "integrated mathematical oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "To understand the evolutionary dynamics of cancer using integrative approaches so that one day we will be able to exert some control on cancer progression.",
   "research_interests": [
     "Cancer is a disease in which genetic mutations play an important role but one in which evolution, in the Darwinian sense of the world, directs progression. Oftentimes this progression is towards increasingly malignant phenotypes. This evolutionary process is influenced by the interactions of the different tumour cells with each other but also by the interactions of these tumour populations with their environment. If we are going to understand and learn how to exert some control in cancer progression we need methods and approaches that can handle this evolutionary and ecological perspective of cancer. Given the complexity of this disease, mathematical and computational methods are not only useful but also necessary. For this reason my work will focus on mathematical and computational models of cancer evolution. I will be using tools already employed in theoretical ecology but will also develop new ones as needed and will make sure that they are part of an integrated research where the models are biologically inspired and validated and the results have a clinical impact.\n  *"
@@ -153,11 +153,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://lab.moffitt.org/cancerevo/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=CgyEREgAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BasantaGutierrezDavid_4771.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4771"
   },
-  "content_hash": "1aaf260cc3fdb2f3af61fdbd681e9b32d15b2bcddae0275e5add1a3777d8262b",
-  "researcher_name": "David Basanta Gutierrez",
-  "department": "Integrated Mathematical Oncology"
+  "content_hash": "ecc25107470b2a6939801b481bcb85c9f1fc258a753733090ba6f5b428426069",
+  "researcher_name": "david basanta gutierrez",
+  "department": "integrated mathematical oncology"
 }

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/youngchul-kim",
-  "last_updated": "2025-10-21T16:33:00.297076",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/youngchul-kim/",
+  "last_updated": "2025-11-21T22:50:27.477420",
   "researcher_id": "14086",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "cancer biology & evolution",
   "overview": "My research is dedicated to the identification of molecular cancer biomarkers through the rigorous application of statistical and bioinformatics methodologies to comprehensive genomic, transcriptomic, and metagenomic datasets derived from cancer patients.",
   "research_interests": [
     "My primary research focus is on the identification of predictive cancer biomarkers to optimize cancer therapy as a personalized medicine. I have developed the CONCORD and PDXGEM pipelines, which analyze gene expression patterns and gene co-expression networks across cancer cell lines, patient-derived tumor xenografts, and cancer patients. These pipelines enable the prediction of therapeutic response and facilitate drug repurposing. My recent research has centered on discovering molecular cancer biomarkers, conducting metagenomic and genetic association studies to improve cancer diagnosis, prognosis, and treatment outcomes.\n  *"
@@ -38,6 +38,14 @@
       "publication_date": "2025 Sep",
       "authors": "Byrd DA, Gomez MF, Hogue SR, Burns JR, Smith N, Sampson J, Loftfield E, Wolf PG, Wan Y, Warner A, Hicks B, Dagnall C, Jones K, Kim Y, Xu J, Shi J, Sinha R, Vogtmann E",
       "journal": "Cancer Med"
+    },
+    {
+      "title": "Phase 2 study of dostarlimab plus niraparib in stage III-IV recurrent or refractory Penile squamous cell carcinoma",
+      "pubmed_id": "41163621",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Hatoum F, Souza GR, Johnson J, Miller J, Fazili A, Pettaway CA, Campbell MT, Neubauer R, Johns A, Mizelle SR, Kim Y, Chadha J, Zhang J, Jameel G, Oschmann E, Dhillon J, Moscu A, Janeway R, Harris W, Lu X, Spiess PE, Chahoud J",
+      "journal": "Future Oncol"
     },
     {
       "title": "Association of Pathologic Response and Adjuvant Chemotherapy with Survival in Resected Pancreatic Ductal Adenocarcinoma Following Neoadjuvant Therapy",
@@ -106,23 +114,17 @@
       "publication_date": "2025 Aug",
       "authors": "Robinson LA, Bryant S, Sun X, Kaki MS, Freyaldenhoven ST, Schwer T, Bailey A, Kim Y",
       "journal": "JTCVS Tech"
-    },
-    {
-      "title": "Nivolumab and stereotactic radiosurgery for patients with breast cancer brain metastases: long-term results and biomarker analysis from a non-randomized, open-label, phase Ib study",
-      "pubmed_id": "40295143",
-      "pmc_id": "PMC12039042",
-      "year": "2025",
-      "publication_date": "2025 Apr",
-      "authors": "Ahmed KA, Kim Y, Kim S, Wang MH, DeJesus M, Arrington JA, Soyano AE, Armaghani AJ, Costa RLB, Loftus LS, Rosa M, Caudell JJ, Diaz R, Etame AB, Tran ND, Soliman H, Czerniecki BJ, Forsyth PA, Yu HM, Han HS",
-      "journal": "J Immunother Cancer"
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers/KimYoungchul_14086.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14086"
   },
-  "content_hash": "0dc2a68d2f022d531a21c940bda3e90e9cbe7c4ca95b84db61cc0688ff2ae0f5",
-  "researcher_name": "Youngchul Kim",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "bb86c8a50e5251d4dad3fe7bb184a721b1b3b0fc2b55a23d97df7a4bf0c5ddbc",
+  "researcher_name": "youngchul kim",
+  "department": "biostatistics and bioinformatics"
 }

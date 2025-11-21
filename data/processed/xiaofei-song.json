@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/xiaofei-song",
-  "last_updated": "2025-10-21T16:39:22.164253",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/xiaofei-song/",
+  "last_updated": "2025-11-21T22:50:27.393695",
   "researcher_id": "32089",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "immuno-oncology",
   "overview": "Dr. Song\u2019s research interests focus on advancing the understanding of cancer pathogenesis through translational cancer genomics and development of novel computational methods, primarily in the areas of single-cell sequencing and multi-omics data analysis",
   "research_interests": [
     "Dr. Song\u2019s research interests focus on advancing the understanding of cancer pathogenesis through translational cancer genomics and development of novel computational methods, primarily in the areas of single-cell sequencing and multi-omics data analysis\n  *"
@@ -27,6 +27,14 @@
       "journal": "Blood"
     },
     {
+      "title": "Long-term Survival and Molecular Biomarker Evaluation of a Phase II Cetuximab and Nivolumab Clinical Trial in Recurrent/Metastatic Head and Neck Cancer",
+      "pubmed_id": "41117857",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Chaudhary R, Moorhead G, Park R, Li J, Schell MJ, Song X, Tan A, Slebos RJC, Biernacki MI, Freeman SS, Thatikonda S, Meshkovska Y, Hernandez-Prera J, Kirtane K, Guevara-Patino JA, Amelio AL, Rocco JW, Danysh BP, Bonomi M, Saba NF, Haradhvala NJ, Getz G, Chung CH",
+      "journal": "Clin Cancer Res"
+    },
+    {
       "title": "Lymphoma accelerates T cell and tissue aging",
       "pubmed_id": "40845845",
       "year": "2025",
@@ -43,6 +51,15 @@
       "journal": "Cancer Cell"
     },
     {
+      "title": "PV-10 Triggers Immunogenic Cell Death in Head and Neck Squamous Cell Carcinoma via Endoplasmic Reticulum Stress and Apoptosis",
+      "pubmed_id": "40552938",
+      "pmc_id": "PMC12327362",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
+      "journal": "Mol Cancer Ther"
+    },
+    {
       "title": "ROICellTrack: a deep learning framework for integrating cellular imaging modalities in subcellular spatial transcriptomic profiling of tumor tissues",
       "pubmed_id": "40199763",
       "pmc_id": "PMC12085996",
@@ -50,15 +67,6 @@
       "publication_date": "2025 May",
       "authors": "Song X, Yu X, Moran-Segura CM, Xu H, Li T, Davis JT, Vosoughi A, Grass GD, Li R, Wang X",
       "journal": "Bioinformatics"
-    },
-    {
-      "title": "PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis",
-      "pubmed_id": "40552938",
-      "pmc_id": "PMC12327362",
-      "year": "2025",
-      "publication_date": "2025 Jun",
-      "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
-      "journal": "Mol Cancer Ther"
     },
     {
       "title": "Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma",
@@ -95,14 +103,6 @@
       "publication_date": "2024 May",
       "authors": "Anselmino N, Labanca E, Shepherd PDA, Dong J, Yang J, Song X, Nandakumar S, Kundra R, Lee CJ, Schultz N, Zhang J, Araujo JC, Aparicio AM, Subudhi SK, Corn PG, Pisters LL, Ward JF, Davis JW, Vazquez ES, Gueron G, Logothetis CJ, Futreal A, Troncoso P, Chen Y, Navone NM",
       "journal": "Clin Cancer Res"
-    },
-    {
-      "title": "Phase Ib trial of IRX-2 plus durvalumab in patients with recurrent and/or metastatic head and neck squamous cell carcinoma",
-      "pubmed_id": "38820888",
-      "year": "2024",
-      "publication_date": "2024 Jul",
-      "authors": "Park R, Li J, Slebos RJC, Chaudhary R, Poole MI, Ferraris C, Farinhas J, Hernandez-Prera J, Kirtane K, Teer JK, Song X, Hall MS, Tasoulas J, Amelio AL, Chung CH",
-      "journal": "Oral Oncol"
     }
   ],
   "grants": [
@@ -136,11 +136,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SongXiaofei_32089.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32089"
   },
-  "content_hash": "ae93369fa5e1feab2c2776d28031f10066264e002d612903c0cbd6fb0e230d35",
-  "researcher_name": "Xiaofei Song",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "5c5c958b0cbc3b937327c41a95d840e4dd0325dacbbb82eaab84e25a9c9b7761",
+  "researcher_name": "xiaofei song",
+  "department": "biostatistics and bioinformatics"
 }

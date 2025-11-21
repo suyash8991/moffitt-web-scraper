@@ -1,0 +1,214 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/brian-ruffell/",
+  "last_updated": "2025-11-21T22:50:23.048194",
+  "researcher_id": "15246",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "immunology",
+  "research_program": "immuno-oncology",
+  "overview": "Immuno-Oncology",
+  "research_interests": [
+    "Effectively harnessing the power of the immune system is one of the most promising advances in cancer therapy. Immune-based therapies take advantage of the tumor killing capacity of cytotoxic T cells, an ability that is normally limited within tumors via multiple suppressive pathways. Supporting the activity of these cytotoxic T cells can provide long-term survival advantages, but despite recent successes, only a fraction of patients respond to immunotherapy, and efficacious treatment has so far been largely limited to select tumor types. The identification of additional therapeutic targets is urgently needed to address these issues and expand upon the number of patients who will benefit from this relatively safe and effective treatment approach. The Ruffell Lab is focused on understanding the role of key myeloid subsets within hormone-drive malignancies in order to identify and develop novel therapeutic targets and approaches.\n  *"
+  ],
+  "associations": [
+    "Immunology",
+    "Breast Oncology",
+    "Immuno-Oncology Program",
+    "Lung Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of British Columbia, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of California, San Francisco",
+      "specialty": "Cancer Immunology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Oregon Health & Science University",
+      "specialty": "Cancer Immunology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "The C5a/C5aR1 Axis Promotes Migration of Tolerogenic Dendritic Cells to Lymph Nodes, Impairing the Anticancer Immune Response",
+      "pubmed_id": "39666368",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Senent Y, Rem\u00edrez A, Rep\u00e1raz D, Llopiz D, Celias DP, Sainz C, Entrialgo-Cadierno R, Suarez L, Rouzaut A, Alignani D, Tavira B, Lambris JD, Woodruff TM, de Andrea CE, Ruffell B, Sarobe P, Ajona D, Pio R",
+      "journal": "Cancer Immunol Res"
+    },
+    {
+      "title": "Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models",
+      "pubmed_id": "40825611",
+      "pmc_id": "PMC12366563",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Macrophage-mediated myelin recycling fuels brain cancer malignancy",
+      "pubmed_id": "39137777",
+      "pmc_id": "PMC11429458",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Kloosterman DJ, Erbani J, Boon M, Farber M, Handgraaf SM, Ando-Kuri M, S\u00e1nchez-L\u00f3pez E, Fontein B, Mertz M, Nieuwland M, Liu NQ, Forn-Cuni G, van der Wel NN, Grootemaat AE, Reinalda L, van Kasteren SI, de Wit E, Ruffell B, Snaar-Jagalska E, Petrecca K, Brandsma D, Kros A, Giera M, Akkari L",
+      "journal": "Cell"
+    },
+    {
+      "title": "Rapid Autopsy to Define Dendritic Cell Spatial Distribution and T Cell Association in Lung Adenocarcinoma",
+      "pubmed_id": "39120462",
+      "pmc_id": "PMC11404669",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Ozakinci H, Song X, Nazario GS, Lila T, Chen B, Simpson T, Nguyen JV, Moran Segura CM, Thompson ZJ, Thapa R, Rose TA, Haura EB, Pellini B, Yu X, Ruffell BH, Chen DT, Boyle TA, Beg AA",
+      "journal": "J Immunol"
+    },
+    {
+      "title": "Interleukin-1\u03b1 release during necrotic-like cell death generates myeloid-driven immunosuppression that restricts anti-tumor immunity",
+      "pubmed_id": "39577420",
+      "pmc_id": "PMC11631672",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "H\u00e4nggi K, Li J, Gangadharan A, Liu X, Celias DP, Osunmakinde O, Keske A, Davis J, Ahmad F, Giron A, Anadon CM, Gardner A, DeNardo DG, Shaw TI, Beg AA, Yu X, Ruffell B",
+      "journal": "Cancer Cell"
+    },
+    {
+      "title": "Cell death, therapeutics, and the immune response in cancer",
+      "pubmed_id": "36841748",
+      "pmc_id": "PMC10121860",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "H\u00e4nggi K, Ruffell B",
+      "journal": "Trends Cancer"
+    },
+    {
+      "title": "Grading of lung adenocarcinomas with simultaneous segmentation by artificial intelligence (GLASS-AI)",
+      "pubmed_id": "37464050",
+      "pmc_id": "PMC10354042",
+      "year": "2023",
+      "publication_date": "2023 Jul",
+      "authors": "Lockhart JH, Ackerman HD, Lee K, Abdalah M, Davis AJ, Hackel N, Boyle TA, Saller J, Keske A, H\u00e4nggi K, Ruffell B, Stringfield O, Cress WD, Tan AC, Flores ER",
+      "journal": "NPJ Precis Oncol"
+    },
+    {
+      "title": "Fucosylation of HLA-DRB1 regulates CD4+ T cell-mediated anti-melanoma immunity and enhances immunotherapy efficacy",
+      "pubmed_id": "36690875",
+      "pmc_id": "PMC9970875",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Lester DK, Burton C, Gardner A, Innamarato P, Kodumudi K, Liu Q, Adhikari E, Ming Q, Williamson DB, Frederick DT, Sharova T, White MG, Markowitz J, Cao B, Nguyen J, Johnson J, Beatty M, Mockabee-Macias A, Mercurio M, Watson G, Chen PL, McCarthy S, MoranSegura C, Messina J, Thomas KL, Darville L, Izumi V, Koomen JM, Pilon-Thomas SA, Ruffell B, Luca VC, Haltiwanger RS, Wang X, Wargo JA, Boland GM, Lau EK",
+      "journal": "Nat Cancer"
+    },
+    {
+      "title": "Combination IFN\u03b2 and Membrane-Stable CD40L Maximize Tumor Dendritic Cell Activation and Lymph Node Trafficking to Elicit Systemic T-cell Immunity",
+      "pubmed_id": "36757308",
+      "pmc_id": "PMC10165690",
+      "year": "2023",
+      "publication_date": "2023 Apr",
+      "authors": "Zheng H, Yu X, Ibrahim ML, Foresman D, Xie M, Johnson JO, Boyle TA, Ruffell B, Perez BA, Antonia SJ, Ready N, Saltos AN, Cantwell MJ, Beg AA",
+      "journal": "Cancer Immunol Res"
+    },
+    {
+      "title": "Detection of exogenous DNA uptake by murine dendritic cells",
+      "pubmed_id": "35719726",
+      "pmc_id": "PMC9204794",
+      "year": "2022",
+      "publication_date": "2022 Sep",
+      "authors": "Celias DP, de Mingo Pulido \u00c1, Ruffell B",
+      "journal": "STAR Protoc"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Preclinical Studies to Guide Development of Clinical Trials of MEM-288 Oncolytic Virus to Target Localized Bladder Cancer and TNBC  \nAward Number: 19VA063-S3  \nSponsor: MEMGEN, INC.  \nBeg, A. (PD/PI), Pilon-Thomas, S. (Co-PD/PI), Ruffell, B. (Co-PD/PI), Soliman, H. (Co-PD/PI)",
+      "title": "Preclinical Studies to Guide Development of Clinical Trials of MEM-288 Oncolytic Virus to Target Localized Bladder Cancer and TNBC",
+      "award_number": "19VA063-S3",
+      "sponsor": "MEMGEN, INC.",
+      "investigators": [
+        {
+          "name": "Beg, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Thomas, S.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Ruffell, B.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Soliman, H.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Targeting dendritic cells to improve cancer immunotherapy  \nAward Number: CRI4438  \nSponsor: CANCER RESEARCH INSTITUTE  \nRuffell, B. (PD/PI)",
+      "title": "Targeting dendritic cells to improve cancer immunotherapy",
+      "award_number": "CRI4438",
+      "sponsor": "CANCER RESEARCH INSTITUTE",
+      "investigators": [
+        {
+          "name": "Ruffell, B.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: STING Activation Underlies Response to Chemoimmunotherapy in TNBC  \nAward Number: 25B12  \nSponsor: Florida Department of Health  \nRuffell, B. (PD/PI)",
+      "title": "STING Activation Underlies Response to Chemoimmunotherapy in TNBC",
+      "award_number": "25B12",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Ruffell, B.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Release of interleukin-1a as a mediator of immune evasion in cancer  \nAward Number: 1R01CA289581-01A1  \nSponsor: National Cancer Institute (NCI)  \nRuffell, B. (PD/PI)",
+      "title": "Release of interleukin-1a as a mediator of immune evasion in cancer",
+      "award_number": "1R01CA289581-01A1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Ruffell, B.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Targeting ENPP1 to promote immunity during PARP inhibition in TNBC  \nAward Number: W81XWH2210406 Log#BC211038  \nSponsor: Department of Defense (DOD)  \nRuffell, B. (PD/PI)",
+      "title": "Targeting ENPP1 to promote immunity during PARP inhibition in TNBC",
+      "award_number": "W81XWH2210406 Log#BC211038",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Ruffell, B.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages2.moffitt.org/ruffell/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=AGbC-XYAAAAJ&hl=en",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/RuffellBrian_15246.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15246"
+  },
+  "content_hash": "7a42b503be047fe71ebfd12088158edb51e2ed5da3a16f1f94d40c88691b1d43",
+  "researcher_name": "brian ruffell",
+  "department": "immunology"
+}

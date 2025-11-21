@@ -1,0 +1,202 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/nelli-bejanyan/",
+  "last_updated": "2025-11-21T22:50:26.094792",
+  "researcher_id": "20945",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "blood and marrow transplant and cellular immunotherapy",
+  "research_program": "immuno-oncology",
+  "overview": "Dr. Bejanyan's research interests are improved stem cell transplantation for myeloid malignancies, including strategies for relapse prevention, improvement of conditioning regimens and immune reconstitution. She is also interested in improved outcomes associated with alternative donor transplantation for patients with hematologic malignancies.",
+  "research_interests": [
+    "Dr. Bejanyan's research interests are improved stem cell transplantation for myeloid malignancies, including strategies for relapse prevention, improvement of conditioning regimens and immune reconstitution. She is also interested in improved outcomes associated with alternative donor transplantation for patients with hematologic malignancies.\n  *"
+  ],
+  "associations": [
+    "Blood and Marrow Transplant and Cellular Immunotherapy",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Yerevan State Medical University",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Cleveland Clinic Foundation",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Cleveland Clinic Foundation Ohio, Taussig Cancer Center",
+      "specialty": "Hematology & Medical Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Cleveland Clinic Foundation Ohio, Taussig Cancer Center",
+      "specialty": "Bone Marrow Failure"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": ""
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Medical Oncology",
+      "certification": ""
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Hematology",
+      "certification": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Phase II Trial of Reduced-Intensity Fludarabine, Melphalan, and Total Body Irradiation Conditioning With Haploidentical Donor Peripheral Blood Stem Cell Transplant",
+      "pubmed_id": "40492500",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Elmariah H, Kim J, Gonzalez R, DiMaggio E, Sansil S, Mishra A, Faramand R, Perez L, Lazaryan A, Mirza AS, Khimani F, Liu H, Ochoa-Bayona JL, Nieder M, Perna F, Figura N, Robinson TJ, Nishihori T, Anasetti C, Pidala JA, Bejanyan N",
+      "journal": "Am J Hematol"
+    },
+    {
+      "title": "Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide",
+      "pubmed_id": "40617898",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H",
+      "journal": "Bone Marrow Transplant"
+    },
+    {
+      "title": "Impact of Obesity and Weight-Based Chemotherapy Dosing Adjustments on Outcomes of Allogeneic Hematopoietic Cell Transplant for Acute Myeloid Leukemia",
+      "pubmed_id": "41115629",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Gaskill E, Albanyan O, Naqvi SMH, Mo Q, Belfon A, Nishihori T, Faramand R, Lazaryan A, Hansen DK, Khimani F, Mishra A, Nieder M, Perez L, Liu H, Pidala J, Anasetti C, Bejanyan N, Elmariah H",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "High incidence of severe TA-TMA increases mortality in adult allogeneic transplant recipients: a prospective MIDAS Consortium study",
+      "pubmed_id": "40300075",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Vasu S, Zhao Q, Miller EG, Elder P, Langenberg L, Cataland SR, Davies SM, Bejanyan N, Hahn T",
+      "journal": "Blood"
+    },
+    {
+      "title": "Comparison of Outcomes of Haploidentical Peripheral Blood Stem Cell Transplantation with Post-Transplant Cyclophosphamide in Older Versus Younger Patients",
+      "pubmed_id": "39858092",
+      "pmc_id": "PMC11763395",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Adoncecchi G, Kumar A, Mogili K, Faramand R, Liu H, Khimani F, Mishra A, Nieder M, Nishihori T, Hansen D, Jain M, Lazaryan A, Perez L, Pidala J, Locke F, Anasetti C, Bejanyan N, Elmariah H",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Lower Weight-Based Mycophenolate Mofetil Dosing is Associated with Superior Outcomes after Haploidentical Hematopoietic Cell Transplant with Post-transplant Cyclophosphamide",
+      "pubmed_id": "39102983",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Elmariah H, Otoukesh S, Kumar A, Ali H, Arslan S, Dimaggio E, Gonzalez R, Shouse G, Pourhassan H, Nishihori T, Faramand R, Mishra A, Khimani F, Fernandez H, Lazaryan A, Nieder M, Perez L, Liu H, Nakamura R, Pidala J, Marcucci G, Forman SJ, Anasetti C, Bejanyan N, Al Malki MM",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Outcomes of Haploidentical Stem Cell Transplant Recipients With HHV-6B Reactivation",
+      "pubmed_id": "39411216",
+      "pmc_id": "PMC11475747",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Handley G, Yepes A, Eliassen E, Dominguez G, Pasikhova Y, Klinkova O, Baluch A, Febres-Aldana AJ, Alsina M, Elmariah H, Khimani F, Hansen DK, Freeman CL, Jain MD, Locke F, Lazaryan A, Liu HD, Mishra A, Mirza AS, Nishihori T, Ochoa L, Perez L, Pidala J, Puglianini OC, Nieder M, Perna F, Kim J, Bejanyan N, Faramand R",
+      "journal": "Open Forum Infect Dis"
+    },
+    {
+      "title": "JAK2/mTOR inhibition fails to prevent acute GVHD despite reduced Th1/Th17 cells: final phase 2 trial results",
+      "pubmed_id": "39046783",
+      "pmc_id": "PMC11619790",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Pidala JA, Holtan SG, Walton K, Kim J, Cao B, Elmariah H, Mishra A, Bejanyan N, Nishihori T, Khimani F, Perez LE, Faramand RG, Davila ML, McSain S, Pleskow J, Baron J, Anasetti C, Moran Segura CM, Weisdorf DJ, Blazar BR, Miller JS, Bachanova V, El Jurdi N, Betts BC",
+      "journal": "Blood"
+    },
+    {
+      "title": "Melphalan Dose in Combination With Fludarabine Affects Gastrointestinal Toxicity and Graft-Versus-Host Disease After Allogeneic Transplantation in Acute Myeloid Leukemia and Myelodysplastic Syndromes",
+      "pubmed_id": "39147136",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Albanyan O, Elmariah H, Kalos D, Kim J, Faramand R, Sallman D, Mishra A, Sweet K, Perez L, Ochoa-Bayona J, Nieder M, Komrokji R, Lancet J, Fernandez H, Nishihori T, Pidala J, Anasetti C, Bejanyan N",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Mismatched donor allogeneic hematopoietic cell transplantation with post-transplant cyclophosphamide achieves comparable outcomes between racially and ethnically diverse patient populations",
+      "pubmed_id": "38546371",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Caprice T, Fan W, Kim J, Faramand R, Mishra A, Perez L, Khimani F, Lazar-Yan A, Ochoa-Bayona JL, Liu H, Jain MD, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H",
+      "journal": "Am J Hematol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: A randomized clinical trial of oral vitamin A to reduce chronic graft versus host disease in BMT   \nAward Number: ACT9020-25  \nSponsor: Blood Cancer United  \nBejanyan, N. (PD/PI)",
+      "title": "A randomized clinical trial of oral vitamin A to reduce chronic graft versus host disease in BMT",
+      "award_number": "ACT9020-25",
+      "sponsor": "Blood Cancer United",
+      "investigators": [
+        {
+          "name": "Bejanyan, N.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: MIDAS: Microangiopathy, endothelial Damage in Adults undergoing Stem cell transplantation  \nAward Number: 5R01HL153723  \nSponsor: National Heart, Lung, and Blood Institute (NHLBI)  \nBejanyan, N. (PD/PI)",
+      "title": "MIDAS: Microangiopathy, endothelial Damage in Adults undergoing Stem cell transplantation",
+      "award_number": "5R01HL153723",
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "investigators": [
+        {
+          "name": "Bejanyan, N.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21351/",
+      "trial_id": "21351",
+      "title": "A Prospective Analysis of Biochemical Markers for Hematopoietic Cell Transplant-Associated Thrombotic Microangiopathy in Adults",
+      "condition": "Malignant Hematology",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21763/",
+      "trial_id": "21763",
+      "title": "MRKR-21-401-OTS - A Phase 1 Study of Allogeneic Off-the-Shelf Multi-Tumor-Associated Antigen-Specific T Cells (MT-401-OTS) Administered to Patients with Relapsed Acute Myeloid Leukemia or Myelodysplastic Syndromes (RAPID)",
+      "condition": "Malignant Hematology",
+      "intervention": "Azacitidine (5-azacitidine); Bendamustine (); MESNA (); MT-401-OTS (); cyclophosphamide (); cytoxan (cyclophosphamide); decitabine (5-aza-2'-deoxycytidine); fludarabine (Fludarabine phosphate)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23421/",
+      "trial_id": "23421",
+      "title": "A Randomized Double Blinded Trial of Vitamin A Supplementation in Allogeneic Stem Cell Transplantation",
+      "condition": "Malignant Hematology",
+      "intervention": "Placebo (); Vitamin A ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BejanyanNelli_20945.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20945"
+  },
+  "content_hash": "162465a60b3097034e93880a9cf596447f1630089973578b77c34baf26436d27",
+  "researcher_name": "nelli bejanyan",
+  "department": ""
+}

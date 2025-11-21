@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/peter-forsyth",
-  "last_updated": "2025-10-21T16:38:29.885517",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/peter-forsyth/",
+  "last_updated": "2025-11-21T22:50:26.307715",
   "researcher_id": "8808",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Neuro-Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "neuro-oncology",
+  "research_program": "molecular medicine",
   "overview": "Dr Forsyth has a strong interest in malignant, invasive glioma brain tumors and leptomeningeal disease. He is currently investigating several inhibiting agents in Phase 1 and 2 clinical trials. His laboratory interests are in gliomas and melanoma brain metastases. He works using oncolytic viruses as immunotherapies, neurotrophins, and their receptors in melanoma and other brain metastasis.",
   "research_interests": [
     "Dr. Forsyth has a strong interest in malignant, invasive glioma brain tumors. He is currently investigating several tumor-inhibiting agents in Phase I clinical trials. One of his first priorities at Moffitt is to develop a neural tumor stem cell lab to expand research opportunities in novel therapeutic cancer-fighting drugs. Currently, he has 10 active grants funding his studies.\n  *"
@@ -107,15 +107,6 @@
       "journal": "J Immunother Cancer"
     },
     {
-      "title": "Intravenous Immunoglobulin (IVIG) for Patients with Severe Neurotoxicity Associated with Chimeric Antigen Receptor T-Cell (CAR-T) Therapy",
-      "pubmed_id": "40332772",
-      "pmc_id": "PMC12028060",
-      "year": "2025",
-      "publication_date": "2025 Apr",
-      "authors": "Mokhtari S, Asquith JM, Kareem SS, Bachmeier CA, Pina Y, Faramand RG, Kim Y, Peguero EN, Sahebjam S, Jaffer MH, Iacono DP, Jain MD, Vogelbaum MA, Davila ML, Forsyth PA, Locke FL, Lazaryan A",
-      "journal": "Int J Mol Sci"
-    },
-    {
       "title": "Comparative Analysis of Intracranial Response Assessment Criteria in Patients With Melanoma Brain Metastases Treated With Combination Nivolumab + Ipilimumab in CheckMate 204",
       "pubmed_id": "39752606",
       "pmc_id": "PMC11949218",
@@ -123,6 +114,15 @@
       "publication_date": "2025 Apr",
       "authors": "Huang RY, Youssef G, Nelson T, Wen PY, Forsyth P, Hodi FS, Margolin K, Algazi AP, Hamid O, Lao CD, Ernstoff MS, Moschos SJ, Atkins MB, Postow MA, Reardon DA, Grootendorst DJ, Leung D, Askelson M, Ritchings C, Tawbi HA",
       "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Intravenous Immunoglobulin (IVIG) for Patients with Severe Neurotoxicity Associated with Chimeric Antigen Receptor T-Cell (CAR-T) Therapy",
+      "pubmed_id": "40332772",
+      "pmc_id": "PMC12028060",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Mokhtari S, Asquith JM, Kareem SS, Bachmeier CA, Pina Y, Faramand RG, Kim Y, Peguero EN, Sahebjam S, Jaffer MH, Iacono DP, Jain MD, Vogelbaum MA, Davila ML, Forsyth PA, Locke FL, Lazaryan A",
+      "journal": "Int J Mol Sci"
     },
     {
       "title": "Leptomeningeal metastases from solid tumors: A Society for Neuro-Oncology and American Society of Clinical Oncology consensus review on clinical management and future directions",
@@ -194,11 +194,23 @@
       "description": ""
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21262/",
+      "trial_id": "21262",
+      "title": "A First in Human dose escalation of Dendritic Cell Vaccine (DCV) administered Intrathecally (IT) primed against HER2/HER3 in Patients with Leptomeningeal Disease (LMD) from Triple-Negative Breast Cancer (TNBC) or HER2+ Breast Cancer (HER2+BC)",
+      "condition": "Neurologic Oncology",
+      "intervention": "Dendritic Cell Vaccine ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ForsythPeter_8808.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=8808"
   },
-  "content_hash": "9b63facc9519973378fe68c7ac5c98936f4cde6a970021275093a5e4753ab3ca",
-  "researcher_name": "Peter Forsyth",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "4b62003f1beccdaceab452f0310a3365a4b8b381da1bc9255aa3185458fc9282",
+  "researcher_name": "peter forsyth",
+  "department": "tumor microenvironment and metastasis"
 }

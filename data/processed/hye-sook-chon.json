@@ -1,0 +1,173 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/hye-sook-chon/",
+  "last_updated": "2025-11-21T22:50:24.068960",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "gynecologic oncology",
+  "research_program": "molecular medicine",
+  "overview": "I am interested in developing personalized care in gynecologic cancer with combination with clinic-pathologic data with genomic data.",
+  "research_interests": [
+    "I am interested in adaptation of a genomic-wide strategy to characterize some of the molecular signaling pathways and cellular processes that are associated with known risk factor for recurrence of endometrial cancer and cervical cancer. Empiric treatment-based decision making could then be replaced with tailored therapy that matches the right patient with the right treatment plan based on her own molecular fingerprint.\n  *"
+  ],
+  "associations": [
+    "Gynecologic Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Kyung Hee University College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Kyung Hee University College of Medicine",
+      "position": "Intern"
+    },
+    {
+      "type": "Residency",
+      "institution": "Kyung Hee University Medical Center",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    {
+      "type": "Residency",
+      "institution": "Baylor College of Medicine",
+      "specialty": "Obstetrics and Gynecology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "MD Anderson International Fellow",
+      "specialty": "Gynecologic Medical Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "H. Lee Moffitt Cancer Center & Research",
+      "specialty": "Gynecologic Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Obstetrics & Gynecology",
+      "certification": "Gynecologic Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Efficacy and Safety of Avutometinib \u00b1 Defactinib in Recurrent Low-Grade Serous Ovarian Cancer: Primary Analysis of ENGOT-OV60/GOG-3052/RAMP 201",
+      "pubmed_id": "40644648",
+      "pmc_id": "PMC12393057",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Banerjee SN, Van Nieuwenhuysen E, Aghajanian C, D'Hondt V, Monk BJ, Clamp A, Prendergast E, Oaknin A, Ring K, Colombo N, Holloway RW, Rodrigues M, Chon HS, Gourley C, Santin AD, Thaker PH, Gennigens C, Newman G, Salinas E, Youssoufian H, Moore KN, Lustgarten S, O'Malley DM, Van Gorp T, Grisham RN",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Specimen extraction techniques utilized in minimally invasive surgery for uterine cancer and an enlarged uterus: a quality assurance study",
+      "pubmed_id": "40926147",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Quian A, Mercier AM, Lam C, Wenham RM, Chon HS, Shahzad MM, Chern JY, Thompson Z, Hoffman MS",
+      "journal": "J Robot Surg"
+    },
+    {
+      "title": "Adnexal mass management by minimally invasive surgery at a comprehensive cancer center",
+      "pubmed_id": "41108488",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Quian A, Mercier AM, Akers A, Wenham RM, Chon HS, Shahzad MM, Chern JY, Mhaskar R, Hoffman M",
+      "journal": "J Robot Surg"
+    },
+    {
+      "title": "Atezolizumab and Stereotactic Body Radiation in Metastatic, Recurrent, or Persistent Cervical Cancer: Results From a Phase 2 Multi-Institutional Study",
+      "pubmed_id": "40379142",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Ahmed KA, Quick AM, Chon HS, Chern JY, Bixel K, Kim Y, Li J, Montejo ME, Dowell RA, Kim S, Fernandez DC, Lam CA, Hakam A, Rosa M, Shafique M, Shahzad MM, Wenham RM",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "NCCN Guidelines\u00ae Insights: Uterine Neoplasms, Version 3",
+      "pubmed_id": "40763788",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Abu-Rustum NR, Campos SM, Amarnath S, Arend R, Barber E, Bradley K, Brooks R, Chino J, Chon HS, Crispens MA, Damast S, Fisher CM, Frederick P, Gaffney DK, Gaillard S, Giuntoli R, Glaser S, Howitt BE, Landrum L, Lea J, Lee N, Mantia-Smaldone G, Mariani A, Mutch D, Nagel C, Nekhlyudov L, Nieto K, Nwachukwu C, Podoll M, Rodabaugh K, Salani R, Schorge J, Schuetze S, Siedel J, Sisodia R, Soliman P, Ueda S, Urban R, Wyse E, McMillian N, Sambandam V"
+    },
+    {
+      "title": "Incorporation of triapine (T) to cisplatin chemoradiation (CRT) for locally advanced cervical and vaginal cancer: Results from NRG-GY006, a phase III randomized trial",
+      "pubmed_id": "40101606",
+      "pmc_id": "PMC12009185",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Leath CA, Deng W, Mell LK, Richardson DL, Walker JL, Holman LL, Lea JS, Amarnath SR, Santos-Reyes LJ, Arend RC, Mayadev J, Jegadeesh N, DiSilvestro P, Chon HS, Ghamande SA, Gao L, Albuquerque K, Chino JP, Donnelly E, Feddock JM, Lowenstein J, Quick AM, Kunos CM, MacKay H, Aghajanian C, Monk BJ",
+      "journal": "Gynecol Oncol"
+    },
+    {
+      "title": "Post-traumatic reactions and quality of life after pelvic exenteration for gynecologic cancer: a retrospective cohort study",
+      "pubmed_id": "39404886",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Thompson LMA, Loecher N, Albizu-Jacob A, Chon HS, Wenham RM, Donovan KA",
+      "journal": "Support Care Cancer"
+    },
+    {
+      "title": "Vulvar Cancer, Version 3",
+      "pubmed_id": "38503056",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Abu-Rustum NR, Yashar CM, Arend R, Barber E, Bradley K, Brooks R, Campos SM, Chino J, Chon HS, Crispens MA, Damast S, Fisher CM, Frederick P, Gaffney DK, Gaillard S, Giuntoli R, Glaser S, Holmes J, Howitt BE, Kendra K, Lea J, Lee N, Mantia-Smaldone G, Mariani A, Mutch D, Nagel C, Nekhlyudov L, Podoll M, Rodabaugh K, Salani R, Schorge J, Siedel J, Sisodia R, Soliman P, Ueda S, Urban R, Wethington SL, Wyse E, Zanotti K, McMillian N, Espinosa S"
+    },
+    {
+      "title": "Long-term follow-up of efficacy and safety of selinexor maintenance treatment in patients with TP53wt advanced or recurrent endometrial cancer: A subgroup analysis of the ENGOT-EN5/GOG-3055/SIENDO study",
+      "pubmed_id": "38834399",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Makker V, Perez-Fidalgo JA, Valabrega G, Hamilton E, Van Gorp T, Sehouli J, Regin\u00e1\u010dov\u00e1 K, Richardson DL, Perri T, Oza AM, Miller DS, Al\u00eda EMG, De Giorgi U, Henry S, Spitz DL, Wimberger P, Bedna\u0159\u00edkov\u00e1 M, Chon HS, Mart\u00ednez-Garcia J, Pisano C, Berek JS, Romero I, Scambia G, Fari\u00f1as-Madrid L, Buscema J, Schochter F, Li K, Kalyanapu P, Walker CJ, Vergote I",
+      "journal": "Gynecol Oncol"
+    },
+    {
+      "title": "Durvalumab Plus Carboplatin/Paclitaxel Followed by Maintenance Durvalumab With or Without Olaparib as First-Line Treatment for Advanced Endometrial Cancer: The Phase III DUO-E Trial",
+      "pubmed_id": "37864337",
+      "pmc_id": "PMC10824389",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Westin SN, Moore K, Chon HS, Lee JY, Pepin JT, Sundborg M, Shai A, Garza J, Nishio S, Gold MA, Wang K, McIntyre K, Tillmanns TD, Blank SV, Liu JH, McCollum M, Mejia FC, Nishikawa T, Pennington K, Novak Z, De Melo AC, Sehouli J, Klasa-Mazurkiewicz D, Papadimitriou C, Gil-Martin M, Brasiuniene B, Donnelly C, Michelle Del Rosario P, Liu X, Van Nieuwenhuysen E",
+      "journal": "J Clin Oncol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23067/",
+      "trial_id": "23067",
+      "title": "Phase 2 Study of Alpelisib and Fulvestrant for PIK3CA-mutated Estrogen Receptor (ER)-positive Endometrioid Endometrial Cancers",
+      "condition": "Gynecological Tumor",
+      "intervention": "Alpelisib (); Faslodex (fulvestrant); fulvestrant ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23176/",
+      "trial_id": "23176",
+      "title": "A Phase 2, randomised, open label, multicentre study of an intraperitoneal alpha-emitting radionuclide therapy (Radspherin\u00ae) in patients with primary advanced high-grade serous or high-grade endometrioid epithelial ovarian, fallopian tube, or primary peritoneal cancer, with peritoneal metastasis that are homologous recombination proficient and scheduled to undergo neoadjuvant chemotherapy and interval debulking surgery",
+      "condition": "Gynecological Tumor",
+      "intervention": "Radspherin ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23223/",
+      "trial_id": "23223",
+      "title": "A Phase 3, Randomized, Open-Label Study of Combination Therapy with Avutometinib plus Defactinib Versus Investigator s Choice of Treatment in Patients with Recurrent Low-Grade Serous Ovarian Cancer (LGSOC)",
+      "condition": "Gynecological Tumor",
+      "intervention": "Anastrozole (); Arimadex (Anastrozole); Avutometinib (); Defactinib (VS-6063); Femara (Letrozole); Letrozole (); PEGylated Liposomal Doxorubicin (); Taxol (paclitaxel); Topotecan (); paclitaxel ()",
+      "status": "OPEN (SUSPENDED)"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChonHyeSook_10613.jpg",
+  "contact": {},
+  "content_hash": "69e916fe51622c9268828cd8332e39d58cc0b4e1fbbaf8ee8eb8b63507bb7c01",
+  "researcher_name": "hye sook chon",
+  "department": ""
+}

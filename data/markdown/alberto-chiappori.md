@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/alberto-chiappori)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/alberto-chiappori)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -574,8 +573,8 @@ Status: Open
     * Schabath MB, Nguyen A, Wilson P, Sommerer KR, Thompson ZJ, Chiappori AA. Temporal trends from 1986 to 2008 in overall survival of small cell lung cancer patients. Lung Cancer. 2014 Oct.86(1):14-21. Pubmedid: [25115410](https://www.ncbi.nlm.nih.gov/pubmed/25115410). Pmcid: PMC4171454. 
     * Dilling TJ, Extermann M, Kim J, Thompson LM, Yue B, Stevens CW, Antonia S, Gray J, Williams C, Haura E, Pinder-Schenck M, Tanvetyanon T, Kim S, Chiappori A. Phase 2 study of concurrent cetuximab plus definitive thoracic radiation therapy followed by consolidation docetaxel plus cetuximab in poor prognosis or elderly patients with locally advanced non-small cell lung cancer. Int J Radiat Oncol Biol Phys. 2014 Nov.90(4):828-833. Pubmedid: [25216856](https://www.ncbi.nlm.nih.gov/pubmed/25216856). 
     * Gray J, Haura EB, Chiappori A, Tanvetyanon T, Williams CC, Pinder-Schenk M, Kish JA, Kreahling JM, Lush RM, Neuger AM, Tetteh LF, Akar A, Zhao X, Schell MJ, Bepler G, Altiok S. A phase I, pharmacokinetic, and pharmacodynamic study of panobinostat, an HDAC inhibitor, combined with erlotinib in patients with advanced aerodigestive tract tumors. Clin Cancer Res. 2014 Mar.20(6):1644-1655. Pubmedid: [24429877](https://www.ncbi.nlm.nih.gov/pubmed/24429877). Pmcid: PMC4051132. 
-    * Kuykendall A, Chiappori A. Advanced EGFR mutation-positive non-small-cell lung cancer: case report, literature review, and treatment recommendations. Cancer Control. 2014 Jan.21(1):67-73. Pubmedid: [24357744](https://www.ncbi.nlm.nih.gov/pubmed/24357744). 
     * Tanvetyanon T, Creelan BC, Chiappori AA. Current clinical application of genomic and proteomic profiling in non-small-cell lung cancer. Cancer Control. 2014 Jan.21(1):32-39. Pubmedid: [24357739](https://www.ncbi.nlm.nih.gov/pubmed/24357739). 
+    * Kuykendall A, Chiappori A. Advanced EGFR mutation-positive non-small-cell lung cancer: case report, literature review, and treatment recommendations. Cancer Control. 2014 Jan.21(1):67-73. Pubmedid: [24357744](https://www.ncbi.nlm.nih.gov/pubmed/24357744). 
     * Chiappori A, Williams C, Northfelt DW, Adams JW, Malik S, Edelman MJ, Rosen P, Van Echo DA, Berger MS, Haura EB. Obatoclax mesylate, a pan-bcl-2 inhibitor, in combination with docetaxel in a phase 1/2 trial in relapsed non-small-cell lung cancer. J Thorac Oncol. 2014 Jan.9(1):121-125. Pubmedid: [24346101](https://www.ncbi.nlm.nih.gov/pubmed/24346101). Pmcid: PMC4666503. 
     * Cress WD, Chiappori A, Santiago P, Muñoz-Antonia T. Lung cancer mutations and use of targeted agents in Hispanics. Rev Recent Clin Trials. 2014 Dec.9(4):225-232. Pubmedid: [25626064](https://www.ncbi.nlm.nih.gov/pubmed/25626064). Pmcid: PMC4441412. 
     * Creelan BC, Antonia S, Noyes D, Hunter TB, Simon GR, Bepler G, Williams CC, Tanvetyanon T, Haura EB, Schell MJ, Chiappori A. Phase II trial of a GM-CSF-producing and CD40L-expressing bystander cell line combined with an allogeneic tumor cell-based vaccine for refractory lung adenocarcinoma. J Immunother. 2013 Oct.36(8):442-450. Pubmedid: [23994887](https://www.ncbi.nlm.nih.gov/pubmed/23994887). Pmcid: PMC3846277. 
@@ -697,7 +696,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -752,7 +751,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/alberto-chiappori#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/alberto-chiappori#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -770,7 +769,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1124,7 +1123,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/alberto-chiappori#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/alberto-chiappori#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

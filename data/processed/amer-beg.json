@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/amer-beg",
-  "last_updated": "2025-10-21T16:39:47.198887",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/amer-beg/",
+  "last_updated": "2025-11-21T22:50:22.568858",
   "researcher_id": "3497",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Immunology",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "immunology",
+  "research_program": "immuno-oncology",
   "overview": "Developing new strategies to increase tumor immunogenicity and response to therapeutics.",
   "research_interests": [
     "The Beg laboratory is interested in developing new strategies aimed at modulating the tumor microenvironment to increase tumor immunogenicity and response to therapeutics. Through both laboratory and clinical trial studies, ongoing projects aim to modulate activity of epigenetic and cytokine pathways to enhance immunological control of lung cancer. The Beg laboratory is also developing novel oncolytic virus strategies to generate potent anti-tumor T cell responses that can turn immune \u201ccold\u201d to \u201chot\u201d tumors capable of responding to checkpoint inhibitors and other immunotherapeutics.\n  *"
@@ -186,11 +186,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages.moffitt.org/bega",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BegAmer_3497.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3497"
   },
-  "content_hash": "c6160258c933d0b8da4e9628dfa9945a85632c67b68d74180ab1dafcec3ae611",
-  "researcher_name": "Amer Beg",
-  "department": "Immunology"
+  "content_hash": "329d177f6c6c790656ea869027ca8b05d014e22fdaba9c740051694b1304a395",
+  "researcher_name": "amer beg",
+  "department": "immunology"
 }

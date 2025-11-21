@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/natarajan-raghunand)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/natarajan-raghunand)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -500,8 +499,8 @@ Dr. Natarajan Raghunand's research focus is on the development of clinically tra
     * Arias-Lorza AM, Costello JR, Hingorani SR, Von Hoff DD, Korn RL, Raghunand N. Magnetic resonance imaging of tumor response to stroma-modifying pegvorhyaluronidase alpha (PEGPH20) therapy in early-phase clinical trials. Sci Rep. 2024 May.14(1):11570. Pubmedid: [38773189](https://www.ncbi.nlm.nih.gov/pubmed/38773189). Pmcid: PMC11109088. 
     * Pandey S, Kutuk T, Abdalah MA, Stringfield O, Ravi H, Mills MN, Graham JA, Latifi K, Moreno WA, Ahmed KA, Raghunand N. Prediction of radiologic outcome-optimized dose plans and post-treatment magnetic resonance images: A proof-of-concept study in breast cancer brain metastases treated with stereotactic radiosurgery. Phys Imaging Radiat Oncol. 2024 Jul.31:100602. Pubmedid: [39040435](https://www.ncbi.nlm.nih.gov/pubmed/39040435). Pmcid: PMC11261135. 
     * Jeong D, Morse B, Polk SL, Chen DT, Li J, Hodul P, Centeno BA, Costello J, Jiang K, Machado S, El Naqa I, Farah PT, Huynh T, Raghunand N, Mok S, Dam A, Malafa M, Qayyum A, Fleming JB, Permuth JB. Pancreatic Cyst Size Measurement on Magnetic Resonance Imaging Compared to Pathology. Cancers (Basel). 2024 Jan.16(1). Pubmedid: [38201633](https://www.ncbi.nlm.nih.gov/pubmed/38201633). Pmcid: PMC10778543. 
-    * Arias-Lorza AM, Costello JR, Hingorani SR, Von Hoff DD, Korn RL, Raghunand N. Tumor Response to Stroma-Modifying Therapy: Magnetic Resonance Imaging Findings in Early-Phase Clinical Trials of Pegvorhyaluronidase alpha (PEGPH20). Res Sq. 2023 Sep. Pubmedid: [37720027](https://www.ncbi.nlm.nih.gov/pubmed/37720027). Pmcid: PMC10503830. 
     * Ravi H, Hawkins SH, Stringfield O, Pereira M, Chen DT, Enderling H, Michael Yu HH, Arrington JA, Sahebjam S, Raghunand N. Rules-based Volumetric Segmentation of Multiparametric MRI for Response Assessment in Recurrent High-Grade Glioma. Res Sq. 2023 Sep. Pubmedid: [37790451](https://www.ncbi.nlm.nih.gov/pubmed/37790451). Pmcid: PMC10543497. 
+    * Arias-Lorza AM, Costello JR, Hingorani SR, Von Hoff DD, Korn RL, Raghunand N. Tumor Response to Stroma-Modifying Therapy: Magnetic Resonance Imaging Findings in Early-Phase Clinical Trials of Pegvorhyaluronidase alpha (PEGPH20). Res Sq. 2023 Sep. Pubmedid: [37720027](https://www.ncbi.nlm.nih.gov/pubmed/37720027). Pmcid: PMC10503830. 
     * Ravi H, Arias-Lorza AM, Costello JR, Han HS, Jeong DK, Klinz SG, Sachdev JC, Korn RL, Raghunand N. Pretherapy Ferumoxytol-enhanced MRI to Predict Response to Liposomal Irinotecan in Metastatic Breast Cancer. Radiol Imaging Cancer. 2023 Mar.5(2):e220022. Pubmedid: [36734848](https://www.ncbi.nlm.nih.gov/pubmed/36734848). Pmcid: PMC10077095. 
     * Weinfurtner RJ, Abdalah M, Stringfield O, Ataya D, Williams A, Mooney B, Rosa M, Lee MC, Khakpour N, Laronga C, Czerniecki B, Diaz R, Ahmed K, Washington I, Latifi K, Niell B, Montejo M, Raghunand N. Quantitative Changes in Intratumoral Habitats on MRI Correlate With Pathologic Response in Early-stage ER/PR+ HER2− Breast Cancer Treated With Preoperative Stereotactic Ablative Body Radiotherapy. J Breast Imaging. 2022 May.4(3):273-284. Pubmedid: [36686407](https://www.ncbi.nlm.nih.gov/pubmed/36686407). Pmcid: PMC9851176. 
     * Youssef I, Poch M, Raghunand N, Pow-Sang J, Johnstone PAS. Analysis of MRI radiomic pelvimetry and correlation with margin status after robotic prostatectomy. Can J Urol. 2022 Feb.29(1):10976-10978. Pubmedid: [35150217](https://www.ncbi.nlm.nih.gov/pubmed/35150217). 
@@ -622,7 +621,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -677,7 +676,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/natarajan-raghunand#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/natarajan-raghunand#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -695,7 +694,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1049,7 +1048,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/natarajan-raghunand#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/natarajan-raghunand#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

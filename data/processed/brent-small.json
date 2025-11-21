@@ -1,0 +1,128 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/brent-small/",
+  "last_updated": "2025-11-21T22:50:22.984836",
+  "researcher_id": "2117",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "health outcomes & behavior",
+  "overview": "",
+  "research_interests": [
+    "Dr. Small's research focuses on changes in cognitive performance following treatment for cancer. Specifically, his research examines whether treatment for cancer conveys a risk for long-term cognitive impairment. Dr. Small is currently working on a National Cancer Institute funded study that examines the influence of genetic variation on the cognitive performance of breast cancer survivors and persons with no history of breast cancer. This project is designed to evaluate whether variations in three genes known to influence cognitive performance in non-cancer populations, Apolipoprotein E, Brain Derived Neurotropic Factor, and Catechol-O-Methytransferase, are associated with greater cognitive deficits among persons who have undergone treatment for breast cancer. Dr. Small is also a member of the Biostatistical Resource Core and specializes in the application of advanced statistical methods to longitudinal data. Finally, Dr. Small is on the faculty of the School of Aging Studies at the University of South Florida where he teaches courses on cognitive aging, research methods, and advanced statistics.\n  *"
+  ],
+  "associations": [
+    "Health Outcomes & Behavior Program",
+    "Cancer Chemoprevention Research Interest Group"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Victoria, Victoria BC Canada, MA"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Victoria, Victoria BC Canada, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Diet and physical activity intervention preferences for young adult cancer survivors",
+      "pubmed_id": "40447925",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Crowder SL, Hu B, Hoogland AI, Gudenkauf LM, Li X, Rodriguez Y, Irizarry-Arroyo NE, Oswald LB, Gonzalez BD, Small BJ, Galligan A, Jim HSL, Stern M",
+      "journal": "J Cancer Surviv"
+    },
+    {
+      "title": "Cancer-Related Cognitive Impairment and the Potential of Dietary Interventions for the Prevention and Mitigation of Neurodegeneration",
+      "pubmed_id": "39570793",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Crowder SL, Gudenkauf LM, Hoogland AI, Han HS, Small BJ, Carson TL, Parker NH, Booth-Jones M, Jim HSL",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Depressive symptom trajectories in older breast cancer survivors: the Thinking and Living with Cancer Study",
+      "pubmed_id": "37924476",
+      "pmc_id": "PMC11068856",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Nakamura ZM, Small BJ, Zhai W, Ahles TA, Ahn J, Artese AL, Bethea TN, Breen EC, Cohen HJ, Extermann M, Graham D, Irwin MR, Isaacs C, Jim HSL, Kuhlman KR, McDonald BC, Patel SK, Rentscher KE, Root JC, Saykin AJ, Tometich DB, Van Dyk K, Zhou X, Mandelblatt JS, Carroll JE",
+      "journal": "J Cancer Surviv"
+    },
+    {
+      "title": "Alzheimer disease-related biomarkers and cancer-related cognitive decline: the Thinking and Living with Cancer study",
+      "pubmed_id": "38788675",
+      "pmc_id": "PMC11378315",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Mandelblatt J, Dage JL, Zhou X, Small BJ, Ahles TA, Ahn J, Artese A, Bethea TN, Breen EC, Carroll JE, Cohen HJ, Extermann M, Graham D, Isaacs C, Jim HSL, Mcdonald BC, Nakamura ZM, Patel SK, Rebeck GW, Rentscher KE, Root JC, Russ KA, Tometich DB, Turner RS, Van Dyk K, Zhai W, Huang LW, Saykin AJ",
+      "journal": "J Natl Cancer Inst"
+    },
+    {
+      "title": "The Relationship Between Adverse Childhood Experiences, Symptom Severity, Negative Thinking, Comorbidity, and Treatment Response in Youth with Obsessive-Compulsive Disorder",
+      "pubmed_id": "36547756",
+      "pmc_id": "PMC10285027",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Vazquez M, Palo A, Schuyler M, Small BJ, McGuire JF, Wilhelm S, Goodman WK, Geller D, Storch EA",
+      "journal": "Child Psychiatry Hum Dev"
+    },
+    {
+      "title": "\"It Was a Downward Spiral\": A Qualitative Study of Young Adult Cancer Survivors' Experiences with Cognitive and Mental Health",
+      "pubmed_id": "39594774",
+      "pmc_id": "PMC11592372",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Tometich DB, Hersh C, Maconi ML, Fulton HJ, Martinez Tyson D, Zambrano K, Hasan S, Welniak T, Rodriguez Y, Bryant C, Gudenkauf LM, Li X, Reed DR, Oswald LB, Galligan A, Small BJ, Jim HSL",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Associations Between Dietary Patterns and Quality of Life in a Longitudinal Cohort of Colorectal Cancer Survivors",
+      "pubmed_id": "39599646",
+      "pmc_id": "PMC11597155",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Smith KS, Gudenkauf LM, Hoogland AI, Li X, Hoobler R, Playdon MC, Gigic B, Small BJ, Gonzalez BD, Oswald LB, Byrd DA, Greathouse KL, Ulrich CM, Li CI, Shibata D, Toriola AT, Peoples AR, Siegel EM, Figueiredo JC, Jim HSL, Crowder SL",
+      "journal": "Nutrients"
+    },
+    {
+      "title": "Examining the Relationship Between Anxiety Severity and Autism-Related Challenges During Cognitive Behavioral Therapy for Children with Autism",
+      "pubmed_id": "36847894",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Fuselier MN, Guzick AG, Bakhshaie J, Wood JJ, Kendall PC, Kerns CM, Small BJ, Goodman WK, Storch EA",
+      "journal": "J Autism Dev Disord"
+    },
+    {
+      "title": "\"I couldn't connect the wires in my brain",
+      "pubmed_id": "38420860",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Tometich DB, Welniak T, Gudenkauf L, Maconi ML, Fulton HJ, Martinez Tyson D, Zambrano K, Hasan S, Rodriguez Y, Bryant C, Li X, Reed DR, Oswald LB, Galligan A, Small BJ, Jim HSL",
+      "journal": "\" Young adult cancer survivors' experience with cognitive functioning"
+    },
+    {
+      "title": "Inequities in the Impacts of Hurricanes and Other Extreme Weather Events for Cancer Survivors",
+      "pubmed_id": "38385842",
+      "pmc_id": "PMC11147728",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Gudenkauf LM, Hathaway CA, Carroll JE, Small BJ, Li X, Hoogland AI, Castro E, Armaiz-Pena GN, Oswald LB, Jim HS, Tworoger SS, Gonzalez BD",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2117"
+  },
+  "content_hash": "9e838670345c9b06550c3e487ed3c2389f8e218cdde48819cbba273710d8654f",
+  "researcher_name": "brent small",
+  "department": ""
+}

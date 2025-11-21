@@ -1,0 +1,203 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/alvaro-monteiro/",
+  "last_updated": "2025-11-21T22:50:22.531847",
+  "researcher_id": "2936",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
+  "overview": "The main theme of the Monteiro lab is the integration of epidemiological, genomic, and proteomics datasets to explore the role of genetic variation on cancer predisposition, development, and treatment. We apply a systems biology approach to three interconnected problems in cancer.",
+  "research_interests": [
+    "First, we aim to understand how rare genetic variation impacts on signal transduction networks and its role in inherited cancer syndromes. We focus on the role of BRCA1, BRCA2, and PALB2 in cancer and integrate statistical, structural, and functional data to aid in clinical annotation of thousands of variants found in the population. Our group pioneered the use of functional assays to analyze mutations in the BRCA1 BRCT domain and has developed computation models to predict their functional impact. These approaches have a significant impact in the classification of a large number of genetic variants for which cancer association could not be determined by genetic approaches alone. We have also developed interactive visualization tools to functionally annotate variants in cancer predisposition genes (http://iscva.moffitt.org/fyi-hboc/build/). Second, we seek to understand how BRCT domains convey signals during the cellular response to DNA Damage. We combine detailed literature curation, large scale yeast two-hybrid screening and tandem-affinity purification coupled to mass spectrometry to generate an annotated protein-protein interaction network mediated by all BRCT domains in the human proteome. We aim to use these protein-protein interaction maps as drug and target discovery platform. Finally, we are interested in the mechanism underlying cancer risk conferred by common genetic variants. We played an active role in the NIH/NCI GAME-ON (Genetic Associations and Mechanisms in Oncology; http://epi.grants.cancer.gov/gameon/) consortium as part of the cross-GAME-ON Functional Working group. We have developed a conceptual framework and a bioinformatics and functional assay platforms to systematically interrogate cancer predisposition loci revealed by GWAS of unprecedented sample sizes. We apply this analytical framework to loci conferring risk for brain, breast, ovarian, and testicular cancer.\n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Thoracic Oncology",
+    "Lung Cancer Center of Excellence",
+    "Cancer Epidemiology Program",
+    "Systems Medicine Working Group",
+    "Center for Immunization & Infection Research in Cancer"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Federal University of Rio de Janeiro, MSc"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Federal University of Rio de Janeiro, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The Rockefeller University",
+      "specialty": "Molecular Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Lawrenson K, Kar S, McCue K, Kuchenbaeker K, Michailidou K, Tyrer J, Beesley J, Ramus SJ, Li Q, Delgado MK, Lee JM, Aittom\u00e4ki K, Andrulis IL, Anton-Culver H, Arndt V, Arun BK, Arver B, Bandera EV, Barile M, Barkardottir RB, Barrowdale D, Beckmann MW, Benitez J, Berchuck A, Bisogna M, Bjorge L, Blomqvist C, Blot W, Bogdanova N, Bojesen A, Bojesen SE, Bolla MK, Bonanni B, B\u00f8rresen-Dale AL, Brauch H, Brennan P, Brenner H, Bruinsma F, Brunet J, Buhari SA, Burwinkel B, Butzow R, Buys SS, Cai Q, Caldes T, Campbell I, Cannioto R, Chang-Claude J, Chiquette J, Choi JY, Claes KBM, Cook LS, Cox A, Cramer DW, Cross SS, Cybulski C, Czene K, Daly MB, Damiola F, Dansonka-Mieszkowska A, Darabi H, Dennis J, Devilee P, Diez O, Doherty JA, Domchek SM, Dorfling CM, D\u00f6rk T, Dumont M, Ehrencrona H, Ejlertsen B, Ellis S, Engel C, Lee E, Evans DG, Fasching PA, Feliubadalo L, Figueroa J, Flesch-Janys D, Fletcher O, Flyger H, Foretova L, Fostira F, Foulkes WD, Fridley BL, Friedman E, Frost D, Gambino G, Ganz PA, Garber J, Garc\u00eda-Closas M, Gentry-Maharaj A, Ghoussaini M, Giles GG, Glasspool R, Godwin AK, Goldberg MS, Goldgar DE, Gonz\u00e1lez-Neira A, Goode EL, Goodman MT, Greene MH, Gronwald J, Gu\u00e9nel P, Haiman CA, Hall P, Hallberg E, Hamann U, Hansen TVO, Harrington PA, Hartman M, Hassan N, Healey S, Heitz F, Herzog J, H\u00f8gdall E, H\u00f8gdall CK, Hogervorst FBL, Hollestelle A, Hopper JL, Hulick PJ, Huzarski T, Imyanitov EN, Isaacs C, Ito H, Jakubowska A, Janavicius R, Jensen A, John EM, Johnson N, Kabisch ...",
+      "authors": ""
+    },
+    {
+      "title": "Genomic and Immune Landscape of Pancreatic Ductal Adenocarcinoma Associated with Germline Pathogenic Variants in ATM",
+      "pubmed_id": "40828413",
+      "pmc_id": "PMC12500237",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Yadav S, Bao R, Graham RP, Hu C, Hart SN, Na J, Boddicker N, Gnanaolivu RD, Smadbeck J, Ding L, Billadeau DD, Mayer AT, Majumder S, Morais Lyra PC, Lee AV, Monteiro AN, Villasboas JC, McWilliams R, Couch FJ",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Identification of genes associated with testicular germ cell tumor susceptibility through a transcriptome-wide association study",
+      "pubmed_id": "39999848",
+      "pmc_id": "PMC11947167",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Ugalde-Morales E, Wilf R, Pluta J, Ploner A, Fan M, Damra M, Aben KK, Anson-Cartwright L, Chen C, Cortessis VK, Daneshmand S, Ferlin A, Gamulin M, Gietema JA, Gonzalez-Niera A, Grotmol T, Hamilton RJ, Harland M, Haugen TB, Hauser R, Hildebrandt MAT, Karlsson R, Kiemeney LA, Kim J, Lessel D, Lothe RA, Loveday C, Chanock SJ, McGlynn KA, Meijer C, Nead KT, Nsengimana J, Popovic M, Rafnar T, Richiardi L, Rocca MS, Schwartz SM, Skotheim RI, Stefansson K, Stewart DR, Turnbull C, Vaughn DJ, Winge SB, Zheng T, Monteiro AN, Almstrup K, Kanetsky PA, Nathanson KL, Wiklund F",
+      "journal": "Am J Hum Genet"
+    },
+    {
+      "title": "Functional evaluation and clinical classification of BRCA2 variants",
+      "pubmed_id": "39779857",
+      "pmc_id": "PMC11821525",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Huang H, Hu C, Na J, Hart SN, Gnanaolivu RD, Abozaid M, Rao T, Tecleab YA, Pesaran T, Lyra PCM, Karam R, Yadav S, Nathanson KL, Domchek SM, de la Hoya M, Robson M, Mehine M, Bandlamudi C, Mandelker D, Monteiro ANA, Iversen ES, Boddicker N, Chen W, Richardson ME, Couch FJ",
+      "journal": "Nature"
+    },
+    {
+      "title": "Evidence-based recommendations for gene-specific ACMG/AMP variant classification from the ClinGen ENIGMA BRCA1 and BRCA2 Variant Curation Expert Panel",
+      "pubmed_id": "39142283",
+      "pmc_id": "PMC11393667",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Parsons MT, de la Hoya M, Richardson ME, Tudini E, Anderson M, Berkofsky-Fessler W, Caputo SM, Chan RC, Cline MS, Feng BJ, Fortuno C, Gomez-Garcia E, Hadler J, Hiraki S, Holdren M, Houdayer C, Hruska K, James P, Karam R, Leong HS, Martins A, Mensenkamp AR, Monteiro AN, Nathan V, O'Connor R, Pedersen IS, Pesaran T, Radice P, Schmidt G, Southey M, Tavtigian S, Thompson BA, Toland AE, Turnbull C, Vogel MJ, Weyandt J, Wiggins GAR, Zec L, Couch FJ, Walker LC, Vreeswijk MPG, Goldgar DE, Spurdle AB",
+      "journal": "Am J Hum Genet"
+    },
+    {
+      "title": "Reduced penetrance BRCA1 and BRCA2 pathogenic variants in clinical germline genetic testing",
+      "pubmed_id": "39488595",
+      "pmc_id": "PMC11531542",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Pal T, Mundt E, Richardson ME, Chao E, Pesaran T, Slavin TP, Couch FJ, Monteiro ANA",
+      "journal": "NPJ Precis Oncol"
+    },
+    {
+      "title": "SART1 modulates poly-(ADP-ribose) chain accumulation and PARP1 chromatin localization",
+      "pubmed_id": "39569366",
+      "pmc_id": "PMC11576398",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Lodovichi S, Nepomuceno TC, Woods NT, Rix U, Koomen JM, Pellicioli A, Galli A, Monteiro ANA",
+      "journal": "iScience"
+    },
+    {
+      "title": "Specifications of the ACMG/AMP variant curation guidelines for the analysis of germline ATM sequence variants",
+      "pubmed_id": "39317201",
+      "pmc_id": "PMC11568761",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Richardson ME, Holdren M, Brannan T, de la Hoya M, Spurdle AB, Tavtigian SV, Young CC, Zec L, Hiraki S, Anderson MJ, Walker LC, McNulty S, Turnbull C, Tischkowitz M, Schon K, Slavin T, Foulkes WD, Cline M, Monteiro AN, Pesaran T, Couch FJ",
+      "journal": "Am J Hum Genet"
+    },
+    {
+      "title": "Specifications of the ACMG/AMP variant curation guidelines for the analysis of germline ATM sequence variants",
+      "pubmed_id": "38854136",
+      "pmc_id": "PMC11160822",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Richardson ME, Holdren M, Brannan T, de la Hoya M, Spurdle AB, Tavtigian SV, Young CC, Zec L, Hiraki S, Anderson MJ, Walker LC, McNulty S, Turnbull C, Tischkowitz M, Schon K, Slavin T, Foulkes WD, Cline M, Monteiro AN, Pesaran T, Couch FJ",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "Assessment of BRCA1 and BRCA2 Germline Variant Data From Patients With Breast Cancer in a Real-World Data Registry",
+      "pubmed_id": "38709234",
+      "pmc_id": "PMC11161245",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Nepomuceno TC, Lyra P, Zhu J, Yi F, Martin RH, Lupu D, Peterson L, Peres LC, Berry A, Iversen ES, Couch FJ, Mo Q, Monteiro AN",
+      "journal": "JCO Clin Cancer Inform"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: The role of the kinase CDK9 in response to DNA damage  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nDa C. (PD/PI), Monteiro, A. (Co-PD/PI)",
+      "title": "The role of the kinase CDK9 in response to DNA damage",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch  \nDa C. (PD/PI),",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Monteiro, A.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Refining Risk Stratification for BRCA 1/2 Carriers: The Challenge of Intermediate Risk Variants  \nAward Number: PPI-23-008  \nSponsor: Breast Cancer Research Foundation (BCRF)  \nMonteiro, A. (PD/PI)",
+      "title": "Refining Risk Stratification for BRCA 1/2 Carriers: The Challenge of Intermediate Risk Variants",
+      "award_number": "PPI-23-008",
+      "sponsor": "Breast Cancer Research Foundation (BCRF)",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Monteiro, A.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Expanding the Spectrum of BRCA 1/2 Pathogenic Variants  \nAward Number: 588859, Amendment 1  \nSponsor: Breast Cancer Alliance  \nMonteiro, A. (PD/PI)",
+      "title": "Expanding the Spectrum of BRCA 1/2 Pathogenic Variants",
+      "award_number": "588859, Amendment 1",
+      "sponsor": "Breast Cancer Alliance",
+      "investigators": [
+        {
+          "name": "Monteiro, A.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Miles for Moffitt Funds 2025 for ACD RS.  \nAward Number: N/A  \nSponsor: Moffitt Cancer Center  \nMonteiro, A. (PD/PI)",
+      "title": "Miles for Moffitt Funds 2025 for ACD RS.",
+      "sponsor": "Moffitt Cancer Center",
+      "investigators": [
+        {
+          "name": "Monteiro, A.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: 2/2 Ponce Health Sciences University-Moffitt Cancer Center Partnership  \nAward Number: 2U54CA163068-12  \nSponsor: National Cancer Institute (NCI)  \nMonteiro, A. (PD/PI), Wright, K. (PD/PI)",
+      "title": "2/2 Ponce Health Sciences University-Moffitt Cancer Center Partnership",
+      "award_number": "2U54CA163068-12",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Monteiro, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Wright, K.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?user=8D5gFOYAAAAJ&hl=en&oi=ao",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MonteiroAlvaro_2936.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2936"
+  },
+  "content_hash": "cbee07e3a23fa5c12d6692015ec39db470d320af58462eeabfc712b1d7ab0626",
+  "researcher_name": "alvaro monteiro",
+  "department": "cancer epidemiology"
+}

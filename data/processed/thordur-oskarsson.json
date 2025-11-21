@@ -1,0 +1,143 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/thordur-oskarsson/",
+  "last_updated": "2025-11-21T22:50:27.130657",
+  "researcher_id": "30752",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
+  "overview": "Dr. Oskarsson\u2019s research is focused on breast cancer metastasis. Particularly, he studies the molecular crosstalk between metastatic cancer cells and the microenvironment in secondary organs to determine how these interactions promote progression of metastasis and resistance to therapy. Dr. Oskarsson fills a unique niche in understanding mechanisms of metastasis and will be an integral part of the Cancer Biology and Evolution Program.",
+  "research_interests": [
+    "Dr. Oskarsson\u2019s research is focused on breast cancer metastasis. Particularly, he studies the molecular crosstalk between metastatic cancer cells and the microenvironment in secondary organs to determine how these interactions promote progression of metastasis and resistance to therapy. Dr. Oskarsson fills a unique niche in understanding mechanisms of metastasis and will be an integral part of the Cancer Biology and Evolution Program.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "A TLR4-dependent fibroblast-monocyte axis in tumor-draining lymph nodes contributes to metastasis in triple-negative breast cancer",
+      "pubmed_id": "40957419",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Mattavelli G, Helal M, Cetkovic A, Kr\u00e4mer MJ, Herbert SL, Mielert K, Schlai\u00df T, Frank A, Riemer E, John M, Del Pilar J, Vasquez M, Kindl L, Swietlik JJ, Gansen BO, Krafft M, Stanojkovska E, Fischer H, Albert US, Bauer J, Delgobo M, Aintablian A, Alattar H, Lutz MB, Meissner F, Oskarsson T, Rasche L, Ramos G, Rosenwald A, W\u00f6ckel A, Riedel A",
+      "journal": "Immunity"
+    },
+    {
+      "title": "Antitumor CD4+ T Helper 1 Cells Target and Control the Outgrowth of Disseminated Cancer Cells",
+      "pubmed_id": "40249209",
+      "pmc_id": "PMC12046335",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Ramamoorthi G, Lee MC, Farrell CM, Snyder C, Garg SK, Aldrich AL, Lok V, Dominguez-Viqueira W, Olson-Mcpeek SK, Rosa M, Gautam N, Pilon-Thomas S, Cen L, Kodumudi KN, Wiener D, Oskarsson T, Gomes AP, Gatenby RA, Czerniecki BJ",
+      "journal": "Cancer Immunol Res"
+    },
+    {
+      "title": "NADK-mediated de novo NADP(H) synthesis is a metabolic adaptation essential for breast cancer metastasis",
+      "pubmed_id": "36841051",
+      "pmc_id": "PMC9982641",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Ilter D, Drapela S, Schild T, Ward NP, Adhikari E, Low V, Asara J, Oskarsson T, Lau EK, DeNicola GM, McReynolds MR, Gomes AP",
+      "journal": "Redox Biol"
+    },
+    {
+      "title": "Perivascular tenascin C triggers sequential activation of macrophages and endothelial cells to generate a pro-metastatic vascular niche in the lungs",
+      "pubmed_id": "35469015",
+      "pmc_id": "PMC9046090",
+      "year": "2022",
+      "publication_date": "2022 Apr",
+      "authors": "Hongu T, Pein M, Insua-Rodr\u00edguez J, Gutjahr E, Mattavelli G, Meier J, Decker K, Descot A, Bozza M, Harbottle R, Trumpp A, Sinn HP, Riedel A, Oskarsson T",
+      "journal": "Nat Cancer"
+    },
+    {
+      "title": "Tumor-Derived Lactic Acid Modulates Activation and Metabolic Status of Draining Lymph Node Stroma",
+      "pubmed_id": "35362044",
+      "pmc_id": "PMC7612582",
+      "year": "2022",
+      "publication_date": "2022 Apr",
+      "authors": "Riedel A, Helal M, Pedro L, Swietlik JJ, Shorthouse D, Schmitz W, Haas L, Young T, da Costa ASH, Davidson S, Bhandare P, Wolf E, Hall BA, Frezza C, Oskarsson T, Shields JD",
+      "journal": "Cancer Immunol Res"
+    },
+    {
+      "title": "American Journal of Physiology-Cell Physiology begins a Theme of Reviews on Dynamic Tumor Heterogeneity and Cancer Progression",
+      "pubmed_id": "33264076",
+      "year": "2021",
+      "publication_date": "2021 Mar",
+      "authors": "Oskarsson T",
+      "journal": "Am J Physiol Cell Physiol"
+    },
+    {
+      "title": "Addicted to Acidic Microenvironment",
+      "pubmed_id": "33232671",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Hongu T, Oskarsson T",
+      "journal": "Dev Cell"
+    },
+    {
+      "title": "Metastasis-initiating cells induce and exploit a fibroblast niche to fuel malignant colonization of the lungs",
+      "pubmed_id": "32198421",
+      "pmc_id": "PMC7083860",
+      "year": "2020",
+      "publication_date": "2020 Mar",
+      "authors": "Pein M, Insua-Rodr\u00edguez J, Hongu T, Riedel A, Meier J, Wiedmann L, Decker K, Essers MAG, Sinn HP, Spaich S, S\u00fctterlin M, Schneeweiss A, Trumpp A, Oskarsson T",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Stress-induced metastatic niches in breast cancer",
+      "pubmed_id": "32944638",
+      "pmc_id": "PMC7469606",
+      "year": "2020",
+      "publication_date": "2020 Jul",
+      "authors": "Oskarsson T",
+      "journal": "Mol Cell Oncol"
+    },
+    {
+      "title": "ECM1 secreted by HER2-overexpressing breast cancer cells promotes formation of a vascular niche accelerating cancer cell migration and invasion",
+      "pubmed_id": "32203150",
+      "year": "2020",
+      "publication_date": "2020 Jul",
+      "authors": "Steinhaeuser SS, Morera E, Budkova Z, Schepsky A, Wang Q, Rolfsson O, Riedel A, Krueger A, Hilmarsdottir B, Maelandsmo GM, Valdimarsdottir B, Sigurdardottir AK, Agnarsson BA, Jonasson JG, Ingthorsson S, Traustadottir GA, Oskarsson T, Gudjonsson T",
+      "journal": "Lab Invest"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Targeting novel mediators of chemotherapy resistance in dormant breast cancer  \nAward Number:   \nSponsor: Breast Cancer Alliance  \nOskarsson, T. (PD/PI)",
+      "title": "Targeting novel mediators of chemotherapy resistance in dormant breast cancer",
+      "award_number": "",
+      "sponsor": "Breast Cancer Alliance",
+      "investigators": [
+        {
+          "name": "Oskarsson, T.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Targeting stress signaling to enhance immunotherapy against metastatic breast cancer  \nAward Number: N/A  \nSponsor: METAVIVOR RESEARCH AND SUPPORT  \nOskarsson, T. (PD/PI)",
+      "title": "Targeting stress signaling to enhance immunotherapy against metastatic breast cancer",
+      "sponsor": "METAVIVOR RESEARCH AND SUPPORT",
+      "investigators": [
+        {
+          "name": "Oskarsson, T.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/OskarssonThordur_30752.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=30752"
+  },
+  "content_hash": "fbe9c9da152f4cb8afe2eaebd18fef02b1d7625a60c7a5e4940c52c492d47e28",
+  "researcher_name": "thordur oskarsson",
+  "department": "molecular oncology"
+}

@@ -1,0 +1,203 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/shannon-christy/",
+  "last_updated": "2025-11-21T22:50:26.881535",
+  "researcher_id": "16526",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "health outcomes and behavior",
+  "research_program": "health outcomes & behavior",
+  "overview": "Dr. Christy's lab aims to promote cancer prevention and early detection behaviors (e.g., colorectal cancer screening, HPV vaccination) in order to reduce cancer incidence and mortality.",
+  "research_interests": [
+    "Dr. Christy's research examines the associations between psychosocial factors, health beliefs, affect, healthcare access, patient-provider communication, and engagement in cancer preventive and early detection behaviors. Much of her research also involves evaluating the efficacy of behavioral interventions aimed at promoting cancer preventive and early detection behaviors and community and clinical collaborations.\n  *"
+  ],
+  "associations": [
+    "Gastrointestinal Oncology",
+    "Health Outcomes and Behavior",
+    "Health Outcomes & Behavior Program",
+    "Center for Immunization & Infection Research in Cancer"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Indiana University-Purdue University Indianapolis, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Ball State University, MA"
+    },
+    {
+      "type": "Internship",
+      "institution": "VA Connecticut Healthcare System",
+      "position": "Intern",
+      "specialty": "ship"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Moffitt Cancer Center and Research Institute",
+      "specialty": "Behavioral Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Development and Evaluation of an HPV Vaccine Champion Training: a Strategy to Boost Adolescent Vaccination in Community Health Centers in Florida",
+      "pubmed_id": "40448885",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Owens HN, Arevalo M, Whitmer A, Fuzzell L, Geiss C, Turner K, Chung-Bridges K, Endemano E, Parras D, Christy SM, Vadaparampil ST",
+      "journal": "J Cancer Educ"
+    },
+    {
+      "title": "Factors associated with human papillomavirus (HPV) patient-clinician communication and HPV vaccine uptake among adults in the United States",
+      "pubmed_id": "40188881",
+      "pmc_id": "PMC12068963",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Owens HN, Brownstein NC, Whiting J, Arevalo M, Kasting ML, Vadaparampil ST, Head KJ, Christy SM",
+      "journal": "Prev Med"
+    },
+    {
+      "title": "Vaccination uptake among post-treatment cancer survivors: A multi-vaccine scoping review",
+      "pubmed_id": "38802291",
+      "pmc_id": "PMC11371527",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Renduchintala K, Arevalo M, Fonseca G, Haver MK, Gwede CK, Pabbathi S, Christy SM",
+      "journal": "Vaccine"
+    },
+    {
+      "title": "Champions to enhance implementation of clinical and community-based interventions in cancer: a scoping review",
+      "pubmed_id": "39439009",
+      "pmc_id": "PMC11494796",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Astorino Nicola J, Nataliansyah MM, Lopez-Olivo MA, Adegboyega A, Hirko KA, Chichester LR, Nock NL, Ginex P, Christy SM, Levett P",
+      "journal": "Implement Sci Commun"
+    },
+    {
+      "title": "Longitudinal adherence to annual colorectal cancer screening among Black persons living in the United States enrolled in a community-based randomized trial",
+      "pubmed_id": "38150285",
+      "pmc_id": "PMC11009071",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Arevalo M, Sutton SK, Abdulla R, Christy SM, Meade CD, Roetzheim RG, Gwede CK",
+      "journal": "Cancer"
+    },
+    {
+      "title": "A Consolidated Framework for Implementation Research-based process to develop theoretically-informed human papillomavirus vaccination educational materials for young adults",
+      "pubmed_id": "38368784",
+      "pmc_id": "PMC10997454",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Cui J, Arevalo M, Chavez M, Maconi ML, Geiss C, Vadaparampil ST, Barrios-Monroy V, Pena A, Christy SM",
+      "journal": "Patient Educ Couns"
+    },
+    {
+      "title": "HPV Multilevel Intervention Strategies Targeting Immunization in Community Settings (HPV MISTICS): Study protocol for a hybrid 1 stepped-wedge cluster randomized trial",
+      "pubmed_id": "38763306",
+      "pmc_id": "PMC11180554",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Christy SM, Stacy L, Arevalo M, Fuzzell L, Whitmer A, Turner K, Gore LR, Chung-Bridges K, Parras D, Endemano EY, Brownstein NC, Vadaparampil ST",
+      "journal": "Contemp Clin Trials"
+    },
+    {
+      "title": "Protocol paper for an implementation science approach to promoting colorectal cancer screening in Federally Qualified Health Center clinics: A stepped-wedge, multilevel intervention trial",
+      "pubmed_id": "39070625",
+      "pmc_id": "PMC11275978",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Montoya SM, Olaore P, Bastardo-Acosta J, Abdulla R, Schell MJ, Hidalgo A, Turner B, Rider M, Kishun-Jit N, Joshua A, Pollard J, Friedman M, Christy SM, Meade CD, Gwede CK",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Changes in Cancer Screening Knowledge Among a Prospective Cohort of Spanish-Speaking Hispanic Community Outreach Event Participants in Florida and Puerto Rico",
+      "pubmed_id": "37702848",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Christy SM, Castro-Figueroa EM, Lopez J, Sutton SK, McIntyre M, Garcia J, Cortes C, Vidal AV, Gwede CK, Marz\u00e1n M, Jimenez J, Vadaparampil ST",
+      "journal": "J Cancer Educ"
+    },
+    {
+      "title": "Differences in Provider Hepatitis C Virus Screening Recommendations by Patient Risk Status",
+      "pubmed_id": "38375175",
+      "pmc_id": "PMC10874862",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Laily A, Duncan R, Gabhart KM, Nephew LD, Christy SM, Vadaparampil ST, Giuliano AR, Kasting ML",
+      "journal": "Prev Med Rep"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Exploring Potential Disparities in Physicians HPV Vaccination Recommendation Practices for Young Adult Sexual and Gender Minority Patients  \nAward Number: MISP # 101952  \nSponsor: MERCK SHARP & DOHME CORP  \nChristy, S. (PD/PI)",
+      "title": "Exploring Potential Disparities in Physicians HPV Vaccination Recommendation Practices for Young Adult Sexual and Gender Minority Patients",
+      "award_number": "MISP # 101952",
+      "sponsor": "MERCK SHARP & DOHME CORP",
+      "investigators": [
+        {
+          "name": "Christy, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Multilevel Action Toward Colorectal Cancer and Hepatitis C Education and Screening (MATCHES)  \nAward Number: 24B05  \nSponsor: Florida Department of Health  \nChristy, S. (PD/PI), Gwede, C. (Co-PD/PI)",
+      "title": "Multilevel Action Toward Colorectal Cancer and Hepatitis C Education and Screening (MATCHES)",
+      "award_number": "24B05",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Christy, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gwede, C.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: HPV MISTICS: Multilevel Intervention Strategies Targeting Immunization in Community Settings  \nAward Number: 22B01  \nSponsor: Florida Department of Health  \nVadaparampil, S. (PD/PI), Christy, S. (Co-PD/PI)",
+      "title": "HPV MISTICS: Multilevel Intervention Strategies Targeting Immunization in Community Settings",
+      "award_number": "22B01",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Vadaparampil, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Christy, S.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22345/",
+      "trial_id": "22345",
+      "title": "Outreach Core Activities",
+      "condition": "Healthy Subjects",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23232/",
+      "trial_id": "23232",
+      "title": "Multilevel Action Toward Colorectal Cancer and Hepatitis C Education and Screening (MATCHES)",
+      "condition": "Healthy Subjects",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://lab.moffitt.org/christy/",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChristyShannon_16526.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16526"
+  },
+  "content_hash": "c27694a9b237a47b77a1bcf5bafb1b1691172124168594e9d47333887a3b9168",
+  "researcher_name": "shannon christy",
+  "department": "health outcomes & behavior"
+}

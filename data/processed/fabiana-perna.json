@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/fabiana-perna",
-  "last_updated": "2025-10-21T16:39:11.342078",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/fabiana-perna/",
+  "last_updated": "2025-11-21T22:50:23.753280",
   "researcher_id": "35899",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Blood and Marrow Transplant and Cellular Immunotherapy",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "blood and marrow transplant and cellular immunotherapy",
+  "research_program": "immuno-oncology",
   "overview": "The Perna lab seeks to understand how genetic or molecular abnormalities impact the cancer surface proteome and rationally design new therapies, especially immune-based therapeutic interventions such as CAR T-cell therapy targeting cell surface proteins.",
   "research_interests": [
     "The Perna lab contributed to technological advancements for the comprehensive and accurate analysis of the cancer surface proteome, allowing for enhanced characterization and immunotherapy target discovery in cancer, especially hematologic malignancies. By integrating mass-spectrometry and RNA-seq analyses we generate pools of candidate targets that we investigate biologically and therapeutically and extensively validate in primary malignant and normal tissues. We also run antibody discovery campaigns to generate novel binders for the pre-clinical developments of novel CAR T cells. Dr. Perna is the PI of two research grants from the National Cancer Institute: NIH/NCI R37CA276939-01A1 and NIH/NCI R21CA280367-01. She also received research grants from the Leukemia Research Foundation grant and industry to develop novel CAR T cells recognizing novel target antigens that her own lab identified. \n  *"
@@ -72,14 +72,6 @@
       "journal": "Clin Cancer Res"
     },
     {
-      "title": "Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma",
-      "pubmed_id": "40637727",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK",
-      "journal": "Haematologica"
-    },
-    {
       "title": "On the Road to Safer CAR Therapy for B-Cell Lymphoma: Real-World Evidence",
       "pubmed_id": "40617680",
       "year": "2025",
@@ -88,13 +80,12 @@
       "journal": "Transplant Cell Ther"
     },
     {
-      "title": "mRNA-based therapeutic strategies for cancer treatment",
-      "pubmed_id": "38702886",
-      "pmc_id": "PMC11403232",
-      "year": "2024",
-      "publication_date": "2024 Sep",
-      "authors": "Taibi T, Cheon S, Perna F, Vu LP",
-      "journal": "Mol Ther"
+      "title": "Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma",
+      "pubmed_id": "40637727",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK",
+      "journal": "Haematologica"
     },
     {
       "title": "Mapping the cancer surface proteome in search of target antigens for immunotherapy",
@@ -112,6 +103,15 @@
       "year": "2024",
       "publication_date": "2024 Sep",
       "authors": "Bricker-Anthony R, Koeberl DD, Lipshutz GS, Perna F",
+      "journal": "Mol Ther"
+    },
+    {
+      "title": "mRNA-based therapeutic strategies for cancer treatment",
+      "pubmed_id": "38702886",
+      "pmc_id": "PMC11403232",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Taibi T, Cheon S, Perna F, Vu LP",
       "journal": "Mol Ther"
     },
     {
@@ -173,11 +173,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PernaFabiana_35899.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35899"
   },
-  "content_hash": "251edd73c4b7b4bc4f1d7243292d414ce97a4841eedd60af9b8f9d4b8b9fc839",
-  "researcher_name": "Fabiana Perna",
-  "department": "BioEngineering"
+  "content_hash": "d7cac4b884cbcf2f85fd40aeb395e67f5cf58dda32876a1e9917784f3211c209",
+  "researcher_name": "fabiana perna",
+  "department": "immunology"
 }

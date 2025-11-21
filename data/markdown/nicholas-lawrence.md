@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/nicholas-lawrence)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/nicholas-lawrence)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -502,8 +501,8 @@ Our laboratory's efforts are focused on the synthesis of new anticancer agents. 
     * Sawant M, Mahajan K, Renganathan A, Weimholt C, Luo J, Kukshal V, Jez JM, Jeon MS, Zhang B, Li T, Fang B, Luo Y, Lawrence NJ, Lawrence HR, Feng FY, Mahajan NP. Chronologically modified androgen receptor in recurrent castration-resistant prostate cancer and its therapeutic targeting. Sci Transl Med. 2022 Jun.14(649):eabg4132. Pubmedid: [35704598](https://www.ncbi.nlm.nih.gov/pubmed/35704598). 
     * Bian Y, Alem D, Beato F, Hogenson TL, Yang X, Jiang K, Cai J, Ma WW, Fernandez-Zapico M, Tan AC, Lawrence NJ, Fleming JB, Yuan Y, Xie H. Development of SOS1 Inhibitor-Based Degraders to Target KRAS-Mutant Colorectal Cancer. J Med Chem. 2022 Dec.65(24):16432-16450. Pubmedid: [36459180](https://www.ncbi.nlm.nih.gov/pubmed/36459180). Pmcid: PMC10113742. 
     * Pidala J, Walton K, Elmariah H, Kim J, Mishra A, Bejanyan N, Nishihori T, Khimani F, Perez L, Faramand RG, Davila ML, Nieder ML, Sagatys EM, Holtan SG, Lawrence NJ, Lawrence HR, Blazar BR, Anasetti C, Sebti SM, Betts BC. Pacritinib Combined with Sirolimus and Low-Dose Tacrolimus for GVHD Prevention after Allogeneic Hematopoietic Cell Transplantation: Preclinical and Phase I Trial Results. Clin Cancer Res. 2021 May.27(10):2712-2722. Pubmedid: [33753457](https://www.ncbi.nlm.nih.gov/pubmed/33753457). Pmcid: PMC8127396. 
-    * McGuire JJ, Frieling JS, Lo CH, Li T, Muhammad A, Lawrence HR, Lawrence NJ, Cook LM, Lynch CC. Mesenchymal stem cell-derived interleukin-28 drives the selection of apoptosis resistant bone metastatic prostate cancer. Nat Commun. 2021 Feb.12(1):723. Pubmedid: [33526787](https://www.ncbi.nlm.nih.gov/pubmed/33526787). Pmcid: PMC7851397. 
     * Davis RR, Li B, Yun SY, Chan A, Nareddy P, Gunawan S, Ayaz M, Lawrence HR, Reuther GW, Lawrence NJ, Schönbrunn E. Structural Insights into JAK2 Inhibition by Ruxolitinib, Fedratinib, and Derivatives Thereof. J Med Chem. 2021 Feb.64(4):2228-2241. Pubmedid: [33570945](https://www.ncbi.nlm.nih.gov/pubmed/33570945). Pmcid: PMC8327781. 
+    * McGuire JJ, Frieling JS, Lo CH, Li T, Muhammad A, Lawrence HR, Lawrence NJ, Cook LM, Lynch CC. Mesenchymal stem cell-derived interleukin-28 drives the selection of apoptosis resistant bone metastatic prostate cancer. Nat Commun. 2021 Feb.12(1):723. Pubmedid: [33526787](https://www.ncbi.nlm.nih.gov/pubmed/33526787). Pmcid: PMC7851397. 
     * Walton K, Fernandez MR, Sagatys EM, Reff J, Kim J, Lee MC, Kiluk JV, Hui JYC, McKenna D, Hupp M, Forster C, Linden MA, Lawrence NJ, Lawrence HR, Pidala J, Pavletic SZ, Blazar BR, Sebti SM, Cleveland JL, Anasetti C, Betts BC. Metabolic reprogramming augments potency of human pSTAT3-inhibited iTregs to suppress alloreactivity. JCI Insight. 2020 May.5(9). Pubmedid: [32255769](https://www.ncbi.nlm.nih.gov/pubmed/32255769). Pmcid: PMC7253027. 
     * Hesterberg RS, Beatty MS, Han Y, Fernandez MR, Akuffo AA, Goodheart WE, Yang C, Chang S, Colin C, Alontaga AY, McDaniel J, Mailloux AW, Billington JMR, Yue L, Russell S, Gillies RJ, Yun SY, Ayaz M, Lawrence NJ, Lawrence H, Yu XZ, Fu J, Darville LN, Koomen JM, Ren X, Messina J, Jiang K, Garrett TJ, Rajadhyaksha A, Cleveland JL, Epling-Burnette PK. Cereblon harnesses Myc-dependent bioenergetics and activity of CD8+ T lymphocytes. Blood. 2020 Aug.136(7):857-870. Pubmedid: [32403132](https://www.ncbi.nlm.nih.gov/pubmed/32403132). Pmcid: PMC7426646. 
     * Sun X, Ren Y, Gunawan S, Teng P, Chen Z, Lawrence HR, Cai J, Lawrence NJ, Wu J. Selective inhibition of leukemia-associated SHP2 mutant by the allosteric SHP2 inhibitor SHP099. Leukemia. 2018 May.32(5):1246-1249. Pubmedid: [29568093](https://www.ncbi.nlm.nih.gov/pubmed/29568093). Pmcid: PMC6166654. 
@@ -533,8 +532,8 @@ Our laboratory's efforts are focused on the synthesis of new anticancer agents. 
     * Davis R, Pillai S, Lawrence N, Sebti S, Chellappan SP. TNF-α-mediated proliferation of vascular smooth muscle cells involves Raf-1-mediated inactivation of Rb and transcription of E2F1-regulated genes. Cell Cycle. 2012 Jan.11(1):109-118. Pubmedid: [22185776](https://www.ncbi.nlm.nih.gov/pubmed/22185776). Pmcid: PMC3272234. 
     * Johnson JL, Pillai S, Pernazza D, Sebti SM, Lawrence NJ, Chellappan SP. Regulation of matrix metalloproteinase genes by E2F transcription factors: Rb-Raf-1 interaction as a novel target for metastatic disease. Cancer Res. 2012 Jan.72(2):516-526. Pubmedid: [22086850](https://www.ncbi.nlm.nih.gov/pubmed/22086850). Pmcid: PMC3261351. 
     * Alamanda V, Singh S, Lawrence NJ, Chellappan SP. Nicotine-mediated induction of E-selectin in aortic endothelial cells requires Src kinase and E2F1 transcriptional activity. Biochem Bioph Res Co. 2012 Feb.418(1):56-61. Pubmedid: [22240023](https://www.ncbi.nlm.nih.gov/pubmed/22240023). Pmcid: PMC3273677. 
-    * Li X, Gilkes D, Li B, Cheng Q, Pernazza D, Lawrence N, Chen J. Abnormal MDMX degradation in tumor cells due to ARF deficiency. Oncogene. 2012 Aug.31(32):3721-3732. Pubmedid: [22120712](https://www.ncbi.nlm.nih.gov/pubmed/22120712). Pmcid: PMC3290737. 
     * Caceres G, Robey RW, Sokol L, McGraw KL, Clark J, Lawrence NJ, Sebti SM, Wiese M, List AF. HG-829 is a potent noncompetitive inhibitor of the ATP-binding cassette multidrug resistance transporter ABCB1. Cancer Res. 2012 Aug.72(16):4204-4213. Pubmedid: [22761337](https://www.ncbi.nlm.nih.gov/pubmed/22761337). Pmcid: PMC4557794. 
+    * Li X, Gilkes D, Li B, Cheng Q, Pernazza D, Lawrence N, Chen J. Abnormal MDMX degradation in tumor cells due to ARF deficiency. Oncogene. 2012 Aug.31(32):3721-3732. Pubmedid: [22120712](https://www.ncbi.nlm.nih.gov/pubmed/22120712). Pmcid: PMC3290737. 
     * Mahajan K, Coppola D, Chen YA, Zhu W, Lawrence HR, Lawrence NJ, Mahajan NP. Ack1 tyrosine kinase activation correlates with pancreatic cancer progression. Am J Pathol. 2012 Apr.180(4):1386-1393. Pubmedid: [22322295](https://www.ncbi.nlm.nih.gov/pubmed/22322295). Pmcid: PMC3349895. 
     * Martin MP, Zhu JY, Lawrence HR, Pireddu R, Luo Y, Alam R, Ozcan S, Sebti SM, Lawrence NJ, Schönbrunn E. A novel mechanism by which small molecule inhibitors induce the DFG flip in Aurora A. Acs Chem Biol. 2012 Apr.7(4):698-706. Pubmedid: [22248356](https://www.ncbi.nlm.nih.gov/pubmed/22248356). Pmcid: PMC4429595. 
     * Scott LM, Chen L, Daniel KG, Brooks WH, Guida WC, Lawrence HR, Sebti SM, Lawrence NJ, Wu J. Shp2 protein tyrosine phosphatase inhibitor activity of estramustine phosphate and its triterpenoid analogs. Bioorg Med Chem Lett. 2011 Jan.21(2):730-733. Pubmedid: [21193311](https://www.ncbi.nlm.nih.gov/pubmed/21193311). Pmcid: PMC3034307. 
@@ -660,7 +659,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -715,7 +714,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/nicholas-lawrence#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/nicholas-lawrence#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -733,7 +732,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1087,7 +1086,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/nicholas-lawrence#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/nicholas-lawrence#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

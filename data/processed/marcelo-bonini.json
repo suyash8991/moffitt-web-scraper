@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/marcelo-bonini",
-  "last_updated": "2025-10-21T16:33:15.933558",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/marcelo-bonini/",
+  "last_updated": "2025-11-21T22:50:25.497894",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Metabolism and Physiology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "metabolism and physiology",
+  "research_program": "cancer biology & evolution",
   "overview": "Breast cancer metabolism and metastasis, Epigenetics, Histones, Histone Oxidation, Redox Biology.",
   "research_interests": [
     "Our lab is interested in the mechanisms connecting the decline of the energetic metabolism that occurs during aging with aging-related diseases being cancer a prime example. We focus on how a switch in the functioning of mitochondria to promote reactive oxygen species production over ATP changes the biophysical microenvironment of the cell with particular emphasis in the nucleus. We also aim at determining how these metabolic changes impact chromatin structure and gene expression. Our hypothesis is that reactive metabolites including, but not limited to reactive oxygen species, chemically modify chromatin components that provide it with specific structural patterns. These include histones, lamins, lncRNA and DNA itself. Since chromatin structure regulates gene accessibility and transcription efficiency our work postulates that changes in metabolism establish the biophysical environment where transcription happens. With that in mind we aim at developing therapeutic strategies to mitigate the effects of these metabolites on chromatin (chromatin protective agents) to improve cancer clinical care.\n  *"
@@ -44,6 +44,18 @@
       ]
     },
     {
+      "description": "Title: H3 histone oxidation is a new posttranslational modification linking heavy metal-induced metabolic changes and oncegenic epigenetic reprogramming  \nAward Number: 7R01ES035723-03  \nSponsor: National Institute of Environmental Health Sciences (NIEHS)  \nBonini, M. (PD/PI)",
+      "title": "H3 histone oxidation is a new posttranslational modification linking heavy metal-induced metabolic changes and oncegenic epigenetic reprogramming",
+      "award_number": "7R01ES035723-03",
+      "sponsor": "National Institute of Environmental Health Sciences (NIEHS)",
+      "investigators": [
+        {
+          "name": "Bonini, M.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
       "description": "Title: Every Day Counts: A lifestyle program for women with metastatic breast cancer  \nAward Number: 5R01CA258759-04  \nSponsor: Medical College of Wisconsin  \nBonini, M. (PD/PI)",
       "title": "Every Day Counts: A lifestyle program for women with metastatic breast cancer",
       "award_number": "5R01CA258759-04",
@@ -56,9 +68,20 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-50521/",
+      "trial_id": "50521",
+      "title": "Integrated Plasma Metabolomic and Cytokine Profiling to Characterize Cancer Cachexia",
+      "condition": "Thoracic",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BoniniMarcelo_42703.jpg",
   "contact": {},
-  "content_hash": "2a96f24289b805554a039f640ef4d5dfcbcba575c2bd033a28b2e31619afe22d",
-  "researcher_name": "Marcelo Bonini",
-  "department": "Metabolism and Physiology"
+  "content_hash": "445078830ceabd2bae9bca9240ded07bff6627d2b0b9c9ef68ea93a29184a279",
+  "researcher_name": "marcelo bonini",
+  "department": "metabolism and physiology"
 }

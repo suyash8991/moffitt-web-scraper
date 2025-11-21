@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/inna-smalley)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/inna-smalley)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -502,8 +501,8 @@ Dr. Smalley has largely focused on developing novel therapeutic rationales for t
     * Wallace G, Kundalia R, Vallebuona E, Cao B, Kim Y, Forsyth P, Soyano A, Smalley I, Pina Y. Factors associated with overall survival in breast cancer patients with leptomeningeal disease (LMD): a single institutional retrospective review. Breast Cancer Res. 2024 Mar.26(1):55. Pubmedid: [38553702](https://www.ncbi.nlm.nih.gov/pubmed/38553702). Pmcid: PMC10979566. 
     * Alhaddad H, Ospina OE, Khaled ML, Ren Y, Vallebuona E, Boozo MB, Forsyth PA, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I. Spatial transcriptomics analysis identifies a tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease. Cell Rep Med. 2024 Jun.5(6):101606. Pubmedid: [38866016](https://www.ncbi.nlm.nih.gov/pubmed/38866016). Pmcid: PMC11228800. 
     * Ospina OE, Manjarres-Betancur R, Gonzalez-Calderon G, Soupir AC, Smalley I, Tsai K, Markowitz J, Vallebuona E, Berglund A, Eschrich S, Yu X, Fridley BL. spatialGE: A user-friendly web application to democratize spatial transcriptomics analysis. bioRxiv. 2024 Jul. Pubmedid: [39005315](https://www.ncbi.nlm.nih.gov/pubmed/39005315). Pmcid: PMC11244876. 
-    * Smalley I, Boire A, Brastianos P, Kluger HM, Hernando-Monge E, Forsyth PA, Ahmed KA, Smalley KSM, Ferguson S, Davies MA, Glitza Oliva IC. Leptomeningeal disease in melanoma: An update on the developments in pathophysiology and clinical care. Pigment Cell Melanoma Res. 2024 Jan.37(1):51-67. Pubmedid: [37622466](https://www.ncbi.nlm.nih.gov/pubmed/37622466). 
     * Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM. Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma. Cancer. 2024 Jan.130(2):232-243. Pubmedid: [37776537](https://www.ncbi.nlm.nih.gov/pubmed/37776537). 
+    * Smalley I, Boire A, Brastianos P, Kluger HM, Hernando-Monge E, Forsyth PA, Ahmed KA, Smalley KSM, Ferguson S, Davies MA, Glitza Oliva IC. Leptomeningeal disease in melanoma: An update on the developments in pathophysiology and clinical care. Pigment Cell Melanoma Res. 2024 Jan.37(1):51-67. Pubmedid: [37622466](https://www.ncbi.nlm.nih.gov/pubmed/37622466). 
     * Khaled ML, Tarhini AA, Forsyth PA, Smalley I, Piña Y. Leptomeningeal Disease (LMD) in Patients with Melanoma Metastases. Cancers (Basel). 2023 Mar.15(6). Pubmedid: [36980770](https://www.ncbi.nlm.nih.gov/pubmed/36980770). Pmcid: PMC10047692. 
     * Khaled ML, Ren Y, Kundalia R, Alhaddad H, Chen Z, Wallace GC, Evernden B, Ospina OE, Hall M, Liu M, Darville LNF, Izumi V, Chen YA, Pilon-Thomas S, Stewart PA, Koomen JM, Corallo SA, Jain MD, Robinson TJ, Locke FL, Forsyth PA, Smalley I. Branched-chain keto acids promote an immune-suppressive and neurodegenerative microenvironment in leptomeningeal disease. bioRxiv. 2023 Dec. Pubmedid: [38187773](https://www.ncbi.nlm.nih.gov/pubmed/38187773). Pmcid: PMC10769272. 
     * Alhaddad H, Ospina OE, Khaled ML, Ren Y, Forsyth P, Pina Y, Macaulay R, Law V, Tsai KY, Cress WD, Fridley B, Smalley I. Spatial transcriptomics analysis identifies a unique tumor-promoting function of the meningeal stroma in melanoma leptomeningeal disease. bioRxiv. 2023 Dec. Pubmedid: [38187574](https://www.ncbi.nlm.nih.gov/pubmed/38187574). Pmcid: PMC10769278. 
@@ -653,7 +652,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -708,7 +707,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/inna-smalley#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/inna-smalley#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -726,7 +725,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1080,7 +1079,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/inna-smalley#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/inna-smalley#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

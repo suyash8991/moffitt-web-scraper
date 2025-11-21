@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jeremy-goecks",
-  "last_updated": "2025-10-21T16:36:40.293201",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jeremy-goecks/",
+  "last_updated": "2025-11-21T22:50:24.402024",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "molecular medicine",
   "overview": "Cancer data science, Machine learning for biomedicine, Computational infrastructure for biomedicine, precision medicine, spatial and multimodal tumor biology.",
   "research_interests": [
     "My research interests lie at the intersection of biomedical data science, high-performance computing, and precision oncology. I have two active areas of research: Software Tools for Biomedicine: I build software tools for cancer and biomedical data science, including individual analysis packages, machine learning applications, interactive visualizations, and software platforms/infrastructure. I am a lead investigator for the Galaxy computational workbench (https://galaxyproject.org/), which is used by thousands of scientists across the world. Precision Cancer Medicine: I apply computational tools and software platforms to identify biomarkers associated with cancer susceptibility, progression, and response to therapy. Recently I have led the creation and analysis of multimodal, spatial, and single-cell molecular tumor atlases to identify tumor adaptations to therapy and potential approaches to mitigate these adaptations.\n  *"
@@ -151,9 +151,12 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GoecksJeremy_36665.jpg",
   "contact": {},
-  "content_hash": "ada0158097e8287c0ae7e86a606dcf49227c3585a083b81e597bb6dc014f33fb",
-  "researcher_name": "Jeremy Goecks",
-  "department": "Machine Learning"
+  "content_hash": "bc9c71e3ab80a4355dc4286f5f6fd2b4ca9025ac6aaab055ec5de11c5a28a96b",
+  "researcher_name": "jeremy goecks",
+  "department": "machine learning"
 }

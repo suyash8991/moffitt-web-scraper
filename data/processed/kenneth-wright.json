@@ -1,0 +1,204 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kenneth-wright/",
+  "last_updated": "2025-11-21T22:50:25.143623",
+  "researcher_id": "2501",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "immunology",
+  "research_program": "immuno-oncology",
+  "overview": "Dr. Wright\u2019s laboratory research interests are on understanding the molecular and epigenetic vulnerabilities in hematologic malignancies including B cell lymphoma, myeloproliferative neoplasms, and myelodysplastic syndromes. His research focuses on revealing new potential therapeutic targets and therapeutic combinations. Dr. Wright also has a focus on health disparities and leads a U54 NCI PACHE grant supporting decreasing health disparities though education and training, community outreach, and scientific research. This research program is a partnership with Ponce Health Sciences University in Ponce Puerto Rico.",
+  "research_interests": [
+    "My primary research interest is in understanding the molecular mechanisms underpinning hematologic malignancies and developing approaches that preserve and enhance immune function while killing tumor cells. This work includes investigations into the activity of NK cells in Mantle Cell Lymphoma (MCL) patients and the significance of a select protein deacetylase enzyme activity in response to treatment. My laboratory has expanding interest in defining therapeutic targets in myelodysplastic syndrome (MDS) by characterizing the bone marrow microenvironment, the role of MDSCs, and the impact of novel inhibitors targeting critical signaling pathways in MDS. We also have interest in understanding the origin and role of aberrantly produced RNA:DNA hybrids and the Fat Mass And Obesity Associated gene (FTO) in driving the MDS disease. I have strong interest in decreasing health disparities and lead the NCI U54 PACHE partnership grant with Ponce Health Sciences University which focuses on education and training, community outreach, and scientific research support addressing the Hispanic/Latino population. \n  *"
+  ],
+  "associations": [
+    "Immunology",
+    "Malignant Hematology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Massachusetts, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "UNC Lineberger Comp. Cancer Ctr.",
+      "specialty": "Immunology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Oxidized Mitochondrial DNA Engages TLR9 to Activate the NLRP3 Inflammasome in Myelodysplastic Syndromes",
+      "pubmed_id": "36835307",
+      "pmc_id": "PMC9966808",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Ward GA, Dalton RP, Meyer BS, McLemore AF, Aldrich AL, Lam NB, Onimus AH, Vincelette ND, Trinh TL, Chen X, Calescibetta AR, Christiansen SM, Hou HA, Johnson JO, Wright KL, Padron E, Eksioglu EA, List AF",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "CX3CR1 deficiency-induced TIL tumor restriction as a novel addition for CAR-T design in solid malignancies",
+      "pubmed_id": "37070068",
+      "pmc_id": "PMC10105289",
+      "year": "2023",
+      "publication_date": "2023 Apr",
+      "authors": "Trinh T, Adams WA, Calescibetta A, Tu N, Dalton R, So T, Wei M, Ward G, Kostenko E, Christiansen S, Cen L, McLemore A, Reed K, Whiting J, Gilvary D, Blanco NL, Segura CM, Nguyen J, Kandell W, Chen X, Cheng P, Wright GM, Cress WD, Liu J, Wright KL, Wei S, Eksioglu EA",
+      "journal": "iScience"
+    },
+    {
+      "title": "Immunodepletion of MDSC by AMV564, a novel bivalent, bispecific CD33/CD3 T cell engager, ex vivo in MDS and melanoma",
+      "pubmed_id": "35150889",
+      "pmc_id": "PMC9171150",
+      "year": "2022",
+      "publication_date": "2022 Jun",
+      "authors": "Cheng P, Chen X, Dalton R, Calescibetta A, So T, Gilvary D, Ward G, Smith V, Eckard S, Fox JA, Guenot J, Markowitz J, Cleveland JL, Wright KL, List AF, Wei S, Eksioglu EA",
+      "journal": "Mol Ther"
+    },
+    {
+      "title": "Constitutively Activated DAP12 Induces Functional Anti-Tumor Activation and Maturation of Human Monocyte-Derived DC",
+      "pubmed_id": "33513928",
+      "pmc_id": "PMC7865632",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Dalton R, Calescibetta A, Zhou JM, Maurin M, Ward G, Trinh TL, Tu N, Gilvary D, Chen X, Cheng P, Kostenko E, Wei S, Wright KL, Eksioglu EA",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Partnering patients, caregivers, and basic scientists: an engagement model that fosters patient- and family-centered research culture",
+      "pubmed_id": "32739418",
+      "pmc_id": "PMC7719089",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Ketcher DE, Bidelman A, Le LQ, Otto AK, Lester DK, Amtmann-Beuttner KK, Gonzalez B, Wright KL, Vadaparampil ST, Reblin M, Lau EK",
+      "journal": "Transl Res"
+    },
+    {
+      "title": "Histone deacetylase 8 inhibition suppresses mantle cell lymphoma viability while preserving natural killer cell function",
+      "pubmed_id": "33190829",
+      "pmc_id": "PMC7785659",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Watters JM, Wright G, Smith MA, Shah B, Wright KL",
+      "journal": "Biochem Bioph Res Co"
+    },
+    {
+      "title": "Plasma cell dependence on histone/protein deacetylase 11 reveals a therapeutic target in multiple myeloma",
+      "pubmed_id": "34793338",
+      "pmc_id": "PMC8783683",
+      "year": "2021",
+      "publication_date": "2021 Dec",
+      "authors": "Mostofa A, Distler A, Meads MB, Sahakian E, Powers JJ, Achille A, Noyes D, Wright G, Fang B, Izumi V, Koomen J, Rampakrishnan R, Nguyen TP, De Avila G, Silva AS, Sudalagunta P, Canevarolo RR, Siqueira Silva MDC, Alugubelli RR, Dai HA, Kulkarni A, Dalton WS, Hampton OA, Welsh EA, Teer JK, Tungesvik A, Wright KL, Pinilla-Ibarz J, Sotomayor EM, Shain KH, Brayer J",
+      "journal": "JCI Insight"
+    },
+    {
+      "title": "Metabolic Vulnerabilities and Epigenetic Dysregulation in Myeloproliferative Neoplasms",
+      "pubmed_id": "33329600",
+      "pmc_id": "PMC7734315",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Sharma V, Wright KL, Epling-Burnette PK, Reuther GW",
+      "journal": "Front Immunol"
+    },
+    {
+      "title": "HDAC11 deficiency disrupts oncogene-induced hematopoiesis in myeloproliferative neoplasms",
+      "pubmed_id": "31750881",
+      "pmc_id": "PMC6966930",
+      "year": "2020",
+      "publication_date": "2020 Jan",
+      "authors": "Yue L, Sharma V, Horvat NP, Akuffo AA, Beatty MS, Murdun C, Colin C, Billington J, Goodheart WE, Sahakian E, Zhang L, Powers JJ, Amin NE, Lambert-Showers QT, Darville LN, Pinilla-Ibarz J, Reuther G, Wright K, Conti C, Lee JY, Zheng X, Ng PY, Martin MW, Marshall CG, Koomen JM, Levine RL, Verma A, Grimes HL, Sotomayor EM, Shao Z, Epling-Burnette PK",
+      "journal": "Blood"
+    },
+    {
+      "title": "Selective expression of the transcription elongation factor ELL3 in B cells prior to ELL2 drives proliferation and survival",
+      "pubmed_id": "28858629",
+      "pmc_id": "PMC5653440",
+      "year": "2017",
+      "publication_date": "2017 Nov",
+      "authors": "Alexander LMM, Watters J, Reusch JA, Maurin M, Nepon-Sixt BS, Vrzalikova K, Alexandrow MG, Murray PG, Wright KL",
+      "journal": "Mol Immunol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: 2/2 Ponce Health Sciences University-Moffitt Cancer Center Partnership  \nAward Number: 2U54CA163068-12  \nSponsor: National Cancer Institute (NCI)  \nMonteiro, A. (PD/PI), Wright, K. (PD/PI)",
+      "title": "2/2 Ponce Health Sciences University-Moffitt Cancer Center Partnership",
+      "award_number": "2U54CA163068-12",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Monteiro, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Wright, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Cancer screening behaviors among people with and without HIV in All of Us  \nAward Number: 3U54CA163068-12S1  \nSponsor: National Cancer Institute (NCI)  \nWright, K. (PD/PI)",
+      "title": "Cancer screening behaviors among people with and without HIV in All of Us",
+      "award_number": "3U54CA163068-12S1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Wright, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Institutional Research Grant - Moffitt Cancer Center  \nAward Number: IRG-21-145-25  \nSponsor: American Cancer Society, Inc. (ACS)  \nWright, K. (PD/PI)",
+      "title": "Institutional Research Grant - Moffitt Cancer Center",
+      "award_number": "IRG-21-145-25",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Wright, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: ENCOURAGE Diversity  \nAward Number: DICR INTR-24-1297280-01-DICR INTR  \nSponsor: American Cancer Society, Inc. (ACS)  \nWright, K. (PD/PI)",
+      "title": "ENCOURAGE Diversity",
+      "award_number": "DICR INTR-24-1297280-01-DICR INTR",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Wright, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Moffitt ACS Post-Baccalaureate Diversity in Cancer Research (MAP-DICR)  \nAward Number: DICR POST-BACC-24-1160263-01-DPBACC  \nSponsor: American Cancer Society, Inc. (ACS)  \nWright, K. (PD/PI)",
+      "title": "Moffitt ACS Post-Baccalaureate Diversity in Cancer Research (MAP-DICR)",
+      "award_number": "DICR POST-BACC-24-1160263-01-DPBACC",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Wright, K.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WrightKenneth_2501.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2501"
+  },
+  "content_hash": "19071d9c16d4abfc100760fd9f0c5bc41d49ff846ce55de98c0c6e1b99945340",
+  "researcher_name": "kenneth wright",
+  "department": "immunology"
+}

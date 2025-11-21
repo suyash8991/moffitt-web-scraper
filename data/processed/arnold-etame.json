@@ -1,0 +1,181 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/arnold-etame/",
+  "last_updated": "2025-11-21T22:50:22.839971",
+  "researcher_id": "11367",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "neuro-oncology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Etame's research program focuses on elucidating and targeting mechanisms that drive therapeutic resistance in glioblastoma using state of the art innovative strategies. In particular, there is a significant emphasis on translational targeting of malignant reprogramming mechanisms in glioblastoma stem cells. These research efforts are currently federally funded through a combination of NIH R21s and R01 grants.",
+  "research_interests": [
+    "Dr. Etame's research program focuses on elucidating and targeting mechanisms that drive therapeutic resistance in glioblastoma using state of the art innovative strategies. In particular, there is a significant emphasis on translational targeting of malignant reprogramming mechanisms in glioblastoma stem cells. These research efforts are currently federally funded through a combination of NIH R21s and R01 grants. Glioblastoma is the most common and lethal malignant brain cancer with limited therapeutic options and a dismal survival. Glioblastoma stem cells represent a small subset of the tumor population that is highly resistant to therapy, thereby serving as a reservoir for tumor recurrence and lethality. Hence, developing therapies that effectively target glioblastoma stem cells could have a positive impact on glioblastoma outcomes. To this end, we have examined at the genetic and epigenetic scale, various malignant reprogramming mechanisms associated with glioblastoma stem adaptation to therapy. Translating these findings into early-stage window-of-opportunity clinical trials is of utmost interest. \n  *"
+  ],
+  "associations": [
+    "Neuro-Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Toronto, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University of Iowa College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Michigan Medical Center",
+      "specialty": "Neurosurgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Labbatt Brain Tumour Centre, Hospital for Sick Children, Toronto",
+      "specialty": "Neurosurgery Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Tumor-Associated Macrophages in Glioblastoma: Mechanisms of Tumor Progression and Therapeutic Strategies",
+      "pubmed_id": "41002423",
+      "pmc_id": "PMC12468907",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Chen J, Wu Q, Berglund AE, Macaulay RJ, Mul\u00e9 JJ, Etame AB",
+      "journal": "Cells"
+    },
+    {
+      "title": "Identification of an Immune-Related Gene Signature for Prognostic Prediction in Glioblastoma: Insights from Integrated Bulk and Single-Cell RNA Sequencing",
+      "pubmed_id": "40507280",
+      "pmc_id": "PMC12153616",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Chen J, Wu Q, Berglund AE, Macaulay RJ, Mul\u00e9 JJ, Etame AB",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "The Role of Gut Microbiome on Glioblastoma Oncogenesis and Malignant Evolution",
+      "pubmed_id": "40243570",
+      "pmc_id": "PMC11989184",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Mohamed ZS, Wu Q, Jacome MA, Chen J, Etame AB",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Molecular Underpinnings of Brain Metastases",
+      "pubmed_id": "40076927",
+      "pmc_id": "PMC11900073",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Jacome MA, Wu Q, Chen J, Mohamed ZS, Mokhtari S, Pi\u00f1a Y, Etame AB",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Functional Reprogramming of Neutrophils within the Brain Tumor Microenvironment by Hypoxia-Driven Histone Lactylation",
+      "pubmed_id": "40014923",
+      "pmc_id": "PMC12133432",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Ugolini A, De Leo A, Yu X, Scirocchi F, Liu X, Peixoto B, Scocozza D, Pace A, Perego M, Gardini A, D'Angelo L, Liu JKC, Etame AB, Rughetti A, Nuti M, Santoro A, Vogelbaum MA, Conejo-Garcia JR, Rodriguez PC, Veglia F",
+      "journal": "Cancer Discov"
+    },
+    {
+      "title": "The reprogramming impact of SMAC-mimetic on glioblastoma stem cells and the immune tumor microenvironment evolution",
+      "pubmed_id": "40616096",
+      "pmc_id": "PMC12231904",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Wu Q, Chen J, Berglund AE, Du D, Macaulay RJ, Etame AB",
+      "journal": "J Exp Clin Cancer Res"
+    },
+    {
+      "title": "Comprehensive Analysis Identifies THEMIS2 as a Potential Prognostic and Immunological Biomarker in Glioblastoma",
+      "pubmed_id": "39851494",
+      "pmc_id": "PMC11764009",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Chen J, Wu Q, Berglund AE, Macaulay RJ, Etame AB",
+      "journal": "Cells"
+    },
+    {
+      "title": "Phase 1 trial of hypofractionated stereotactic re-irradiation in combination with nivolumab, ipilimumab, and bevacizumab for recurrent high-grade gliomas",
+      "pubmed_id": "40134851",
+      "pmc_id": "PMC11934552",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Sahebjam S, Raval RR, Forsyth PA, Enderling H, Tran ND, Arrington JA, Macaulay R, Perlow HK, Palmer JD, Ghose J, Rajappa P, Giglio P, Li Z, Etame AB, Mokhtari S, Cruz-Chamorro RJ, Bhandari M, Thapa R, Robinson TJ, Chen DT, Yu HM",
+      "journal": "Neurooncol Adv"
+    },
+    {
+      "title": "Nivolumab and stereotactic radiosurgery for patients with breast cancer brain metastases: long-term results and biomarker analysis from a non-randomized, open-label, phase Ib study",
+      "pubmed_id": "40295143",
+      "pmc_id": "PMC12039042",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Ahmed KA, Kim Y, Kim S, Wang MH, DeJesus M, Arrington JA, Soyano AE, Armaghani AJ, Costa RLB, Loftus LS, Rosa M, Caudell JJ, Diaz R, Etame AB, Tran ND, Soliman H, Czerniecki BJ, Forsyth PA, Yu HM, Han HS",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Evolution of Molecular Biomarkers and Precision Molecular Therapeutic Strategies in Glioblastoma",
+      "pubmed_id": "39518074",
+      "pmc_id": "PMC11544870",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Jacome MA, Wu Q, Pi\u00f1a Y, Etame AB",
+      "journal": "Cancers (Basel)"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Targeting Malignant Reprogramming of Glioblastoma Stem Cells Through Dual Inhibition of S6K1 and BIRC3  \nAward Number: 1R01NS135220-01A1  \nSponsor: National Institute of Neurological Disorders and Stroke (NINDS)  \nEtame, A. (PD/PI)",
+      "title": "Targeting Malignant Reprogramming of Glioblastoma Stem Cells Through Dual Inhibition of S6K1 and BIRC3",
+      "award_number": "1R01NS135220-01A1",
+      "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "investigators": [
+        {
+          "name": "Etame, A.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Profiling of Viright\u2019s Mechanism of Action and in Vitro Efficacy in Cancer Cell Assays  \nAward Number: NA  \nSponsor: Jupiter Biomedical Research  \nYamoah, K. (PD/PI), Etame, A. (Co-PD/PI)",
+      "title": "Profiling of Viright\u2019s Mechanism of Action and in Vitro Efficacy in Cancer Cell Assays",
+      "award_number": "NA",
+      "sponsor": "Jupiter Biomedical Research",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Etame, A.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23834/",
+      "trial_id": "23834",
+      "title": "Deciphering the Role of Immune-Related Gene Signature and Tumor-Immune Microenvironment in Glioblastoma",
+      "condition": "Neurologic Oncology",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/EtameArnold_11367.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=11367"
+  },
+  "content_hash": "f74914ccbffc105c93f27b1cf3fbbda0fa6e4ca5c4e04050aea2b16b50e0834e",
+  "researcher_name": "arnold etame",
+  "department": ""
+}

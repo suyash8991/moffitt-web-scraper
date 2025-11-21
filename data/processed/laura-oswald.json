@@ -1,0 +1,212 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/laura-oswald/",
+  "last_updated": "2025-11-21T22:50:25.244347",
+  "researcher_id": "24184",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "health outcomes and behavior",
+  "research_program": "health outcomes & behavior",
+  "overview": "Dr. Oswald\u2019s research focuses on understanding how cancer and its treatments affect patient-reported outcomes (PROs), such as health-related quality of life and symptom burden, and developing and testing behavioral interventions to improve PROs.",
+  "research_interests": [
+    "Dr. Oswald is a clinical health psychologist whose research focuses on 1) understanding how cancer and its treatments affect patient-reported outcomes (PROs), such as health-related quality of life (HRQOL) and symptom burden, and 2) developing and testing behavioral interventions to improve PROs. Currently, the two primary arms of her research focus on survivorship among patients with multiple myeloma treated with chimeric antigen receptor T-cell therapy (CAR-T), a novel immunotherapy, and survivorship among young adults (YAs) diagnosed with cancer between the ages of 18-39. Dr. Oswald is the Principal Investigator an ongoing NIH/NCI R01 study that aims to identify psychosocial and immune-related factors that are associated with key survivorship outcomes in a large, diverse cohort of multiple myeloma CAR-T recipients. Findings from this study will be used to develop patient education materials to inform CAR-T clinical decision-making and to elucidate modifiable targets and critical times to implement behavioral supportive care interventions. Dr. Oswald is also the Principal Investigator of a Department of Defense R01 equivalent study that aims to develop the first behavioral intervention to improve HRQOL for YAs ages 25-39 with advanced cancer and test the feasibility of using a factorial design to identify the most efficacious components of the interventions. Across her work, a common theme is a strong emphasis on team science and multidisciplinary approaches to understand and improve cancer survivorship outcomes.\n  *"
+  ],
+  "associations": [
+    "Health Outcomes and Behavior",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Miami, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Saint Joseph's University, MS"
+    },
+    {
+      "type": "Internship",
+      "institution": "Rush University Medical Center",
+      "specialty": "Health Psychology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Northwestern University Feinberg School of Medicine",
+      "specialty": "T32 Behavioral and Psychosocial Research Training in Cancer Prevention and Control"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Genetic predisposition to persistent fatigue after a diagnosis of colorectal cancer",
+      "pubmed_id": "40889272",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Kazemian E, Mo Q, Matejcic M, Tsai YY, Sobieski D, Li X, Hoogland AI, Crowder SL, Gonzalez BD, Oswald LB, Sleight AG, Nguyen N, Loro\u00f1a NC, Damerell V, Komrokji KR, Mooney K, Playdon MC, Ulrich CM, Li CI, Shibata D, Toriola AT, Ose J, Peoples AR, Hardikar S, Kahlert C, Siegel EM, Bower JE, Schmit SL, Gigic B, Jim HSL, Figueiredo JC",
+      "journal": "J Natl Cancer Inst"
+    },
+    {
+      "title": "Using Bayesian Networks to Predict Urgent Care Visits in Patients Receiving Systemic Therapy for Non-Small Cell Lung Cancer",
+      "pubmed_id": "40939115",
+      "pmc_id": "PMC12483286",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Gonzalez BD, Li X, Gudenkauf LM, Pullukkara JJ, Oswald LB, Hoogland AI, Le T, El Naqa I, Saltos AN, Haura EB, Luo Y",
+      "journal": "JCO Clin Cancer Inform"
+    },
+    {
+      "title": "Comparison of Standard-of-Care Idecabtagene Vicleucel and Ciltacabtagene Autoleucel in Relapsed/Refractory Multiple Myeloma",
+      "pubmed_id": "39965175",
+      "pmc_id": "PMC12037312",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Hansen DK, Peres LC, Dima D, Richards A, Shune L, Afrough A, Midha S, Dhakal B, Kocoglu MH, Atrash S, Ferreri C, Castaneda O, Davis JA, Bhurtel E, McGuirk J, Wagner C, Bansal R, Costello P, Smith K, Lieberman-Cribbin A, De Avila G, Purvey S, Hosoya H, Mikkilineni L, Oswald LB, Kaur G, Pasvolsky O, Gaballa M, Herr MM, Forsberg P, Janakiram M, Htut M, Asoori Maringanti S, Kalariya N, Hashmi H, Reshef R, Sborov DW, Nadeem O, Anwer F, Khouri J, Raza S, Atanackovic D, Alsina M, Freeman CL, Locke FL, Voorhees P, Anderson LD, Richard S, Martin T, Lin Y, Patel KK, Sidana S",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Diet and physical activity intervention preferences for young adult cancer survivors",
+      "pubmed_id": "40447925",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Crowder SL, Hu B, Hoogland AI, Gudenkauf LM, Li X, Rodriguez Y, Irizarry-Arroyo NE, Oswald LB, Gonzalez BD, Small BJ, Galligan A, Jim HSL, Stern M",
+      "journal": "J Cancer Surviv"
+    },
+    {
+      "title": "Real-World Patient-Reported and Neurocognitive Outcomes in the Year After Axicabtagene Ciloleucel",
+      "pubmed_id": "39733840",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Hoogland AI, Li X, Modi K, Welniak T, Rodriguez Y, Irizarry-Arroyo N, Oswald LB, Snider JT, Wade SW, Chavez J, Corallo S, Booth-Jones M, Jain MD, Locke FL, Jim HSL",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Sexual Health Among Young Adults Treated with Chimeric Antigen Receptor T Cell Therapy: A Mixed-Methods Study",
+      "pubmed_id": "39527302",
+      "pmc_id": "PMC12223386",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Buro AW, Irizarry Gatell V, Fulton HJ, Blackwell R, Geiss C, Li X, Zambrano K, Rodriguez Y, Faramand R, Oswald LB",
+      "journal": "J Adolesc Young Adult Oncol"
+    },
+    {
+      "title": "An HRQOL Proof-Of-Concept Analysis of the eHealth TOGETHER Intervention for Adolescent and Young Adult Cancer Survivors: A Brief Report",
+      "pubmed_id": "40879639",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Fox RS, Badger TA, Moya S, Gudenkauf LM, Nelson MA, O'Neill RM, Leete JJ, Friedman SE, Katsanis E, Victorson DE, Sanford SD, Penedo FJ, Antoni MH, Oswald LB",
+      "journal": "Psychooncology"
+    },
+    {
+      "title": "Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma",
+      "pubmed_id": "40637727",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK",
+      "journal": "Haematologica"
+    },
+    {
+      "title": "From \"Where Are the Latinos?\" to \"How to Find Them\": A Qualitative Study to Inform Recruitment Efforts in an On-Going Psychosocial Cancer Trial for Dyads of Latina Cancer Survivors and Their Intimate Partners",
+      "pubmed_id": "40729470",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Trejos RF, Sanabria G, Ruiz E, Chavez M, Quiros G, Loecher N, Oswald LB, Barden S, Doss B, Martinez-Tyson D",
+      "journal": "Psychooncology"
+    },
+    {
+      "title": "Cardiovascular adverse events and outcomes after anti-BCMA CAR-T for relapsed and refractory multiple myeloma",
+      "pubmed_id": "40229239",
+      "pmc_id": "PMC11997198",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Palfi S, Peres LC, Koelmeyer H, Alsina M, Baz RC, Blue BJ, Corallo S, De Avila G, Freeman C, Gonzalez R, Grajales-Cruz A, Harvey K, Liu HD, Nishihori T, Oliveira GH, Oswald LB, Castaneda Puglianini O, Selvakumar S, Sharma AB, Wang E, Shain KH, Jain M, Locke FL, Alomar M, Hansen DK, Lee DH",
+      "journal": "Blood Cancer J"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Real-world Clinical and Patient-reported Outcomes among Patients with Relapsed/refractory Multiple Myeloma Treated with Commercial CAR-T Therapy  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nHansen, D. (PD/PI), Oswald, L. (PD/PI), Peres, L. (PD/PI)",
+      "title": "Real-world Clinical and Patient-reported Outcomes among Patients with Relapsed/refractory Multiple Myeloma Treated with Commercial CAR-T Therapy",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Hansen, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Oswald, L.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Survivorship in Patients with Multiple Myeloma Treated with Chimeric Antigen Receptor T-Cell Therapy  \nAward Number: 5R01CA281756-02  \nSponsor: National Cancer Institute (NCI)  \nHansen, D. (PD/PI), Oswald, L. (PD/PI), Peres, L. (PD/PI)",
+      "title": "Survivorship in Patients with Multiple Myeloma Treated with Chimeric Antigen Receptor T-Cell Therapy",
+      "award_number": "5R01CA281756-02",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Hansen, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Oswald, L.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: DYNAMIC: Development of a Behavioral Intervention for Young Adults with Advanced Cancer  \nAward Number: HT9425-25-1-0232  \nSponsor: Department of Defense (DOD)  \nOswald, L. (PD/PI)",
+      "title": "DYNAMIC: Development of a Behavioral Intervention for Young Adults with Advanced Cancer",
+      "award_number": "HT9425-25-1-0232",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Oswald, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Culturally Adapted Online Couples Communication Program for Latina Breast Cancer Patients  \nAward Number: AD-2020C3-21171  \nSponsor: PCORI  \nOswald, L. (PD/PI)",
+      "title": "Culturally Adapted Online Couples Communication Program for Latina Breast Cancer Patients",
+      "award_number": "AD-2020C3-21171",
+      "sponsor": "PCORI",
+      "investigators": [
+        {
+          "name": "Oswald, L.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23322/",
+      "trial_id": "23322",
+      "title": "Survivorship in Patients with Multiple Myeloma Treated with Chimeric Antigen Receptor T-cell Therapy",
+      "condition": "Malignant Hematology",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/OswaldLaura_24184.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24184"
+  },
+  "content_hash": "03ddd9d0b443650c58d4c7a654bf946d8f126ec1f074f4863b24e381876b0d29",
+  "researcher_name": "laura oswald",
+  "department": "health outcomes & behavior"
+}

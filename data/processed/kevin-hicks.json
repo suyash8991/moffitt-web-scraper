@@ -1,0 +1,146 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kevin-hicks/",
+  "last_updated": "2025-11-21T22:50:25.158623",
+  "researcher_id": "unknown",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "precision medicine",
+  "research_program": "health outcomes & behavior",
+  "overview": "My clinical and research efforts focus on the integration of molecular profiling into patient care to guide therapeutic decision making.",
+  "research_interests": [
+    "I have two main research interests. The majority of my professional career has focused on understanding how to leverage germline pharmacogenetic test results to improve pharmacotherapy outcomes. I have severed as PI of quality improvement projects and clinical trials investigating clinical benefits of pharmacogenetic driven drug prescribing including for CYP2C19-voriconazole, CYP2C19/CYP2D6-antidepressants, and CYP2D6-pain management. More recently, I have expanded my clinical research interests to include identifying somatic genetic alterations in lung cancer that are predictive of poor clinical outcomes, or associated with acquired resistance, for stratification and individualization of treatment regimens to improve efficacy. These efforts also include researching how to leverage informatics tools to integrate molecular profiling into patient care in a manner that is sustainable and scalable.\n  *"
+  ],
+  "associations": [
+    "Pathology",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Michigan, PharmD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Michigan, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "St. Jude Children's Research Hospital",
+      "specialty": "Pharmacogenetics/Precision Medicine"
+    }
+  ],
+  "publications": [
+    {
+      "title": "A Guide for Implementing DPYD Genotyping for Systemic Fluoropyrimidines into Clinical Practice",
+      "pubmed_id": "39887719",
+      "pmc_id": "PMC11993294",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Ho TT, Smith DM, Aquilante CL, Cicali EJ, El Rouby N, Hertz DL, Imanirad I, Patel JN, Scott SA, Swain SM, Tuteja S, Hicks JK",
+      "journal": "Clin Pharmacol Ther"
+    },
+    {
+      "title": "An examination of factors associated with disparities in clinical trial eligibility guided by the Socioecological Model",
+      "pubmed_id": "40530674",
+      "pmc_id": "PMC12263167",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Zhao Y, Amorrortu RP, Hicks JK, Garcia MA, Haura EB, Yin J, Vadaparampil ST, Rollison DE",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Germline POT1 Variants in a Pan-Cancer Cohort",
+      "pubmed_id": "40632976",
+      "pmc_id": "PMC12243956",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Brock PL, Webster M, Liyanarachchi S, Byrne L, Hedges DJ, Gulhati P, Hicks JK, Chan CHF, Onel K, Stout LA, Maxwell W, Pickarski JC, Estrada-Veras J, Salhia B, Axell L, Holman LL, Abdel-Rahman MH, Ringel MD",
+      "journal": "JCO Precis Oncol"
+    },
+    {
+      "title": "The Pharmacogenomics Global Research Network Implementation Working Group: global collaboration to advance pharmacogenetic implementation",
+      "pubmed_id": "39485373",
+      "pmc_id": "PMC11664750",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Cavallari LH, Hicks JK, Patel JN, Elchynski AL, Smith DM, Bargal SA, Fleck A, Aquilante CL, Killam SR, Lemke L, Ochi T, Ramsey LB, Haidar CE, Ho T, El Rouby N, Monte AA, Allen JD, Beitelshees AL, Bishop JR, Bousman C, Campbell R, Cicali EJ, Cook KJ, Duong B, Tsermpini EE, Girdwood ST, Gregornik DB, Grimsrud KN, Lamb N, Lee JC, Lopez RO, Mazhindu TA, Morris SA, Nagy M, Nguyen J, Pasternak AL, Petry N, van Schaik RHN, Schultz A, Skaar TC, Al Alshaykh H, Stevenson JM, Stone RM, Tran NK, Tuteja S, Woodahl EL, Yuan LC, Lee CR",
+      "journal": "Pharmacogenet Genomics"
+    },
+    {
+      "title": "Integrated molecular and clinical characterization of pulmonary large cell neuroendocrine carcinoma",
+      "pubmed_id": "40830141",
+      "pmc_id": "PMC12365225",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Nassar AH, Kim C, Adeyelu T, Bou Farhat E, Abushukair H, Rakaee M, Matteson K, Lau SF, Takabe Y, Ocejo A, Ardeshir-Larijani F, Leal T, Ramalingam S, Alam S, Gray JE, Hicks J, Kaldas D, Baena J, Berjaga MZ, Nana FA, Grohe C, Leuders H, Citarella F, Cortellini A, Mingo EC, Pancirer D, Das M, Ellis-Caleo TJ, Cheung JM, Lin JJ, Watson AS, Camidge DR, Sridhar A, Parikh K, Crowley F, Marron TU, Aggarwal V, Ahmed M, Sankar K, Kawtharany H, Zhang J, Owen DH, Li M, Nagasaka M, Pinato DJ, Awosika N, Alhamad K, Puri S, Zaman U, Gupta DM, Lau C, Khan H, Liauw J, Velazquez AI, Brown T, Moliner L, Mosteiro M, Rocha P, Evans M, Vanderwalde A, Elliott A, Nieva J, Lopes G, Ma PC, Borghaei H, Lee M, Young L, Aljumaily R, Mirza H, Kwiatkowski DJ, Herbst RS, Flavell RA, Naqash AR, Chiang AC",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "PARP Inhibitors in Pancreatic Cancer with Homologous Recombination Repair Gene Mutations: A Single-Institution Experience",
+      "pubmed_id": "39456541",
+      "pmc_id": "PMC11505755",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Miao R, Blue K, Sommerer K, Shah A, Bottiglieri S, Del Cueto A, Berry DK, Ho TT, Hicks JK, Kim DW",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Correction: Nelson et al",
+      "pubmed_id": "39518158",
+      "pmc_id": "PMC11544884",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Nelson RS, Seligson ND, Bottiglieri S, Carballido E, Cueto AD, Imanirad I, Levine R, Parker AS, Swain SM, Tillman EM, Hicks JK",
+      "journal": "UGT"
+    },
+    {
+      "title": "Comprehensive mutational scanning of EGFR reveals TKI sensitivities of extracellular domain mutants",
+      "pubmed_id": "38548752",
+      "pmc_id": "PMC10978866",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Hayes TK, Aquilanti E, Persky NS, Yang X, Kim EE, Brenan L, Goodale AB, Alan D, Sharpe T, Shue RE, Westlake L, Golomb L, Silverman BR, Morris MD, Fisher TR, Beyene E, Li YY, Cherniack AD, Piccioni F, Hicks JK, Chi AS, Cahill DP, Dietrich J, Batchelor TT, Root DE, Johannessen CM, Meyerson M",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Strategies for DPYD testing prior to fluoropyrimidine chemotherapy in the US",
+      "pubmed_id": "38980476",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Tracksdorf T, Smith DM, Pearse S, Cicali EJ, Aquilante CL, Scott SA, Ho TT, Patel JN, Hicks JK, Hertz DL",
+      "journal": "Support Care Cancer"
+    },
+    {
+      "title": "Association between CYP3A4, CYP3A5 and ABCB1 genotype and tacrolimus treatment outcomes among allogeneic HSCT patients",
+      "pubmed_id": "38189154",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Ho TT, Perkins JB, Gonzalez R, Hicks JK, Martinez RA, Duranceau K, North B, Kim J, Teer JK, Yao J, Yoder SJ, Nishihori T, Bejanyan N, Pidala J, Elmariah H",
+      "journal": "Pharmacogenomics"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Evaluation of a Quality Improvement Initiative to Increase Biomarker Testing in Early-Stage NSCLC Coupled with Precision Medicine Services to Support Biomarker-Driver Therapy and Clinical Trials  \nAward Number: A-40351  \nSponsor: Lilly USA, LLC  \nHicks, J. (PD/PI)",
+      "title": "Evaluation of a Quality Improvement Initiative to Increase Biomarker Testing in Early-Stage NSCLC Coupled with Precision Medicine Services to Support Biomarker-Driver Therapy and Clinical Trials",
+      "award_number": "A-40351",
+      "sponsor": "Lilly USA, LLC",
+      "investigators": [
+        {
+          "name": "Hicks, J.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HicksKevin_16885.jpg",
+  "contact": {},
+  "content_hash": "de7c4e44d8fe5c30d3fa466e2d5c929945f311e0b118156e6151aaec734d1366",
+  "researcher_name": "kevin hicks",
+  "department": ""
+}

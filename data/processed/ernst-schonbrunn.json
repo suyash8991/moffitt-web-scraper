@@ -1,0 +1,182 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ernst-schonbrunn/",
+  "last_updated": "2025-11-21T22:50:23.732470",
+  "researcher_id": "4127",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "drug discovery",
+  "research_program": "molecular medicine",
+  "overview": "Research from the Schonbrunn laboratory focuses on the elucidation of the three-dimensional structure of medicinally important proteins using X-ray crystallography as a main tool. We explore various proteins and protein-ligand complexes at the atomic level to identify \"weak spots\" that could be exploited for the rational design of novel therapeutics.",
+  "research_interests": [
+    "The Schonbrunn lab is involved in several interdisciplinary drug discovery projects aimed at the development of small molecule inhibitors and degraders of promising cancer targets, particularly protein kinases and epigenetic proteins. A. Discovery and development of bromodomain inhibitors. Bromodomain (BRD)-containing proteins are essential for the recognition of acetylated lysine (KAc) residues of histones during transcriptional activation. They regulate transcription, chromatin remodeling, gene splicing, protein scaffolding and signal transduction, and therefore, play fundamental roles in cell proliferation and division. BRDs have emerged as promising drug targets for a number of disease pathways that are characterized by changes in the epigenetic cell signature, particularly in cancer. Intense efforts are underway to discover new chemical scaffolds for hit-to-lead development campaigns of BRD inhibitors as novel cancer therapeutics. A1. BET bromodomain inhibitors. Members of the BET family (BRD2, BRD3, BRD4, and BRDT) are the most studied drug targets among BRDs. BRD4 is overexpressed in various cancers and can undergo translocations that are a hallmark of the lethal tumor NUT midline carcinoma. Previously, my lab discovered that diverse kinase inhibitors used in the clinic also inhibit BRD4 and other BET bromodomains (dual BRD4-kinase inhibitors). During the past five years we expanded our research on the polypharmacologic properties of kinase inhibitors by determining the mode of action of chemical scaffolds originally designed to target the kinases PLK1, ERK5 and LRRK2. Our studies revealed new insights for the rational design of drugs that inhibit BET proteins and kinases differentially, depending on the disease (published in 2021; PMID: 34710325). Due to the high structural similarity of the KAc binding sites, most reported inhibitors lack intra-BET selectivity. We surmised that protein-protein interactions induced by homomeric bivalent inhibitors may differ between BRD4 and the other BET proteins, conferring an altered selectivity profile. Starting from nonselective monovalent inhibitors, we developed cell-active bivalent inhibitors with increased activity and intra-BET selectivity, caused by the differential plasticity of bromodomains upon inhibitor-induced dimerization (published in 2022; PMID: 35867655). A2. TAF1 bromodomain inhibitors and degraders. TAF1 is the largest subunit of the transcription factor IID (TFIID) and brings other factors to promoter regions. Recently it was demonstrated that TAF1 has a critical role in AML1-ETO driven acute myeloid leukemia (AML). In collaboration with Justin Lopchuk and Jiandong Chen, we discovered the ATR kinase inhibitor ceralasertib as a bona fide inhibitor of TAF1 bromodomain. Functional studies on p53 signaling in cancer cell lines provided new insights into the feasibility and challenges of small molecule TAF1 inhibitors as therapeutics (published in 2022, PMID 35191694). Although monovalent inhibitors are potent binders of TAF1 such compounds lack cancer cell kill potential. Therefore, we applied a structure-guided approach to generate cereblon recruiting PROTACs of TAF1. These PROTACs are highly effective in degrading TAF1. TAF1 depletion activates p53 and induces apoptosis in cell lines of AML and certain solid tumors. Importantly, an in vivo active TAF1 PROTAC inhibited the growth of AML tumor xenograft. A manuscript about these first-in-class TAF1 degraders has been submitted, and an NIH/NCI R01 grant including Eric Padron as co-I has been awarded in 2024 to develop TAF1 degraders as cancer therapeutics. A3. EP300 and CBP bromodomain inhibitors. Two key proteins that function to maintain and reinforce malignant gene expression programs through regulation of transcription are the multidomain and paralogous histone acetyltransferases (HATs), EP300 and CBP. These proteins contain several highly homologous domains, including KIX, BRDs and HAT domains, through which they interact with, dock to, and acetylate target proteins, respectively. In collaboration with Jun Qi (DFCI) and Wei Zhang (University of Massachusetts) we identified a new potent and selective EP300/CBP bromodomain inhibitor (published in 2021, PMID 33872011). In collaboration with Adam Durbin (St. Jude) and Jun Qi (DFCI) we further explored EP300 and CBP through a domain-specific inhibitory approach. We discovered that targeting EP300/CBP using the inhibitors A485 (HAT) or CCS1477 (BRD) have different effects in select tumor types. These studies provide a domain-specific structural foundation for drug discovery efforts targeting EP300/CBP and identify a selective role for the EP300/CBP bromodomain in maintaining genetic dependency networks in G3MB (published in 2022 and 2024, PMID 34772733 and 38664416). A4. BRD7 and BRD9 bromodomain inhibitors. BRD9 has attracted attention as a druggable subunit of mSWI/SNF chromatin remodeling complexes. In contrast, BRD7 is a potential tumor suppressor with critical functions in oligodendrocytes progenitor cell differentiation. As the role of BRD7 in human biology is not fully understood, off-target inhibition of BRD7 by non-selective BRD9 inhibitors bears the risk of unwanted pleiotropic effects. An obstacle to the rational design of inhibitors selective for BRD9 was the limited structural information on BRD7. My lab applied a multifaceted approach towards the characterization of diverse small molecule inhibitors with varying degrees of potency and selectivity for BRD7 and BRD9. We report the discovery of first-in-class dual BRD9-kinase inhibitors. Novel crystal structures of BRD7 and BRD9 liganded with new and known inhibitors were determined, and the data afford a new framework for the structure-based design of inhibitors with improved selectivity or additional polypharmacologic properties (published in 2020, PMID 32091206). B. Discovery and development of kinase inhibitors. Recent successes in the development of small molecule protein kinase inhibitors as drugs have led to an influx in kinase-directed drug discovery programs. Although a vast number of ATP-competitive small molecule kinase inhibitors have been developed, lack of efficacy and side effects caused by off-target interactions have prevented many of these from advancing through clinical trials. Using structure-based design we previously discovered and/or developed highly potent inhibitors of the kinases Aurora A, CDK2, Rock1, MST3, and of the entire family of Wee kinases (Wee1, Wee2 and PKMYT1). Since 2019 we have focused our attention on inhibitors and degraders of the following kinases: B1. Allosteric inhibitors of CDK2. Compared to most ATP-site kinase inhibitors, small molecules that target an allosteric pocket have the potential for improved selectivity due to the often observed lower structural similarity at these distal sites. CDK2 is a target for many therapeutic indications, including cancer. However, an inhibitor against this kinase with exquisite selectivity has not reached the market because of the structural similarity between CDKs. In collaboration with Gunda Georg (University of Minnesota) we exploited our previously identified allosteric site in CDK2 to develop a series of first-in-class allosteric inhibitors that bind CDK2 with nanomolar affinity, making them the most potent, structurally confirmed allosteric CDK inhibitors reported (published in 2023, PMIDs 36701569 and 37270540). Based on a series of high-resolution cocrystal structures that my lab determined, we have entered a collaboration with Justin Lopchuk and Erin George for the development of bivalent allosteric CDK2 inhibitors to treat cancers characterized by cyclin E amplification, such as ovarian cancer. For this project, we were recently awarded funding through an R21 grant from the NCI. B2. Inhibitors of JAK2. The discovery that aberrant activity of Janus kinase 2 (JAK2) is a driver of myeloproliferative neoplasms (MPNs) has led to significant efforts to develop small molecule inhibitors for this patient population. Ruxolitinib and fedratinib have been approved for use in MPN patients, while baricitinib, an achiral analogue of ruxolitinib, has been approved for rheumatoid arthritis. However, structural information on the interaction of these therapeutics with JAK2 remained unknown. In collaboration with Nicholas Lawrence and Gary Reuther, we determined the first crystal structures of JAK2 bound to these drugs and derivatives thereof. Along with biochemical and cellular data, the results provide a comprehensive view of the shape complementarity required for chiral and achiral inhibitors to achieve highest activity, which may facilitate the development of more effective JAK2 inhibitors as therapeutics (published in 2021, PMID 33570945). B3. Molecular glue degraders of cyclin K. CDK12 and its cognate cyclin co-activator protein, cyclin K, regulate transcription elongation and termination, co-transcriptional splicing, as well as RNA turnover. CDK12 has been shown to play essential roles in genome maintenance by regulating the expression of DNA damage repair genes. CDK12 inhibitors such as SR-4835 display molecular glue activity, which correlates with an enhanced ability to inhibit cell growth. This effect is achieved by facilitating the formation of a ternary complex that requires SR-4835, CDK12, and the adaptor protein DDB1, leading to the subsequent ubiquitination and degradation of cyclin K without the need for a DCAF substrate receptor. In collaboration with Andrii Monastyrskyi and Derek Duckett my lab performs biochemical and structural studies on a series of novel molecular glue degraders to determine the potential for this class of inhibitors as cancer therapeutics. This project is funded by a DoD grant and the first of a planned series of papers has just been published (PMID 39450271). B4. Inhibitors of ULK1. ULK1 is one of the central upstream regulators of the autophagy pathway and represents a key target for the development of molecular probes to abrogate autophagy and explore potential therapeutic avenues. In collaboration with Andrii Monastyrskyi and Derek Duckett my lab performed biochemical and structural studies on a series of novel ULK1 inhibitors. We have solved the crystal structure of a lead compound MR-2088 bound to the active site of ULK1. Combined, our findings underscore MR-2088\u2019s potential to inhibit starvation/stimuli-induced autophagic flux, coupled with its suitability for in vivo studies (published in 2024, PMID 38232465). This project will soon be submitted as an R01 to the NCI. My lab is also involved in a similar project to target the autophagy kinase ULK3 with novel small molecule inhibitors headed by Nicholas Lawrence (Bankhead-Coley grant 2024 \u2013 2027) and Conor Lynch (R01 NCI 2022 \u2013 2027). B5. Covalent inhibitors of EGFR and BTK. EGFR mutations cause cancer by regulating metabolic processes that are critical for cancer cell proliferation: BTK plays a crucial role in the development and function of B cells, making it a key target for treating B-cell malignancies like chronic lymphocytic leukemia (CLL). While several next generation inhibitors have been successfully used to target these two tyrosine kinases, drug resistance eventually overcomes the efficacy of these treatments. The Justin Lopchuk laboratory has developed a series of novel strain-release covalent inhibitors to specifically target a specific cysteine residue in the ATP sites of EGFR and BTK. My lab has recently determined the first crystal structure of this novel class of inhibitors covalently attached to EGFR. A manuscript about these studies is in preparation, and recently submitted grants to the NCI and Bankhead-Coley are pending. C. Other proteins C1. Inhibitors and degraders of GRB2. GRB2 is an adaptor protein that mediates activation of mitogenic Ras signaling pathways. Aberrant GRB2-dependent Ras activation significantly contributes to cancer development and progression. In collaboration with Mark Ji and Eric Haura, we have determined a high-resolution crystal structure of GRB2 liganded with a novel peptidomimetic inhibitor. The structure revealed key structural features for GRB2\u2013inhibitor binding and offers a new direction for structural optimization to generate cell-permeable inhibitors as well as PROTAC degraders for this key protein in aberrant Ras-MAPK signaling cascades. This project is funded through an R21 from the NCI. A first study was published in 2021 (PMID 32511789), and a new manuscript about recently developed first-in-class PROTAC degraders of GRB2 is in preparation. \n  *"
+  ],
+  "associations": [
+    "Drug Discovery",
+    "Malignant Hematology",
+    "Molecular Medicine Program",
+    "Molecular Oncology & Drug Discovery Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Max-Planck Research Unit for Structural Molecular Biology, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Max-Planck Research Unit for Structural Molecular Biology",
+      "specialty": "Structural Molecular Biology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo",
+      "pubmed_id": "40376796",
+      "pmc_id": "PMC12353786",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J",
+      "journal": "Mol Cancer Ther"
+    },
+    {
+      "title": "Macrocyclic dihydropyridine analogs as pan-BET BD2-preferred inhibitors",
+      "pubmed_id": "40120495",
+      "pmc_id": "PMC11993331",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Jiang J, Liang T, Solberg J, Chan A, Kalra P, Shi R, Pomerantz WCK, Hawkinson JE, Sch\u00f6nbrunn E, Georg GI",
+      "journal": "Eur J Med Chem"
+    },
+    {
+      "title": "Unc-51 Like Kinase 3 (ULK3) is essential for autophagy and cell survival in multiple myeloma",
+      "pubmed_id": "40831505",
+      "pmc_id": "PMC12363935",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Tauro M, Li T, Sudalagunta PR, Meads M, Canevarolo RR, Nerlakanti N, Alugubelli RR, Lawrence HR, Gunawan S, Ayaz M, Nareddy P, Yun SY, Shay G, Yang K, Tran TH, Bishop RT, Nasr MM, Lawrence NNJ, Sch\u00f6nbrunn E, Cleveland JL, Silva AS, Shain KH, Lynch CC",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Discovery and design of molecular glue enhancers of CDK12-DDB1 interactions for targeted degradation of cyclin K",
+      "pubmed_id": "39450271",
+      "pmc_id": "PMC11494886",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Ghosh P, Schmitz M, Pandurangan T, Zeleke ST, Chan SC, Mosior J, Sun L, Palve V, Grassie D, Anand K, Frydman S, Roush WR, Sch\u00f6nbrunn E, Geyer M, Duckett D, Monastyrskyi A",
+      "journal": "RSC Chem Biol"
+    },
+    {
+      "title": "Development of potent and selective ULK1/2 inhibitors based on 7-azaindole scaffold with favorable in vivo properties",
+      "pubmed_id": "38232465",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Morozova A, Chan SC, Bayle S, Sun L, Grassie D, Iermolaieva A, Kalaga MN, Frydman S, Sansil S, Sch\u00f6nbrunn E, Duckett D, Monastyrskyi A",
+      "journal": "Eur J Med Chem"
+    },
+    {
+      "title": "Group 3 medulloblastoma transcriptional networks collapse under domain specific EP300/CBP inhibition",
+      "pubmed_id": "38664416",
+      "pmc_id": "PMC11045757",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Shendy NAM, Bikowitz M, Sigua LH, Zhang Y, Mercier A, Khashana Y, Nance S, Liu Q, Delahunty IM, Robinson S, Goel V, Rees MG, Ronan MA, Wang T, Kocak M, Roth JA, Wang Y, Freeman BB, Orr BA, Abraham BJ, Roussel MF, Schonbrunn E, Qi J, Durbin AD",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Development of allosteric and selective CDK2 inhibitors for contraception with negative cooperativity to cyclin binding",
+      "pubmed_id": "37270540",
+      "pmc_id": "PMC10239507",
+      "year": "2023",
+      "publication_date": "2023 Jun",
+      "authors": "Faber EB, Sun L, Tang J, Roberts E, Ganeshkumar S, Wang N, Rasmussen D, Majumdar A, Hirsch LE, John K, Yang A, Khalid H, Hawkinson JE, Levinson NM, Chennathukuzhi V, Harki DA, Sch\u00f6nbrunn E, Georg GI",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Chemical Proteomics with Novel Fully Functionalized Fragments and Stringent Target Prioritization Identifies the Glutathione-Dependent Isomerase GSTZ1 as a Lung Cancer Target",
+      "pubmed_id": "36630201",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Liao Y, Chin Chan S, Welsh EA, Fang B, Sun L, Sch\u00f6nbrunn E, Koomen JM, Duckett DR, Haura EB, Monastyrskyi A, Rix U",
+      "journal": "Acs Chem Biol"
+    },
+    {
+      "title": "Screening through Lead Optimization of High Affinity, Allosteric Cyclin-Dependent Kinase 2 (CDK2) Inhibitors as Male Contraceptives That Reduce Sperm Counts in Mice",
+      "pubmed_id": "36701569",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Faber EB, Wang N, John K, Sun L, Wong HL, Burban D, Francis R, Tian D, Hong KH, Yang A, Wang L, Elsaid M, Khalid H, Levinson NM, Sch\u00f6nbrunn E, Hawkinson JE, Georg GI",
+      "journal": "J Med Chem"
+    },
+    {
+      "title": "Strategies for developing retinoic acid receptor alpha-selective antagonists as novel agents for male contraception",
+      "pubmed_id": "37776573",
+      "year": "2023",
+      "publication_date": "2023 Dec",
+      "authors": "Al Noman MA, Cuellar RAD, Kyzer JL, Chung SSW, Cheryala N, Holth TAD, Maitra S, Naqvi T, Wong HL, Sch\u00f6nbrunn E, Hawkinson JE, Wolgemuth DJ, Georg GI",
+      "journal": "Eur J Med Chem"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Generation of co-crystal structures of ALDH1A1 and ALDH1A2 with an inhibitor  \nAward Number: 75N94023D00006/74N94023F00003  \nSponsor: National Institute of Child Health and Human Development (NICHD)  \nSchonbrunn, E. (PD/PI)",
+      "title": "Generation of co-crystal structures of ALDH1A1 and ALDH1A2 with an inhibitor",
+      "award_number": "75N94023D00006/74N94023F00003",
+      "sponsor": "National Institute of Child Health and Human Development (NICHD)",
+      "investigators": [
+        {
+          "name": "Schonbrunn, E.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Selective Targeting of TAF1 Function in Acute Myeloid Leukemia  \nAward Number: 1R01CA279378-01A1  \nSponsor: National Cancer Institute (NCI)  \nChen, J. (PD/PI), Lopchuk, J. (PD/PI), Schonbrunn, E. (PD/PI)",
+      "title": "Selective Targeting of TAF1 Function in Acute Myeloid Leukemia",
+      "award_number": "1R01CA279378-01A1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Chen, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Lopchuk, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Schonbrunn, E.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Development of bifunctional CDK2 inhibitors for treatment of CCNE1-driven cancers  \nAward Number: 1R21CA288927-01  \nSponsor: National Cancer Institute (NCI)  \nLopchuk, J. (PD/PI), Schonbrunn, E. (PD/PI)",
+      "title": "Development of bifunctional CDK2 inhibitors for treatment of CCNE1-driven cancers",
+      "award_number": "1R21CA288927-01",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Lopchuk, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Schonbrunn, E.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/schonbrunn/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=Y42POyIAAAAJ&hl=en",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SchonbrunnErnst_4127.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4127"
+  },
+  "content_hash": "532adb2bb8b7267e4ee421909b3abeb32cdf633c15a54aceb85d37fc23389986",
+  "researcher_name": "ernst schonbrunn",
+  "department": "drug discovery"
+}

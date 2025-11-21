@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/doug-letson",
-  "last_updated": "2025-10-21T16:38:53.755116",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/doug-letson/",
+  "last_updated": "2025-11-21T22:50:23.532465",
   "researcher_id": "1337",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Sarcoma",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "sarcoma",
+  "research_program": "molecular medicine",
   "overview": "Dr. Letson and his collaborators strive to develop novel surgical techniques for musculoskeletal tumors; tumor prosthesis for skeletal reconstruction; and navigational and robotic musculoskeletal tumor surgery.",
   "research_interests": [
     "As an orthopaedic oncology surgeon, Dr. Letson\u2019s research and clinical interests include matrix metalloproteinases; novel therapeutic agents to treat sarcoma; limb salvage for bone and soft tissue tumors; as well as segmental prosthesis, new hinge designs and a soft tissue attachment for metallic prosthesis.\n  *"
@@ -127,11 +127,14 @@
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LetsonDoug_1337.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1337"
   },
-  "content_hash": "d413a70a6408043f5a8ba7ce795abb8608a02e4862faadfd9faa405a84d307d4",
-  "researcher_name": "Doug Letson",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "c10daf85671c051b2eb49f43bf5b6f5bcf0f215eec7bb61d126136f8b7f67eec",
+  "researcher_name": "doug letson",
+  "department": "tumor microenvironment and metastasis"
 }

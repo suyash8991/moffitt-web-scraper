@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jose-alejandro-guevara",
-  "last_updated": "2025-10-21T16:39:55.031165",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jose-alejandro-guevara/",
+  "last_updated": "2025-11-21T22:50:24.818309",
   "researcher_id": "29147",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Immunology",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "immunology",
+  "research_program": "immuno-oncology",
   "overview": "Dr. Guevara-Pati\u00f1o\u2019s research is focused on identifying signaling cues that can be exploited for the benefit of cancer patients receiving T cell-based immunotherapy, by deeply understanding the immune fertile conditions that are necessary to generate robust anti-tumor T cell responses. Jos\u00e9 Alejandro is specifically interested in understanding the role of RPS6 as well as the effects of tumor-related hypoxia on anti-tumor T cells. In addition, he is implementing machine learning approaches for the development of immunological predictive biomarkers that will permit the stratification of cancer patients receiving immunotherapies.",
   "research_interests": [
     "Dr. Guevara-Pati\u00f1o\u2019s research is focused on identifying signaling cues that can be exploited for the benefit of cancer patients receiving T cell-based immunotherapy, by deeply understanding the immune fertile conditions that are necessary to generate robust anti-tumor T cell responses. Jos\u00e9 Alejandro is specifically interested in understanding the role of RPS6 as well as the effects of tumor-related hypoxia on anti-tumor T cells. In addition, he is implementing machine learning approaches for the development of immunological predictive biomarkers that will permit the stratification of cancer patients receiving immunotherapies.\n  *"
@@ -35,6 +35,15 @@
   ],
   "publications": [
     {
+      "title": "PV-10 Triggers Immunogenic Cell Death in Head and Neck Squamous Cell Carcinoma via Endoplasmic Reticulum Stress and Apoptosis",
+      "pubmed_id": "40552938",
+      "pmc_id": "PMC12327362",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
+      "journal": "Mol Cancer Ther"
+    },
+    {
       "title": "Clinical significance of peripheral T-cell repertoire in head and neck squamous cell carcinoma treated with cetuximab and nivolumab",
       "pubmed_id": "40056190",
       "pmc_id": "PMC11890688",
@@ -42,15 +51,6 @@
       "publication_date": "2025 Mar",
       "authors": "Wang X, Li T, Slebos RJC, Chaudhary R, Guevara-Patino JA, Bonomi M, Saba NF, Chung CH",
       "journal": "Cancer Immunol Immun"
-    },
-    {
-      "title": "PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis",
-      "pubmed_id": "40552938",
-      "pmc_id": "PMC12327362",
-      "year": "2025",
-      "publication_date": "2025 Jun",
-      "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
-      "journal": "Mol Cancer Ther"
     },
     {
       "title": "Effector T cells under hypoxia have an altered transcriptome similar to tumor-stressed T cells found in non-responsive melanoma patients",
@@ -172,11 +172,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GuevaraJoseAlejandro_29147.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=29147"
   },
-  "content_hash": "d14fdb2e1cf67fae97a61e9e3449235779d71c9a696a1ebaf2d901ecc5b0cc35",
-  "researcher_name": "Jose Alejandro Guevara",
-  "department": "Immunology"
+  "content_hash": "d2ee0df1680fdc50f83463652b57b51494d94ec7ab38666fed0c41920a186548",
+  "researcher_name": "jose alejandro guevara",
+  "department": "immunology"
 }

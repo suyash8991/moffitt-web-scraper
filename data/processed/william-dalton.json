@@ -1,0 +1,159 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/william-dalton/",
+  "last_updated": "2025-11-21T22:50:27.369656",
+  "researcher_id": "529",
+  "degrees": [
+    "PhD",
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Dalton's research examines the influence of the tumor microenvironment on tumor cell survival and progression.",
+  "research_interests": [
+    "Dr. Dalton and his colleagues have found that elements of the bone marrow microenvironment, including extracellular matrices and normal stromal elements, protect hematologic malignant cells from drug-induced cell death. They proposed that environmentally mediated drug resistance (EMDR) protects tumor cells from stress and cell death by two mechanisms: 1) a paracrine mechanism due to soluble cytokine factors produced as a result of the tumor cell:environment interaction; and 2) a physical contact mechanism they have termed 'cell adhesion'mediated drug resistance\" (CAM-DR). Their initial studies comparing genotypic and phenotypic profiles of drug resistance indicate that EMDR is less complex than acquired drug resistance. Focusing on EMDR may ultimately prevent the emergence of acquired drug resistance and enhance drug therapy for hematologic malignancies.Dr. Dalton and his colleagues have examined the signal transduction pathways associated with tumor cells and the microenvironment with the idea that a thorough understanding of these pathways will lead to new therapeutic targets. They reported that adhesion to fibronectin of myeloma cell lines causes a reversible G1 arrest, which correlated with increased levels of p27kip1. Myeloma is characterized as a slow-growing malignancy, and the bone marrow microenvironment may participate in regulating the growth of the disease. They also showed that adhesion-mediated increases in p27kip1 levels contribute to the CAM-DR phenotype, as reducing p27kip1 levels with antisense techniques partially reversed the phenotype.Similarly, Dr. Dalton and his colleagues, in collaboration with Dr. Gabrilovich of the Immunology Program, investigated the role of Notch family proteins in hematologic tumor cell line growth and response to chemotherapeutic drugs. Interaction with bone marrow stroma activated Notch signaling in tumor cells. However, activation of only Notch-1, but not Notch-2, resulted in protection of tumor cells from melphalan- and mitoxantrone-induced apoptosis. This protection was associated with up-regulation of p21WAF/Cip and inhibition of cell growth. Overexpression of Notch-1 in Notch-1'negative U266 myeloma cells up-regulated p21 and resulted in protection from drug-induced apoptosis. This was the first report demonstrating that Notch-1 signaling may be a primary mechanism mediating the bone marrow stromal influence on hematologic malignant cell growth and survival.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Pentecost Family Myeloma Research Center",
+    "Molecular Medicine Program",
+    "Experimental Therapeutics Program",
+    "DeBartolo Family Personalized Medicine Institute"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Indiana University, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Indiana University",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Indiana University",
+      "position": "Intern",
+      "specialty": "Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Arizona",
+      "specialty": "Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Arizona",
+      "specialty": "Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Arizona",
+      "specialty": "Clinical Pharmacology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma",
+      "pubmed_id": "39476082",
+      "pmc_id": "PMC11733535",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Epigenetic Plasticity Drives Carcinogenesis and Multi-Therapy Resistance in Multiple Myeloma",
+      "pubmed_id": "40321765",
+      "pmc_id": "PMC12048002",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Renatino Canevarolo R, Sudalagunta PR, Meads MB, Silva M, Zhao X, Magaletti D, Alugubelli RR, DeAvila G, Persi E, Maura F, Bell ET, Bishop RT, Cubitt CL, Sansil SS, Zhang W, Teer JK, Teng M, Yoder SJ, Siegel EM, Shah BD, Nishihori T, Hazlehurst LA, Lynch CC, Landgren O, Hampton O, Gatenby RA, Sullivan DM, Brayer JB, Dalton WS, Cleveland JL, Alsina M, Baz R, Shain KH, Silva AS",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Multicellular immune ecotypes within solid tumors predict real-world therapeutic benefits with immune checkpoint inhibitors",
+      "pubmed_id": "39072034",
+      "pmc_id": "PMC11275692",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Wang X, Li T, Eljilany I, Sukrithan V, Ratan A, McCarter M, Carpten J, Colman H, Ikeguchi AP, Puzanov I, Arnold S, Churchman M, Hwu P, Rodriguez PC, Dalton WS, Weiner GJ, Tarhini AA",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "The T Cell Immunoscore as a Reference for Biomarker Development Utilizing Real-World Data from Patients with Advanced Malignancies Treated with Immune Checkpoint Inhibitors",
+      "pubmed_id": "37894280",
+      "pmc_id": "PMC10605389",
+      "year": "2023",
+      "publication_date": "2023 Oct",
+      "authors": "Eljilany I, Saghand PG, Chen J, Ratan A, McCarter M, Carpten J, Colman H, Ikeguchi AP, Puzanov I, Arnold S, Churchman M, Hwu P, Conejo-Garcia J, Dalton WS, Weiner GJ, El Naqa IM, Tarhini AA",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Personalizing Radiotherapy Prescription Dose Using Genomic Markers of Radiosensitivity and Normal Tissue Toxicity in NSCLC",
+      "pubmed_id": "33301984",
+      "pmc_id": "PMC8549863",
+      "year": "2021",
+      "publication_date": "2021 Mar",
+      "authors": "Scott JG, Sedor G, Scarborough JA, Kattan MW, Peacock J, Grass GD, Mellon EA, Thapa R, Schell M, Waller A, Poppen S, Andl G, Teer J, Eschrich SA, Dilling TJ, Dalton WS, Harrison LB, Fox T, Torres-Roca JF",
+      "journal": "J Thorac Oncol"
+    },
+    {
+      "title": "Plasma cell dependence on histone/protein deacetylase 11 reveals a therapeutic target in multiple myeloma",
+      "pubmed_id": "34793338",
+      "pmc_id": "PMC8783683",
+      "year": "2021",
+      "publication_date": "2021 Dec",
+      "authors": "Mostofa A, Distler A, Meads MB, Sahakian E, Powers JJ, Achille A, Noyes D, Wright G, Fang B, Izumi V, Koomen J, Rampakrishnan R, Nguyen TP, De Avila G, Silva AS, Sudalagunta P, Canevarolo RR, Siqueira Silva MDC, Alugubelli RR, Dai HA, Kulkarni A, Dalton WS, Hampton OA, Welsh EA, Teer JK, Tungesvik A, Wright KL, Pinilla-Ibarz J, Sotomayor EM, Shain KH, Brayer J",
+      "journal": "JCI Insight"
+    },
+    {
+      "title": "Recommendations for patient similarity classes: results of the AMIA 2019 workshop on defining patient similarity",
+      "pubmed_id": "32885823",
+      "pmc_id": "PMC7671612",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Seligson ND, Warner JL, Dalton WS, Martin D, Miller RS, Patt D, Kehl KL, Palchuk MB, Alterovitz G, Wiley LK, Huang M, Shen F, Wang Y, Nguyen KA, Wong AF, Meric-Bernstam F, Bernstam EV, Chen JL",
+      "journal": "J Am Med Inform Assoc"
+    },
+    {
+      "title": "Multiple Myeloma DREAM Challenge reveals epigenetic regulator PHF19 as marker of aggressive disease",
+      "pubmed_id": "32060406",
+      "pmc_id": "PMC7326699",
+      "year": "2020",
+      "publication_date": "2020 Jul",
+      "authors": "Mason MJ, Schinke C, Eng CLP, Towfic F, Gruber F, Dervan A, White BS, Pratapa A, Guan Y, Chen H, Cui Y, Li B, Yu T, Chaibub Neto E, Mavrommatis K, Ortiz M, Lyzogubov V, Bisht K, Dai HY, Schmitz F, Flynt E, Dan Rozelle, Danziger SA, Ratushny A, Dalton WS, Goldschmidt H, Avet-Loiseau H, Samur M, Hayete B, Sonneveld P, Shain KH, Munshi N, Auclair D, Hose D, Morgan G, Trotter M, Bassett D, Goke J, Walker BA, Thakurta A, Guinney J",
+      "journal": "Leukemia"
+    },
+    {
+      "title": "Melphalan and Exportin 1 Inhibitors Exert Synergistic Antitumor Effects in Preclinical Models of Human Multiple Myeloma",
+      "pubmed_id": "33023948",
+      "pmc_id": "PMC7718436",
+      "year": "2020",
+      "publication_date": "2020 Dec",
+      "authors": "Turner JG, Cui Y, Bauer AA, Dawson JL, Gomez JA, Kim J, Cubitt CL, Nishihori T, Dalton WS, Sullivan DM",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "BCL2 Amplicon Loss and Transcriptional Remodeling Drives ABT-199 Resistance in B Cell Lymphoma Models",
+      "pubmed_id": "31085176",
+      "pmc_id": "PMC6945775",
+      "year": "2019",
+      "publication_date": "2019 May",
+      "authors": "Zhao X, Ren Y, Lawlor M, Shah BD, Park PMC, Lwin T, Wang X, Liu K, Wang M, Gao J, Li T, Xu M, Silva AS, Lee K, Zhang T, Koomen JM, Jiang H, Sudalagunta PR, Meads MB, Cheng F, Bi C, Fu K, Fan H, Dalton WS, Moscinski LC, Shain KH, Sotomayor EM, Wang GG, Gray NS, Cleveland JL, Qi J, Tao J",
+      "journal": "Cancer Cell"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DaltonWilliam_529.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=529"
+  },
+  "content_hash": "3c46a156bd09513244588892967cc5807149fa8d4d1aad4bde16ac8989f379bb",
+  "researcher_name": "william dalton",
+  "department": ""
+}

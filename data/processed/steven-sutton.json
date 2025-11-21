@@ -1,0 +1,144 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/steven-sutton/",
+  "last_updated": "2025-11-21T22:50:26.979213",
+  "researcher_id": "7546",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "health outcomes & behavior",
+  "overview": "Cancer prevention and post-treatment quality of life.",
+  "research_interests": [
+    "Dr. Sutton\u2019s primary research interests as a behavior scientist are individual differences in (1) cancer prevention behaviors and responses to interventions and (2) quality of life in cancer survivors. Quantitative issues of greatest interest to Dr. Sutton focus on behavior measurement, longitudinal data analysis and management of missing data using multiple imputations.\n  *"
+  ],
+  "associations": [
+    "Biostatistics and Bioinformatics",
+    "Cancer Chemoprevention Research Interest Group",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Northwestern University, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Northwestern University, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "The University of Texas Austin, MA"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of California Berkeley",
+      "specialty": "Emotion Research"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Wisconsin",
+      "specialty": "Madison -"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Rationale and study protocol for a pilot study to determine the feasibility and acceptability of a tailored stress management enhanced behavioral weight loss intervention for black breast cancer survivors with obesity",
+      "pubmed_id": "41135815",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Carson TL, Llanos AAM, Fleming K, Pittman S, Pena A, Henderson J, Doerr V, Cooper AJ, Mallory M, Sutton S, Jim HSL",
+      "journal": "Contemp Clin Trials"
+    },
+    {
+      "title": "Using augmented reality to deliver cue exposure treatment for smoking cessation: App usability findings and protocol for a randomized controlled trial",
+      "pubmed_id": "39880329",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Poudel R, Dougan SO, Yates H, Sawyer L, Martinez U, Brandon KO, Sutton SK, Vidrine DJ, Ritterband LM, Wiseman KP, Vickerman KA, Turner K, Byrne MM, Yang MJ, Horta M, Brandon TH, Vinci C",
+      "journal": "Contemp Clin Trials"
+    },
+    {
+      "title": "Proximal Effects of a Just-in-Time Adaptive Intervention for Smoking Cessation With Wearable Sensors: Microrandomized Trial",
+      "pubmed_id": "40106803",
+      "pmc_id": "PMC11966069",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Vinci C, Sutton SK, Yang MJ, Jones SR, Kumar S, Wetter DW",
+      "journal": "JMIR Mhealth Uhealth"
+    },
+    {
+      "title": "Feasibility, Acceptability, and Outcomes of Project Rally: Pilot Study of a YMCA-Based Pickleball Program for Cancer Survivors",
+      "pubmed_id": "39942445",
+      "pmc_id": "PMC11817839",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Parker NH, de Cerqueira Santos A, Mintrone R, Turner K, Sutton SK, O'Connor T, Huang J, Lael M, Cruff S, Grassia K, De Vera MT, Bean M, Carmella R, Vadaparampil ST, Vidrine JI",
+      "journal": "Healthcare (Basel)"
+    },
+    {
+      "title": "Early Treatment Engagement and Long-Term Smoking Abstinence Among Women With Cervical Intraepithelial Neoplasia or Cervical Cancer",
+      "pubmed_id": "40673008",
+      "pmc_id": "PMC12264617",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Hoogland CE, Sutton SK, Fennell BS, Simmons VN, Vinci C, Naqa IE, Salloum RG, Shete SS, Hembree T, Vidrine DJ, Vidrine JI",
+      "journal": "AJPM Focus"
+    },
+    {
+      "title": "Changes in Skin Cancer-Related Behaviors, Distress, and Beliefs in Response to Receipt of Low- to Moderate-Penetrance Genetic Test Results for Skin Cancer Risk",
+      "pubmed_id": "39682213",
+      "pmc_id": "PMC11640494",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Khadka M, Lacson JCA, Sutton SK, Kim Y, Vadaparampil ST, Soto-Torres B, Hay JL, Kanetsky PA",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Longitudinal adherence to annual colorectal cancer screening among Black persons living in the United States enrolled in a community-based randomized trial",
+      "pubmed_id": "38150285",
+      "pmc_id": "PMC11009071",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Arevalo M, Sutton SK, Abdulla R, Christy SM, Meade CD, Roetzheim RG, Gwede CK",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Associations of Germline Genetic Variants With Depression and Fatigue Among Hematologic Cancer Patients Treated With Allogeneic Hematopoietic Cell Transplantation",
+      "pubmed_id": "37678326",
+      "pmc_id": "PMC10915106",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Hoogland AI, Gonzalez BD, Park JY, Small BJ, Sutton SK, Pidala JA, Smith KS, Bower JE, Jacobsen PB, Jim HSL",
+      "journal": "Psychosom Med"
+    },
+    {
+      "title": "Changes in Cancer Screening Knowledge Among a Prospective Cohort of Spanish-Speaking Hispanic Community Outreach Event Participants in Florida and Puerto Rico",
+      "pubmed_id": "37702848",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Christy SM, Castro-Figueroa EM, Lopez J, Sutton SK, McIntyre M, Garcia J, Cortes C, Vidal AV, Gwede CK, Marz\u00e1n M, Jimenez J, Vadaparampil ST",
+      "journal": "J Cancer Educ"
+    },
+    {
+      "title": "In-clinic Versus Online Recruitment of Women With a History of Cervical Intraepithelial Neoplasia or Cervical Cancer to a Smoking Cessation Trial: A Post hoc Comparison of Participant Characteristics, Study Retention, and Cessation Outcomes",
+      "pubmed_id": "38452212",
+      "pmc_id": "PMC11339160",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Fennell BS, Jones SR, Sutton SK, Hoogland CE, Cottrell-Daniels C, Wetter DW, Shih YT, Simmons VN, Stephens YP, Vidrine DJ, Vidrine JI",
+      "journal": "Nicotine Tob Res"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SuttonSteven_7546.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=7546"
+  },
+  "content_hash": "75418dacd1182a3dea5b5af4c904cfff132d729749a80f9482d8529694e8535f",
+  "researcher_name": "steven sutton",
+  "department": "biostatistics and bioinformatics"
+}

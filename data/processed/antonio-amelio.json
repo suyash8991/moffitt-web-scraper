@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/antonio-amelio",
-  "last_updated": "2025-10-21T16:35:05.887823",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/antonio-amelio/",
+  "last_updated": "2025-11-21T22:50:22.789777",
   "researcher_id": "32357",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Tumor Microenvironment and Metastasis",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "tumor microenvironment and metastasis",
+  "research_program": "cancer biology & evolution",
   "overview": "The Amelio Lab is a cancer cell biology lab focused on discovering the molecular mechanisms that drive tumor development and progression.",
   "research_interests": [
     "We use an interdisciplinary approach that integrates a combination of bioinformatics, genetically engineered cell line and animal models, pharmacologic and molecular genetic analyses, and synthetic biology approaches to investigate tumor development and progression and identify therapeutic vulnerabilities.\n  *"
@@ -28,11 +28,11 @@
       "journal": "Am J Clin Oncol"
     },
     {
-      "title": "PV-10 triggers immunogenic cell death in head and neck squamous cell carcinoma via endoplasmic reticulum stress and apoptosis",
+      "title": "PV-10 Triggers Immunogenic Cell Death in Head and Neck Squamous Cell Carcinoma via Endoplasmic Reticulum Stress and Apoptosis",
       "pubmed_id": "40552938",
       "pmc_id": "PMC12327362",
       "year": "2025",
-      "publication_date": "2025 Jun",
+      "publication_date": "2025 Nov",
       "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
       "journal": "Mol Cancer Ther"
     },
@@ -97,13 +97,13 @@
       "journal": "iScience"
     },
     {
-      "title": "Spon1+ inflammatory monocytes promote collagen remodeling and lung cancer metastasis through lipoprotein receptor 8 signaling",
-      "pubmed_id": "38716730",
-      "pmc_id": "PMC11141919",
+      "title": "Spatial interactions modulate tumor growth and immune infiltration",
+      "pubmed_id": "38826398",
+      "pmc_id": "PMC11142313",
       "year": "2024",
       "publication_date": "2024 May",
-      "authors": "Whately KM, Sengottuvel N, Edatt L, Srivastava S, Woods AT, Tsai YS, Porrello A, Zimmerman MP, Chack AC, Jefferys SR, Yacovone G, Kim DJ, Dudley AC, Amelio AL, Pecot CV",
-      "journal": "JCI Insight"
+      "authors": "West J, Marzban S, Srivast S, Kartika S, Bravo R, Safriel R, Zarski A, Anderson A, Chung C, Amelio A",
+      "journal": "Res Sq"
     }
   ],
   "grants": [
@@ -174,11 +174,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://www.ameliolab.org/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AmelioAntonio_32357.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32357"
   },
-  "content_hash": "bd162709ca478a917adb9a081f884f229d59a61618b14faffa7968459a8a74ea",
-  "researcher_name": "Antonio Amelio",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "8a265ea95a6b1f17832e92fd001fde3fabebffcb0331dcdbd3ede738bff1236a",
+  "researcher_name": "antonio amelio",
+  "department": "tumor microenvironment and metastasis"
 }

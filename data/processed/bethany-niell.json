@@ -1,0 +1,168 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/bethany-niell/",
+  "last_updated": "2025-11-21T22:50:22.897794",
+  "researcher_id": "15746",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "diagnostic imaging and interventional radiology",
+  "research_program": "cancer epidemiology",
+  "overview": "Dr. Bethany Niell, MD, PhD is the Section Chief of Breast Imaging at H. Lee Moffitt Cancer Center in Tampa, Florida. She is a board-certified subspecialty-trained diagnostic radiologist who actively participates in a breast imaging clinical practice, as well as educational activities, and clinical research. Her clinical practice involves interpreting mammograms, ultrasound, breast MRI and performing image-guided breast biopsies. Dr. Niell\u2019s major research interests focus on three main topics: 1) breast cancer risk stratification and supplemental screening in women at elevated risk of developing breast cancer; 2) radiomics (extraction of mineable data from medical images) within breast imaging; and 3) the appropriate utilization of breast imaging.",
+  "research_interests": [
+    "Dr. Niell\u2019s major research interests focus on three main topics: 1) breast cancer risk stratification and supplemental screening in women at elevated risk of developing breast cancer; 2) radiomics (extraction of mineable data from medical images) within breast imaging; and 3) the appropriate utilization of breast imaging.\n  *"
+  ],
+  "associations": [
+    "Diagnostic Imaging and Interventional Radiology",
+    "Cancer Epidemiology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Michigan, Rackham School of Graduate Studies, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University of Michigan, School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "St. Joseph Mercy Hospital",
+      "position": "Intern",
+      "specialty": "Transitional Year"
+    },
+    {
+      "type": "Residency",
+      "institution": "Massachusetts General Hospital",
+      "specialty": "Diagnostic Radiology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Appropriateness of acute breast symptom recommendations provided by ChatGPT",
+      "pubmed_id": "40540768",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Byrd C, Kingsbury C, Niell B, Funaro K, Bhatt A, Weinfurtner RJ, Ataya D",
+      "journal": "Clin Imaging"
+    },
+    {
+      "title": "A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer",
+      "pubmed_id": "40097486",
+      "pmc_id": "PMC11914126",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B",
+      "journal": "NPJ Breast Cancer"
+    },
+    {
+      "title": "Barriers and facilitators to breast cancer screening among high-risk women: a qualitative study",
+      "pubmed_id": "39190231",
+      "pmc_id": "PMC11786993",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Conley CC, Anderson A, Rodriguez JD, Kang H, Taylor EP, Luck C, Rosas Torres J, Cheraghi N, Newton N, Niell BL, O'Neill SC, Vadaparampil ST",
+      "journal": "Breast Cancer Res Treat"
+    },
+    {
+      "title": "Strategies for Identifying and Recruiting Women at High Risk for Breast Cancer for Research Outside of Clinical Settings: Observational Study",
+      "pubmed_id": "39222344",
+      "pmc_id": "PMC11406107",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Conley CC, Rodriguez JD, McIntyre M, Niell BL, O'Neill SC, Vadaparampil ST",
+      "journal": "J Med Internet Res"
+    },
+    {
+      "title": "Presurgical Upgrade Prediction of DCIS to Invasive Ductal Carcinoma Using Time-dependent Deep Learning Models with DCE MRI",
+      "pubmed_id": "38900042",
+      "pmc_id": "PMC11427917",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Mayfield JD, Ataya D, Abdalah M, Stringfield O, Bui MM, Raghunand N, Niell B, El Naqa I",
+      "journal": "Radiol Artif Intell"
+    },
+    {
+      "title": "ACR Appropriateness Criteria\u00ae Female Breast Cancer Screening:",
+      "pubmed_id": "38823941",
+      "year": "2023",
+      "publication_date": "2023 Update",
+      "authors": "Niell BL, Jochelson MS, Amir T, Brown A, Adamson M, Baron P, Bennett DL, Chetlen A, Dayaratna S, Freer PE, Ivansco LK, Klein KA, Malak SF, Mehta TS, Moy L, Neal CH, Newell MS, Richman IB, Schonberg M, Small W, Ulaner GA, Slanetz PJ"
+    },
+    {
+      "title": "Tumor Doubling Time and Screening Interval",
+      "pubmed_id": "38777534",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Bhatt AA, Niell B",
+      "journal": "Radiol Clin North Am"
+    },
+    {
+      "title": "NCCN Guidelines\u00ae Insights: Breast Cancer Screening and Diagnosis, Version 1",
+      "pubmed_id": "37673117",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Bevers TB, Niell BL, Baker JL, Bennett DL, Bonaccio E, Camp MS, Chikarmane S, Conant EF, Eghtedari M, Flanagan MR, Hawley J, Helvie M, Hodgkiss L, Hoyt TL, Ivanovich J, Jochelson MS, Kulkarni S, Lancaster RB, Mauer C, Maxwell J, Patel BK, Pearlman M, Philpotts L, Plecha D, Plichta JK, Shakeri S, Smith ML, Streibert CL, Strigel RM, Tumyan L, Winkler NS, Wolverton DE, Bergman MA, Kumar R, Stehman K"
+    },
+    {
+      "title": "ACR Appropriateness Criteria\u00ae Breast Implant Evaluation:",
+      "pubmed_id": "38040459",
+      "year": "2023",
+      "publication_date": "2023 Update",
+      "authors": "Chetlen A, Niell BL, Brown A, Baskies AM, Battaglia T, Chen A, Jochelson MS, Klein KA, Malak SF, Mehta TS, Sinha I, Tuscano DS, Ulaner GA, Slanetz PJ"
+    },
+    {
+      "title": "Self-reported barriers to screening breast MRI among women at high risk for breast cancer",
+      "pubmed_id": "37640965",
+      "year": "2023",
+      "publication_date": "2023 Nov",
+      "authors": "Conley CC, Rodriguez JD, McIntyre M, Brownstein NC, Niell BL, O'Neill SC, Vadaparampil ST",
+      "journal": "Breast Cancer Res Treat"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Radiomics and Pathomics to Predict Upstaging of DCIS  \nAward Number: 5R01CA249016-05  \nSponsor: National Cancer Institute (NCI)  \nNiell, B. (PD/PI), Raghunand, N. (PD/PI)",
+      "title": "Radiomics and Pathomics to Predict Upstaging of DCIS",
+      "award_number": "5R01CA249016-05",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Niell, B.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Raghunand, N.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Lesion Composition and Quantitative Imaging Analysis on Breast Cancer Diagnosis  \nAward Number: 5R01CA257652-04  \nSponsor: National Cancer Institute (NCI)  \nNiell, B. (PD/PI)",
+      "title": "Lesion Composition and Quantitative Imaging Analysis on Breast Cancer Diagnosis",
+      "award_number": "5R01CA257652-04",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Niell, B.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/NiellBethany_15746.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15746"
+  },
+  "content_hash": "fa2685adc976e6587ac6924245ebbabd7624334bb5c96d1239f97d01aacae044",
+  "researcher_name": "bethany niell",
+  "department": "cancer epidemiology"
+}

@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/alex-soupir)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/alex-soupir)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -502,8 +501,8 @@ I am broadly interested in computational methods for spatial biology, with a foc
     * Soupir AC, Hayes MT, Peak TC, Ospina O, Chakiryan NH, Berglund AE, Stewart PA, Nguyen J, Segura CM, Francis NL, Echevarria PMR, Chahoud J, Li R, Tsai KY, Balasi JA, Peres YC, Dhillon J, Martinez LA, Gloria WE, Schurman N, Kim S, Gregory M, Mulé J, Fridley BL, Manley BJ. Increased spatial coupling of integrin and collagen IV in the immunoresistant clear cell renal cell carcinoma tumor microenvironment. bioRxiv. 2023 Nov. Pubmedid: [38014063](https://www.ncbi.nlm.nih.gov/pubmed/38014063). Pmcid: PMC10680839. 
     * Ospina O, Soupir A, Fridley BL. A Primer on Preprocessing, Visualization, Clustering, and Phenotyping of Barcode-Based Spatial Transcriptomics Data. Methods Mol Biol. 2023 Mar.2629:115-140. Pubmedid: [36929076](https://www.ncbi.nlm.nih.gov/pubmed/36929076). 
     * Laajala TD, Sreekanth V, Soupir AC, Creed JH, Halkola AS, Calboli FCF, Singaravelu K, Orman MV, Colin-Leitzinger C, Gerke T, Fridley BL, Tyekucheva S, Costello JC. A harmonized resource of integrated prostate cancer clinical, -omic, and signature features. Sci Data. 2023 Jul.10(1):430. Pubmedid: [37407670](https://www.ncbi.nlm.nih.gov/pubmed/37407670). Pmcid: PMC10322899. 
-    * Laajala TD, Sreekanth V, Soupir A, Creed J, Calboli FC, Singaravelu K, Orman M, Colin-Leitzinger C, Gerke T, Fridley BL, Tyekucheva S, Costello JC. curatedPCaData: Integration of clinical, genomic, and signature features in a curated and harmonized prostate cancer data resource. bioRxiv. 2023 Jan. Pubmedid: [36711769](https://www.ncbi.nlm.nih.gov/pubmed/36711769). Pmcid: PMC9882125. 
     * Soupir AC, Tian Y, Stewart PA, Nunez-Lopez YO, Manley BJ, Pellini B, Bloomer AM, Zhang J, Mo Q, Marchion DC, Liu M, Koomen JM, Siegel EM, Wang L. Detectable Lipidomes and Metabolomes by Different Plasma Exosome Isolation Methods in Healthy Controls and Patients with Advanced Prostate and Lung Cancer. Int J Mol Sci. 2023 Jan.24(3). Pubmedid: [36768152](https://www.ncbi.nlm.nih.gov/pubmed/36768152). Pmcid: PMC9916336. 
+    * Laajala TD, Sreekanth V, Soupir A, Creed J, Calboli FC, Singaravelu K, Orman M, Colin-Leitzinger C, Gerke T, Fridley BL, Tyekucheva S, Costello JC. curatedPCaData: Integration of clinical, genomic, and signature features in a curated and harmonized prostate cancer data resource. bioRxiv. 2023 Jan. Pubmedid: [36711769](https://www.ncbi.nlm.nih.gov/pubmed/36711769). Pmcid: PMC9882125. 
     * Huang J, Du M, Soupir A, Wang L, Tan W, Kalari KR, Kilari D, Park J, Huang CC, Kohli M, Wang L. Plasma Copy Number Alteration-Based Prognostic and Predictive Multi-Gene Risk Score in Metastatic Castration-Resistant Prostate Cancer. Cancers (Basel). 2022 Sep.14(19). Pubmedid: [36230636](https://www.ncbi.nlm.nih.gov/pubmed/36230636). Pmcid: PMC9562906. 
     * Chang A, Chakiryan NH, Du D, Stewart PA, Zhang Y, Tian Y, Soupir AC, Bowers K, Fang B, Morganti A, Teer JK, Kim Y, Spiess PE, Chahoud J, Noble JD, Putney RM, Berglund AE, Robinson TJ, Koomen JM, Wang L, Manley BJ. Proteogenomic, Epigenetic, and Clinical Implications of Recurrent Aberrant Splice Variants in Clear Cell Renal Cell Carcinoma. Eur Urol. 2022 Oct.82(4):354-362. Pubmedid: [35718636](https://www.ncbi.nlm.nih.gov/pubmed/35718636). 
     * Tian Y, Soupir A, Liu Q, Wu L, Huang CC, Park JY, Wang L. Novel role of prostate cancer risk variant rs7247241 on PPP1R14A isoform transition through allelic TF binding and CpG methylation. Hum Mol Genet. 2022 May.31(10):1610-1621. Pubmedid: [34849858](https://www.ncbi.nlm.nih.gov/pubmed/34849858). Pmcid: PMC9122641. 
@@ -591,7 +590,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -646,7 +645,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/alex-soupir#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/alex-soupir#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -664,7 +663,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1018,7 +1017,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/alex-soupir#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/alex-soupir#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

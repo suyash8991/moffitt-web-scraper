@@ -1,0 +1,126 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/gary-daughdrill/",
+  "last_updated": "2025-11-21T22:50:23.819664",
+  "researcher_id": "6056",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer biology & evolution",
+  "overview": "",
+  "research_interests": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "associations": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Oregon, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Sequence Properties of An Intramolecular Interaction That Inhibits p53 DNA Binding",
+      "pubmed_id": "36358908",
+      "pmc_id": "PMC9687289",
+      "year": "2022",
+      "publication_date": "2022 Oct",
+      "authors": "Gregory E, Daughdrill GW",
+      "journal": "Biomolecules"
+    },
+    {
+      "title": "The MDMX Acidic Domain Uses Allovalency to Bind Both p53 and MDMX",
+      "pubmed_id": "36181774",
+      "pmc_id": "PMC9644833",
+      "year": "2022",
+      "publication_date": "2022 Nov",
+      "authors": "Fenton M, Borcherds W, Chen L, Anbanandam A, Levy R, Chen J, Daughdrill G",
+      "journal": "J Mol Biol"
+    },
+    {
+      "title": "Correction to \u03b1-Helix-Mimicking Sulfono-\u03b3-AApeptide Inhibitors for p53-MDM2/MDMX Protein-Protein Interactions",
+      "pubmed_id": "32822169",
+      "pmc_id": "PMC7853636",
+      "year": "2020",
+      "publication_date": "2020 Sep",
+      "authors": "Sang P, Shi Y, Lu J, Chen L, Yang L, Borcherds W, Abdulkadir S, Li Q, Daughdrill G, Chen J, Cai J",
+      "journal": "J Med Chem"
+    },
+    {
+      "title": "Rational Design of Right-Handed Heterogeneous Peptidomimetics as Inhibitors of Protein-Protein Interactions",
+      "pubmed_id": "33140956",
+      "pmc_id": "PMC8170677",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Shi Y, Sang P, Lu J, Higbee P, Chen L, Yang L, Odom T, Daughdrill G, Chen J, Cai J",
+      "journal": "J Med Chem"
+    },
+    {
+      "title": "Disorder for Dummies: Functional Mutagenesis of Transient Helical Segments in Disordered Proteins",
+      "pubmed_id": "32696350",
+      "year": "2020",
+      "publication_date": "2020 Jul",
+      "authors": "Daughdrill GW",
+      "journal": "Methods Mol Biol"
+    },
+    {
+      "title": "Inhibition of p53 DNA binding by a small molecule protects mice from radiation toxicity",
+      "pubmed_id": "32555331",
+      "pmc_id": "PMC7398576",
+      "year": "2020",
+      "publication_date": "2020 Jul",
+      "authors": "Li Q, Karim RM, Cheng M, Das M, Chen L, Zhang C, Lawrence HR, Daughdrill GW, Schonbrunn E, Ji H, Chen J",
+      "journal": "Oncogene"
+    },
+    {
+      "title": "\u03b1-Helix-Mimicking Sulfono-\u03b3-AApeptide Inhibitors for p53-MDM2/MDMX Protein-Protein Interactions",
+      "pubmed_id": "31971801",
+      "pmc_id": "PMC7025332",
+      "year": "2020",
+      "publication_date": "2020 Feb",
+      "authors": "Sang P, Shi Y, Lu J, Chen L, Yang L, Borcherds W, Abdulkadir S, Li Q, Daughdrill GW, Chen J, Cai J",
+      "journal": "J Med Chem"
+    },
+    {
+      "title": "Rational Design and Synthesis of Right-Handed d-Sulfono-\u03b3-AApeptide Helical Foldamers as Potent Inhibitors of Protein-Protein Interactions",
+      "pubmed_id": "32700908",
+      "pmc_id": "PMC8204676",
+      "year": "2020",
+      "publication_date": "2020 Aug",
+      "authors": "Sang P, Shi Y, Higbee P, Wang M, Abdulkadir S, Lu J, Daughdrill GW, Chen J, Cai J",
+      "journal": "J Org Chem"
+    },
+    {
+      "title": "p53 Phosphomimetics Preserve Transient Secondary Structure but Reduce Binding to Mdm2 and MdmX",
+      "pubmed_id": "30832340",
+      "pmc_id": "PMC6468375",
+      "year": "2019",
+      "publication_date": "2019 Mar",
+      "authors": "Levy R, Gregory E, Borcherds W, Daughdrill G",
+      "journal": "Biomolecules"
+    },
+    {
+      "title": "Conserved Glycines Control Disorder and Function in the Cold-Regulated Protein, COR15A",
+      "pubmed_id": "30832369",
+      "pmc_id": "PMC6468432",
+      "year": "2019",
+      "publication_date": "2019 Mar",
+      "authors": "Sowemimo OT, Knox-Brown P, Borcherds W, Rindfleisch T, Thalhammer A, Daughdrill GW",
+      "journal": "Biomolecules"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=6056"
+  },
+  "content_hash": "a588f0884529e5e55bdcee01ee14c13832984a0ece4f012e4c037e4e13f08a2a",
+  "researcher_name": "gary daughdrill",
+  "department": ""
+}

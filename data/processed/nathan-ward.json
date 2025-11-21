@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/nathan-ward",
-  "last_updated": "2025-10-21T16:33:29.775063",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/nathan-ward/",
+  "last_updated": "2025-11-21T22:50:26.077307",
   "researcher_id": "12112",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Metabolism and Physiology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "metabolism and physiology",
+  "research_program": "cancer biology & evolution",
   "overview": "The Ward Lab focuses on characterizing the influence of systemic metabolism and the tumor microenvironment on mitochondrial redox biology in primary and metastatic lung tumors. We achieve this through the implementation of mass-spec based -omics platforms, redox biosensors, and super-resolution microscopy.",
   "research_interests": [
     "My research program is centered on the intersection between metabolic compartmentalization and mitochondrial biology. We are interested in evaluating how the spatial distribution of cofactors, metabolites, and proteins dictate mitochondria metabolic function in support of lung tumor growth and resilience in response to nutrient scarcity and therapy. Within the context of lung cancer, we are currently focused on elucidating the following: i) how the Fe-S cluster synthesis pathway is coordinated to meet the varied cellular demands associated with tumorigenesis, ii) does substrate channeling of reducing equivalents exist across cellular compartments, and iii) do metabolic enzymes exhibit non-canonical functions (e.g. scaffolding) associated with their differential sub-organellar distribution. \n  *"
@@ -108,11 +108,14 @@
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WardNathan_12112.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=12112"
   },
-  "content_hash": "eaac321201f4c1028d69de473817f6ca3d9b7c05097baddd16dd482a63808114",
-  "researcher_name": "Nathan Ward",
-  "department": "Metabolism and Physiology"
+  "content_hash": "57cf60ea458578a387184cc7528c547a150d9250d8ddb349f2200392d281e90b",
+  "researcher_name": "nathan ward",
+  "department": "metabolism and physiology"
 }

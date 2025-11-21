@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/alberto-chiappori",
-  "last_updated": "2025-10-21T16:38:25.845471",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/alberto-chiappori/",
+  "last_updated": "2025-11-21T22:50:22.358312",
   "researcher_id": "422",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Thoracic Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "thoracic oncology",
+  "research_program": "molecular medicine",
   "overview": "Mesothelioma, neuroendocrine carcinomas, Thymic tumors",
   "research_interests": [
     "Dr. Chiappori\u2019s interest includes developmental therapeutics in lung cancer, focused on immunotherapy, particularly against small cell lung cancer (SCLC). Under the mentorship of Drs. Scott Antonia and Dmitry Gabrilovich (Immunology Program), Dr. Chiappori worked in developing and implementing an adenoviral transfected p53-based dendritic cell vaccine (Ad.p53-DC) for SCLC. Dr. Chiappori is the principal investigator of one of the projects of the SPORE in Lung Cancer awarded to the Moffitt Cancer Center, in which the Ad.p53-DC vaccine is being tested in SCLC patients in a 3-arm, phase II randomized design, against a control and against Ad.p53-DC plus all-trans retinoic acid to compare immune response. He also was awarded a Research Supplement to the SPORE in Lung Cancer, allowing him to be involved in a pilot project proposal aimed to identify, through pre- and post-vaccination PBMC microarray GE analyses, consistent differences that appear in patients with SCLC who develop a positive immune response to Ad.p53-DC vaccination that can be used as biomarkers for individualization and further refinement of future vaccine strategies. Additionally, Dr. Chiappori is pursuing development and implementation of biomarker-driven therapies in SCLC with a focus in pharmacogenomics for chemotherapy individualization and in drug development with HDAC, IGFR and PARP inhibitors.\n  *"
@@ -129,11 +129,39 @@
     }
   ],
   "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20938/",
+      "trial_id": "20938",
+      "title": "A Randomized Phase II Trial of Adjuvant Pembrolizumab Versus Observation Following Curative Resection for Stage I Non-Small Cell Lung Cancer (NSCLC) with Primary Tumors Between 1-4 cm",
+      "condition": "Thoracic",
+      "intervention": "Not Applicable (); Pembrolizumab (Keytruda)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22540/",
+      "trial_id": "22540",
+      "title": "A Phase 1, open-label, multicenter, first-in-human study to evaluate the safety, tolerability, pharmacokinetics, pharmacodynamics, and preliminary anti-tumor activity of VVD-130037, a Kelch-like ECH-associated protein 1 (KEAP1) activator, in participants with advanced solid tumors",
+      "condition": "Thoracic",
+      "intervention": "Pembrolizumab (Keytruda); Taxol (paclitaxel); Taxotere (docetaxel); VVD-130037 (); docetaxel (); paclitaxel ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23160/",
+      "trial_id": "23160",
+      "title": "A Phase 2 Study of Alisertib in Patients with Extensive Stage Small Cell Lung Cancer",
+      "condition": "Thoracic",
+      "intervention": "Alisertib (MLN8237); G-CSF ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChiapporiAlberto_422.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=422"
   },
-  "content_hash": "21759a75103f4d8b4adf3a0664966f727a07f13f5fa5fcc87d5d028c69884279",
-  "researcher_name": "Alberto Chiappori",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "a7ebe519a3702f7a01dbe323c1eb667207af464a11a2ec1c945b65fdba2ec9c6",
+  "researcher_name": "alberto chiappori",
+  "department": "tumor microenvironment and metastasis"
 }

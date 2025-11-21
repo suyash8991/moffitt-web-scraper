@@ -1,0 +1,151 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lia-perez/",
+  "last_updated": "2025-11-21T22:50:25.317381",
+  "researcher_id": "2891",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "blood and marrow transplant and cellular immunotherapy",
+  "research_program": "molecular medicine",
+  "overview": "",
+  "research_interests": [
+    "*"
+  ],
+  "associations": [
+    "Blood and Marrow Transplant and Cellular Immunotherapy",
+    "Molecular Medicine Program",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Universidad de Buenos Aires",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "The Brooklyn Hospital Center",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "Fernandez Hospital-University de Buenos Aires",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Memorial Sloan-Kettering Cancer Center",
+      "specialty": "Hematopoietic Stem Cell Transplantation"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Yale University School of Medicine",
+      "specialty": "Hematology/Medical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Hematology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Phase II Trial of Reduced-Intensity Fludarabine, Melphalan, and Total Body Irradiation Conditioning With Haploidentical Donor Peripheral Blood Stem Cell Transplant",
+      "pubmed_id": "40492500",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Elmariah H, Kim J, Gonzalez R, DiMaggio E, Sansil S, Mishra A, Faramand R, Perez L, Lazaryan A, Mirza AS, Khimani F, Liu H, Ochoa-Bayona JL, Nieder M, Perna F, Figura N, Robinson TJ, Nishihori T, Anasetti C, Pidala JA, Bejanyan N",
+      "journal": "Am J Hematol"
+    },
+    {
+      "title": "Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide",
+      "pubmed_id": "40617898",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H",
+      "journal": "Bone Marrow Transplant"
+    },
+    {
+      "title": "Impact of Obesity and Weight-Based Chemotherapy Dosing Adjustments on Outcomes of Allogeneic Hematopoietic Cell Transplant for Acute Myeloid Leukemia",
+      "pubmed_id": "41115629",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Gaskill E, Albanyan O, Naqvi SMH, Mo Q, Belfon A, Nishihori T, Faramand R, Lazaryan A, Hansen DK, Khimani F, Mishra A, Nieder M, Perez L, Liu H, Pidala J, Anasetti C, Bejanyan N, Elmariah H",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Correction: Anti-CD3/CD7 immunoconjugate (T-Guard) for severe, steroid-refractory GVHD: final report of BMT CTN 2002",
+      "pubmed_id": "40016514",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Meyers G, Hamadani M, Martens M, Ali H, Chevallier P, Choe H, Harris AC, Holler E, van Hooren E, Klaassen W, Leifer E, van Oosterhout Y, Perez L, Pusic I, Stelljes M, van der Velden W, Ammatuna E, Beauvais D, Cornillon J, Maziarz RT, Schetelig J, Romeril J, MacMillan ML, Levine JE, Soci\u00e9 G",
+      "journal": "Bone Marrow Transplant"
+    },
+    {
+      "title": "Comparison of Outcomes of Haploidentical Peripheral Blood Stem Cell Transplantation with Post-Transplant Cyclophosphamide in Older Versus Younger Patients",
+      "pubmed_id": "39858092",
+      "pmc_id": "PMC11763395",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Adoncecchi G, Kumar A, Mogili K, Faramand R, Liu H, Khimani F, Mishra A, Nieder M, Nishihori T, Hansen D, Jain M, Lazaryan A, Perez L, Pidala J, Locke F, Anasetti C, Bejanyan N, Elmariah H",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "A phase 2 multicenter trial of ruxolitinib to treat bronchiolitis obliterans syndrome after allogeneic HCT",
+      "pubmed_id": "39365992",
+      "pmc_id": "PMC11782820",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "DeFilipp Z, Kim HT, Cheng GS, Hamilton BK, Chhabra S, Hamadani M, Sandhu KS, Perez LE, Lee C, Brennan TL, Garrelts C, Brown BM, Gallagher KME, Newcomb RA, El-Jawahri A, Chen YB",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Lower Weight-Based Mycophenolate Mofetil Dosing is Associated with Superior Outcomes after Haploidentical Hematopoietic Cell Transplant with Post-transplant Cyclophosphamide",
+      "pubmed_id": "39102983",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Elmariah H, Otoukesh S, Kumar A, Ali H, Arslan S, Dimaggio E, Gonzalez R, Shouse G, Pourhassan H, Nishihori T, Faramand R, Mishra A, Khimani F, Fernandez H, Lazaryan A, Nieder M, Perez L, Liu H, Nakamura R, Pidala J, Marcucci G, Forman SJ, Anasetti C, Bejanyan N, Al Malki MM",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Outcomes of Haploidentical Stem Cell Transplant Recipients With HHV-6B Reactivation",
+      "pubmed_id": "39411216",
+      "pmc_id": "PMC11475747",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Handley G, Yepes A, Eliassen E, Dominguez G, Pasikhova Y, Klinkova O, Baluch A, Febres-Aldana AJ, Alsina M, Elmariah H, Khimani F, Hansen DK, Freeman CL, Jain MD, Locke F, Lazaryan A, Liu HD, Mishra A, Mirza AS, Nishihori T, Ochoa L, Perez L, Pidala J, Puglianini OC, Nieder M, Perna F, Kim J, Bejanyan N, Faramand R",
+      "journal": "Open Forum Infect Dis"
+    },
+    {
+      "title": "JAK2/mTOR inhibition fails to prevent acute GVHD despite reduced Th1/Th17 cells: final phase 2 trial results",
+      "pubmed_id": "39046783",
+      "pmc_id": "PMC11619790",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Pidala JA, Holtan SG, Walton K, Kim J, Cao B, Elmariah H, Mishra A, Bejanyan N, Nishihori T, Khimani F, Perez LE, Faramand RG, Davila ML, McSain S, Pleskow J, Baron J, Anasetti C, Moran Segura CM, Weisdorf DJ, Blazar BR, Miller JS, Bachanova V, El Jurdi N, Betts BC",
+      "journal": "Blood"
+    },
+    {
+      "title": "Melphalan Dose in Combination With Fludarabine Affects Gastrointestinal Toxicity and Graft-Versus-Host Disease After Allogeneic Transplantation in Acute Myeloid Leukemia and Myelodysplastic Syndromes",
+      "pubmed_id": "39147136",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Albanyan O, Elmariah H, Kalos D, Kim J, Faramand R, Sallman D, Mishra A, Sweet K, Perez L, Ochoa-Bayona J, Nieder M, Komrokji R, Lancet J, Fernandez H, Nishihori T, Pidala J, Anasetti C, Bejanyan N",
+      "journal": "Transplant Cell Ther"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PerezLia_2891.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2891"
+  },
+  "content_hash": "0f078267d61ee3ea838da27599d86f3220d6eea434d4f3893065a454df4ae53b",
+  "researcher_name": "lia perez",
+  "department": ""
+}

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/xuefeng-wang",
-  "last_updated": "2025-10-21T16:39:27.412340",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/xuefeng-wang/",
+  "last_updated": "2025-11-21T22:50:27.425291",
   "researcher_id": "17269",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "immuno-oncology",
   "overview": "Biomarker Discover; Computational Immuno-oncology; Translational Bioinformatics; Machine learning; Statistical genomics",
   "research_interests": [
     "Dr. Wang\u2019s research interests include Biostatistics, statistical genomics, and computational biology.His group develops efficient machine learning methods, such as kernel learning and probabilistic learning, for analyzing data in genomics, drug development and personalized medicine. Dr. Wang is currently involved in multiple collaborative research projects in cancer immunology and cancer epidemiology at Moffitt Cancer Center. Dr. Wang also holds adjunct faculty positions at Stony Brook University and Yale University. He was a Merck Quantitative Science Fellow (with Robert Elston) at Case Western Reserve University and a postdoctoral fellow at Harvard University.\n  *"
@@ -68,24 +68,6 @@
       "journal": "Bioinformatics"
     },
     {
-      "title": "Population-specific patterns in assessing molecular subtypes of young black females with triple-negative breast cancer",
-      "pubmed_id": "40069179",
-      "pmc_id": "PMC11897140",
-      "year": "2025",
-      "publication_date": "2025 Mar",
-      "authors": "Rajagopal PS, Reid S, Fan R, Venton L, Weidner A, Roberson ML, Vadaparampil S, Wang X, Yoder S, Rosa M, Sanders M, Gonzalez-Ericsson P, Hirbo J, Whisenant JG, Pietenpol J, Ye F, Pal T, Lehmann BD",
-      "journal": "NPJ Breast Cancer"
-    },
-    {
-      "title": "CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma",
-      "pubmed_id": "40235478",
-      "pmc_id": "PMC11998770",
-      "year": "2025",
-      "publication_date": "2025 Mar",
-      "authors": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J",
-      "journal": "Res Sq"
-    },
-    {
       "title": "Clinical significance of peripheral T-cell repertoire in head and neck squamous cell carcinoma treated with cetuximab and nivolumab",
       "pubmed_id": "40056190",
       "pmc_id": "PMC11890688",
@@ -95,6 +77,15 @@
       "journal": "Cancer Immunol Immun"
     },
     {
+      "title": "Population-specific patterns in assessing molecular subtypes of young black females with triple-negative breast cancer",
+      "pubmed_id": "40069179",
+      "pmc_id": "PMC11897140",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Rajagopal PS, Reid S, Fan R, Venton L, Weidner A, Roberson ML, Vadaparampil S, Wang X, Yoder S, Rosa M, Sanders M, Gonzalez-Ericsson P, Hirbo J, Whisenant JG, Pietenpol J, Ye F, Pal T, Lehmann BD",
+      "journal": "NPJ Breast Cancer"
+    },
+    {
       "title": "Progressive T cell exhaustion and predominance of aging tissue associated macrophages with advancing disease stage in penile squamous cell carcinoma",
       "pubmed_id": "40044748",
       "pmc_id": "PMC11882776",
@@ -102,6 +93,15 @@
       "publication_date": "2025 Mar",
       "authors": "Miyagi H, Yu X, Peak T, Dhillon J, Le C, Wang X, Yoder S, Marchion D, Lu X, Pettaway C, Moran Segura C, Zhang C, Roman Souza G, Yu A, Zemp L, Spiess P, Chahoud J",
       "journal": "Sci Rep"
+    },
+    {
+      "title": "CAR T cell-driven induction of iNOS in tumor-associated macrophages promotes CAR T cell resistance in B cell lymphoma",
+      "pubmed_id": "40235478",
+      "pmc_id": "PMC11998770",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Davila M, Lee SB, Kang YP, Boucher J, Mandula J, Roselli E, Chang D, Jimenez R, Kotani H, Reid K, Vazquez-Martinez J, Beatty N, Goala P, Sierra-Mondragon R, Liu M, Koomen J, Nguyen J, Hussaini M, Shaw T, Wang X, Faramand R, Jain M, Locke F, Rodriguez P, Sailer C, McSain S, Hamid S, Tariq M, Wang J, Abraham-Miranda J",
+      "journal": "Res Sq"
     },
     {
       "title": "Integrating Artificial Intelligence-Driven Digital Pathology and Genomics to Establish Patient-Derived Organoids as a Novel Alternative Model for Drug Response in Head and Neck Cancer",
@@ -152,11 +152,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/wang-xuefeng/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WangXuefeng_17269.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17269"
   },
-  "content_hash": "8b166dc5fcee4ef4ac59b39f3e21d08273b1b0243fa9eb71daef817623c2a352",
-  "researcher_name": "Xuefeng Wang",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "0b4640d218d7a704ced9c0522cd2c38c3f203f2a7f0f9107fc906497445f9b70",
+  "researcher_name": "xuefeng wang",
+  "department": "biostatistics and bioinformatics"
 }

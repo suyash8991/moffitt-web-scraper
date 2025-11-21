@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/dung-tsa-chen)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/dung-tsa-chen)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -520,8 +519,8 @@ Dr. Chen has been on numerous NCI grants as a co-investigator involving in the d
     * Echevarria MI, Yang GQ, Chen DT, Kirtane K, Russell J, Kish J, Muzaffar J, Otto K, Padhya T, McMullen C, Patel K, Chung CH, Caudell JJ. Phase 1 Dose Escalation of Stereotactic Body Radiation Therapy and Concurrent Cisplatin for Reirradiation of Unresectable, Recurrent Squamous Cell Carcinoma of the Head and Neck. Int J Radiat Oncol Biol Phys. 2023 Oct.117(2):341-347. Pubmedid: [37105404](https://www.ncbi.nlm.nih.gov/pubmed/37105404). 
     * Freeman CL, Atkins R, Varadarajan I, Menges M, Edelman J, Baz R, Brayer J, Castaneda Puglianini O, Ochoa-Bayona JL, Nishihori T, Shain KH, Shah B, Chen DT, Kelley L, Coppola D, Alsina M, Antonia S, Anasetti C, Locke FL. Survivin Dendritic Cell Vaccine Safely Induces Immune Responses and Is Associated with Durable Disease Control after Autologous Transplant in Patients with Myeloma. Clin Cancer Res. 2023 Nov.29(22):4575-4585. Pubmedid: [37735756](https://www.ncbi.nlm.nih.gov/pubmed/37735756). 
     * Gilardone S, Thapa R, Laborde J, Shafique M, Saltos A, Creelan B, Tanvetyanon T, Chiappori A, Simon G, Haura EB, Gray JE, Chen DT, Melzer D, Pellini B. Osimertinib vs. afatinib as first-line treatment for patients with metastatic non-small cell lung cancer with an EGFR exon 19 deletion or exon 21 L858R mutation. J Thorac Dis. 2023 Nov.15(11):6115-6125. Pubmedid: [38090314](https://www.ncbi.nlm.nih.gov/pubmed/38090314). Pmcid: PMC10713299. 
-    * Obermayer A, Chang D, Nobles G, Teng M, Tan AC, Wang X, Eschrich S, Rodriguez P, Grass GD, Meshinchi S, Tarhini A, Chen DT, Shaw T. DRPPM-PATH-SURVEIOR: Plug-and-Play Survival Analysis of Pathway-level Signatures and Immune Components. Res Sq. 2023 Mar. Pubmedid: [36993526](https://www.ncbi.nlm.nih.gov/pubmed/36993526). Pmcid: PMC10055629. 
     * Saller J, White D, Hough B, Yoder S, Whiting J, Chen DT, Magliocco A, Coppola D. An miRNA Signature Predicts Grading of Pancreatic Neuroendocrine Neoplasms. Cancer Genomics Proteomics. 2023 Mar.20(2):154-164. Pubmedid: [36870693](https://www.ncbi.nlm.nih.gov/pubmed/36870693). Pmcid: PMC9989673. 
+    * Obermayer A, Chang D, Nobles G, Teng M, Tan AC, Wang X, Eschrich S, Rodriguez P, Grass GD, Meshinchi S, Tarhini A, Chen DT, Shaw T. DRPPM-PATH-SURVEIOR: Plug-and-Play Survival Analysis of Pathway-level Signatures and Immune Components. Res Sq. 2023 Mar. Pubmedid: [36993526](https://www.ncbi.nlm.nih.gov/pubmed/36993526). Pmcid: PMC10055629. 
     * Obermayer AN, Chang D, Nobles G, Teng M, Tan AC, Wang X, Chen YA, Eschrich S, Rodriguez PC, Grass GD, Meshinchi S, Tarhini A, Chen DT, Shaw TI. PATH-SURVEYOR: pathway level survival enquiry for immuno-oncology and drug repurposing. BMC Bioinformatics. 2023 Jun.24(1):266. Pubmedid: [37380943](https://www.ncbi.nlm.nih.gov/pubmed/37380943). Pmcid: PMC10303868. 
     * Park MA, Zaw T, Yoder SJ, Gomez M, Genilo-Delgado M, Basinski T, Katende E, Dam A, Mok SRS, Monteiro A, Mohammadi A, Jeong DK, Jiang K, Centeno BA, Hodul P, Malafa M, Fleming J, Chen DT, Mo Q, Teer JK, Permuth JB. A pilot study to evaluate tissue- and plasma-based DNA driver mutations in a cohort of patients with pancreatic intraductal papillary mucinous neoplasms. G3 (Bethesda). 2023 Feb.13(2). Pubmedid: [36454217](https://www.ncbi.nlm.nih.gov/pubmed/36454217). Pmcid: PMC9911050. 
     * Tanvetyanon T, Chen DT, Gray JE. Impact of COVID-19 Pandemic on Frontline Pembrolizumab-Based Treatment for Advanced Lung Cancer. J Clin Med. 2023 Feb.12(4). Pubmedid: [36836146](https://www.ncbi.nlm.nih.gov/pubmed/36836146). Pmcid: PMC9960275. 
@@ -588,9 +587,9 @@ Dr. Chen has been on numerous NCI grants as a co-investigator involving in the d
     * Husain K, Centeno BA, Chen DT, Fulp WJ, Perez M, Zhang Lee G, Luetteke N, Hingorani SR, Sebti SM, Malafa MP. Prolonged survival and delayed progression of pancreatic intraepithelial neoplasia in LSL-KrasG12D/+;Pdx-1-Cre mice by vitamin E δ-tocotrienol. Carcinogenesis. 2013 Apr.34(4):858-863. Pubmedid: [23302291](https://www.ncbi.nlm.nih.gov/pubmed/23302291). Pmcid: PMC3616675. 
     * Chen L, Chen DT, Kurtyka C, Rawal B, Fulp WJ, Haura EB, Cress WD. Tripartite motif containing 28 (Trim28) can regulate cell proliferation by bridging HDAC1/E2F interactions. J Biol Chem. 2012 Nov.287(48):40106-40118. Pubmedid: [23060449](https://www.ncbi.nlm.nih.gov/pubmed/23060449). Pmcid: PMC3504725. 
     * Chen DT, Hernandez JM, Shibata D, McCarthy SM, Humphries LA, Clark W, Elahi A, Gruidl M, Coppola D, Yeatman T. Complementary strand microRNAs mediate acquisition of metastatic potential in colonic adenocarcinoma. J Gastrointest Surg. 2012 May.16(5):905-912. Pubmedid: [22362069](https://www.ncbi.nlm.nih.gov/pubmed/22362069). Pmcid: PMC6753785. 
+    * Bicaku E, Xiong Y, Marchion DC, Chon HS, Stickles XB, Chen N, Judson PL, Hakam A, Gonzalez-Bosquet J, Wenham RM, Apte SM, Fulp W, Cubitt CL, Chen DT, Lancaster JM. In vitro analysis of ovarian cancer response to cisplatin, carboplatin, and paclitaxel identifies common pathways that are also associated with overall patient survival. Brit J Cancer. 2012 Jun.106(12):1967-1975. Pubmedid: [22596241](https://www.ncbi.nlm.nih.gov/pubmed/22596241). Pmcid: PMC3388569. 
     * Nishihori T, Alekshun TJ, Shain K, Sullivan DM, Baz R, Perez L, Pidala J, Kharfan-Dabaja MA, Ochoa-Bayona JL, Fernandez HF, Yarde DN, Oliveira V, Fulp W, Han G, Kim J, Chen DT, Raychaudhuri J, Dalton W, Anasetti C, Alsina M. Bortezomib salvage followed by a Phase I/II study of bortezomib plus high-dose melphalan and tandem autologous transplantation for patients with primary resistant myeloma. Brit J Haematol. 2012 Jun.157(5):553-563. Pubmedid: [22449149](https://www.ncbi.nlm.nih.gov/pubmed/22449149). Pmcid: PMC4030553. 
     * McDaniel JM, Zou JX, Fulp W, Chen DT, List AF, Epling-Burnette PK. Reversal of T-cell tolerance in myelodysplastic syndrome through lenalidomide immune modulation. Leukemia. 2012 Jun.26(6):1425-1429. Pubmedid: [22193963](https://www.ncbi.nlm.nih.gov/pubmed/22193963). Pmcid: PMC3321111. 
-    * Bicaku E, Xiong Y, Marchion DC, Chon HS, Stickles XB, Chen N, Judson PL, Hakam A, Gonzalez-Bosquet J, Wenham RM, Apte SM, Fulp W, Cubitt CL, Chen DT, Lancaster JM. In vitro analysis of ovarian cancer response to cisplatin, carboplatin, and paclitaxel identifies common pathways that are also associated with overall patient survival. Brit J Cancer. 2012 Jun.106(12):1967-1975. Pubmedid: [22596241](https://www.ncbi.nlm.nih.gov/pubmed/22596241). Pmcid: PMC3388569. 
     * Judson PL, Al Sawah E, Marchion DC, Xiong Y, Bicaku E, Zgheib NB, Chon HS, Stickles XB, Hakam A, Wenham RM, Apte SM, Gonzalez-Bosquet J, Chen DT, Lancaster JM. Characterizing the efficacy of fermented wheat germ extract against ovarian cancer and defining the genomic basis of its activity. Int J Gynecol Cancer. 2012 Jul.22(6):960-967. Pubmedid: [22740002](https://www.ncbi.nlm.nih.gov/pubmed/22740002). Pmcid: PMC4036555. 
     * Zgheib NB, Xiong Y, Marchion DC, Bicaku E, Chon HS, Stickles XB, Sawah EA, Judson PL, Hakam A, Gonzalez-Bosquet J, Wenham RM, Apte SM, Cubitt CL, Chen DT, Lancaster JM. The O-glycan pathway is associated with in vitro sensitivity to gemcitabine and overall survival from ovarian cancer. Int J Oncol. 2012 Jul.41(1):179-188. Pubmedid: [22552627](https://www.ncbi.nlm.nih.gov/pubmed/22552627). Pmcid: PMC4017641. 
     * Helm J, Coppola D, Ganapathy V, Lloyd M, Centeno BA, Chen DT, Malafa MP, Park JY. SLC5A8 nuclear translocation and loss of expression are associated with poor outcome in pancreatic ductal adenocarcinoma. Pancreas. 2012 Aug.41(6):904-909. Pubmedid: [22450368](https://www.ncbi.nlm.nih.gov/pubmed/22450368). Pmcid: PMC4593304. 
@@ -733,7 +732,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -788,7 +787,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/dung-tsa-chen#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/dung-tsa-chen#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -806,7 +805,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1160,7 +1159,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/dung-tsa-chen#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/dung-tsa-chen#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

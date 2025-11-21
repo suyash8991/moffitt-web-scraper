@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/nicholas-lawrence",
-  "last_updated": "2025-10-21T16:37:11.719750",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/nicholas-lawrence/",
+  "last_updated": "2025-11-21T22:50:26.117252",
   "researcher_id": "3160",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Drug Discovery",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "drug discovery",
+  "research_program": "molecular medicine",
   "overview": "Our research concerns the development of new anticancer drugs using a combination of synthetic chemistry and natural product isolation",
   "research_interests": [
     "Our laboratory's efforts are focused on the synthesis of new anticancer agents. The goal of the laboratory is to design and develop synthetic methodology to provide small organic molecules to act as selective anticancer agents against a range of molecular targets. Our research concerns the development of new anticancer drugs using a combination of synthetic chemistry and natural product isolation; it involves a very productive collaborative program incorporating both chemistry and biology. One aspect of our research concerns the design and function of tumor vasculature targeting anticancer agents that interact with the elements of the cytoskeleton. We are investigating the nature of the colchicine-binding site of Beta-tubulin by the design of appropriate photo-affinity labeling agents and molecular modeling methods. Our laboratory is developing new anticancer agents based on agents related to combretastatins. These agents show potent activity in vitro and in vivo and are currently being prepared via serial and parallel synthesis for evaluation as tumor vasculature targeting drugs. The program also involves the structure activity study of complex derivatives of cucurbaticins. Natural products feature highly in our research, particularly as lead structures in the drug development process. The discovery of new bioactive natural products can often be a laborious venture. We are therefore developing novel natural product isolation techniques to help identify new structures with anticancer activity. In addition, we focus on the development of novel synthetic methodology. This has included methods for the clean asymmetric reduction of ketones using polymeric siloxanes. We are now developing new reagents for use in design and preparation of combinatorial libraries. Our a long-standing interest in multi-component reactions based on vicarious nucleophilic aromatic substitution now provides new processes for the rapid construction of molecular scaffolds for the development of combinatorial libraries for use in the high throughput screening lab.\n  *"
@@ -89,15 +89,6 @@
       "journal": "Clin Cancer Res"
     },
     {
-      "title": "Mesenchymal stem cell-derived interleukin-28 drives the selection of apoptosis resistant bone metastatic prostate cancer",
-      "pubmed_id": "33526787",
-      "pmc_id": "PMC7851397",
-      "year": "2021",
-      "publication_date": "2021 Feb",
-      "authors": "McGuire JJ, Frieling JS, Lo CH, Li T, Muhammad A, Lawrence HR, Lawrence NJ, Cook LM, Lynch CC",
-      "journal": "Nat Commun"
-    },
-    {
       "title": "Structural Insights into JAK2 Inhibition by Ruxolitinib, Fedratinib, and Derivatives Thereof",
       "pubmed_id": "33570945",
       "pmc_id": "PMC8327781",
@@ -105,6 +96,15 @@
       "publication_date": "2021 Feb",
       "authors": "Davis RR, Li B, Yun SY, Chan A, Nareddy P, Gunawan S, Ayaz M, Lawrence HR, Reuther GW, Lawrence NJ, Sch\u00f6nbrunn E",
       "journal": "J Med Chem"
+    },
+    {
+      "title": "Mesenchymal stem cell-derived interleukin-28 drives the selection of apoptosis resistant bone metastatic prostate cancer",
+      "pubmed_id": "33526787",
+      "pmc_id": "PMC7851397",
+      "year": "2021",
+      "publication_date": "2021 Feb",
+      "authors": "McGuire JJ, Frieling JS, Lo CH, Li T, Muhammad A, Lawrence HR, Lawrence NJ, Cook LM, Lynch CC",
+      "journal": "Nat Commun"
     },
     {
       "title": "Metabolic reprogramming augments potency of human pSTAT3-inhibited iTregs to suppress alloreactivity",
@@ -151,11 +151,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LawrenceNicholas_3160.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3160"
   },
-  "content_hash": "3e94d87bf5e978cdb85249388b165dcb1c04f99e74d91ed243d1a0af7f79e0bf",
-  "researcher_name": "Nicholas Lawrence",
-  "department": "Drug Discovery"
+  "content_hash": "b9520f5769364011d7687af7be3e9ff71adb63790a322048bab5c31b5b4bcd06",
+  "researcher_name": "nicholas lawrence",
+  "department": "drug discovery"
 }

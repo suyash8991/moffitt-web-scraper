@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/vince-luca",
-  "last_updated": "2025-10-21T16:37:19.710673",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/vince-luca/",
+  "last_updated": "2025-11-21T22:50:27.313990",
   "researcher_id": "17757",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Immunology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "immunology",
+  "research_program": "molecular medicine",
   "overview": "The Luca Lab studies the \"molecular language\" of cell-to-cell communication using cutting edge approaches in structural, cellular and synthetic biology. Our goal is to visualize how cells send and receive information at the atomic level, and to harness this insight to guide the engineering of next-generation cancer therapeutics.",
   "research_interests": [
     "Dr. Luca's research harnesses the power of directed evolution to understand how molecular signals control cellular behavior. Directed evolution enables us to evolve proteins \"in a test tube\" by generating millions of mutants and then selecting the \"winners\" with the best functional properties. We study these unique variants to determine how cellular receptors become activated and to guide the development of precisely targeted therapeutics. Our expertise with yeast display allows us to evolve complex eukaryotic proteins, which creates new avenues for the manipulation of difficult-to-target mammalian signaling pathways. Current projects in the lab integrate directed evolution with x-ray crystallography, computational modeling, and cell biology to illuminate receptor systems involved in the development of stem cells.\n  *"
@@ -58,15 +58,6 @@
       "journal": "Nat Commun"
     },
     {
-      "title": "Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models",
-      "pubmed_id": "40825611",
-      "pmc_id": "PMC12366563",
-      "year": "2025",
-      "publication_date": "2025 Aug",
-      "authors": "Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM",
-      "journal": "J Immunother Cancer"
-    },
-    {
       "title": "Structure-guided engineering of CD112 receptor variants for optimized immunotherapy",
       "pubmed_id": "40285356",
       "pmc_id": "PMC12368799",
@@ -74,6 +65,15 @@
       "publication_date": "2025 Aug",
       "authors": "Singh S, Julia E, Kalita P, Mason C, Ming Q, Lee-Sam A, Gordon S, Buitrago ME, Leung DW, Hwu P, Luca VC",
       "journal": "Mol Ther"
+    },
+    {
+      "title": "Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models",
+      "pubmed_id": "40825611",
+      "pmc_id": "PMC12366563",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM",
+      "journal": "J Immunother Cancer"
     },
     {
       "title": "Notch1 Phase Separation Coupled Percolation facilitates target gene expression and enhancer looping",
@@ -103,15 +103,6 @@
       "journal": "Nat Commun"
     },
     {
-      "title": "Structural basis for mouse LAG3 interactions with the MHC class II molecule I-Ab",
-      "pubmed_id": "39209860",
-      "pmc_id": "PMC11362559",
-      "year": "2024",
-      "publication_date": "2024 Aug",
-      "authors": "Ming Q, Antfolk D, Price DA, Manturova A, Medina E, Singh S, Mason C, Tran TH, Smalley KSM, Leung DW, Luca VC",
-      "journal": "Nat Commun"
-    },
-    {
       "title": "Engineering synthetic agonists for targeted activation of Notch signaling",
       "pubmed_id": "39149362",
       "pmc_id": "PMC11326249",
@@ -119,6 +110,15 @@
       "publication_date": "2024 Aug",
       "authors": "Perez DH, Antfolk D, Medina E, Gonzalez-Perez D, Luca VC",
       "journal": "bioRxiv"
+    },
+    {
+      "title": "Functional characterization of 2,832 JAG1 variants supports reclassification for Alagille syndrome and improves guidance for clinical variant interpretation",
+      "pubmed_id": "39043182",
+      "pmc_id": "PMC11339624",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Gilbert MA, Keefer-Jacques E, Jadhav T, Antfolk D, Ming Q, Valente N, Shaw GT, Sottolano CJ, Matwijec G, Luca VC, Loomes KM, Rajagopalan R, Hayeck TJ, Spinner NB",
+      "journal": "Am J Hum Genet"
     }
   ],
   "grants": [
@@ -226,11 +226,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LucaVince_17757.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17757"
   },
-  "content_hash": "1d79702defbaa3928380eeaddc1c6750c546eb98887a76138bbca60a5720a245",
-  "researcher_name": "Vince Luca",
-  "department": "Immunology"
+  "content_hash": "6f8925b6cacdff49d7ce25faf09e9169a5b39a0bc9263f1f240aa45e2ee54341",
+  "researcher_name": "vince luca",
+  "department": "immunology"
 }

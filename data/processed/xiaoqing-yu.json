@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/xiaoqing-yu",
-  "last_updated": "2025-10-21T16:39:30.854917",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/xiaoqing-yu/",
+  "last_updated": "2025-11-21T22:50:27.408245",
   "researcher_id": "18896",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "immuno-oncology",
   "overview": "Studying the immune-tumor interaction across cancer types and building predictive models for patients\u2019 response to immunotherapy; and 2) Statistical and bioinformatics methods development to identify aberrant methylation patterns in tumors using bisulfite sequencing data.",
   "research_interests": [
     "Dr. Yu brings both experience in methodology development and collaborative research in bioinformatics, biostatistics and genomics. Her particular areas of research focus and interest include: 1) Studying the immune-tumor interaction across cancer types and building predictive models for patients\u2019 response to immunotherapy; and 2) Statistical and bioinformatics methods development to identify aberrant methylation patterns in tumors using bisulfite sequencing data. Through her research experience she is poised to make significant contributions to addressing complex questions in cancer research by applying and developing modern statistical, bioinformatics and computational methods.\n  *"
@@ -160,11 +160,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/YuXiaoqing_18896.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=18896"
   },
-  "content_hash": "ebe9932a6f224439840ce64bc8a1a62a2b80b7481ae318969fbe4dc4ac595c0f",
-  "researcher_name": "Xiaoqing Yu",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "5a9c5630f7d8dc599f289ceb2d2a1475650eeb3780fdb75c6fd2f625b6d11d42",
+  "researcher_name": "xiaoqing yu",
+  "department": "biostatistics and bioinformatics"
 }

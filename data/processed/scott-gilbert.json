@@ -1,0 +1,167 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/scott-gilbert/",
+  "last_updated": "2025-11-21T22:50:26.802857",
+  "researcher_id": "13426",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "genitourinary oncology",
+  "research_program": "health outcomes & behavior",
+  "overview": "Patient-reported outcomes; Health-related quality of life; Health outcomes research; Cancer care delivery research; Comparative effectiveness research",
+  "research_interests": [
+    "His research interests are in Health Services and Outcomes Research among patients with urologic malignancies. His previous work has focused on health scale development, integration of quality of life assessment into clinical practice settings, and evaluation of variation and quality of cancer care.\n  *"
+  ],
+  "associations": [
+    "Genitourinary Oncology",
+    "Health Outcomes and Behavior",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Michigan, School of Public Health, MS"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Columbia University, College of Physicians & Surgeons",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "New York-Presbyterian Hospital Columbia University Medical Center",
+      "position": "Intern",
+      "specialty": "Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "New York-Presbyterian Hospital Columbia University Medical Center",
+      "specialty": "Urology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Michigan Health Systems",
+      "position": "Fellow"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Cisplatin-ineligible patients with muscle-invasive bladder cancer demonstrate poor long-term survival following immediate radical cystectomy",
+      "pubmed_id": "40932312",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Fazili A, Jazayeri SB, Rose KM, Guske C, Wen L, Durant A, Prunty M, Bukavina L, Tyson MD, Grass GD, Xu H, Spiess PE, Gilbert SM, Sexton WJ, Zemp L, Pessoa RR, Poch M, Lerner SP, Li R",
+      "journal": "BJU Int"
+    },
+    {
+      "title": "What Is the Optimal Perioperative Treatment for Variant Subtypes of Bladder Cancer?",
+      "pubmed_id": "40707348",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Gilbert SM",
+      "journal": "Eur Urol Focus"
+    },
+    {
+      "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR",
+      "journal": "Nat Med"
+    },
+    {
+      "title": "Factors Associated with Self-reported COVID-19 Infection and Hospitalization among Patients Seeking Care at a Comprehensive Cancer Center",
+      "pubmed_id": "37917235",
+      "pmc_id": "PMC11747054",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Amorrortu RP, Zhao Y, Keenan RJ, Gilbert SM, Rollison DE",
+      "journal": "J Racial Ethn Health Disparities"
+    },
+    {
+      "title": "Assessing the Impact of Treatment Timing Protocols in Clinical Trials for Bacillus Calmette-Gu\u00e9rin-unresponsive Non-muscle-invasive Bladder Cancer",
+      "pubmed_id": "40670271",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Guske C, Jazayeri SB, Harrs C, Rao N, Davaro F, Xu H, Zemp L, Yu A, Gilbert SM, Poch M, Spiess PE, Sexton W, Linscott J, Li R",
+      "journal": "Eur Urol Oncol"
+    },
+    {
+      "title": "Epidemiology and Risk Factors for Testicular Cancer: A Systematic Review",
+      "pubmed_id": "39542769",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Tateo V, Thompson ZJ, Gilbert SM, Cortessis VK, Daneshmand S, Masterson TA, Feldman DR, Pierorazio PM, Prakash G, Heidenreich A, Albers P, Necchi A, Spiess PE",
+      "journal": "Eur Urol"
+    },
+    {
+      "title": "Comparing direct medical care costs of patients with bladder cancer who received an ileal conduit vs",
+      "pubmed_id": "39406639",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Banegas MP, O'Keeffe Rosetti M, Gilbert SM, Kwan ML, Leo MC, Danforth KN, Bulkley J, Weinmann S, Yi DK, Lee VS, McMullen C",
+      "journal": "neobladder in the year following cystectomy"
+    },
+    {
+      "title": "Effects of Socioeconomic Deprivation on UTUC Staging, Mortality, and Recurrence",
+      "pubmed_id": "39674377",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Wahlstedt ER, Varadhan AK, Wahlstedt JC, Coughlin E, Perisetla N, Mhaskar R, Bilotta A, Nguyen D, Gilbert SM, Li R, Spiess PE, Huelster HL",
+      "journal": "Urology"
+    },
+    {
+      "title": "Cost-utility of Initial Management of High-grade T1 Bladder Cancer With Intravesical BCG vs Immediate Radical Cystectomy",
+      "pubmed_id": "38467285",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Huelster HL, Mason NT, Davaro F, Naqvi SMH, Kim Y, Gilbert SM",
+      "journal": "Urology"
+    },
+    {
+      "title": "Comparative Effectiveness of Neoadjuvant Pembrolizumab Versus Cisplatin-based Chemotherapy or Upfront Radical Cystectomy in Patients with Muscle-invasive Urothelial Bladder Cancer",
+      "pubmed_id": "38184473",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Li R, Nocera L, Rose KM, Raggi D, Naidu S, Mercinelli C, Cigliola A, Tateo V, Patan\u00e8 D, Grass GD, Gilbert SM, Sexton WJ, Bandini M, Moschini M, Briganti A, Montorsi F, Spiess PE, Necchi A",
+      "journal": "Eur Urol Oncol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: BEST CARE for Recurrent NMIBC: BladdEr-Sparing Therapy and Cystectomy As TREeatments   \nAward Number: 5R01CA289268-02  \nSponsor: National Institutes of Health (NIH)  \nGilbert, S. (PD/PI)",
+      "title": "BEST CARE for Recurrent NMIBC: BladdEr-Sparing Therapy and Cystectomy As TREeatments",
+      "award_number": "5R01CA289268-02",
+      "sponsor": "National Institutes of Health (NIH)",
+      "source": "NIH",
+      "investigators": [
+        {
+          "name": "Gilbert, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Comparison of Intravesical Therapy and Surgery as Treatment Options (CISTO) for Recurrent Bladder Cancer  \nAward Number: PCS-2017C3-9380  \nSponsor: PCORI  \nGilbert, S. (PD/PI)",
+      "title": "Comparison of Intravesical Therapy and Surgery as Treatment Options (CISTO) for Recurrent Bladder Cancer",
+      "award_number": "PCS-2017C3-9380",
+      "sponsor": "PCORI",
+      "investigators": [
+        {
+          "name": "Gilbert, S.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GilbertScott_13426.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=13426"
+  },
+  "content_hash": "b534351f73f653d5e5fd5c891707201aef577008bd731f8b5b854bbdd5318008",
+  "researcher_name": "scott gilbert",
+  "department": "health outcomes & behavior"
+}

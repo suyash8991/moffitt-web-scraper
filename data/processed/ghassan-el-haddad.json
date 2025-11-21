@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ghassan-el-haddad/",
+  "last_updated": "2025-11-21T22:50:23.865619",
+  "researcher_id": "10909",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "diagnostic imaging and interventional radiology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. El-Haddad's research interests include development of novel targeted and minimally invasive image-guided cancer therapies.",
+  "research_interests": [
+    "To develop novel, targeted and minimally invasive image-guided cancer therapies and to investigate the use of molecular imaging in interventional oncology for planning, guiding and monitoring image-guided interventions.\n  *"
+  ],
+  "associations": [
+    "Diagnostic Imaging and Interventional Radiology",
+    "Cancer Imaging & Technology Center of Excellence",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Lebanese University, Lebanon",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Lebanese University, Lebanon",
+      "position": "Intern",
+      "specialty": "ship"
+    },
+    {
+      "type": "Internship",
+      "institution": "SUNY Upstate Medical Center",
+      "position": "Intern",
+      "specialty": "ship - Internal Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "Hospital of the University of Pennsylvania",
+      "specialty": "Nuclear Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "St. Vincent's Medical Center/University of Connecticut",
+      "specialty": "Radiology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Hospital of the University of Pennsylvania",
+      "specialty": "Nuclear Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Children's Hospital of Philadelphia/Hospital of the University of Pennsylvania",
+      "specialty": "Pediatric Nuclear Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Hospital of the University of Pennsylvania",
+      "specialty": "Vascular and Interventional Radiology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Somatostatin Receptor Expression of Gastroenteropancreatic Neuroendocrine Tumors: A Comprehensive Analysis in the Era of Somatostatin Receptor PET Imaging",
+      "pubmed_id": "40563587",
+      "pmc_id": "PMC12190786",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Maratta MG, Al-Toubah T, Montilla-Soler J, Pelle E, Haider M, El-Haddad G, Strosberg J",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Risk of bowel ischemia in patients with mesenteric neuroendocrine tumors after treatment with 177Lu-DOTATATE",
+      "pubmed_id": "40641634",
+      "pmc_id": "PMC12243096",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Pelle E, Al-Toubah T, El-Haddad G, Morse B, Konda B, Sukrithan V, Strosberg J",
+      "journal": "Endocr Oncol"
+    },
+    {
+      "title": "Multivariable models of outcomes with [177Lu]Lu-PSMA-617: analysis of the phase 3 VISION trial",
+      "pubmed_id": "39430616",
+      "pmc_id": "PMC11490806",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Herrmann K, Gafita A, de Bono JS, Sartor O, Chi KN, Krause BJ, Rahbar K, Tagawa ST, Czernin J, El-Haddad G, Wong CC, Zhang Z, Wilke C, Mirante O, Morris MJ, Fizazi K",
+      "journal": "EClinicalMedicine"
+    },
+    {
+      "title": "Sequencing of Somatostatin-Receptor-Based Therapies in Neuroendocrine Tumor Patients",
+      "pubmed_id": "38238038",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Strosberg JR, Al-Toubah T, El-Haddad G, Lagunes DR, Bodei L",
+      "journal": "J Nucl Med"
+    },
+    {
+      "title": "Safety and Efficacy of Peptide Receptor Radionuclide Therapy (PRRT) Following Bland Embolization for Metastatic Neuroendocrine Tumors",
+      "pubmed_id": "39123431",
+      "pmc_id": "PMC11311572",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Alayli A, Ngo H, Sikaria D, Ahmed A, Salloum E, Strosberg JR, Al-Toubah TE, Kis B, Haider M, El-Haddad G",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Hepatic Radioembolization: A Multistep Theragnostic Procedure",
+      "pubmed_id": "38816137",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Ramdhani K, Lam MGEH, Braat AJAT, Smits MLJ, El-Haddad G",
+      "journal": "PET Clin"
+    },
+    {
+      "title": "Cutaneous Neuroendocrine Metastases of Visceral Origin Responsive to Surgical Resection and Targeted Radionuclide Therapy",
+      "pubmed_id": "38352716",
+      "pmc_id": "PMC10864049",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Tung-Hahn E, El-Haddad G, Strosberg J",
+      "journal": "Case Rep Dermatol Med"
+    },
+    {
+      "title": "Radioembolization with Yttrium-90 Glass Microspheres as a First-Line Treatment for Unresectable Intrahepatic Cholangiocarcinoma-A Prospective Feasibility Study",
+      "pubmed_id": "37210030",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Kis B, Shridhar R, Mhaskar R, Gyano M, Frakes JM, El-Haddad G, Choi J, Kim RD, Hoffe SE",
+      "journal": "J Vasc Interv Radiol"
+    },
+    {
+      "title": "Consensus report of the 2021 National Cancer Institute neuroendocrine tumor clinical trials planning meeting",
+      "pubmed_id": "37255328",
+      "pmc_id": "PMC10483264",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Singh S, Hope TA, Bergsland EB, Bodei L, Bushnell DL, Chan JA, Chasen BR, Chauhan A, Das S, Dasari A, Del Rivero J, El-Haddad G, Goodman KA, Halperin DM, Lewis MA, Lindwasser OW, Myrehaug S, Raj NP, Reidy-Lagunes DL, Soares HP, Strosberg JR, Kohn EC, Kunz PL",
+      "journal": "J Natl Cancer Inst"
+    },
+    {
+      "title": "Targeted radionuclide therapy in endocrine-related cancers: advances in the last decade",
+      "pubmed_id": "38053729",
+      "pmc_id": "PMC10694449",
+      "year": "2023",
+      "publication_date": "2023 Nov",
+      "authors": "Al-Toubah T, Strosberg J, Hallanger-Johnson J, El-Haddad G",
+      "journal": "Front Endocrinol (Lausanne)"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/El-HaddadGhassan_10909.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10909"
+  },
+  "content_hash": "7e116cf2e264589e4884b3cf0da1856bf6196127a65a1df9cff371537e59c7c5",
+  "researcher_name": "ghassan el haddad",
+  "department": ""
+}

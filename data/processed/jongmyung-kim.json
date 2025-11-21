@@ -1,0 +1,154 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jongmyung-kim/",
+  "last_updated": "2025-11-21T22:50:24.773474",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "radiation oncology",
+  "research_program": "immuno-oncology",
+  "overview": "My research focuses on developing innovative theranostic strategies\u2014including peptide-directed immuno-radiotherapy, radiopharmaceuticals, bispecific antibodies, and radiation-guided immune modulation\u2014to overcome therapeutic resistance in primary and metastatic lung cancers. By integrating precision genomics and clinical trial design, I aim to advance personalized therapies that improve outcomes for patients with advanced or treatment-refractory disease.",
+  "research_interests": [
+    "My research focuses on developing and translating novel theranostic strategies to overcome therapeutic resistance in primary and metastatic lung cancer. I employ phage display technologies to identify and engineer tumor-specific peptides for peptide-directed immuno-radiotherapy, radiopharmaceuticals, and bispecific antibody platforms designed to enhance tumor targeting and immune modulation. In parallel, my work investigates radiation-guided immune modulation as a synergistic approach to amplify anti-tumor immunity and sensitize resistant cancers to therapy. By integrating genomics-driven precision oncology, I aim to define molecular drivers of resistance and tumor heterogeneity, and translate these insights into clinical trial designs that accelerate the delivery of personalized cancer care. Central to my efforts is the advancement of innovative combinations of radiotherapy, immunotherapy, and novel biologics through multidisciplinary collaborations, with the ultimate goal of improving outcomes for patients with advanced or treatment-refractory lung cancers.\n  *"
+  ],
+  "associations": [
+    "Radiation Oncology",
+    "Immunology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Pusan National University School of Medicine (South Korea)",
+      "degree": "MD",
+      "field": "/PhD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Rutgers Cancer Institute of New Jersey (New Brunswick, NJ)",
+      "specialty": "Radiation Oncology (Residency)"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Louisville School of Medicine (Louisville, KY)",
+      "position": "Intern",
+      "specialty": "ship)"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Moffitt Cancer Center (Tampa, FL)",
+      "specialty": "Department of Neuro-Oncology (Cancer Stem Cell Biology)"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Cleveland Clinic (Cleveland, OH)",
+      "specialty": "Department of Stem Cell Biology (Cancer Stem Cell Biology)"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Rutgers Cancer Institute of New Jersey (New Brunswick, NJ)",
+      "specialty": "Section of Urologic Oncology (Cancer Cell Biology)"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Radiation Oncology",
+      "certification": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Clinical and Genomic Features and Prognostic Biomarkers of Oligometastatic Nonsmall Cell Lung Cancer",
+      "pubmed_id": "40897601",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Deek RA, Kim J, Kumar R, Medina B, Langenfeld J, Kontopidis I, Lazzaro R, Nie K, Hathout L, Guler O, Onal C, Patel E, Haigentz M, Jabbour SK, Deek MP",
+      "journal": "Clin Lung Cancer"
+    },
+    {
+      "title": "Factors impacting cardiac dose and overall survival in post-operative non-small cell lung cancer patients",
+      "pubmed_id": "40854381",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Cruz-Chamorro R, Bryant JM, Henning J, Robinson LA, Lee DH, Fontaine J, Toloza E, Rosenberg SA, Kim J, Naqa IE, Dilling TJ",
+      "journal": "Radiother Oncol"
+    },
+    {
+      "title": "A genome-wide in vivo CRISPR activation screen identifies BACE1 as a therapeutic vulnerability of lung cancer brain metastasis",
+      "pubmed_id": "40601773",
+      "pmc_id": "PMC7617989",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Chafe SC, Zhai K, Aghaei N, Miletic P, Huang Z, Brown KR, Mobilio D, Young D, Suk Y, Grewal S, McKenna D, Alizada Z, Kieliszek AM, Lam FC, Escudero L, Huang Q, Huebner A, Lu J, Ang P, Anand A, Custers S, Apel E, Slassi S, Brakel B, Kim J, Liu JKC, Bassey-Archibong BI, Abdo R, Shargall Y, Lu JQ, Cutz JC, Zhang Q, Li SS, Venugopal C, Hynds RE, Dufour A, Moffat J, Swanton C, Bao S, Singh SK",
+      "journal": "Sci Transl Med"
+    },
+    {
+      "title": "PIK3/Akt/mTOR pathway alterations in metastatic castration-sensitive prostate cancer",
+      "pubmed_id": "39021052",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Sutera P, Kim J, Kumar R, Deek RA, Stephenson R, Mayer T, Saraiya B, Ghodoussipour S, Jang T, Golombos D, Packiam V, Ennis R, Hathout L, Jabbour SK, Guler O, Onal C, Tran PT, Deek MP",
+      "journal": "Prostate"
+    },
+    {
+      "title": "Landscape and prognostic significance of oncogene drivers in metastatic castration sensitive prostate cancer",
+      "pubmed_id": "39697761",
+      "pmc_id": "PMC11651787",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Wang T, Kim J, Kumar R, Deek RA, Stephenson R, Mayer T, Saraiya B, Ghodoussipour S, Jang T, Golombos D, Packiam V, Ennis R, Hathout L, Jabbour SK, Guler O, Onal C, Deek MP",
+      "journal": "Transl Cancer Res"
+    },
+    {
+      "title": "Radiation therapy for triple-negative breast cancer: from molecular insights to clinical perspectives",
+      "pubmed_id": "38502143",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Kim J, Fahmy V, Haffty BG",
+      "journal": "Expert Rev Anticancer Ther"
+    },
+    {
+      "title": "CD44+ lung cancer stem cell-derived pericyte-like cells cause brain metastases through GPR124-enhanced trans-endothelial migration",
+      "pubmed_id": "37595587",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Huang Q, Liu L, Xiao D, Huang Z, Wang W, Zhai K, Fang X, Kim J, Liu J, Liang W, He J, Bao S",
+      "journal": "Cancer Cell"
+    },
+    {
+      "title": "Genetic Factors in the Screening and Imaging for Breast Cancer",
+      "pubmed_id": "37056158",
+      "pmc_id": "PMC10157325",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Kim J, Haffty BG",
+      "journal": "Korean J Radiol"
+    },
+    {
+      "title": "Use of phage display biopanning as a tool to design CAR-T cells against glioma stem cells",
+      "pubmed_id": "37035164",
+      "pmc_id": "PMC10080078",
+      "year": "2023",
+      "publication_date": "2023 Mar",
+      "authors": "Potez M, Snedal S, She C, Kim J, Thorner K, Tran TH, Ramello MC, Abate-Daga D, Liu JKC",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "A rare pattern of local recurrence in the nasopharyngeal carcinoma: Case report",
+      "year": "2023",
+      "publication_date": "2023 Jun",
+      "authors": "Kim J, Mukherji S, Haigentz M, Stubbs VC, Kim S",
+      "journal": "Otolaryngol Case Rep"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KimJongmyung_20470.jpg",
+  "contact": {},
+  "content_hash": "0c08b409119ec3d369bf8eb98288c3692f6fd02a70f42214170ee69dc01cb753",
+  "researcher_name": "jongmyung kim",
+  "department": "immunology"
+}

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jamie-teer",
-  "last_updated": "2025-10-21T16:33:07.473794",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jamie-teer/",
+  "last_updated": "2025-11-21T22:50:24.232373",
   "researcher_id": "10966",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "cancer biology & evolution",
   "overview": "Dr. Teer's research interests are focused on developing methods to analyze, interpret and visualize massively-parallel sequencing information in cancer genetics. This includes developing and applying computational methods and graphical tools to better detect genetic variations from sequencing data, understand the functional context of sequence changes, and visualize the results of large-scale genomics studies.",
   "research_interests": [
     "Dr. Teer's research interests are focused on developing methods to analyze, interpret and visualize massively-parallel sequencing information in cancer genetics. This includes developing and applying computational methods and graphical tools to better detect genetic variations from sequencing data, understand the functional context of sequence changes, and visualize the results of large-scale genomics studies.\n  *"
@@ -42,29 +42,21 @@
       "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
+      "title": "qcCHIP: an R package to identify clonal hematopoiesis variants using cohort-specific data characteristics",
+      "pubmed_id": "40973027",
+      "pmc_id": "PMC12466928",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Liu X, Tang YH, Blachly J, Edge S, Jakubek YA, McCarter M, Naqash AR, Nepple KG, Osman A, Reilley MJ, Riedlinger G, Salhia B, Schneider BP, Shriver C, Churchman ML, Rounbehler RJ, Teer JK, Gillis N, Teng M",
+      "journal": "Bioinformatics"
+    },
+    {
       "title": "Genomics Define Malignant Transformation in Myeloma Precursor Conditions",
       "pubmed_id": "41061199",
       "year": "2025",
       "publication_date": "2025 Oct",
       "authors": "Maura F, Bergsagel PL, Ziccheddu B, Kumar S, Maclachlan K, Derkach A, Garces JJ, Firestone R, Braggio E, Asmann Y, Durante M, Diamond BT, Papadimitriou M, Hultcrantz M, Marella A, Castellano G, Maeda A, Lionetti M, Matera A, Pioggia S, Da Vi\u00e0 MC, de Magistris C, Leongamornlert D, DeAvila D, Sudalagunta PR, Canevarolo RR, Siegel EM, Agius P, Teer J, McPherson A, Yamashita Y, Silva AS, Blaney P, Baz R, Patel KK, Campbell P, Morgan G, Fonseca R, Landgren O, Orlowski RZ, Shain KH, Bolli N, Usmani S, Rajkumar SV",
       "journal": "J Clin Oncol"
-    },
-    {
-      "title": "Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy",
-      "pubmed_id": "40341231",
-      "year": "2025",
-      "publication_date": "2025 May",
-      "authors": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC",
-      "journal": "Nat Cancer"
-    },
-    {
-      "title": "Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles",
-      "pubmed_id": "40126181",
-      "pmc_id": "PMC12234169",
-      "year": "2025",
-      "publication_date": "2025 May",
-      "authors": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL",
-      "journal": "Cancer Res"
     },
     {
       "title": "Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas",
@@ -94,6 +86,23 @@
       "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
+      "title": "Impaired T cell and neoantigen retention in time-serial analysis of metastatic non-small cell lung cancer in patients unresponsive to TIL cell therapy",
+      "pubmed_id": "40341231",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Wang C, Yu X, Teer JK, Yao J, Du D, Liu X, Thompson ZJ, Wang MH, Welsh EA, Memon D, Chan TA, Makarov V, Anadon CM, Saeed L, Boyle TA, Fang B, Koomen JM, Cox C, Landin AM, Yoder SJ, Kim S, Chen DT, Pilon-Thomas SA, Conejo-Garcia JR, Antonia SJ, Haura EB, Creelan BC",
+      "journal": "Nat Cancer"
+    },
+    {
+      "title": "Colorectal Tumors in Diverse Patient Populations Feature a Spectrum of Somatic Mutational Profiles",
+      "pubmed_id": "40126181",
+      "pmc_id": "PMC12234169",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Matejcic M, Teer JK, Hoehn HJ, Diaz DB, Shankar K, Gong J, Nguyen NT, Loro\u00f1a NC, Coppola D, Fulmer CG, Saglam O, Jiang K, Cress WD, Mu\u00f1oz-Antonia T, Flores I, Gordi\u00e1n ER, Oliveras Torres JA, Felder SI, Sanchez J, Fleming JB, Siegel EM, Freedman JA, Dutil J, Stern MC, Fridley BL, Figueiredo JC, Schmit SL",
+      "journal": "Cancer Res"
+    },
+    {
       "title": "Practice Patterns and Survival Outcomes of Immunotherapy for Metastatic Colorectal Cancer",
       "pubmed_id": "40111368",
       "pmc_id": "PMC11926646",
@@ -110,15 +119,6 @@
       "publication_date": "2025 Jun",
       "authors": "Peeri NC, Teer JK, Thompson ZJ, Nabors LB, Brooks M, Sologon CM, Williams SL, Egan KM",
       "journal": "Cancer Genet"
-    },
-    {
-      "title": "The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma",
-      "pubmed_id": "39476082",
-      "pmc_id": "PMC11733535",
-      "year": "2025",
-      "publication_date": "2025 Jan",
-      "authors": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH",
-      "journal": "Cancer Res"
     }
   ],
   "grants": [
@@ -178,11 +178,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/teer/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TeerJamie_10966.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10966"
   },
-  "content_hash": "8a194faafbb05cc2f493f4c02d1d23657039c76892ff58619382dff162457336",
-  "researcher_name": "Jamie Teer",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "44c510b323b7ff5626bc688f89a3d6b408a8bcd6bc90cc7676eac7fe71e8f4f0",
+  "researcher_name": "jamie teer",
+  "department": "biostatistics and bioinformatics"
 }

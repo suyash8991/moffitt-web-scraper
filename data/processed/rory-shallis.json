@@ -1,0 +1,90 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/rory-shallis/",
+  "last_updated": "2025-11-21T22:50:26.742018",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Shallis\u2019 research interests focus on the development and application of novel therapies via early phase clinical trials as well as optimization of existing therapies through outcomes research, particularly for patients with myelodysplastic syndromes/neoplasms (MDS) and acute myeloid leukemia (AML). Dr. Shallis has a particular interest in TP53-mutated AML/MDS as well the management of older patients, two populations that are coincident.",
+  "research_interests": [
+    "My background is comprehensive with facets including experience in the basic laboratory setting, a degree in cell biology, and strong training in clinical medicine. My research focuses on the treatment and outcomes of patients with acute leukemias and myeloid malignancies with a particular interest in TP53-mutated AML/MDS as well the treatment older patients, two populations that are coincident. Given my focus on clinical investigation, I have designed, written, and served as primary investigator or Study Chair for several protocols, from first-in-human to NCI-funded investigator-initiated trials. I have served on or engage regularly with the NCI Older AML Working Group, SWOG and the NCI MyeloMATCH initiative for much of these efforts. I aim to lead and further clinical investigation rooted within a strong framework for research sample collection and correlative analyses to inform the next generation of trials to inform effective therapy for older patients with TP53-mutated AML and improved the outcomes for these unfortunate patients. Supplementing my clinical trial investigation are my parallel efforts in leading multicenter collaborative research and performing outcomes research with epidemiology, health economist and public policy colleagues. Much of this research has centered around the exploration and further refinement of the independent prognostic impact of molecular/cytogenetic abnormalities in poor-risk AML/MDS and elucidating the \u201creal world\u201d practice patterns and ultimately disparities and deficiencies for which a remedy can improve patient outcomes. Not only did these efforts yield the most cited contemporary evaluation of the incidence, prevalence, survival and predictors of outcomes for patients with AML, I have conducted several analyses of disease subgroups with robust accounting for relevant covariates to attempt to describe the independent impact of disease and practice features, including older patients with AML/MDS and those with disease harboring TP53 mutations. I continue to perform outcomes and cost-effectiveness research relating to AML/MDS management to progressively improve the patient journey in parallel with the development/application of novel therapeutics.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Integrated Immune Landscape Analysis of RNA Splicing Factor-Mutant AML and Higher risk MDS Treated with Azacitidine \u00b1 Durvalumab",
+      "pubmed_id": "40546817",
+      "pmc_id": "PMC12182606",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Bewersdorf JP, Hasle V, Shallis RM, Thompson E, Lopes de Menezes D, Rose S, Boss I, Mendez L, Podoltsev N, Stahl M, Kewan T, Halene S, Haferlach T, Fox BA, Zeidan AM",
+      "journal": "Ther Adv Hematol"
+    },
+    {
+      "title": "Evaluating the impact of stratification on the power and cross-arm balance of randomized phase 2 clinical trials",
+      "pubmed_id": "39815460",
+      "pmc_id": "PMC12143638",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Moseley A, LeBlanc M, Freidlin B, Shallis RM, Zeidan AM, Sallman DA, Erba HP, Little RF, Othus M",
+      "journal": "Clin Trials"
+    },
+    {
+      "title": "Beyond HMAs: Novel Targets and Therapeutic Approaches",
+      "pubmed_id": "39389839",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Getz TM, Bewersdorf JP, Kewan T, Stempel JM, Bidikian A, Shallis RM, Stahl M, Zeidan AM",
+      "journal": "Semin Hematol"
+    },
+    {
+      "title": "Impact of induction regimens intensity and allogeneic stem cell transplantation on survival of patients with Philadelphia chromosome-positive acute lymphoblastic leukemia: A multi-institutional study",
+      "pubmed_id": "39253997",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Badar T, Narra R, Mims AS, Heckman MG, Shallis RM, Fahad S, Hunter C, Kota V, Othman TA, Jonas B, Desai S, de Camargo Correia GS, Patel A, DuVall AS, Palmisiano N, Curran E, Omer Z, Advani A, Atallah E, Litzow M",
+      "journal": "Am J Hematol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23594/",
+      "trial_id": "23594",
+      "title": "A Phase 1b Open-Label Study to Evaluate the Safety and Tolerability of Eganelisib as Monotherapy and in Combination with Cytarabine in Patients with Relapsed/Refractory Acute Myeloid Leukemia",
+      "condition": "Malignant Hematology",
+      "intervention": "Cytarabine (Cytosine Arabinoside); Eganelisib ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23601/",
+      "trial_id": "23601",
+      "title": "Venetoclax In Combination with ASTX727, an All-ORal TherapY for Chronic Myelomonocytic Leukemia and Other MDS/MPN with Excess Blasts (VICTORY MDS/MPN): a Randomized, Phase 2 Trial",
+      "condition": "Malignant Hematology",
+      "intervention": "ASTX727 (); GDC-0199 (Venetoclax); Venetoclax ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23602/",
+      "trial_id": "23602",
+      "title": "A Phase 1 Study of AUTX-703 in Participants with Relapsed/Refractory Acute Myeloid Leukemia and Myelodysplastic Syndromes",
+      "condition": "Malignant Hematology",
+      "intervention": "AUTX-703 ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ShallisRory_42543.jpg",
+  "contact": {},
+  "content_hash": "af7bed66dedb7b30c99ed07708f90650c158d031854d02eea18b3d495049b29a",
+  "researcher_name": "rory shallis",
+  "department": ""
+}

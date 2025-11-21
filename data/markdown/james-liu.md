@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/james-liu)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/james-liu)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -515,8 +514,8 @@ Targeting of glioblastoma stem cells using phage display, developing targeted th
     * Liu JKC, Kang R, Bilenkin A, Prorok R, Whiting J, Patel KB, Beer-Furlan A, Naso C, Rogers A, Castro XB, Peguero E, Mokhtari S, Tran N, Etame A, Pina Y, Spiess PE, Forsyth P, Vogelbaum MA. Patient satisfaction and cost savings analysis of the telemedicine program within a neuro-oncology department. J Neurooncol. 2022 Nov.160(2):517-525. Pubmedid: [36367630](https://www.ncbi.nlm.nih.gov/pubmed/36367630). Pmcid: PMC9651094. 
     * Lynes J, Rubino S, Rogers A, Gaballa S, Liu HD, Arrington JA, Peguero E, Liu JKC. Spontaneous Spinal Subdural Hematoma Secondary to Hemophilia A and Zanubrutinib. J Neurol Surg Rep. 2022 Jan.83(1):e19-e22. Pubmedid: [35273899](https://www.ncbi.nlm.nih.gov/pubmed/35273899). Pmcid: PMC8920709. 
     * Lowe SR, Wang CP, Brisco A, Whiting J, Arrington J, Ahmed K, Yu M, Robinson T, Oliver D, Etame A, Tran N, Beer Furlan A, Sahebjam S, Mokhtari S, Piña Y, Macaulay R, Forsyth P, Vogelbaum MA, Liu JKC. Surgical and anatomic factors predict development of leptomeningeal disease in patients with melanoma brain metastases. Neurooncol. 2022 Aug.24(8):1307-1317. Pubmedid: [35092434](https://www.ncbi.nlm.nih.gov/pubmed/35092434). Pmcid: PMC9340645. 
-    * Wang CP, Flores-Milan G, Liu JKC. Paramedian Wiltse Approach for Giant Paraspinal Lumbar Schwannoma: Technical Note and Alternative Approaches. Oper Neurosurg (Hagerstown). 2022 Aug.23(2):e95-e101. Pubmedid: [35838459](https://www.ncbi.nlm.nih.gov/pubmed/35838459). 
     * Lynes J, Flores-Milan G, Rubino S, Arrington J, Macaulay R, Liu JKC, Beer-Furlan A, Tran ND, Vogelbaum MA, Etame AB. Molecular determinants of outcomes in meningiomas. Front Oncol. 2022 Aug.12:962702. Pubmedid: [36033542](https://www.ncbi.nlm.nih.gov/pubmed/36033542). Pmcid: PMC9413043. 
+    * Wang CP, Flores-Milan G, Liu JKC. Paramedian Wiltse Approach for Giant Paraspinal Lumbar Schwannoma: Technical Note and Alternative Approaches. Oper Neurosurg (Hagerstown). 2022 Aug.23(2):e95-e101. Pubmedid: [35838459](https://www.ncbi.nlm.nih.gov/pubmed/35838459). 
     * Mills MN, Naz A, Thawani C, Walker C, Figura NB, Kushchayev S, Oliver DE, Etame AB, Yu HM, Robinson TJ, Liu JKC, Vogelbaum MA, Forsyth PA, Czerniecki BJ, Soliman HH, Han HS, Ahmed KA. Capecitabine and stereotactic radiation in the management of breast cancer brain metastases. BMC Cancer. 2021 May.21(1):552. Pubmedid: [33992087](https://www.ncbi.nlm.nih.gov/pubmed/33992087). Pmcid: PMC8126143. 
     * Vogelbaum MA, Kroll D, Etame A, Tran N, Liu J, Ford A, Sparr E, Kim Y, Forsyth P, Sahebjam S, Mokhtari S, Peguero E, Macaulay R. A Prospective Validation Study of the First 3D Digital Exoscope for Visualization of 5-ALA-Induced Fluorescence in High-Grade Gliomas. World Neurosurg. 2021 May.149:e498-e503. Pubmedid: [33561551](https://www.ncbi.nlm.nih.gov/pubmed/33561551). 
     * Mills MN, Thawani C, Figura NB, Oliver DE, Soyano AE, Etame A, Robinson TJ, Liu JK, Vogelbaum MA, Forsyth PA, Czerniecki BJ, Soliman HH, Han HS, Yu HM, Ahmed KA. Breast cancer subtype predicts clinical outcomes after stereotactic radiation for brain metastases. J Neurooncol. 2021 May.152(3):591-601. Pubmedid: [33742358](https://www.ncbi.nlm.nih.gov/pubmed/33742358). 
@@ -632,7 +631,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -687,7 +686,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/james-liu#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/james-liu#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -705,7 +704,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1059,7 +1058,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/james-liu#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/james-liu#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

@@ -1,0 +1,239 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/david-sallman/",
+  "last_updated": "2025-11-21T22:50:23.401304",
+  "researcher_id": "3172",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Sallman\u2019s research focuses on the development of novel, targeted therapeutic strategies for patients with myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML).",
+  "research_interests": [
+    "Dr. Sallman\u2019s research interests focus on the development of novel, targeted therapeutic strategies (i.e. Phase I and II clinical trials) for patients with myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) based on the underlying mutational drivers of each disease. Dr. Sallman studies the genetic drivers of myeloid diseases in order to improve prognostication for patients and also to allow for more personalized treatment. He has published significantly on this topic including recently in highly regarded journals including Leukemia and Haematologica and these work form the foundation of the clinical trials that he is bringing to patients in order to improve their quality of life and survival. As an example, Dr. Sallman has focused research and clinical trial efforts on patients who have TP53 mutation (often associated with complex genes/cytogenetics) given their high risk of transformation to acute leukemia and poor survival.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of South Florida",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Massachusetts General Hospital",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "H. Lee Moffitt Cancer Center and Research Institute",
+      "specialty": "Hematology/Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Characterization of Indolent Chronic Myelomonocytic Leukemia Phenotypes and Dynamic Features of Disease Progression",
+      "pubmed_id": "40254502",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Aguirre LE, Ball S, Jain A, Ali NA, Sallman DA, Kuykendall A, Sweet K, Lancet JE, Padron E, Komrokji RS",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "Downregulation of MICA/MICB improves cell persistence and clinical activity of NKG2DL CAR T-cells in patients with relapsed or refractory acute myeloid leukemia or myelodysplastic neoplasia",
+      "pubmed_id": "40954213",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Pollyea D, Kerre T, Deeren D, Beguin Y, Lin TL, Sallman DA, Anguille S, Blum WG, Flament A, Breman E, Lonez C",
+      "journal": "Leukemia"
+    },
+    {
+      "title": "Transfusion Independence Corresponds With Survival in Patients With Lower-Risk Myelodysplastic Syndrome: Real-World Evidence From United States Insurance Claims",
+      "pubmed_id": "40410022",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Komrokji RS, Supina D, Navada S, Potluri R, Tyagi R, Werwath T, Xie Z, Padron E, Sallman DA",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "Hypomethylating Agent and Venetoclax Combination Is a Safe and Effective Alternative to Intensive Chemotherapy in Older (\u2265 70 Years) Patients With Newly Diagnosed Favorable Risk Acute Myeloid Leukemia",
+      "pubmed_id": "40772639",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Ball S, Jain AG, Al Ali N, Aguirre LE, Bewersdorf JP, Kent A, Rose A, Hayden A, Siddon A, Lykon J, Madarang E, Swoboda DM, Padron E, Sweet K, Sallman DA, Lancet J, Carraway HE, Watts J, Zeidan A, Pollyea DA, Komrokji RS",
+      "journal": "Am J Hematol"
+    },
+    {
+      "title": "XPO1 drives resistance to eprenetapopt and azacitidine and can be targeted in TP53-mutated myeloid malignancies",
+      "pubmed_id": "40737597",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Kruer TL, Quintana-Gonzalez A, Newman HL, Ferrall-Fairbanks MC, Zhang L, McLemore AF, Neupane S, Yang Q, Ben-Crentsil NA, Balasis ME, Letson CT, Komrokji RS, Chaudhry S, Totiger TM, Traina JA, Figueroa ME, Ryder CB, Cluzeau T, Taylor J, Sallman DA, Padron E",
+      "journal": "Blood"
+    },
+    {
+      "title": "Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm",
+      "pubmed_id": "40453136",
+      "pmc_id": "PMC12067887",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS",
+      "journal": "Blood Neoplasia"
+    },
+    {
+      "title": "Reducing clinical trial eligibility barriers for patients with MDS: an icMDS position statement",
+      "pubmed_id": "40146152",
+      "pmc_id": "PMC11969261",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Borate U, Pugh K, Waller A, Welkie RL, Huang Y, Bewersdorf JP, Stahl M, DeZern AE, Platzbecker U, Sekeres MA, Wei AH, Buckstein RJ, Roboz GJ, Savona MR, Loghavi S, Hasserjian RP, Fenaux P, Sallman DA, Hourigan CS, Della Porta MG, Nimer S, Little RF, Santini V, Efficace F, Taylor J, Garcia-Manero G, Odenike O, Kim TK, Halene S, Komrokji RS, Griffiths EA, Greenberg PL, Xu ML, Xie Z, Bejar R, Sanz GF, Patnaik MM, Figueroa M, Carraway HE, Abdel-Wahab O, Starczynowski D, Padron E, Boultwood J, Gore S, Daver NG, Churpek JE, Majeti R, Bennett JM, List AF, Brunner AM, Zeidan AM",
+      "journal": "Blood"
+    },
+    {
+      "title": "Phase Ib study of PRT543, an oral protein arginine methyltransferase 5 (PRMT5) inhibitor, in patients with advanced splicing factor-mutant myeloid malignancies",
+      "pubmed_id": "39856223",
+      "pmc_id": "PMC11879867",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Bewersdorf JP, Mi X, Lu B, Kuykendall A, Sallman D, Patel M, Stevens D, Philipovskiy A, Sutamtewagul G, Masarova L, Keiffer G, Verma A, Bhagwat N, Wang M, Moore A, Rager J, Heiser D, Ro S, Hong WJ, Abdel-Wahab O, Stein EM",
+      "journal": "Leukemia"
+    },
+    {
+      "title": "NCCN Guidelines\u00ae Insights: Myelodysplastic Syndromes, Version 2",
+      "pubmed_id": "40073835",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Greenberg PL, Stone RM, Abaza Y, Al-Kali A, Anand S, Ball B, Bennett JM, Borate U, Brunner AM, Chai-Ho W, Curtin P, DeZern AE, Gaensler K, Gahvari Z, Garcia-Manero G, Griffiths EA, Haque T, Jacoby M, Jonas BA, Keel S, Khanal R, Kishtagari A, Madanat Y, Maness LJ, McCurdy SR, McMahon C, Odenike O, Osman A, Reddy VV, Sallman DA, Sayar H, Shallis R, Singh A, Tanaka T, Thota S, Kovach E, Nguyen J, Hochstetler C"
+    },
+    {
+      "title": "Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML)",
+      "pubmed_id": "39921921",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS",
+      "journal": "Leuk Res"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Gene Expression Profiling to Investigate Drivers of Response and Resistance to Gilteritinib-based Combination Therapy in FLT3-Mutated Relapsed or Refractory Acute Myeloid Leukemia  \nAward Number:   \nSponsor: American Society of Clinical Oncology (ASCO)  \nSallman, D. (PD/PI)",
+      "title": "Gene Expression Profiling to Investigate Drivers of Response and Resistance to Gilteritinib-based Combination Therapy in FLT3-Mutated Relapsed or Refractory Acute Myeloid Leukemia",
+      "award_number": "",
+      "sponsor": "American Society of Clinical Oncology (ASCO)",
+      "investigators": [
+        {
+          "name": "Sallman, D.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: AI-driven morphologic interrogation of bone marrow biopsies to unravel differential response and outcomes to treatment in patients with myeloid neoplasms  \nAward Number: 25-0003  \nSponsor: Ground Truth Labs  \nSallman, D. (PD/PI), Zhang, L. (Co-PD/PI)",
+      "title": "AI-driven morphologic interrogation of bone marrow biopsies to unravel differential response and outcomes to treatment in patients with myeloid neoplasms",
+      "award_number": "25-0003",
+      "sponsor": "Ground Truth Labs",
+      "investigators": [
+        {
+          "name": "Sallman, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Zhang, L.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Improving the understanding and optimal utilization of Revumenib in Acute Myeloid Leukemia   \nAward Number: 100216  \nSponsor: Syndax Pharmaceuticals  \nSallman, D. (PD/PI), Mo, Q. (Co-PD/PI)",
+      "title": "Improving the understanding and optimal utilization of Revumenib in Acute Myeloid Leukemia",
+      "award_number": "100216",
+      "sponsor": "Syndax Pharmaceuticals",
+      "investigators": [
+        {
+          "name": "Sallman, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Mo, Q.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23154/",
+      "trial_id": "23154",
+      "title": "A Prospective, Multicenter, Randomized, Open-Label, Phase II Study of Salvage BCL2i Plus CLAG-M in Relapsed or Refractory Acute Myeloid Leukemia",
+      "condition": "Malignant Hematology",
+      "intervention": "Cladribine (); Cytarabine (Cytosine Arabinoside); G-CSF (); GDC-0199 (Venetoclax); Novantrone (mitoxantrone); Venetoclax (); mitoxantrone ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23479/",
+      "trial_id": "23479",
+      "title": "A Multicenter, Open-Label Phase I Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetic Profile, and Preliminary Efficacy of BL-M11D1 in Patients with Relapsed/Refractory Acute Myeloid Leukemia",
+      "condition": "Malignant Hematology",
+      "intervention": "BL-M11D1 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23595/",
+      "trial_id": "23595",
+      "title": "A Phase 3 Randomized, Double-blind, Placebo-controlled, Study of Bleximenib, Venetoclax and Azacitidine for the Treatment of Participants with Newly Diagnosed Acute Myeloid Leukemia Harboring KMT2A Rearrangements or NPM1 Mutations who are Ineligible for Intensive Chemotherapy",
+      "condition": "Malignant Hematology",
+      "intervention": "Azacitidine (5-azacitidine); Bleximenib/placebo (); GDC-0199 (Venetoclax); Venetoclax ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23620/",
+      "trial_id": "23620",
+      "title": "A Modular Phase I/II, Open-label, Multicentre Study to Evaluate the Safety, Tolerability and Preliminary Efficacy of AZD2962, an IRAK4 inhibitor, as Monotherapy and in Combination with other Agents, in Participants with Haematologic Neoplasms",
+      "condition": "Malignant Hematology",
+      "intervention": "AZD2962 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23648/",
+      "trial_id": "23648",
+      "title": "A Phase 1/2, first-in-human, multicenter, open-label trial evaluating the safety, tolerability, and antileukemic activity of Debio 1562M in participants with acute myeloid leukemia (AML)",
+      "condition": "Malignant Hematology",
+      "intervention": "Debio 1562M ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23675/",
+      "trial_id": "23675",
+      "title": "A Phase 1, Open-Label, Dose-escalation Study to Evaluate Safety, Tolerability, and Clinical Activity of CBX-250 in Participants with Relapsed or Refractory Acute Myeloid Leukemia, High-risk Myelodysplastic Syndrome or Chronic Myelomonocytic Leukemia.",
+      "condition": "Malignant Hematology",
+      "intervention": "CBX-250 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23710/",
+      "trial_id": "23710",
+      "title": "A multicenter, open-label, randomized, phase 2 study of venetoclax and azacitidine plus cusatuzumab versus venetoclax and azacitidine alone in newly diagnosed AML patients who are not candidates for intensive therapy",
+      "condition": "Malignant Hematology",
+      "intervention": "Azacitidine (5-azacitidine); Cusatuzumab (); GDC-0199 (Venetoclax); Venetoclax ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SallmanDavid_3172.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3172"
+  },
+  "content_hash": "fb58f32ed529b09230a5a0c447d2608387ec27fbe93b3bce28394d0365aaaa08",
+  "researcher_name": "david sallman",
+  "department": ""
+}

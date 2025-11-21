@@ -1,0 +1,185 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/gary-reuther/",
+  "last_updated": "2025-11-21T22:50:23.832664",
+  "researcher_id": "3048",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
+  "overview": "My lab focuses on understanding aberrant cell signaling in myeloid cancers and identifying novel targets for therapeutic intervention.",
+  "research_interests": [
+    "My research is focused on characterizing aberrant cellular activities in hematological cancer to identify potential targets for much needed therapeutic strategies for patients. While past focus in the lab has been on acute myeloid leukemia (AML), currently we are interested in understanding the significance of the activation of a protein called JAK2 in a family of blood diseases termed myeloproliferative neoplasms (MPNs). While patients with MPNs have an increased risk of potentially deadly coronary and blood clotting complications, MPNs also transform into AML, which is a steep clinical challenge, even more so than de novo AML. JAK2 is a tyrosine kinase that is deregulated by a variety of genetic mutations that are prevalent in MPNs and when expressed in mouse models induce an MPN-like phenotype. This further indicates JAK2 activity plays an important role in the development of MPNs in humans. However, JAK2 inhibitors have not had a significant effect at eliminating diseased cells from patients and thus do not readily induce remission. Therefore, there remains a need for alternative strategies to target MPN cells in patients. It is possible that combination treatments of JAK2 inhibitors with other small molecule targeted therapies or chemotherapies will provide benefit to MPN patients, and perhaps patients would benefit from novel JAK2 inhibitor-independent approaches. Our research is focused on understanding JAK2 activation and signaling in MPNs and identifying possible alternative therapeutic targets in MPN cells. To this end, we utilize molecular biological, cell biological, biochemical, proteomic, and mouse model approaches to further our understanding of aberrant cell signaling in MPNs and to develop improved JAK2 inhibitors and assess drug combination strategies that may lead to novel therapies to improve the lives of MPN patients.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology",
+    "Malignant Hematology",
+    "Cancer Biology & Evolution Program",
+    "Molecular Oncology & Drug Discovery Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Duke University Medical Center, Durham, NC, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of North Carolina, Chapel Hill, NC",
+      "specialty": "Pharmacology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "SHP2 inhibition displays efficacy as a monotherapy and in combination with JAK2 inhibition in preclinical models of myeloproliferative neoplasms",
+      "pubmed_id": "38440831",
+      "pmc_id": "PMC11096011",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Pandey G, Mazzacurati L, Rowsell TM, Horvat NP, Amin NE, Zhang G, Akuffo AA, Colin-Leitzinger CM, Haura EB, Kuykendall AT, Zhang L, Epling-Burnette PK, Reuther GW",
+      "journal": "Am J Hematol"
+    },
+    {
+      "title": "Porphyrin overdrive rewires cancer cell metabolism",
+      "pubmed_id": "38649187",
+      "pmc_id": "PMC11035860",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Adapa SR, Hunter GA, Amin NE, Marinescu C, Borsky A, Sagatys EM, Sebti SM, Reuther GW, Ferreira GC, Jiang RH",
+      "journal": "Life Sci Alliance"
+    },
+    {
+      "title": "Correction: Porphyrin overdrive rewires cancer cell metabolism",
+      "pubmed_id": "38803226",
+      "pmc_id": "PMC11106523",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Adapa SR, Hunter GA, Amin NE, Marinescu C, Borsky A, Sagatys EM, Sebti SM, Reuther GW, Ferreira GC, Jiang RH",
+      "journal": "Life Sci Alliance"
+    },
+    {
+      "title": "Targeting BET Proteins Downregulates miR-33a To Promote Synergy with PIM Inhibitors in CMML",
+      "pubmed_id": "37223910",
+      "pmc_id": "PMC10524644",
+      "year": "2023",
+      "publication_date": "2023 Aug",
+      "authors": "Letson CT, Balasis ME, Newman H, Binder M, Vedder A, Kinose F, Ball M, Kruer T, Quintana A, Lasho TL, Finke CM, Almada LL, Grants JM, Zhang G, Fernandez-Zapico ME, Gaspar-Maia A, Lancet J, Komrokji R, Haura E, Sallman DA, Reuther GW, Karsan A, Rix U, Patnaik MM, Padron E",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "JAK2 inhibitor persistence in MPN: uncovering a central role of ERK activation",
+      "pubmed_id": "35082276",
+      "pmc_id": "PMC8792018",
+      "year": "2022",
+      "publication_date": "2022 Jan",
+      "authors": "Pandey G, Kuykendall AT, Reuther GW",
+      "journal": "Blood Cancer J"
+    },
+    {
+      "title": "Structural Insights into JAK2 Inhibition by Ruxolitinib, Fedratinib, and Derivatives Thereof",
+      "pubmed_id": "33570945",
+      "pmc_id": "PMC8327781",
+      "year": "2021",
+      "publication_date": "2021 Feb",
+      "authors": "Davis RR, Li B, Yun SY, Chan A, Nareddy P, Gunawan S, Ayaz M, Lawrence HR, Reuther GW, Lawrence NJ, Sch\u00f6nbrunn E",
+      "journal": "J Med Chem"
+    },
+    {
+      "title": "Metabolic Vulnerabilities and Epigenetic Dysregulation in Myeloproliferative Neoplasms",
+      "pubmed_id": "33329600",
+      "pmc_id": "PMC7734315",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Sharma V, Wright KL, Epling-Burnette PK, Reuther GW",
+      "journal": "Front Immunol"
+    },
+    {
+      "title": "HDAC11 deficiency disrupts oncogene-induced hematopoiesis in myeloproliferative neoplasms",
+      "pubmed_id": "31750881",
+      "pmc_id": "PMC6966930",
+      "year": "2020",
+      "publication_date": "2020 Jan",
+      "authors": "Yue L, Sharma V, Horvat NP, Akuffo AA, Beatty MS, Murdun C, Colin C, Billington J, Goodheart WE, Sahakian E, Zhang L, Powers JJ, Amin NE, Lambert-Showers QT, Darville LN, Pinilla-Ibarz J, Reuther G, Wright K, Conti C, Lee JY, Zheng X, Ng PY, Martin MW, Marshall CG, Koomen JM, Levine RL, Verma A, Grimes HL, Sotomayor EM, Shao Z, Epling-Burnette PK",
+      "journal": "Blood"
+    },
+    {
+      "title": "Lowering Sample Requirements to Study Tyrosine Kinase Signaling Using Phosphoproteomics with the TMT Calibrator Approach",
+      "pubmed_id": "32865326",
+      "pmc_id": "PMC7771371",
+      "year": "2020",
+      "publication_date": "2020 Dec",
+      "authors": "Fang B, Izumi V, Rix LLR, Welsh E, Pike I, Reuther GW, Haura EB, Rix U, Koomen JM",
+      "journal": "Proteomics"
+    },
+    {
+      "title": "Finding a Jill for JAK: Assessing Past, Present, and Future JAK Inhibitor Combination Approaches in Myelofibrosis",
+      "pubmed_id": "32823910",
+      "pmc_id": "PMC7464183",
+      "year": "2020",
+      "publication_date": "2020 Aug",
+      "authors": "Kuykendall AT, Horvat NP, Pandey G, Komrokji R, Reuther GW",
+      "journal": "Cancers (Basel)"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Assessing novel therapeutics against RAS activation in models of myeloproliferative neoplasm and JAK2 inhibitor resistance  \nAward Number: 21VA109, Amendment 2  \nSponsor: REVOLUTION MEDICINES  \nReuther, G. (PD/PI)",
+      "title": "Assessing novel therapeutics against RAS activation in models of myeloproliferative neoplasm and JAK2 inhibitor resistance",
+      "award_number": "21VA109, Amendment 2",
+      "sponsor": "REVOLUTION MEDICINES",
+      "investigators": [
+        {
+          "name": "Reuther, G.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Novel therapeutic strategies to improve the outcomes of patients with myeloproliferative neoplasms  \nAward Number: 6706-26  \nSponsor: Blood Cancer United  \nReuther, G. (PD/PI)",
+      "title": "Novel therapeutic strategies to improve the outcomes of patients with myeloproliferative neoplasms",
+      "award_number": "6706-26",
+      "sponsor": "Blood Cancer United",
+      "investigators": [
+        {
+          "name": "Reuther, G.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Interrogating JAK2 inhibitor persistence in myeloproliferative neoplasms  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nReuther, G. (PD/PI)",
+      "title": "Interrogating JAK2 inhibitor persistence in myeloproliferative neoplasms",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Reuther, G.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Targeting altered phosphatase-dependent signaling to overcome the inefficacy of targeted therapy in myeloproliferative neoplasms  \nAward Number: 5R01HL151579-03  \nSponsor: National Heart, Lung, and Blood Institute (NHLBI)  \nReuther, G. (PD/PI)",
+      "title": "Targeting altered phosphatase-dependent signaling to overcome the inefficacy of targeted therapy in myeloproliferative neoplasms",
+      "award_number": "5R01HL151579-03",
+      "sponsor": "National Heart, Lung, and Blood Institute (NHLBI)",
+      "investigators": [
+        {
+          "name": "Reuther, G.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ReutherGary_3048.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3048"
+  },
+  "content_hash": "5fddfe0c8c26de9ebea93c42604f41bf19a28dc89c9695a64e9fee65dfffd093",
+  "researcher_name": "gary reuther",
+  "department": "molecular oncology"
+}

@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/fabiana-perna)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/fabiana-perna)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -504,11 +503,11 @@ The Perna lab contributed to technological advancements for the comprehensive an
     * Elmariah H, Kim J, Gonzalez R, DiMaggio E, Sansil S, Mishra A, Faramand R, Perez L, Lazaryan A, Mirza AS, Khimani F, Liu H, Ochoa-Bayona JL, Nieder M, Perna F, Figura N, Robinson TJ, Nishihori T, Anasetti C, Pidala JA, Bejanyan N. Phase II Trial of Reduced-Intensity Fludarabine, Melphalan, and Total Body Irradiation Conditioning With Haploidentical Donor Peripheral Blood Stem Cell Transplant. Am J Hematol. 2025 Sep.100(9):1665-1669. Pubmedid: [40492500](https://www.ncbi.nlm.nih.gov/pubmed/40492500). 
     * Di Meo F, Albano F, Cesarano A, Wang Y, Kale B, Shain K, Silva A, Kurihara N, Tenshin H, Jellyman D, Song X, Ghaffari S, Mesa H, Creelan B, Freeman C, Zhao X, Meads MB, Rodriguez PC, Marino S, Locke F, Hwu P, Roodman D, Mansilla-Soto J, Perna F. Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma. Cancer Cell. 2025 Oct. Pubmedid: [41072416](https://www.ncbi.nlm.nih.gov/pubmed/41072416). 
     * Jhaveri K, Thapa R, Ercan D, Saha A, Noble J, Singh P, Fahrmann J, Saini N, Wu R, Dennison JB, Hanash S, Jenq RR, Modi K, Figura N, Chavez J, Shah B, Nishihori T, Lazaryan A, Khimani F, Bachmeier C, Gage K, Mishra A, Perna F, Davila ML, Spiegel J, Rejeski K, Subklewe M, Locke FL, Freeman C, Parker N, Jain MD. Sarcopenia and Skeletal Muscle Loss after CAR T-cell Therapy in Diffuse Large B-cell Lymphoma. Clin Cancer Res. 2025 Jul.31(13):2756-2766. Pubmedid: [40238583](https://www.ncbi.nlm.nih.gov/pubmed/40238583). Pmcid: PMC12213223. 
-    * Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK. Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma. Haematologica. 2025 Jul. Pubmedid: [40637727](https://www.ncbi.nlm.nih.gov/pubmed/40637727). 
     * DaCosta-Clark T, Kale B, Perna F. On the Road to Safer CAR Therapy for B-Cell Lymphoma: Real-World Evidence. Transplant Cell Ther. 2025 Jul.31(7):401-404. Pubmedid: [40617680](https://www.ncbi.nlm.nih.gov/pubmed/40617680). 
-    * Taibi T, Cheon S, Perna F, Vu LP. mRNA-based therapeutic strategies for cancer treatment. Mol Ther. 2024 Sep.32(9):2819-2834. Pubmedid: [38702886](https://www.ncbi.nlm.nih.gov/pubmed/38702886). Pmcid: PMC11403232. 
+    * Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK. Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma. Haematologica. 2025 Jul. Pubmedid: [40637727](https://www.ncbi.nlm.nih.gov/pubmed/40637727). 
     * Di Meo F, Kale B, Koomen JM, Perna F. Mapping the cancer surface proteome in search of target antigens for immunotherapy. Mol Ther. 2024 Sep.32(9):2892-2904. Pubmedid: [39068512](https://www.ncbi.nlm.nih.gov/pubmed/39068512). Pmcid: PMC11403220. 
     * Bricker-Anthony R, Koeberl DD, Lipshutz GS, Perna F. Staying on target in gene and cell therapy. Mol Ther. 2024 Sep.32(9):2801-2802. Pubmedid: [39178850](https://www.ncbi.nlm.nih.gov/pubmed/39178850). Pmcid: PMC11403208. 
+    * Taibi T, Cheon S, Perna F, Vu LP. mRNA-based therapeutic strategies for cancer treatment. Mol Ther. 2024 Sep.32(9):2819-2834. Pubmedid: [38702886](https://www.ncbi.nlm.nih.gov/pubmed/38702886). Pmcid: PMC11403232. 
     * Handley G, Yepes A, Eliassen E, Dominguez G, Pasikhova Y, Klinkova O, Baluch A, Febres-Aldana AJ, Alsina M, Elmariah H, Khimani F, Hansen DK, Freeman CL, Jain MD, Locke F, Lazaryan A, Liu HD, Mishra A, Mirza AS, Nishihori T, Ochoa L, Perez L, Pidala J, Puglianini OC, Nieder M, Perna F, Kim J, Bejanyan N, Faramand R. Outcomes of Haploidentical Stem Cell Transplant Recipients With HHV-6B Reactivation. Open Forum Infect Dis. 2024 Oct.11(10):ofae564. Pubmedid: [39411216](https://www.ncbi.nlm.nih.gov/pubmed/39411216). Pmcid: PMC11475747. 
     * Luo Y, Chen Y, Ai C, Huang X, Perna F, Kale BJ, Lim SM, Gu M, Gao P, Rong C, Zhou Z, Weng Y, Jiang Y, Yang F, Xia Y. PARP1 promotes tumor proliferation in lenalidomide-resistant multiple myeloma via the downregulation of microRNA-192-5p-AKT signaling. Transl Cancer Res. 2024 Nov.13(11):6273-6281. Pubmedid: [39697751](https://www.ncbi.nlm.nih.gov/pubmed/39697751). Pmcid: PMC11651790. 
     * Marino S, Petrusca DN, Bishop RT, Anderson JL, Sabol HM, Ashby C, Layer JH, Cesarano A, Davé UP, Perna F, Delgado-Calle J, Chirgwin JM, Roodman GD. Pharmacologic targeting of the p62 ZZ domain enhances both anti-tumor and bone-anabolic effects of bortezomib in multiple myeloma. Haematologica. 2024 May.109(5):1501-1513. Pubmedid: [37981834](https://www.ncbi.nlm.nih.gov/pubmed/37981834). Pmcid: PMC11063840. 
@@ -516,9 +515,9 @@ The Perna lab contributed to technological advancements for the comprehensive an
     * Kale B, Khosravi-Maharlooei M, Perna F. Shifting gears with CAR T cells for autoimmune diseases. Mol Ther. 2024 Feb.32(2):261-263. Pubmedid: [38244538](https://www.ncbi.nlm.nih.gov/pubmed/38244538). Pmcid: PMC10862003. 
     * Perna F, Parekh S, Diorio C, Smith M, Subklewe M, Mehta R, Locke FL, Shah NN. CAR T-cell toxicities: from bedside to bench, how novel toxicities inform laboratory investigations. Blood Adv. 2024 Aug.8(16):4348-4358. Pubmedid: [38861351](https://www.ncbi.nlm.nih.gov/pubmed/38861351). Pmcid: PMC11375260. 
     * Ravn-Boess N, Roy N, Hattori T, Bready D, Donaldson H, Lawson C, Lapierre C, Korman A, Rodrick T, Liu E, Frenster JD, Stephan G, Wilcox J, Corrado AD, Cai J, Ronnen R, Wang S, Haddock S, Sabio Ortiz J, Mishkit O, Khodadadi-Jamayran A, Tsirigos A, Fenyö D, Zagzag D, Drube J, Hoffmann C, Perna F, Jones DR, Possemato R, Koide A, Koide S, Park CY, Placantonakis DG. The expression profile and tumorigenic mechanisms of CD97 (ADGRE5) in glioblastoma render it a targetable vulnerability. Cell Rep. 2023 Nov.42(11):113374. Pubmedid: [37938973](https://www.ncbi.nlm.nih.gov/pubmed/37938973). Pmcid: PMC10841603. 
-    * Santomasso BD, Gust J, Perna F. How I treat unique and difficult-to-manage cases of CAR T-cell therapy-associated neurotoxicity. Blood. 2023 May.141(20):2443-2451. Pubmedid: [36877916](https://www.ncbi.nlm.nih.gov/pubmed/36877916). Pmcid: PMC10329188. 
     * Schorr C, Forindez J, Espinoza-Gutarra M, Mehta R, Grover N, Perna F. Thrombotic Events Are Unusual Toxicities of Chimeric Antigen Receptor T-Cell Therapies. Int J Mol Sci. 2023 May.24(9). Pubmedid: [37176053](https://www.ncbi.nlm.nih.gov/pubmed/37176053). Pmcid: PMC10179014. 
     * Palam LR, Ramdas B, Pickerell K, Pasupuleti SK, Kanumuri R, Cesarano A, Szymanski M, Selman B, Dave UP, Sandusky G, Perna F, Paczesny S, Kapur R. Loss of Dnmt3a impairs hematopoietic homeostasis and myeloid cell skewing via the PI3Kinase pathway. JCI Insight. 2023 May.8(9). Pubmedid: [36976647](https://www.ncbi.nlm.nih.gov/pubmed/36976647). Pmcid: PMC10243813. 
+    * Santomasso BD, Gust J, Perna F. How I treat unique and difficult-to-manage cases of CAR T-cell therapy-associated neurotoxicity. Blood. 2023 May.141(20):2443-2451. Pubmedid: [36877916](https://www.ncbi.nlm.nih.gov/pubmed/36877916). Pmcid: PMC10329188. 
     * Schorr C, Perna F. Tailoring CAR T cell technology for T cell leukemia. Mol Ther. 2023 Mar.31(3):603-604. Pubmedid: [36803952](https://www.ncbi.nlm.nih.gov/pubmed/36803952). Pmcid: PMC10014257. 
     * Di Meo F, Iyer A, Akama K, Cheng R, Yu C, Cesarano A, Kurihara N, Tenshin H, Aljoufi A, Marino S, Soni RK, Roda J, Sissons J, Vu LP, Guzman M, Huang K, Laskowski T, Broxmeyer HE, Roodman DG, Perna F. A target discovery pipeline identified ILT3 as a target for immunotherapy of multiple myeloma. Cell Rep Med. 2023 Jul.4(7):101110. Pubmedid: [37467717](https://www.ncbi.nlm.nih.gov/pubmed/37467717). Pmcid: PMC10394163. 
     * Ardeshir-Larijani F, Schneider BP, Althouse SK, Radovich M, Masood A, Perna F, Salman H, Loehrer PJ. Clinicogenomic Landscape of Metastatic Thymic Epithelial Tumors. JCO Precis Oncol. 2023 Feb.7:e2200465. Pubmedid: [36787505](https://www.ncbi.nlm.nih.gov/pubmed/36787505). Pmcid: PMC10309539. 
@@ -554,8 +553,8 @@ The Perna lab contributed to technological advancements for the comprehensive an
     * Risitano AM, Perna F, Selleri C. Achievements and limitations of complement inhibition by eculizumab in paroxysmal nocturnal hemoglobinuria: the role of complement component 3. Mini Rev Med Chem. 2011 Jun.11(6):528-535. Pubmedid: [21561403](https://www.ncbi.nlm.nih.gov/pubmed/21561403). 
     * Risitano AM, Perna F. Aplastic anemia: immunosuppressive therapy in 2010. Pediatr Rep. 2011 Jun.3 Suppl 2(Suppl 2):e7. Pubmedid: [22053283](https://www.ncbi.nlm.nih.gov/pubmed/22053283). Pmcid: PMC3206528. 
     * Moran-Crusio K, Reavie L, Shih A, Abdel-Wahab O, Ndiaye-Lobry D, Lobry C, Figueroa ME, Vasanthakumar A, Patel J, Zhao X, Perna F, Pandey S, Madzo J, Song C, Dai Q, He C, Ibrahim S, Beran M, Zavadil J, Nimer SD, Melnick A, Godley LA, Aifantis I, Levine RL. Tet2 loss leads to increased hematopoietic stem cell self-renewal and myeloid transformation. Cancer Cell. 2011 Jul.20(1):11-24. Pubmedid: [21723200](https://www.ncbi.nlm.nih.gov/pubmed/21723200). Pmcid: PMC3194039. 
-    * Liu F, Zhao X, Perna F, Wang L, Koppikar P, Abdel-Wahab O, Harr MW, Levine RL, Xu H, Tefferi A, Deblasio A, Hatlen M, Menendez S, Nimer SD. JAK2V617F-mediated phosphorylation of PRMT5 downregulates its methyltransferase activity and promotes myeloproliferation. Cancer Cell. 2011 Feb.19(2):283-294. Pubmedid: [21316606](https://www.ncbi.nlm.nih.gov/pubmed/21316606). Pmcid: PMC4687747. 
     * Perna F, Abdel-Wahab O, Levine RL, Jhanwar SC, Imada K, Nimer SD. ETV6-ABL1-positive "chronic myeloid leukemia": clinical and molecular response to tyrosine kinase inhibition. Haematologica. 2011 Feb.96(2):342-343. Pubmedid: [21193423](https://www.ncbi.nlm.nih.gov/pubmed/21193423). Pmcid: PMC3031707. 
+    * Liu F, Zhao X, Perna F, Wang L, Koppikar P, Abdel-Wahab O, Harr MW, Levine RL, Xu H, Tefferi A, Deblasio A, Hatlen M, Menendez S, Nimer SD. JAK2V617F-mediated phosphorylation of PRMT5 downregulates its methyltransferase activity and promotes myeloproliferation. Cancer Cell. 2011 Feb.19(2):283-294. Pubmedid: [21316606](https://www.ncbi.nlm.nih.gov/pubmed/21316606). Pmcid: PMC4687747. 
     * Wang L, Gural A, Sun XJ, Zhao X, Perna F, Huang G, Hatlen MA, Vu L, Liu F, Xu H, Asai T, Xu H, Deblasio T, Menendez S, Voza F, Jiang Y, Cole PA, Zhang J, Melnick A, Roeder RG, Nimer SD. The leukemogenicity of AML1-ETO is dependent on site-specific lysine acetylation. Science. 2011 Aug.333(6043):765-769. Pubmedid: [21764752](https://www.ncbi.nlm.nih.gov/pubmed/21764752). Pmcid: PMC3251012. 
     * Strianese D, Tranfa F, Finelli M, De Renzo A, Staibano S, Schiemer R, Cardone D, Pacelli R, Perna F, Mascolo M, De Rosa G, Bonavolontà G. Hepatitis C virus infection in ocular adnexal lymphomas. Arch Ophthalmol. 2010 Oct.128(10):1295-1299. Pubmedid: [20937999](https://www.ncbi.nlm.nih.gov/pubmed/20937999). 
     * Perna F, Gurvich N, Hoya-Arias R, Abdel-Wahab O, Levine RL, Asai T, Voza F, Menendez S, Wang L, Liu F, Zhao X, Nimer SD. Depletion of L3MBTL1 promotes the erythroid differentiation of human hematopoietic progenitor cells: possible role in 20q- polycythemia vera. Blood. 2010 Oct.116(15):2812-2821. Pubmedid: [20585043](https://www.ncbi.nlm.nih.gov/pubmed/20585043). Pmcid: PMC2974589. 
@@ -656,7 +655,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -711,7 +710,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/fabiana-perna#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/fabiana-perna#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -729,7 +728,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1083,7 +1082,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/fabiana-perna#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/fabiana-perna#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

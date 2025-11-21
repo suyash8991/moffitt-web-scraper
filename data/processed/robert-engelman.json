@@ -1,0 +1,126 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/robert-engelman/",
+  "last_updated": "2025-11-21T22:50:26.579736",
+  "researcher_id": "669",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "non-programmatically aligned, immuno-oncology",
+  "overview": "",
+  "research_interests": [
+    "Non-Programmatically Aligned",
+    "Immuno-Oncology Program"
+  ],
+  "associations": [
+    "Non-Programmatically Aligned",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Oklahoma State University, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Equipment and Methods for Concurrently Housing Germfree and Gnotobiotic Mice in the Same Room",
+      "pubmed_id": "37640503",
+      "pmc_id": "PMC10597338",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Muino AF, Compo NR, Everett BM, Abrahams DF, Baldwin MK, James TN, Wanner SE, Perkins MJ, Parr CE, Wiltshire ND, Miedel EL, Engelman RW",
+      "journal": "J Am Assoc Lab Anim Sci"
+    },
+    {
+      "title": "Housing and Husbandry Alternatives for Naked Mole Rat Colonies Used in Research Settings",
+      "pubmed_id": "35944976",
+      "pmc_id": "PMC9536831",
+      "year": "2022",
+      "publication_date": "2022 Sep",
+      "authors": "Ragland NH, Compo NR, Wiltshire N, Shepard A, Troutman S, Kissil JL, Engelman RW",
+      "journal": "J Am Assoc Lab Anim Sci"
+    },
+    {
+      "title": "LRBA Deficiency Can Lead to Lethal Colitis That Is Diminished by SHIP1 Agonism",
+      "pubmed_id": "35603158",
+      "pmc_id": "PMC9116273",
+      "year": "2022",
+      "publication_date": "2022 May",
+      "authors": "Sudan R, Fernandes S, Srivastava N, Pedicone C, Meyer ST, Chisholm JD, Engelman RW, Kerr WG",
+      "journal": "Front Immunol"
+    },
+    {
+      "title": "Preclinical evaluation of [225Ac]Ac-DOTA-TATE for treatment of lung neuroendocrine neoplasms",
+      "pubmed_id": "33772332",
+      "year": "2021",
+      "publication_date": "2021 Oct",
+      "authors": "Tafreshi NK, Pandya DN, Tichacek CJ, Budzevich MM, Wang Z, Reff JN, Engelman RW, Boulware DC, Chiappori AA, Strosberg JR, Ji H, Wadas TJ, El-Haddad G, Morse DL",
+      "journal": "Eur J Nucl Med Mol Imaging"
+    },
+    {
+      "title": "Lipophilicity Determines Routes of Uptake and Clearance, and Toxicity of an Alpha-Particle-Emitting Peptide Receptor Radiotherapy",
+      "pubmed_id": "33860213",
+      "pmc_id": "PMC8033749",
+      "year": "2021",
+      "publication_date": "2021 Apr",
+      "authors": "Tafreshi NK, Kil H, Pandya DN, Tichacek CJ, Doligalski ML, Budzevich MM, Delva NC, Langsen ML, Vallas JA, Boulware DC, Engelman RW, Gage KL, Moros EG, Wadas TJ, McLaughlin ML, Morse DL",
+      "journal": "ACS Pharmacol Transl Sci"
+    },
+    {
+      "title": "Sirt2 Inhibition Enhances Metabolic Fitness and Effector Functions of Tumor-Reactive T Cells",
+      "pubmed_id": "32768387",
+      "pmc_id": "PMC7484212",
+      "year": "2020",
+      "publication_date": "2020 Sep",
+      "authors": "Hamaidi I, Zhang L, Kim N, Wang MH, Iclozan C, Fang B, Liu M, Koomen JM, Berglund AE, Yoder SJ, Yao J, Engelman RW, Creelan BC, Conejo-Garcia JR, Antonia SJ, Mul\u00e9 JJ, Kim S",
+      "journal": "Cell Metab"
+    },
+    {
+      "title": "Biodistribution and Multicompartment Pharmacokinetic Analysis of a Targeted \u03b1 Particle Therapy",
+      "pubmed_id": "32960613",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Tichacek CJ, Tafreshi NK, Kil H, Engelman RW, Doligalski ML, Budzevich MM, Gage KL, McLaughlin ML, Wadas TJ, Silva A, Moros E, Morse DL",
+      "journal": "Mol Pharm"
+    },
+    {
+      "title": "Persistent Corynebacterium bovis Infectious Hyperkeratotic Dermatitis in Immunocompetent Epidermal-Mutant dep/dep Mice",
+      "pubmed_id": "32347166",
+      "year": "2020",
+      "publication_date": "2020 Jul",
+      "authors": "Miedel EL, Ragland NH, Slate AR, Engelman RW",
+      "journal": "Vet Pathol"
+    },
+    {
+      "title": "PCR Prevalence of Murine Opportunistic Microbes and their Mitigation by Using Vaporized Hydrogen Peroxide",
+      "pubmed_id": "30795821",
+      "pmc_id": "PMC6433363",
+      "year": "2019",
+      "publication_date": "2019 Mar",
+      "authors": "Ragland NH, Miedel EL, Engelman RW",
+      "journal": "J Am Assoc Lab Anim Sci"
+    },
+    {
+      "title": "Effects of Corynebacterium bovis on Engraftment of Patient-derived Chronic-Myelomonocytic Leukemia Cells in NSGS Mice",
+      "pubmed_id": "31349880",
+      "pmc_id": "PMC6733163",
+      "year": "2019",
+      "publication_date": "2019 Aug",
+      "authors": "Vedder AR, Miedel EL, Ragland NH, Balasis ME, Letson CT, Engelman RW, Padron E",
+      "journal": "Comp Med"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages.moffitt.org/engelmanr",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=669"
+  },
+  "content_hash": "d89e7b059d5fda560e1c6ce3de8fd5bda9d84e21a776aee075ce73ce95dd9116",
+  "researcher_name": "robert engelman",
+  "department": ""
+}

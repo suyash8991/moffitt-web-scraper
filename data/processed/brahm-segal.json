@@ -1,0 +1,164 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/brahm-segal/",
+  "last_updated": "2025-11-21T22:50:22.949839",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "internal and hospital medicine",
+  "research_program": "immuno-oncology",
+  "overview": "The focus of Dr. Segal\u2019s lab is on how neutrophil and complement interactions shape the tumor microenvironment. The premise is that these innate immune responses in the non-cancer setting support wound healing following injury by dampening T cell immunity, but in the tumor microenvironment these same responses act as barriers to durable anti-tumor immunity. Our goal is to use our laboratory research as a foundation for clinical trials to evaluate novel approaches to overcome barriers to durable anti-tumor immunity",
+  "research_interests": [
+    "As an Infectious Diseases specialist, our research interest was focused on innate immune responses to infection with a focus on NADPH oxidase as a critical regulator of antimicrobial defense and inflammation. We extended our interest in innate responses to injury to the cancer microenvironment with the overall goals of understanding mechanisms that drive tumor progression and developing novel prognostic biomarkers and therapeutic approaches. Using malignant fluid as an authentic component of the TME, we made novel discoveries regarding how normal neutrophils acquire a T cell suppressor phenotype in the TME. Our data support a model in which products of cellular injury and pro-inflammatory signaling cues in the TME recruit neutrophils and induce a T cell suppressor phenotype characterized by suppression of critical signaling and metabolic pathways necessary for T cell activation and proliferation. Circulating neutrophils from healthy donors or patients with epithelial ovarian cancer (OC) were not intrinsically immunosuppressive but acquired a T-cell suppressor phenotype following exposure to OC ascites fluid supernatants. Suppressive neutrophils inhibited proliferation of primary T cells, TCR-engineered T cells, and tumor-associated lymphocytes (TALs) from patients with newly diagnosed OC. The induction of neutrophil suppressor function required complement signaling and NADPH oxidase. A similar complement-dependent neutrophil suppressor phenotype was induced by malignant effusions from other solid tumors, supporting generalizability. This body of work and the work of others in mouse models established the premise for an NCI-funded clinical trial (MPIs Emese Zsiros and Segal) involving the first use of a complement C3 inhibitor in patients with cancer. We have since made novel discoveries that support complement signaling in the tumor microenvironment as a direct T cell checkpoint that is separate from the effect of neutrophil suppressors.\n  *"
+  ],
+  "associations": [
+    "Internal and Hospital Medicine",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Albert Einstein College of Medicine, Bronx, New York",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "New England Medical Center, Boston, MA",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "National Institute of Allergy and Infectious Disease, National Institutes of Health",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "NC410, a bivalent LAIR-2 construct, remodels collagen in the tumor microenvironment and abrogates neutrophil-driven T cell suppression",
+      "pubmed_id": "40560129",
+      "pmc_id": "PMC12481037",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Giridharan T, Suzuki S, Khan ANH, Liu Q, Attwood K, Stokolosa A, Mahan S, Witkiewicz AK, Joseph J, Moysich K, Langermann S, Lovewell R, Flies D, Myint H, Odunsi K, Emmons TR, Yaffe MB, Zsiros E, Dey P, McGray AJR, Segal BH",
+      "journal": "J Immunol"
+    },
+    {
+      "title": "Divergent transcriptional states and kinetics of circulating tumor-infiltrating lymphocyte repertoires with highly homologous T-cell receptor sequences in a patient during immunotherapy",
+      "pubmed_id": "39863301",
+      "pmc_id": "PMC11784231",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Kajihara R, Long MD, Hoki T, Chen H, Yamauchi T, Kanemaru H, Segal BH, Dy GK, Ito F",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Microbiology of Actinomyces Species Isolated From Patients With Invasive Disease and Contaminated Samples in a Comprehensive Cancer Center",
+      "pubmed_id": "39450394",
+      "pmc_id": "PMC11500449",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "El-Atoum M, Gailor ME, Segal BH, Bonnewell JP, Almyroudis NG",
+      "journal": "Open Forum Infect Dis"
+    },
+    {
+      "title": "The implications of APOBEC3-mediated C-to-U RNA editing for human disease",
+      "pubmed_id": "38704509",
+      "pmc_id": "PMC11069577",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Van Norden M, Falls Z, Mandloi S, Segal BH, Baysal BE, Samudrala R, Elkin PL",
+      "journal": "Commun Biol"
+    },
+    {
+      "title": "CD8+ T cell metabolic flexibility elicited by CD28-ARS2 axis-driven alternative splicing of PKM supports antitumor immunity",
+      "pubmed_id": "38233562",
+      "pmc_id": "PMC10902291",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Holling GA, Chavel CA, Sharda AP, Lieberman MM, James CM, Lightman SM, Tong JH, Qiao G, Emmons TR, Giridharan T, Hou S, Intlekofer AM, Higashi RM, Fan TWM, Lane AN, Eng KH, Segal BH, Repasky EA, Lee KP, Olejniczak SH",
+      "journal": "Cell Mol Immunol"
+    },
+    {
+      "title": "Integrative multi-omics analysis uncovers tumor-immune-gut axis influencing immunotherapy outcomes in ovarian cancer",
+      "pubmed_id": "39638782",
+      "pmc_id": "PMC11621351",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Rosario SR, Long MD, Chilakapati S, Gomez EC, Battaglia S, Singh PK, Wang J, Wang K, Attwood K, Hess SM, McGray AJR, Odunsi K, Segal BH, Paragh G, Liu S, Wargo JA, Zsiros E",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Neutrophil interactions with T cells, platelets, endothelial cells, and of course tumor cells",
+      "pubmed_id": "36527200",
+      "pmc_id": "PMC10174640",
+      "year": "2023",
+      "publication_date": "2023 Mar",
+      "authors": "Segal BH, Giridharan T, Suzuki S, Khan ANH, Zsiros E, Emmons TR, Yaffe MB, Gankema AAF, Hoogeboom M, Goetschalckx I, Matlung HL, Kuijpers TW",
+      "journal": "Immunol Rev"
+    },
+    {
+      "title": "Predictive and Prognostic Implications of Circulating CX3CR1+ CD8+ T Cells in Non-Small Cell Lung Cancer Patients Treated with Chemo-Immunotherapy",
+      "pubmed_id": "37009132",
+      "pmc_id": "PMC10060186",
+      "year": "2023",
+      "publication_date": "2023 Mar",
+      "authors": "Abdelfatah E, Long MD, Kajihara R, Oba T, Yamauchi T, Chen H, Sarkar J, Attwood K, Matsuzaki J, Segal BH, Dy GK, Ito F",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "Fluctuations in Gut Microbiome Composition During Immune Checkpoint Inhibitor Therapy",
+      "pubmed_id": "37350807",
+      "pmc_id": "PMC10284636",
+      "year": "2023",
+      "publication_date": "2023 Jun",
+      "authors": "Sarkar J, Cortes Gomez E, Oba T, Chen H, Dy GK, Segal BH, Ernstoff MS, Ito F",
+      "journal": "World J Oncol"
+    },
+    {
+      "title": "Perspectives in Immunotherapy: meeting report from Immunotherapy Bridge (Naples, November 30th-December 1st, 2022)",
+      "pubmed_id": "37475035",
+      "pmc_id": "PMC10360352",
+      "year": "2023",
+      "publication_date": "2023 Jul",
+      "authors": "Ascierto PA, Avallone A, Bifulco C, Bracarda S, Brody JD, Emens LA, Ferris RL, Formenti SC, Hamid O, Johnson DB, Kirchhoff T, Klebanoff CA, Lesinski GB, Monette A, Neyns B, Odunsi K, Paulos CM, Powell DJ, Rezvani K, Segal BH, Singh N, Sullivan RJ, Fox BA, Puzanov I",
+      "journal": "J Transl Med"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Neuritin-Mediated Reprogramming of Myeloid Cell Populations: Mechanisms of Immune Suppression and Roads to Improve Therapy in Ovarian Cancer  \nAward Number: HT9425-23-1-0266  \nSponsor: Department of Defense (DOD)  \nSegal, B. (PD/PI)",
+      "title": "Neuritin-Mediated Reprogramming of Myeloid Cell Populations: Mechanisms of Immune Suppression and Roads to Improve Therapy in Ovarian Cancer",
+      "award_number": "HT9425-23-1-0266",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Segal, B.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Targeting complement to enhance antitumor immunity and control malignant effusions in patients with recurrent epithelial ovarian cancer  \nAward Number: 5R01CA267690-03  \nSponsor: National Cancer Institute (NCI)  \nSegal, B. (PD/PI)",
+      "title": "Targeting complement to enhance antitumor immunity and control malignant effusions in patients with recurrent epithelial ovarian cancer",
+      "award_number": "5R01CA267690-03",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Segal, B.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SegalBrahm_42763.jpg",
+  "contact": {},
+  "content_hash": "46a421caa882e9f22630d1d5959ccbd375dab5ffd0efd4eb60111811f449d93e",
+  "researcher_name": "brahm segal",
+  "department": ""
+}

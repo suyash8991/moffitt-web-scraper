@@ -1,0 +1,119 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/marcus-cooke/",
+  "last_updated": "2025-11-21T22:50:25.510351",
+  "researcher_id": "29532",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer biology & evolution",
+  "overview": "",
+  "research_interests": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "associations": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Investigating the origins of the mutational signatures in cancer",
+      "pubmed_id": "39778866",
+      "pmc_id": "PMC11707540",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Boysen G, Alexandrov LB, Rahbari R, Nookaew I, Ussery D, Chao MR, Hu CW, Cooke MS",
+      "journal": "Nucleic Acids Res"
+    },
+    {
+      "title": "DNA modifications: Biomarkers for the exposome?",
+      "pubmed_id": "38636743",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "M\u00f6ller C, Virzi J, Chang YJ, Keidel A, Chao MR, Hu CW, Cooke MS",
+      "journal": "Environ Toxicol Pharmacol"
+    },
+    {
+      "title": "A Novel Adductomics Workflow Incorporating FeatureHunter Software: Rapid Detection of Nucleic Acid Modifications for Studying the Exposome",
+      "pubmed_id": "38153287",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Hu CW, Chang YJ, Chang WH, Cooke MS, Chen YR, Chao MR",
+      "journal": "Environ Sci Technol"
+    },
+    {
+      "title": "Letter to the Editor regarding \"DNA photoproducts released by repair in biological fluids as biomarkers of the genotoxicity of UV radiation\"",
+      "pubmed_id": "36376715",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Cooke MS, Hu CW, Chao MR, Chang YJ, Rhodes LE, Evans MD",
+      "journal": "Anal Bioanal Chem"
+    },
+    {
+      "title": "Genetic and epigenetic instability induced by betel quid associated chemicals",
+      "pubmed_id": "36845258",
+      "pmc_id": "PMC9945799",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Muthukumaran RB, Bhattacharjee P, Bhowmick P, Zote L, Malsawmtluangi, Kumar NS, Jahau L, Cooke MS, Hu CW, Chao MR",
+      "journal": "Toxicol Rep"
+    },
+    {
+      "title": "Genome-wide mapping of genomic DNA damage: methods and implications",
+      "pubmed_id": "34463773",
+      "pmc_id": "PMC8558167",
+      "year": "2021",
+      "publication_date": "2021 Nov",
+      "authors": "Amente S, Scala G, Majello B, Azmoun S, Tempest HG, Premi S, Cooke MS",
+      "journal": "Cell Mol Life Sci"
+    },
+    {
+      "title": "How Robust is the Evidence for a Role of Oxidative Stress in Autism Spectrum Disorders and Intellectual Disabilities?",
+      "pubmed_id": "32929662",
+      "pmc_id": "PMC8084796",
+      "year": "2021",
+      "publication_date": "2021 May",
+      "authors": "Burke SL, Cobb J, Agarwal R, Maddux M, Cooke MS",
+      "journal": "J Autism Dev Disord"
+    },
+    {
+      "title": "Biomarkers of nucleic acid oxidation - A summary state-of-the-art",
+      "pubmed_id": "33579665",
+      "pmc_id": "PMC8113048",
+      "year": "2021",
+      "publication_date": "2021 Jun",
+      "authors": "Chao MR, Evans MD, Hu CW, Ji Y, M\u00f8ller P, Rossner P, Cooke MS",
+      "journal": "Redox Biol"
+    },
+    {
+      "title": "Is high resolution a strict requirement for mass spectrometry-based cellular DNA adductomics?",
+      "pubmed_id": "33979922",
+      "pmc_id": "PMC8119933",
+      "year": "2021",
+      "publication_date": "2021 Jul",
+      "authors": "Chang YJ, Cooke MS, Chen YR, Yang SF, Li PS, Hu CW, Chao MR",
+      "journal": "Chemosphere"
+    },
+    {
+      "title": "Towards a comprehensive view of 8-oxo-7,8-dihydro-2'-deoxyguanosine: Highlighting the intertwined roles of DNA damage and epigenetics in genomic instability",
+      "pubmed_id": "33285475",
+      "pmc_id": "PMC7926032",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Gorini F, Scala G, Cooke MS, Majello B, Amente S",
+      "journal": "DNA Repair (Amst)"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=29532"
+  },
+  "content_hash": "fd5ff988f99a1fe85d10c58fe431cda180528ee32677d0b0f0f4489f7fb471da",
+  "researcher_name": "marcus cooke",
+  "department": ""
+}

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/ghulam-rasool",
-  "last_updated": "2025-10-21T16:36:15.049762",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ghulam-rasool/",
+  "last_updated": "2025-11-21T22:50:23.881319",
   "researcher_id": "32214",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Machine Learning",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "machine learning",
+  "research_program": "cancer epidemiology",
   "overview": "Dr. Rasool's research is focused on building robust, trustworthy, safe, and fair AI for improving cancer care. His lab is developing deep and machine learning models for integrating multi-modal, multi-resolution, heterogeneous datasets to answer clinically relevant questions and optimize treatment decisions for personalized cancer care.",
   "research_interests": [
     "Dr. Rasool's research is focused on building robust, trustworthy, safe, and fair AI for improving cancer care. His lab is developing deep and machine learning models for integrating multi-modal, multi-resolution, heterogeneous datasets to answer clinically relevant questions and optimize treatment decisions for personalized cancer care.\n  *"
@@ -52,6 +52,24 @@
       "journal": "Cancer Inform"
     },
     {
+      "title": "Multimodal AI-driven Biomarker for Early Detection of Cancer Cachexia",
+      "pubmed_id": "41001462",
+      "pmc_id": "PMC12458964",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Ahmed S, Parker N, Park M, Davis EW, Jeong D, Permuth JB, Schabath MB, Yilmaz Y, Rasool G",
+      "journal": "medRxiv"
+    },
+    {
+      "title": "HONeYBEE: enabling scalable multimodal AI in oncology through foundation model-driven embeddings",
+      "pubmed_id": "41131352",
+      "pmc_id": "PMC12549884",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Tripathi A, Waqas A, Schabath MB, Yilmaz Y, Rasool G",
+      "journal": "NPJ Digit Med"
+    },
+    {
       "title": "Cross-Institutional Evaluation of Large Language Models for Radiology Diagnosis Extraction: A Prompt-Engineering Perspective",
       "pubmed_id": "40341981",
       "year": "2025",
@@ -78,15 +96,6 @@
       "journal": "Radiol Artif Intell"
     },
     {
-      "title": "Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication",
-      "pubmed_id": "40806487",
-      "pmc_id": "PMC12347193",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Waqas A, Tripathi A, Ahmed S, Mukund A, Farooq H, Johnson JO, Stewart PA, Naeini M, Schabath MB, Rasool G",
-      "journal": "Int J Mol Sci"
-    },
-    {
       "title": "Explainable AI in Genomics: Transcription Factor Binding Site Prediction with Mixture of Experts",
       "pubmed_id": "40709306",
       "pmc_id": "PMC12288655",
@@ -96,6 +105,15 @@
       "journal": "ArXiv"
     },
     {
+      "title": "Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication",
+      "pubmed_id": "40806487",
+      "pmc_id": "PMC12347193",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Waqas A, Tripathi A, Ahmed S, Mukund A, Farooq H, Johnson JO, Stewart PA, Naeini M, Schabath MB, Rasool G",
+      "journal": "Int J Mol Sci"
+    },
+    {
       "title": "Race-based differences in serum biomarkers for cancer-associated cachexia in a diverse cohort of patients with pancreatic ductal adenocarcinoma",
       "pubmed_id": "39989973",
       "pmc_id": "PMC11844656",
@@ -103,24 +121,6 @@
       "publication_date": "2025 Feb",
       "authors": "Permuth J, Park M, Davis E, Alhassan S, Arnoletti J, Basinski T, McKee A, Bloomston M, Carson T, de Castria TB, Chen DT, Cortizas E, Crowder S, Delgado MG, Douglas W, Fleming J, Hodul P, Huguet K, Jiang K, Kim DW, Koomen J, Luthra A, Malafa M, Menon A, Morales R, Merchant N, Meredith K, Mo Q, Molina-Vega M, Moreno-Urazan L, Olumoyin K, Parker N, Pimiento J, Rasool G, Rejniak K, Sansil S, Sparks L, Stewart P, Tassielli A, Teer J, Tran DV, Trevino J, Velanovich V, Whelan C, Jeong D, Judge S, Judge A",
       "journal": "Res Sq"
-    },
-    {
-      "title": "REASONING BEYOND ACCURACY: EXPERT EVALUATION OF LARGE LANGUAGE MODELS IN DIAGNOSTIC PATHOLOGY",
-      "pubmed_id": "40297448",
-      "pmc_id": "PMC12036407",
-      "year": "2025",
-      "publication_date": "2025 Apr",
-      "authors": "Waqas A, Khan A, Ozturk ZG, Saeed-Vafa D, Chen W, Dhillon J, Bychkov A, Bui MM, Ullah E, Khalil F, Chumbalkar V, Jameel Z, Bittar HT, Singh RS, Parwani AV, Schabath MB, Rasool G",
-      "journal": "medRxiv"
-    },
-    {
-      "title": "Employing Consensus-Based Reasoning with Locally Deployed LLMs for Enabling Structured Data Extraction from Surgical Pathology Reports",
-      "pubmed_id": "40343037",
-      "pmc_id": "PMC12060942",
-      "year": "2025",
-      "publication_date": "2025 Apr",
-      "authors": "Tripathi A, Waqas A, Venkatesan K, Ullah E, Khan A, Khalil F, Chen WS, Ozturk ZG, Saeed-Vafa D, Bui MM, Schabath MB, Rasool G",
-      "journal": "medRxiv"
     }
   ],
   "grants": [
@@ -253,11 +253,29 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23812/",
+      "trial_id": "23812",
+      "title": "AI-Driven Early Detection of Cachexia in Pancreatic Cancer and Feasibility of Diet and Exercise Interventions",
+      "condition": "Multiple",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23952/",
+      "trial_id": "23952",
+      "title": "Treatment Effect vs. Tumor Progression - Quantitative Analysis Using Machine Learning",
+      "condition": "Neurologic Oncology",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://lab.moffitt.org/rasool/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=Ejo4SlwAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers/RasoolGhulam_32214.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=32214"
   },
-  "content_hash": "3ed598f15237c1f0f129894ff359d5faa892d468a3f17104d6d484d7272b5124",
-  "researcher_name": "Ghulam Rasool",
-  "department": "Machine Learning"
+  "content_hash": "e4d61703aa031486c3f6fa0bf3b8c92c7fa0e575091a66c0a6a078a770ea7882",
+  "researcher_name": "ghulam rasool",
+  "department": "machine learning"
 }

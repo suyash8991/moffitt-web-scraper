@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/nagi-kumar)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/nagi-kumar)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -538,8 +537,8 @@ Using a multi-disciplinary science-based approach and the rigor with which other
     * Kumar NB, Dhurandhar M, Aggarwal B, Anant S, Daniel K, Deng G, Djeu J, Dou J, Hawk E, Jayaram B, Jia L, Joshi R, Kararala M, Karunagaran D, Kucuk O, Kumar L, Malafa M, Samathanam GJ, Sarkar F, Siddiqi M, Singh RP, Srivastava A, White JD. Proceedings of the Indo-U.S. bilateral workshop on accelerating botanicals/biologics agent development research for cancer chemoprevention, treatment, and survival. Cancer Med. 2013 Feb.2(1):108-115. Pubmedid: [24279005](https://www.ncbi.nlm.nih.gov/pubmed/24279005). Pmcid: PMC3797562. 
     * Chornokur G, Kumar NB. Prostate cancer chemoprevention in men of African descent: current state of the art and opportunities for future research. Cancer Causes Control. 2013 Aug.24(8):1465-1480. Pubmedid: [23737026](https://www.ncbi.nlm.nih.gov/pubmed/23737026). Pmcid: PMC4184029. 
     * Alexandrow MG, Song LJ, Altiok S, Gray J, Haura EB, Kumar NB. Curcumin: a novel Stat3 pathway inhibitor for chemoprevention of lung cancer. Eur J Cancer Prev. 2012 Sep.21(5):407-412. Pubmedid: [22156994](https://www.ncbi.nlm.nih.gov/pubmed/22156994). Pmcid: PMC3319490. 
-    * Kumar N, Crocker T, Smith T, Pow-Sang J, Spiess PE, Connors S, Chornukur G, Dickinson SI, Bai W, Williams CR, Salup R, Fu W. Prostate Cancer Chemoprevention Targeting High Risk Populations: Model for Trial Design and Outcome Measures. J Cancer Sci Ther. 2012 Mar.2011(S3). Pubmedid: [22422102](https://www.ncbi.nlm.nih.gov/pubmed/22422102). Pmcid: PMC3300067. 
     * Kumar N, Crocker T, Smith T, Pow-Sang J, Spiess PE, Egan K, Quinn G, Schell M, Sebti S, Kazi A, Chuang T, Salup R, Helal M, Zagaja G, Trabulsi E, McLarty J, Fazili T, Williams CR, Schreiber F, Slaton J, Anderson JK. Challenges and potential solutions to meeting accrual goals in a Phase II chemoprevention trial for prostate cancer. Contemp Clin Trials. 2012 Mar.33(2):279-285. Pubmedid: [22101219](https://www.ncbi.nlm.nih.gov/pubmed/22101219). Pmcid: PMC3268882. 
+    * Kumar N, Crocker T, Smith T, Pow-Sang J, Spiess PE, Connors S, Chornukur G, Dickinson SI, Bai W, Williams CR, Salup R, Fu W. Prostate Cancer Chemoprevention Targeting High Risk Populations: Model for Trial Design and Outcome Measures. J Cancer Sci Ther. 2012 Mar.2011(S3). Pubmedid: [22422102](https://www.ncbi.nlm.nih.gov/pubmed/22422102). Pmcid: PMC3300067. 
     * Kumar NB, Vadaparampil ST, Mahajan N, Lilienfeld HS, Lee JH, Laronga C, Hakam A, Hein JJ, Egan KM, Arun B, Pal T. Metformin- A Promising Agent for Chemoprevention in BRCA1 Carriers. Hereditary Genet. 2012 Jun.1(2). Pubmedid: [26097796](https://www.ncbi.nlm.nih.gov/pubmed/26097796). Pmcid: PMC4474476. 
     * Connors SK, Chornokur G, Kumar NB. New insights into the mechanisms of green tea catechins in the chemoprevention of prostate cancer. Nutr Cancer. 2012 Jul.64(1):4-22. Pubmedid: [22098273](https://www.ncbi.nlm.nih.gov/pubmed/22098273). Pmcid: PMC3665011. 
     * Kumar N, Crocker T, Smith T, Connors S, Pow-Sang J, Spiess PE, Egan K, Quinn G, Schell M, Sebti S, Kazi A, Chuang T, Salup R, Helal M, Zagaja G, Trabulsi E, McLarty J, Fazili T, Williams CR, Schreiber F, Anderson K. Prostate Cancer Chemoprevention Targeting Men with High-Grade Prostatic Intraepithelial Neoplasia (HGPIN) and Atypical Small Acinar Proliferation (ASAP): Model for Trial Design and Outcome Measures. J Clin Trials. 2012 Jan.2(1). Pubmedid: [24533253](https://www.ncbi.nlm.nih.gov/pubmed/24533253). Pmcid: PMC3924733. 
@@ -679,7 +678,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -734,7 +733,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/nagi-kumar#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/nagi-kumar#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -752,7 +751,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1106,7 +1105,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/nagi-kumar#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/nagi-kumar#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

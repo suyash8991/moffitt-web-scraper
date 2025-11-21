@@ -7,14 +7,14 @@ Patient Portal
 [Log In](https://mymoffitt.iqhealth.com/ "Log In") [Enroll](https://mymoffitt.iqhealth.com/self-enroll/)
 [ Careers ](https://www.moffitt.org/careers/ "Careers")
 [ Locations ](https://www.moffitt.org/locations-directions/ "Locations")
-[ 1-888-663-3488 ](tel:1-888-663-3488 "Call 1-888-663-3488")
+[ 1-833-924-4213 ](tel:+18339244213 "Call 1-888-663-3488")
 English
 [English](https://www.moffitt.org/research-science/researchers/justin-lopchuk/ "English") [Spanish](https://www.moffitt.org/es/research-science/researchers/justin-lopchuk/ "Spanish")
 [ ](https://www.moffitt.org/research-science/researchers/?campaign=567103 "Donate") Search
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/justin-lopchuk)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/justin-lopchuk)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -495,7 +494,7 @@ Justin Lopchuk, PhD
   * ## Research Interest
 Our research program is grounded in synthetic organic chemistry with a specific focus on the development of new reactions, the design of new reagents, and the total synthesis of natural products with anti-cancer activity. In collaboration with other research groups at Moffitt, we will apply our chemistry to synthesize chemical probes designed to interrogate the function of key oncoproteins and immune-regulatory proteins, while ultimately seeking to develop these probes and lead compounds into novel anti-cancer drugs. Methodology. In our ongoing quest to facilitate the rapid synthesis of bioactive molecules, we aim to develop new reactions and easy-to-use reagents centered around the deliberate use of radicals and other reactive intermediates for C–C, C–N, and C–S bond formation. Each method is designed to enable the construction of small building blocks, the modification of natural products, and the late-stage functionalization of complex molecules. Toward our goal of exploring underutilized chemical space, we will focus our attention on designing reagents which allow for the simple installation of a variety of bioisosteres. Total Synthesis. For some anti-cancer natural products, total synthesis remains the best strategy for obtaining sufficient amounts of compounds for a thorough biological evaluation, let alone the prospect of clinical trials. After carefully selecting our targets, our lab will focus on developing routes which are short, scalable, and designed to deliver multigram quantities of material for biological study, as well as the ability to synthesize libraries of analogs. Drug Discovery. Moffitt’s highly collaborative environment allows us to regularly engage with numerous biologists, chemists, and clinicians in both the Department of Drug Discovery and the Chemical Biology and Molecular Medicine Program. Here we will incorporate our new methodologies in fragment-based drug discovery, the design of chemical probes, and the chemoselective modification or tagging of bioactive molecules. The newly developed reagents and methods for installation of bioisosteres will be available for collaborators and their own lead compounds.
   * ## Publications
-    * Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther. 2025 May.OF1-OF10. Pubmedid: [40376796](https://www.ncbi.nlm.nih.gov/pubmed/40376796). 
+    * Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther. 2025 Nov.24(11):1712-1721. Pubmedid: [40376796](https://www.ncbi.nlm.nih.gov/pubmed/40376796). Pmcid: PMC12353786. 
     * Che W, Wojitas L, Shan C, Lopchuk JM. Divergent synthesis of complex withanolides enabled by a scalable route and late-stage functionalization. Sci Adv. 2024 Jun.10(26):eadp9375. Pubmedid: [38941454](https://www.ncbi.nlm.nih.gov/pubmed/38941454). Pmcid: PMC11212736. 
     * Xing Q, Chandrachud PP, Tillett K, Lopchuk JM. Regioselective hydroamination of unactivated olefins with diazirines as a diversifiable nitrogen source. Nat Commun. 2024 Jul.15(1):6049. Pubmedid: [39025859](https://www.ncbi.nlm.nih.gov/pubmed/39025859). Pmcid: PMC11258257. 
     * Teng S, Shultz ZP, Shan C, Wojtas L, Lopchuk JM. Asymmetric synthesis of sulfoximines, sulfonimidoyl fluorides and sulfonimidamides enabled by an enantiopure bifunctional S(VI) reagent. Nat Chem. 2024 Feb.16(2):183-192. Pubmedid: [38238465](https://www.ncbi.nlm.nih.gov/pubmed/38238465). 
@@ -605,9 +604,9 @@ Resources
 
 
 Call Today
-[1-888-663-3488](tel:1-888-663-3488 "Call Today")
+[1-833-924-4213](tel:+18339244213 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -628,9 +627,10 @@ Discover More
 
 
 ### Cambiar el idioma
-Si no encuentra la información que busca o si desea programar una cita, llámenos gratis al [1-888-663-3488](tel:1-888-663-3488).
+Si no encuentra la información que busca o si desea programar una cita, llámenos gratis al [1-833-924-4213](tel:+18339244213).
 Gracias.
 [Cancel | Cancelar](https://www.moffitt.org/research-science/researchers/justin-lopchuk) [OK](https://www.moffitt.org/research-science/researchers/justin-lopchuk)
+![](https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=fc45dcb4-a7c3-4359-87c7-bedb35708d6c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=02016a15-a480-4777-a8a5-59839f99c64a&pt=Justin%20Lopchuk%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fjustin-lopchuk&tw_iframe_status=0&txn_id=oiyf6&type=javascript&version=2.3.34)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=fc45dcb4-a7c3-4359-87c7-bedb35708d6c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=02016a15-a480-4777-a8a5-59839f99c64a&pt=Justin%20Lopchuk%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fjustin-lopchuk&tw_iframe_status=0&txn_id=oiyf6&type=javascript&version=2.3.34)![](https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=d74872ca-d9ef-474b-b75d-ea2d365f05e6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=02016a15-a480-4777-a8a5-59839f99c64a&pt=Justin%20Lopchuk%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fjustin-lopchuk&tw_iframe_status=0&txn_id=otli4&type=javascript&version=2.3.34)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=d74872ca-d9ef-474b-b75d-ea2d365f05e6&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=02016a15-a480-4777-a8a5-59839f99c64a&pt=Justin%20Lopchuk%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fjustin-lopchuk&tw_iframe_status=0&txn_id=otli4&type=javascript&version=2.3.34)![](https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=0cc1d883-63d7-4a5c-8867-45914bd597ec&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=02016a15-a480-4777-a8a5-59839f99c64a&pt=Justin%20Lopchuk%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fjustin-lopchuk&tw_iframe_status=0&txn_id=otqq0&type=javascript&version=2.3.34)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=0cc1d883-63d7-4a5c-8867-45914bd597ec&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=02016a15-a480-4777-a8a5-59839f99c64a&pt=Justin%20Lopchuk%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fjustin-lopchuk&tw_iframe_status=0&txn_id=otqq0&type=javascript&version=2.3.34)
 [ ![Moffitt Cancer Center](https://www.moffitt.org/globalassets/images/logos/moffitt-logo-full-white.svg) ](https://www.moffitt.org/ "Moffitt Cancer Center")
 Search
 Menu
@@ -662,7 +662,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/justin-lopchuk#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/justin-lopchuk#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -680,7 +680,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1034,7 +1034,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/justin-lopchuk#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/justin-lopchuk#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 
@@ -1208,3 +1207,5 @@ English
 
 
 [](https://www.moffitt.org/research-science/researchers/justin-lopchuk#page)
+![](https://bat.bing.com/action/0?ti=4063368&Ver=2&mid=3b5d5f97-cc34-47e1-8f74-8aad2131fc41&bo=1&sid=34cc61a0bdb611f0b91921974d53db2d&vid=34cc9a10bdb611f09ad16576f19b6f71&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Justin%20Lopchuk%20%7C%20Research%20Profile%20%7C%20Moffitt&p=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fjustin-lopchuk&r=&lt=7997&evt=pageLoad&sv=2&cdb=AQAQ&rn=234107)
+![](https://bat.bing.com/action/0?ti=5947320&tm=gtm002&Ver=2&mid=ac9ae477-afea-4bf8-96e7-4cd282175e6d&bo=1&sid=34cc61a0bdb611f0b91921974d53db2d&vid=34cc9a10bdb611f09ad16576f19b6f71&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1080&sh=600&sc=24&tl=Justin%20Lopchuk%20%7C%20Research%20Profile%20%7C%20Moffitt&p=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fjustin-lopchuk&r=&lt=7997&evt=pageLoad&sv=2&cdb=AQAQ&rn=872729)

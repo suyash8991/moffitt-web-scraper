@@ -1,0 +1,141 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jaime-matta/",
+  "last_updated": "2025-11-21T22:50:24.185243",
+  "researcher_id": "2991",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "molecular medicine",
+  "overview": "",
+  "research_interests": [
+    "My main research expertise is in the area of toxicology. Over the years, I have worked in three main areas within that large interdisciplinary field of toxicology. During the last seven years, I have been primarily focused in the field of clinical cancer research studying the role of DNA repair as a risk factor for skin and breast cancer. The overall goals of my laboratory are to: a) define the role of DNA repair in skin and breast cancer susceptibility and resistance to chemotherapeutic agents b) to identify DNA repair genes that are associated with significant changes in risk to skin and breast cancer, c) study mechanisms involved in the regulation of DNA repair gene expression by activated Stat3 signaling in melanoma skin cancer, d) determine how genetic and environmental factors influence the risk of skin and breast cancer at the populational level.\n  *"
+  ],
+  "associations": [
+    "Experimental Therapeutics Program",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of California, UCLA, PhD"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of California, UCLA, DSc"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of Puerto Rico, Mayaguez, Puerto Rico, MS"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of California, Santa Barbara",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "DNA Repair Capacity and Clinicopathological Characteristics in Puerto Rican Hispanic/Latino Patients with Metastatic Castration-Resistant Prostate Cancer",
+      "pubmed_id": "39858060",
+      "pmc_id": "PMC11763443",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Matta J, Ortiz-S\u00e1nchez C, Encarnaci\u00f3n-Medina J, Torres-Caraballo S, Oliveras J, Park J, Arroyo MM, Ruiz-Deya G",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "5hmC-profiles in Puerto Rican Hispanic/Latino men with aggressive prostate cancer",
+      "pubmed_id": "40265030",
+      "pmc_id": "PMC12011585",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Patel MS, Almubarak M, Matta J, Ortiz-Sanchez C, Encarnacion J, Ruiz-Deya G, Dutil J, Dhillon J, Yamoah K, Berglund A, Park H, Kilari D, Balagurunathan Y, Wang L, Park JY",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "Association between DNA repair capacity and body mass index in women",
+      "pubmed_id": "36621052",
+      "pmc_id": "PMC10200731",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Crespo-Orta I, Ortiz C, Encarnaci\u00f3n J, Su\u00e1rez E, Matta J",
+      "journal": "Mutat Res-Fund Mol M"
+    },
+    {
+      "title": "Differential Expression of miRNAs Contributes to Tumor Aggressiveness and Racial Disparity in African American Men with Prostate Cancer",
+      "pubmed_id": "37190259",
+      "pmc_id": "PMC10136561",
+      "year": "2023",
+      "publication_date": "2023 Apr",
+      "authors": "Ottman R, Ganapathy K, Lin HY, Osterman CD, Dutil J, Matta J, Ruiz-Deya G, Wang L, Yamoah K, Berglund A, Chakrabarti R, Park JY",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Reduced DNA Repair Capacity in Prostate Cancer Patients: A Phenotypic Approach Using the CometChip",
+      "pubmed_id": "35804887",
+      "pmc_id": "PMC9264934",
+      "year": "2022",
+      "publication_date": "2022 Jun",
+      "authors": "Ortiz-S\u00e1nchez C, Encarnaci\u00f3n-Medina J, Park JY, Moreno N, Ruiz-Deya G, Matta J",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Differential DNA Methylation in Prostate Tumors from Puerto Rican Men",
+      "pubmed_id": "33450964",
+      "pmc_id": "PMC7828429",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Ruiz-Deya G, Matta J, Encarnaci\u00f3n-Medina J, Ortiz-Sanch\u00e9z C, Dutil J, Putney R, Berglund A, Dhillon J, Kim Y, Park JY",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Dysregulation of DNA Methylation and Epigenetic Clocks in Prostate Cancer among Puerto Rican Men",
+      "pubmed_id": "35053153",
+      "pmc_id": "PMC8773891",
+      "year": "2021",
+      "publication_date": "2021 Dec",
+      "authors": "Berglund A, Matta J, Encarnaci\u00f3n-Medina J, Ortiz-Sanch\u00e9z C, Dutil J, Linares R, Marcial J, Abreu-Takemura C, Moreno N, Putney R, Chakrabarti R, Lin HY, Yamoah K, Osterman CD, Wang L, Dhillon J, Kim Y, Kim SJ, Ruiz-Deya G, Park JY",
+      "journal": "Biomolecules"
+    },
+    {
+      "title": "Computational simulations establish a novel transducer array placement arrangement that extends delivery of therapeutic TTFields to the infratentorium of patients with brainstem gliomas",
+      "pubmed_id": "34992879",
+      "pmc_id": "PMC8726444",
+      "year": "2021",
+      "publication_date": "2021 Dec",
+      "authors": "Ramirez-Fort MK, Naveh A, McClelland S, Gilman CK, Fort M, Mendez M, Matta J, Bomzon Z, Lange CS",
+      "journal": "Rep Pract Oncol Radiother"
+    },
+    {
+      "title": "Circulating Vitamin D Levels and DNA Repair Capacity in Four Molecular Subtypes of Women with Breast Cancer",
+      "pubmed_id": "32961801",
+      "pmc_id": "PMC7555346",
+      "year": "2020",
+      "publication_date": "2020 Sep",
+      "authors": "Ortiz-S\u00e1nchez C, Encarnaci\u00f3n-Medina J, Vergne R, Padilla L, Matta J",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "SNPs in the interleukin-12 signaling pathway are associated with breast cancer risk in Puerto Rican women",
+      "pubmed_id": "32973967",
+      "pmc_id": "PMC7500104",
+      "year": "2020",
+      "publication_date": "2020 Sep",
+      "authors": "N\u00fa\u00f1ez-Marrero A, Arroyo N, Godoy L, Rahman MZ, Matta JL, Dutil J",
+      "journal": "Oncotarget"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2991"
+  },
+  "content_hash": "dfe1e09d0ca7dc6ce754ed04eea1d1a8dd136b6edf4a8621eba754015ec40b44",
+  "researcher_name": "jaime matta",
+  "department": ""
+}

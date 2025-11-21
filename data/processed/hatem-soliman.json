@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/hatem-soliman",
-  "last_updated": "2025-10-21T16:40:27.639050",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/hatem-soliman/",
+  "last_updated": "2025-11-21T22:50:23.986841",
   "researcher_id": "4606",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Breast Oncology",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "breast oncology",
+  "research_program": "immuno-oncology",
   "overview": "My research focuses on the role of the immune system in the natural history of breast cancer and developing new immunotherapy strategies to improve outcomes in breast cancer.",
   "research_interests": [
     "Dr. Soliman's research focuses on the development of new immunotherapy treatments (vaccines, immune modulating drugs) in the treatment of breast cancer.\n  *"
@@ -38,20 +38,20 @@
   ],
   "publications": [
     {
-      "title": "Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study",
-      "pubmed_id": "40992541",
-      "year": "2025",
-      "publication_date": "2025 Sep",
-      "authors": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST",
-      "journal": "Contemp Clin Trials"
-    },
-    {
       "title": "Abemaciclib Persistence in Patients with HR+, HER2-, Node-Positive Early Breast Cancer: a Real-World Analysis",
       "pubmed_id": "41039165",
       "year": "2025",
       "publication_date": "2025 Oct",
       "authors": "Hudson K, Gathirua-Mwangi W, Williams LA, Cui ZL, Richey M, Grimes B, Wang J, Liepa AM, Brechtelsbauer E, Volodarsky R, Moreira K, Soliman H",
       "journal": "Oncol Ther"
+    },
+    {
+      "title": "Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study",
+      "pubmed_id": "40992541",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST",
+      "journal": "Contemp Clin Trials"
     },
     {
       "title": "Quantitative habitat concentration analysis of triple negative breast cancer on MRI correlates with pathologic response to combination neoadjuvant immuno/chemotherapy",
@@ -62,15 +62,6 @@
       "journal": "Clin Imaging"
     },
     {
-      "title": "A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer",
-      "pubmed_id": "40097486",
-      "pmc_id": "PMC11914126",
-      "year": "2025",
-      "publication_date": "2025 Mar",
-      "authors": "Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B",
-      "journal": "NPJ Breast Cancer"
-    },
-    {
       "title": "Tucatinib and trastuzumab in HER2-mutated metastatic breast cancer: a phase 2 basket trial",
       "pubmed_id": "39825152",
       "pmc_id": "PMC11922774",
@@ -78,6 +69,15 @@
       "publication_date": "2025 Mar",
       "authors": "Okines AFC, Curigliano G, Mizuno N, Oh DY, Rorive A, Soliman H, Takahashi S, Bekaii-Saab T, Burkard ME, Chung KY, Debruyne PR, Fox JR, Gambardella V, Gil-Martin M, Hamilton EP, Monk BJ, Nakamura Y, Nguyen D, O'Malley DM, Olawaiye AB, Pothuri B, Reck M, Sudo K, Sunakawa Y, Van Marcke C, Yu EY, Ramos J, Tan S, Bieda M, Stinchcombe TE, Pohlmann PR",
       "journal": "Nat Med"
+    },
+    {
+      "title": "A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer",
+      "pubmed_id": "40097486",
+      "pmc_id": "PMC11914126",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B",
+      "journal": "NPJ Breast Cancer"
     },
     {
       "title": "Immune Subtyping Identifies Patients With Hormone Receptor-Positive Early-Stage Breast Cancer Who Respond to Neoadjuvant Immunotherapy (IO): Results From Five IO Arms of the I-SPY2 Trial",
@@ -166,11 +166,46 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23142/",
+      "trial_id": "23142",
+      "title": "Precision DC: Personalized Neoantigen Dendritic Cell Vaccine Pilot Trial for High Risk Triple Negative Breast Cancer after Neoadjuvant Therapy",
+      "condition": "Breast",
+      "intervention": "DC1 Vaccine ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23340/",
+      "trial_id": "23340",
+      "title": "A Phase 2 study of alisertib in combination with endocrine therapy in patients with HR+, HER2-negative recurrent or metastatic breast cancer",
+      "condition": "Breast",
+      "intervention": "Alisertib (MLN8237); Anastrozole (); Arimadex (Anastrozole); Aromasin (Exemestane); Exemestane (); Faslodex (fulvestrant); Femara (Letrozole); Letrozole (); Tamoxifen (); fulvestrant ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23572/",
+      "trial_id": "23572",
+      "title": "Elacestrant versus Standard Endocrine Therapy in Women and Men with Node-positive, Estrogen Receptor-positive, HER2-negative, Early Breast Cancer with High Risk of Recurrence A Global, Multicenter, Randomized, Open-label Phase 3 Study (ELEGANT)",
+      "condition": "Breast",
+      "intervention": "Anastrozole (); Arimadex (Anastrozole); Aromasin (Exemestane); Elacestrant (); Exemestane (); Femara (Letrozole); Letrozole (); Tamoxifen ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23939/",
+      "trial_id": "23939",
+      "title": "Distinguishing Breast and Cutaneous Tumors",
+      "condition": "Breast",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SolimanHatem_4606.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4606"
   },
-  "content_hash": "b15f0e6e1ff62de170083344f8cf01a03ccbd1c3a9c9971071cb980253872834",
-  "researcher_name": "Hatem Soliman",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "a48ba7715d4d902370543b50f64554fc32da503e0111ac0b39d635531e08d393",
+  "researcher_name": "hatem soliman",
+  "department": "tumor microenvironment and metastasis"
 }

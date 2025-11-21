@@ -1,0 +1,185 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/javier-pinilla/",
+  "last_updated": "2025-11-21T22:50:24.283711",
+  "researcher_id": "3635",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "immuno-oncology",
+  "overview": "My clinical interest is in the area of chronic leukemias with special interest in chronic myeloid leukemia and chronic lymphoid leukemias.",
+  "research_interests": [
+    "Our laboratory is interested in implementing new immunotherapeutic strategies in the field of malignant hematology. The major focus of the lab has been on developing immunotherapeutic approaches for acute and chronic leukemias as well as MDS. Basic research ongoing projects include: 1) epigenetic modulation to increase the immunogenicity of chronic lymphocytic leukemia. 2) serological identification of cancer testis antigen in hematological malignancies. 3) Effects of tyrosine kinase inhibitors on the immune system of patients with chronic lymphocytic leukemia. 4) Mechanisms of immune resistance mediated by stroma interactions in CML. 5) NOG humanized mice models to study the immune system and therapeutics of hematological malignant disorders.Clinical translational ongoing and future projects includes: 1) A WT1 peptide vaccine study in patients with MDS and AML after remission. 2) A combination of a bystander vaccine (K562/GM/CD40L) in combination with lenalidomide for patients with high risk MDS as well for CLL and CML.\n  *"
+  ],
+  "associations": [
+    "Immunology",
+    "Malignant Hematology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Zaragoza Medical School, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University of Zaragoza Medical School",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "La Paz University Hospital, Madrid, Spain",
+      "specialty": "Clinical Attending - Hematology and BMT"
+    },
+    {
+      "type": "Residency",
+      "institution": "La Paz University Hospital, Madrid, Spain",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "New York Presbyterian/Cornell Medical Center",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "La Paz University Hospital, Madrid, Spain",
+      "specialty": "Hematology and Hematotherapy"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Memorial Sloan-Kettering Cancer Center",
+      "specialty": "Medical Oncology & Hematology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Memorial Sloan-Kettering Cancer Center, Dept of Leukemia",
+      "specialty": "Immunology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Targeting S100A9-mediated inflammation: a novel therapeutic approach for CLL",
+      "pubmed_id": "40720748",
+      "pmc_id": "PMC12550715",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Uriepero-Palma A, Marquez ME, Payque E, Mediavilla-Varela M, Gamal W, Maharaj K, Powers JJ, Eksioglu EA, Chavez JC, Sernbo S, Palacios F, Querol Rivas J, Ortega C, Uria R, Dos Santos G, Oliver C, Landoni AI, Sahakian E, Oppezzo P, Pinilla-Ibarz J",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Lymphoma accelerates T cell and tissue aging",
+      "pubmed_id": "40845845",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Hesterberg RS, Davis JT, Handoo KJ, Elmarsafawi AG, Augello AC, Cheng CH, Atkins R, Lee DH, Yang C, Yao J, Patel KR, Mediavilla-Varela M, Pinilla-Ibarz J, Soto-Palma C, Locke FL, Song X, Wang X, Berglund AE, Rodriguez PC, Knittel G, Fl\u00fcmann R, Reinhardt HC, Shaw TI, Yu X, Niedernhofer LJ, Cleveland JL",
+      "journal": "Cancer Cell"
+    },
+    {
+      "title": "Mitigating T-cell mitochondrial dysfunction in CLL to augment CAR T-cell therapy: evaluation in an immunocompetent model",
+      "pubmed_id": "39938006",
+      "pmc_id": "PMC12148389",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Gamal W, Goedhart NB, Simon-Molas H, Mediavilla-Varela M, Uriepero-Palma A, Peters FS, Maharaj K, Chavez JC, Powers JJ, Obermayer A, Shaw TI, Conejo-Garcia JR, Rodriguez PC, Sahakian E, Pinilla-Ibarz J, Kater AP",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Asciminib in late-line CML treatment",
+      "pubmed_id": "40827887",
+      "pmc_id": "PMC12395050",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Sweet K, Pinilla-Ibarz J",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "ZUMA-8: a phase 1 study of brexucabtagene autoleucel in patients with relapsed/refractory chronic lymphocytic leukemia",
+      "pubmed_id": "40209059",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Davids MS, Kenderian SS, Flinn IW, Hill BT, Maris MB, Ghia P, Byrne MT, Bartlett NL, Pagel J, Zheng Y, Kanska J, Zhang W, Granados E, Pinilla-Ibarz J",
+      "journal": "Blood"
+    },
+    {
+      "title": "Clinical Practice Recommendations on the Role Of Allogeneic Hematopoietic Cell Transplantation and Chimeric Antigen Receptor T-Cell Therapy in Patients With Chronic Lymphocytic Leukemia on Behalf of the American Society for Transplantation and Cellular Th",
+      "pubmed_id": "40514010",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Kharfan-Dabaja MA, Kumar A, Pinilla-Ibarz J, Brown JR, Shadman M, Awan FT, Kenderian SS, Siddiqi T, Abramson JS, Al-Juhaishi T, Brander DM, Coombs CC, Furman RR, Jain N, Khan N, Saba NS, Collins JM, Beitinjaneh A, Stephens DM, Woyach J, Hamadani M",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Impact of mitochondrial metabolism on T-cell dysfunction in chronic lymphocytic leukemia",
+      "pubmed_id": "40313718",
+      "pmc_id": "PMC12043688",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Gamal W, Mediavilla-Varela M, Kunta V, Sahakian E, Pinilla-Ibarz J",
+      "journal": "Front Cell Dev Biol"
+    },
+    {
+      "title": "Autologous Hematopoietic Cell Transplantation Consolidation for First Response is Associated With Longer Survival Among Patients With Nodal Peripheral T Cell Lymphoma",
+      "pubmed_id": "38740140",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Zhang Y, Rose A, Khadka S, Cao B, Eatrides J, Saeed H, Shah BD, Chavez J, Bello C, Lazaryan A, Khimani F, Ibarz JP, Liu HD, Locke FL, Jain MD, Zhang L, Kharfan-Dabaja MA, Kim J, Ayala E, Nishihori T, Sokol L",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Mycovirus-Containing Aspergillus flavus Alters Transcription Factors in Normal and Acute Lymphoblastic Leukemia Cells",
+      "pubmed_id": "39408690",
+      "pmc_id": "PMC11476453",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Tebbi CK, Yan J, Sahakian E, Mediavilla-Varela M, Pinilla-Ibarz J, Patel S, Rottinghaus GE, Liu RY, Dennison C",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Correction: Dose modification dynamics of ponatinib in patients with chronic-phase chronic myeloid leukemia (CP-CML) from the PACE and OPTIC trials",
+      "pubmed_id": "39223297",
+      "pmc_id": "PMC11436350",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Jabbour E, Apperley J, Cortes J, Rea D, Deininger M, Abruzzese E, Chuah C, DeAngelo DJ, Hochhaus A, Lipton JH, Mauro M, Nicolini F, Pinilla-Ibarz J, Rosti G, Rousselot P, Shah NP, Talpaz M, Vorog A, Ren X, Kantarjian H",
+      "journal": "Leukemia"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Characterization of poor-risk relapsed Non-Hodgkin Lymphoma subtypes for precision medicine  \nAward Number:   \nSponsor: COMMUNITY FOUNDATION OF TAMPA  \nPinilla, J. (PD/PI)",
+      "title": "Characterization of poor-risk relapsed Non-Hodgkin Lymphoma subtypes for precision medicine",
+      "award_number": "",
+      "sponsor": "COMMUNITY FOUNDATION OF TAMPA",
+      "investigators": [
+        {
+          "name": "Pinilla, J.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22263/",
+      "trial_id": "22263",
+      "title": "A Phase 1b Study of Oral AS-1763 in Patients with Previously Treated Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma or B-cell Non-Hodgkin Lymphoma",
+      "condition": "Malignant Hematology",
+      "intervention": "AS-1763 ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://lab.moffitt.org/pinilla/",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PinillaJavier_3635.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3635"
+  },
+  "content_hash": "1327cf22621ec0d6a6ce0ada0bb5b4d31f8edf03c44b70c1bbb26478bf73c2bf",
+  "researcher_name": "javier pinilla",
+  "department": "immunology"
+}

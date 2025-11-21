@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/steven-eschrich",
-  "last_updated": "2025-10-21T16:36:36.170068",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/steven-eschrich/",
+  "last_updated": "2025-11-21T22:50:26.946347",
   "researcher_id": "2765",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "molecular medicine",
   "overview": "Identifying relevant and novel connections within the context of the experiment is a crucial component of biomedical research in the high-throughput era.\u201d",
   "research_interests": [
     "My research interests can be broadly categorized into two areas. First, I am interested in developing and adapting technology to answer biomedical questions more precisely or more robustly. My work in this area includes the development of software tools and algorithms for more accurately quantifying gene expression from microarray experiments. This includes aspects such as normalization algorithms, image processing algorithms for the raw image generated from a microarray experiment. My interests do not center solely on gene expression; I have also begun working in developing more accurate peak detection within mass spec data and better quantification of variability within spectratyping technologies. Several of these systems are in use at Moffitt currently. This effort also includes developing software for easier end-user visualization of existing data. A second area of research interest involves the use of computational tools to elucidate more knowledge from high-throughput biological assays. Methodological development in the analysis of noisy and redundant biological data is an important area of focus that can dramatically improve the biological leads provided in expression-based experiments. As more data is generated at the bench, increasingly the most difficult aspect of the experiment is the correct and complete interpretation of the results. For instance, gene expression experiments may generate a number of potential targets but at present there is little guidance on understanding how these targets may interact at the system level. This increase in the amount of data generated has eliminated manual inspection of raw data from most large experiments. Intelligent systems that identify relevant connections and suggest new, novel connections within the context of the experiment performed is a crucial component to undertaking biomedical research in the high-throughput era. At present, little knowledge exists on the theoretical aspects of this biological data; however, machine learning provides a mechanism for developing empirically-justified algorithms for summarizing and mining large datasets for essentially leads that can be taken forward in further investigations within a laboratory setting.\n  *"
@@ -35,7 +35,7 @@
       "title": "Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study",
       "pubmed_id": "40992541",
       "year": "2025",
-      "publication_date": "2025 Sep",
+      "publication_date": "2025 Nov",
       "authors": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST",
       "journal": "Contemp Clin Trials"
     },
@@ -146,11 +146,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?user=ftXNjBEAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/EschrichSteven_2765.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2765"
   },
-  "content_hash": "133a26981363ea166036bf11f767a8a14618dea63ea13b65ffa388c605e3916d",
-  "researcher_name": "Steven Eschrich",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "c3274fb0ca209b824b4fb2aaece1e84f39a97cd8cfa25a7c7a3c191b2a2ba6b9",
+  "researcher_name": "steven eschrich",
+  "department": "biostatistics and bioinformatics"
 }

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/megan-hitchins",
-  "last_updated": "2025-10-21T16:35:57.404934",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/megan-hitchins/",
+  "last_updated": "2025-11-21T22:50:25.743702",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Cancer etiology Unusual mechanisms for \"high-risk\" cancer syndromes, including gastrointestinal, gynecologic, urothelial, and skin cancers Early age-of-onset colorectal cancer Genetic and Epigenetic biomarkers for cancer risk Biomarkers for early detection of cancer and recurrences in liquid biopsies e.g. circulating tumor DNA",
   "research_interests": [
     "Dr. Hitchins is a translational cancer geneticist and epigeneticist. She has made seminal contributions to our understanding of the role, molecular diagnosis, prevalence, and inheritance of \u201cconstitutional epimutation\u201d in cancer causation. Constitutional epimutation is an under-recognized alternative cause (to a germline pathogenic variant) for familial and early-onset cancer syndromes, including Lynch syndrome. While constitutional epimutations of the MLH1 mismatch repair gene appear to \u201cphenocopy\u201d Lynch syndrome in terms of the cancer risks and types conferred, they display variable inter-generational inheritance patterns in cancer-affected families. In some families, inheritance is \u201cnon-Mendelian\u201d, as observed by the transmission of the epimutation to a proportion of children but it\u2019s erasure in others, despite inheriting the same copy of the gene. In other cases, inheritance follows predictable genetic patterns because the epimutation arises as a secondary consequence of an underlying \u201ccryptic\u201d non-coding genetic variant, such as a gene promoter variant that alters gene activity. This requires extended genetic and epigenetic analyses in individual families on a case-by-case basis, which informs tailored genetic counseling and clinical management. Dr. Hitchins is also developing minimally-invasive, blood-based biomarker assays for bowel cancer screening and for monitoring patients with bowel cancer who are undergoing treatment to detect cancer recurrence or measure response to treatment. These tests are based on the detection of plasma circulating tumor DNA (ctDNA) and circulating tumor cells (CTCs) via altered biomarker signals. She is particularly interested in the rapid rise in bowel cancer among the younger population.\n  *"
@@ -109,9 +109,12 @@
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HitchinsMegan_42707.jpg",
   "contact": {},
-  "content_hash": "061104c4c464ebbfd84d01d5c1d1417a73f5dcf28d4fbfe17539544ac9e5c21c",
-  "researcher_name": "Megan Hitchins",
-  "department": "Cancer Epidemiology"
+  "content_hash": "cc851990ed208d23bf290185dd0d61f57626faac00796ec3a1f9a39711ec0915",
+  "researcher_name": "megan hitchins",
+  "department": "cancer epidemiology"
 }

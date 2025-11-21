@@ -1,0 +1,215 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/sean-dineen/",
+  "last_updated": "2025-11-21T22:50:26.828771",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "gastrointestinal oncology",
+  "research_program": "molecular medicine",
+  "overview": "I am interested in the development of peritoneal disease, particularly from GI cancers.",
+  "research_interests": [
+    "We have several areas of research aimed at detailing the tumor microenvironment for peritoneal implants as well as the best approaches to deliver chemotherapy to the peritoneum. \n  *"
+  ],
+  "associations": [
+    "Gastrointestinal Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Louisville College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "UT Southwestern",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "UT Southwestern",
+      "specialty": "Therapeutic Oncology Research - Therapeutic Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "MD Anderson Cancer Center",
+      "specialty": "Complex General Surgical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Surgery",
+      "certification": "Complex General Surgical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Surgery",
+      "certification": "General Surgery"
+    }
+  ],
+  "publications": [
+    {
+      "title": "ASO Practice Guideline Series: Management of Colorectal Peritoneal Metastases",
+      "pubmed_id": "40587073",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Wach MM, Dineen SP",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "ASO Author Reflections: Emphasizing Surgical Palliative Care in CGSO Fellowship Programs",
+      "pubmed_id": "40924245",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Dineen S, Mullinax J",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "What Is the Role of the Surgeon in Palliative Care?",
+      "pubmed_id": "40769692",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Strong EA, Dineen SP",
+      "journal": "Adv Surg"
+    },
+    {
+      "title": "In-Person and Virtual Interviews for Complex General Surgical Oncology Fellowship: An Applicant's Perspective",
+      "pubmed_id": "40928577",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Dineen SP, Berman R, Blazer D, Fahy B, Grignol V, Foshag L, Lai L, Ongchin M, Reddy S, Saied A, Scally C, Russell M",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Implementation of a Palliative Surgical Oncology Rotation to Complex General Surgical Oncology Fellowship Training",
+      "pubmed_id": "40849382",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Dineen S, O'Leary C, Rajasekhara S, Mullinax J",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Incomplete Resection Is Twice as Likely in Locally Advanced Mucinous Compared to Nonmucinous Rectal Adenocarcinoma: A National Propensity-Matched Analysis",
+      "pubmed_id": "39658830",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Hendrick LE, Naffouje S, Imanirad I, Pereira AL, Biachi T, Sanchez J, Dessureault S, Stefanou A, Dineen SP, Felder S",
+      "journal": "J Surg Oncol"
+    },
+    {
+      "title": "The Transcriptomic Landscapes of Appendiceal Primary and Metastatic Tumors are Distinct",
+      "pubmed_id": "39987388",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Park MA, Jacobson R, Genilo-Delgado M, Mohammadi A, Moran-Segura C, Alhassan S, Nakanishi Y, Permuth JB, Imanirad I, Dineen SP",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Predicting Severe Postoperative Complications after CRS-HIPEC: An Externally Validated Machine-Learning Tool",
+      "pubmed_id": "40295427",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Ashraf Ganjouei A, Wang J, Yi C, Romero-Hernandez F, Alseidi A, Abbott D, Zafar SN, Fournier KF, Staley CA, Dineen S, Raoof M, Bartlett DL, Cloyd JM, Choudry HM, Adam MA",
+      "journal": "World J Surg"
+    },
+    {
+      "title": "Long term outcomes associated with the use of perioperative systemic chemotherapy on low grade appendiceal mucinous neoplasms with pseudomyxoma peritonei treated with cytoreductive surgery and hyperthermic intraperitoneal chemotherapy",
+      "pubmed_id": "39850813",
+      "pmc_id": "PMC11754268",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Ruff SM, Kasumova G, Palavalli M, Eng OS, Lambert L, Clarke C, Patel S, Veerapong J, Fournier K, Abbott D, Staley C, Grotz T, Johnston F, Raoof M, Dineen S, Cloyd JM, Kim AC",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "Experience is Key: Considerations of Gastrectomy During CRS/HIPEC for Extensive Pseudomyxoma Peritonei",
+      "pubmed_id": "39289246",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Dineen SP",
+      "journal": "Ann Surg Oncol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Characterization of the Axl/Gas6 Pathway in the Progression of Appendiceal Adenocarcinoma  \nAward Number: NORD 200004  \nSponsor: NATIONAL OGANIZATION FOR RARE  \nDineen, S. (PD/PI)",
+      "title": "Characterization of the Axl/Gas6 Pathway in the Progression of Appendiceal Adenocarcinoma",
+      "award_number": "NORD 200004",
+      "sponsor": "NATIONAL OGANIZATION FOR RARE",
+      "investigators": [
+        {
+          "name": "Dineen, S.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Preliminary characterization of mucin from patients with mucin-producing peritoneal metastases  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nDineen, S. (PD/PI), Sawyer, W. (Co-PD/PI)",
+      "title": "Preliminary characterization of mucin from patients with mucin-producing peritoneal metastases",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Dineen, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Sawyer, W.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Preliminary development of a MUC16-targeted alpha-particle therapy for colon cancer peritoneal metastasis  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nDineen, S. (PD/PI), Morse, D. (PD/PI)",
+      "title": "Preliminary development of a MUC16-targeted alpha-particle therapy for colon cancer peritoneal metastasis",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Dineen, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Morse, D.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Developing and Piloting a Decision Aid to Improve CRS-HIPEC Decision-Making  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nTurner, K. (PD/PI), Dineen, S. (Co-PD/PI)",
+      "title": "Developing and Piloting a Decision Aid to Improve CRS-HIPEC Decision-Making",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Turner, K.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Dineen, S.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22722/",
+      "trial_id": "22722",
+      "title": "Use of Synthetic Smart Polymers to Solubilize Mucin from Patients with Peritoneal Metastases of Mucinous Gastrointestinal Neoplasms",
+      "condition": "Gastrointestinal Tumor",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DineenSean_19104.jpg",
+  "contact": {},
+  "content_hash": "b8ef9058ba1dcf61a8621f956e855c5ce2f491313e0e1c32e9b32ccd33561f23",
+  "researcher_name": "sean dineen",
+  "department": ""
+}

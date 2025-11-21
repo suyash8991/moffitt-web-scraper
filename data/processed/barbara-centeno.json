@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/barbara-centeno/",
+  "last_updated": "2025-11-21T22:50:22.854970",
+  "researcher_id": "387",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "pathology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Centeno is an anatomic pathologist with subspecialty certification in cytopathology and subspecializing in gastrointestinal pathology. She is the primary pathologist for the pancreatic cancer research group.",
+  "research_interests": [
+    "Dr. Centeno contributes to research in pancreatic cancer dedicated to early detection and prevention strategies and is the primary pathologist for grants focused on biomarkers in pancreatic cancer.. \n  *"
+  ],
+  "associations": [
+    "Pathology",
+    "Experimental Therapeutics Program",
+    "Molecular Medicine Program",
+    "Cancer Imaging & Technology Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Johns Hopkins University School of Medicine, Baltimore, Maryland",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Massachusetts General Hospital, Boston, MA",
+      "specialty": "Anatomic Pathology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Massachusetts General Hospital, Boston, MA",
+      "specialty": "Cytopathology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Clinicopathological study of squamoid morules in nineteen conventional colorectal adenomas",
+      "pubmed_id": "39898603",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Perez D, Wu T, Bhalla R, Fu Z, Centeno BA, Ghayouri M, Jiang K, Lauwers G, Nakanishi Y",
+      "journal": "Pathol Int"
+    },
+    {
+      "title": "Addendum: Assessment of cholecystokinin 2 receptor (CCK2R) in neoplastic tissue",
+      "pubmed_id": "40042992",
+      "pmc_id": "PMC11884436",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Roy J, Putt KS, Coppola D, Leon ME, Khalil FK, Centeno BA, Clark N, Stark VE, Morse DL, Low PS",
+      "journal": "Oncotarget"
+    },
+    {
+      "title": "Evolving concepts in the cytology of pancreatic cystic and intraductal lesions",
+      "pubmed_id": "41006188",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Centeno BA",
+      "journal": "J Am Soc Cytopathol"
+    },
+    {
+      "title": "Intraoperative Guidance of Pancreatic Cancer Resection Using a Toll-like Receptor 2-Targeted Fluorescence Molecular Imaging Agent",
+      "pubmed_id": "39320054",
+      "pmc_id": "PMC11536076",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Huynh AS, Cohen AS, Doligalski M, Casagni TJ, Moberg VE, Huang X, Morse J, Abrahams D, Lloyd MC, Centeno BA, Baldwin MK, McLaughlin ML, Vagner J, Morse DL",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "The World Health Organization Reporting System for Pancreaticobiliary Cytopathology: Overview and Summary",
+      "pubmed_id": "38709670",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Centeno BA, Saieg M, Siddiqui MT, Perez-Machado M, Layfield LJ, Weynand B, Reid MD, Stelow EB, Lozano MD, Fukushima N, Cree IA, Mehrotra R, Schmitt FC, Field AS, Pitman MB",
+      "journal": "Cancer Cytopathol"
+    },
+    {
+      "title": "Pancreatic Cyst Size Measurement on Magnetic Resonance Imaging Compared to Pathology",
+      "pubmed_id": "38201633",
+      "pmc_id": "PMC10778543",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Jeong D, Morse B, Polk SL, Chen DT, Li J, Hodul P, Centeno BA, Costello J, Jiang K, Machado S, El Naqa I, Farah PT, Huynh T, Raghunand N, Mok S, Dam A, Malafa M, Qayyum A, Fleming JB, Permuth JB",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "L-DOS47 Elevates Pancreatic Cancer Tumor pH and Enhances Response to Immunotherapy",
+      "pubmed_id": "38398062",
+      "pmc_id": "PMC10886509",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Jardim-Perassi BV, Irrera P, Oluwatola OE, Abrahams D, Estrella VC, Ordway B, Byrne SR, Ojeda AA, Whelan CJ, Kim J, Beatty MS, Damgaci-Erturk S, Longo DL, Gaspar KJ, Siegers GM, Centeno BA, Lau JYC, Pilon-Thomas SA, Ibrahim-Hashim A, Gillies RJ",
+      "journal": "Biomedicines"
+    },
+    {
+      "title": "Molecular Pathway and Immune Profile Analysis of IPMN-Derived Versus PanIN-Derived Pancreatic Ductal Adenocarcinomas",
+      "pubmed_id": "39684873",
+      "pmc_id": "PMC11642437",
+      "year": "2024",
+      "publication_date": "2024 Dec",
+      "authors": "Park MA, Gumpper-Fedus K, Krishna SG, Genilo-Delgado MC, Brantley S, Hart PA, Dillhoff ME, Gomez MF, Basinski TL, Mok SR, Luthra AK, Fleming JB, Mohammadi A, Centeno BA, Jiang K, Karolak A, Jeong D, Chen DT, Stewart PA, Teer JK, Cruz-Monserrate Z, Permuth JB",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Cytopathology of Inflammatory Lesions of the Pancreatobiliary Tree",
+      "pubmed_id": "36848529",
+      "year": "2023",
+      "publication_date": "2023 Mar",
+      "authors": "Centeno BA",
+      "journal": "Arch Pathol Lab Med"
+    },
+    {
+      "title": "The World Health Organization Reporting System for Pancreaticobiliary Cytopathology",
+      "pubmed_id": "36516741",
+      "year": "2023",
+      "publication_date": "2023 Jun",
+      "authors": "Pitman MB, Centeno BA, Reid MD, Siddiqui MT, Layfield LJ, Perez-Machado M, Weynand B, Stelow EB, Lozano MD, Fukushima N, Cree IA, Mehrotra R, Schmitt FC, Field AS",
+      "journal": "Acta Cytol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/CentenoBarbara_387.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=387"
+  },
+  "content_hash": "d38130b2cbb7b28a9146c699c2dc3da7ae02286b46b66f5c9c25d347db156c5f",
+  "researcher_name": "barbara centeno",
+  "department": ""
+}

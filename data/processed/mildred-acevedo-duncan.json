@@ -1,0 +1,140 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mildred-acevedo-duncan/",
+  "last_updated": "2025-11-21T22:50:25.908735",
+  "researcher_id": "10",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer biology & evolution",
+  "overview": "",
+  "research_interests": [
+    "My research investigates how protein kinase C (PKC) isozymes interact to affect the cell cycle during cancer growth and development. Information on the role of PKC isozymes in cell cycle regulation is important since PKC overproduction has been linked with the rapid growth rate of cancer cells. Our studies use human cancer cells in-vitro to determine how PKC inhibitors alone or in combination with other chemotherapeutics affect PKC, cell proliferation and survival. The goals are to identify PKC isozymes or PKC substrates which regulate the cell cycle in order to target and interfere with their activity, thereby providing selective therapeutic agents for controlling cancer cell proliferation. Our research methods employ physical and biochemical isolation procedures, glioma PKC overexpressors, flow cytometry, scanning and transmission electron microscopy, and Western blotting.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology & Drug Discovery Program",
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of California, Riverside, MA"
+    },
+    {
+      "type": "Graduate",
+      "institution": "University of California, Riverside, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Florida, Gainesville, FL",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida, Tampa, FL",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Proteasome Inhibitor MG-132 and PKC-\u03b9-Specific Inhibitor ICA-1S Degrade Mutant p53 and Induce Apoptosis in Ovarian Cancer Cell Lines",
+      "pubmed_id": "40243672",
+      "pmc_id": "PMC11988680",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Marzan M, Nowshin Oishee N, Olatunji AO, Hasib Shourav A, Noor RE, Astalos AJ, Leahy JW, Acevedo-Duncan M",
+      "journal": "Int J Mol Sci"
+    },
+    {
+      "title": "Discovery of Clonixeril as a Sub-Femtomolar Modulator of the Human STING Receptor",
+      "pubmed_id": "40585794",
+      "pmc_id": "PMC12203428",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Sparks RP, Lawless W, Kharitonova A, Metcalf R, Nunziata J, Binder GA, Chaudhuri S, Gambino CSR, Wilde M, Harding LS, Crews JJ, Gopu M, Dalamangas E, Lawless S, Eschenfelder M, Green RM, Nompleggi EX, Tran TH, Yang Y, Trask DV, Thompson PR, Patel R, Patel NA, Brooks WH, Bradley G, Acevedo-Duncan ME, Mullen AC, Leahy JW, Daniel KG, Guida WC",
+      "journal": "ACS Cent Sci"
+    },
+    {
+      "title": "Dual inhibition of atypical PKC signaling and PI3K/Akt signaling dysregulates c-Myc to induce apoptosis in clear cell Renal Cell Carcinoma",
+      "pubmed_id": "38288105",
+      "pmc_id": "PMC10823017",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Khalid KM, Ratnayake WS, Apostolatos CA, Acevedo-Duncan M",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "Roles of hepatic atypical protein kinase C hyperactivity and hyperinsulinemia in insulin-resistant forms of obesity and type 2 diabetes mellitus",
+      "pubmed_id": "34766133",
+      "pmc_id": "PMC8491214",
+      "year": "2021",
+      "publication_date": "2021 Mar",
+      "authors": "Sajan MP, Hansen BC, Acevedo-Duncan M, Kindy MS, Cooper DR, Farese RV",
+      "journal": "MedComm (Beijing)"
+    },
+    {
+      "title": "The interruption of atypical PKC signaling and Temozolomide combination therapy against glioblastoma",
+      "pubmed_id": "33147518",
+      "year": "2021",
+      "publication_date": "2021 Jan",
+      "authors": "Dey A, Islam SMA, Patel R, Acevedo-Duncan M",
+      "journal": "Cell Signal"
+    },
+    {
+      "title": "Atypical PKCs activate Vimentin to facilitate prostate cancer cell motility and invasion",
+      "pubmed_id": "33525953",
+      "pmc_id": "PMC7889213",
+      "year": "2021",
+      "publication_date": "2021 Dec",
+      "authors": "Ratnayake WS, Apostolatos CA, Breedy S, Dennison CL, Hill R, Acevedo-Duncan M",
+      "journal": "Cell Adh Migr"
+    },
+    {
+      "title": "Simultaneous inhibition of atypical protein kinase\u2011C and mTOR impedes bladder cancer cell progression",
+      "pubmed_id": "32236625",
+      "pmc_id": "PMC7170046",
+      "year": "2020",
+      "publication_date": "2020 Jun",
+      "authors": "Patel R, Islam SA, Bommareddy RR, Smalley T, Acevedo-Duncan M",
+      "journal": "Int J Oncol"
+    },
+    {
+      "title": "Atypical Protein Kinase-C inhibitors exhibit a synergistic effect in facilitating DNA damaging effect of 5-fluorouracil in colorectal cancer cells",
+      "pubmed_id": "31810137",
+      "year": "2020",
+      "publication_date": "2020 Jan",
+      "authors": "Islam SMA, Dey A, Patel R, Smalley T, Acevedo-Duncan M",
+      "journal": "Biomed Pharmacother"
+    },
+    {
+      "title": "The Atypical Protein Kinase C Small Molecule Inhibitor \u03b6-Stat, and Its Effects on Invasion Through Decreases in PKC-\u03b6 Protein Expression",
+      "pubmed_id": "32175276",
+      "pmc_id": "PMC7056911",
+      "year": "2020",
+      "publication_date": "2020 Feb",
+      "authors": "Smalley T, Metcalf R, Patel R, Islam SMA, Bommareddy RR, Acevedo-Duncan M",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "Effects of Atypical Protein Kinase C Inhibitor (DNDA) on Lung Cancer Proliferation and Migration by PKC-\u03b9/FAK Ubiquitination Through the Cbl-b Pathway",
+      "pubmed_id": "32158232",
+      "pmc_id": "PMC7047975",
+      "year": "2020",
+      "publication_date": "2020 Feb",
+      "authors": "BommaReddy RR, Patel R, Smalley T, Acevedo-Duncan M",
+      "journal": "Onco Targets Ther"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=10"
+  },
+  "content_hash": "82e0611fc96b47837d383fdd2a4ced6d3672d4a728553a66bb43468e4eeec1f0",
+  "researcher_name": "mildred acevedo duncan",
+  "department": ""
+}

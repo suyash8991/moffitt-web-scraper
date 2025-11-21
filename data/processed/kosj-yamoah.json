@@ -1,0 +1,386 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kosj-yamoah/",
+  "last_updated": "2025-11-21T22:50:25.173624",
+  "researcher_id": "15507",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "radiation oncology",
+  "research_program": "cancer epidemiology",
+  "overview": "Dr. Yamoah is a board-certified radiation oncologist and physician scientist with expertise in cancer health disparities spanning clinical care, and translational research. He directs a global laboratory that focuses on the identification of clinically relevant environmental and biological contributions to aggressive disease and poor survival in men of African origin with prostate cancer and has established international research partnerships with academic centers in Africa to study prostate cancer.",
+  "research_interests": [
+    "Dr. Yamoah\u2019s research utilizes a multidisciplinary approach that combines methods from epidemiology, biostatistics, bioinformatics, pathology, molecular biology, and genomic studies. His laboratory research focuses on developing novel approaches to better predict aggressive disease and appropriately treat men of African descent with prostate cancer. Recently, work done in his lab show that prostate tumors from African-American men have a immunosuppressive tumor immune microenvironment characterized by low DNA damage repair and high IFN-response pathways. This body of work will promote a genomic-adaptive approach to treating prostate cancer in African-American men \u2013 a step towards personalized medicine.\n  *"
+  ],
+  "associations": [
+    "Radiation Oncology",
+    "Cancer Epidemiology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Mount Sinai Graduate School of Biological Sciences & Memorial Sloan-Kettering Cancer Center, PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Mount Sinai School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Atlantic Health, New Jersey",
+      "position": "Intern",
+      "specialty": "ship"
+    },
+    {
+      "type": "Residency",
+      "institution": "Korle Bu Teaching Hospital",
+      "specialty": "Radiation Oncology Research"
+    },
+    {
+      "type": "Residency",
+      "institution": "St. Jude Children's Research Hospital",
+      "specialty": "Pediatric Radiation Oncology"
+    },
+    {
+      "type": "Residency",
+      "institution": "Washington University",
+      "specialty": "Gynecologic Brachytherapy"
+    },
+    {
+      "type": "Residency",
+      "institution": "Thomas Jefferson University Hospital",
+      "specialty": "Radiation Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Pennsylvania",
+      "specialty": "Molecular Epidemiology, Department of Epidemiology and Population Sciences"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Recruiting Diverse Prostate Cancer Survivors in Health Outcomes Research: Lessons Learned from Survey and Biospecimen Collection",
+      "pubmed_id": "41071228",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Li X, Chen Z, Hu B, Fan W, Rathbun KP, Hoogland AI, Gudenkauf LM, Welniak TL, Rodriguez Y, Bryant CA, Decosta HL, Irizarry-Arroyo NE, Jacobs KL, Yamoah K, Oswald LB, Jim HSL, Small BJ, Gwede CK, Penedo FJ, Park JY, Gonzalez BD",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    },
+    {
+      "title": "Neoadjuvant prostate artery embolization prior to prostate radiation therapy: A single institution experience on the durability of clinical urinary improvement after radiation",
+      "pubmed_id": "41122670",
+      "pmc_id": "PMC12536586",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Khatri VM, Grass GD, Thapa R, Maun-Garcia L, Latifi K, Naghavi AO, Garg A, Fernandez D, Torres-Roca J, Rishi A, Jazayeri-Moghaddas O, Pow-Sang J, Johnstone PAS, Yamoah K, Parikh N",
+      "journal": "Clin Transl Radiat Oncol"
+    },
+    {
+      "title": "Somatic Tumor Next-Generation Sequencing in US Veterans With Metastatic Prostate Cancer",
+      "pubmed_id": "40354055",
+      "pmc_id": "PMC12070238",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Valle LF, Li J, Desai H, Hausler R, Haroldsen C, Chatwal M, Ojo M, Kelley MJ, Rebbeck TR, Rose BS, Rettig MB, Nickols NG, Garraway IP, Yamoah K, Maxwell KN",
+      "journal": "JAMA Netw Open"
+    },
+    {
+      "title": "CLO25-078: Deciphering Risk of Early Biochemical Recurrence in Prostate Cancer Prior to Definitive Therapy",
+      "pubmed_id": "40154471",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Trivedi P, Awasthi S, Dhillon J, Park J, Davicioni E, Hakansson A, Liu S, Katende E, Smith R, Gage K, Burri R, Ercole C, Pow-Sang J, Yamoah K",
+      "journal": "J Natl Compr Canc Ne"
+    },
+    {
+      "title": "Role of region-of-interest magnetic resonance imaging fusion biopsy in mitigating overtreatment of localized prostate cancer - A retrospective cohort study",
+      "pubmed_id": "40125074",
+      "pmc_id": "PMC11930199",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Wang C, Trivedi P, Katende E, Awasthi V, Smith R, Putney R, Bondokji Y, Park JY, Dhillon J, Yamoah K",
+      "journal": "Eur J Radiol Open"
+    },
+    {
+      "title": "Human Immunodeficiency Virus-Associated Differences in the Tumor Immune Microenvironment of Lung, Breast, and Prostate Cancers",
+      "pubmed_id": "40183760",
+      "pmc_id": "PMC12133412",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Fenlon J, Van Bibber N, Mahlow J, Yamoah K, Soupir AC, Nguyen JV, Moran Segura C, Spivak AM, Knudsen BS, Zhou Q, Hu-Lieskovan S, Puri S, Zhang W, DeRose YS, Suneja G, Coghill AE",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    },
+    {
+      "title": "Prostate Artery Embolization in the Setting of Prostate Cancer: Review and Opinion",
+      "pubmed_id": "39876663",
+      "pmc_id": "PMC11775958",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Parikh N, Yamoah K, Johnstone P, Torres-Roca J, Pow-Sang J, Fernandez D, Rishi A, Grass GD",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "Association Between Medicaid Expansion and Insurance Status, Risk Group, Receipt, and Refusal of Treatment Among Men with Prostate Cancer",
+      "pubmed_id": "39941913",
+      "pmc_id": "PMC11817437",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Patel TA, Jain B, Dee EC, Kohli K, Ranganathan S, Janopaul-Naylor J, Mahal BA, Yamoah K, McBride SM, Nguyen PL, Chino F, Muralidhar V, Lam MB, Vapiwala N",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Gillessen S, Turco F, Davis ID, Efstathiou JA, Fizazi K, James ND, Shore N, Small E, Smith M, Sweeney CJ, Tombal B, Zilli T, Agarwal N, Antonarakis ES, Aparicio A, Armstrong AJ, Bastos DA, Attard G, Axcrona K, Ayadi M, Beltran H, Bjartell A, Blanchard P, Bourlon MT, Briganti A, Bulbul M, Buttigliero C, Caffo O, Castellano D, Castro E, Cheng HH, Chi KN, Clarke CS, Clarke N, de Bono JS, De Santis M, Duran I, Efstathiou E, Ekeke ON, El Nahas TIH, Emmett L, Fanti S, Fatiregun OA, Feng FY, Fong PCC, Fonteyne V, Fossati N, George DJ, Gleave ME, Gravis G, Halabi S, Heinrich D, Herrmann K, Hofman MS, Hope TA, Horvath LG, Hussain MHA, Jereczek-Fossa BA, Jones RJ, Joshua AM, Kanesvaran R, Keizman D, Khauli RB, Kramer G, Loeb S, Mahal BA, Maluf FC, Mateo J, Matheson D, Matikainen MP, McDermott R, McKay RR, Mehra N, Merseburger AS, Morgans AK, Morris MJ, Mrabti H, Mukherji D, Murphy DG, Murthy V, Mutambirwa SBA, Nguyen PL, Oh WK, Ost P, O'Sullivan JM, Padhani AR, Parker C, Poon DMC, Pritchard CC, Rabah DM, Rathkopf D, Reiter RE, Renard-Penna R, Ryan CJ, Saad F, Sade JP, Sandhu S, Sartor OA, Schaeffer E, Scher HI, Sharifi N, Skoneczna IA, Soule HR, Spratt DE, Srinivas S, Sternberg CN, Suzuki H, Taplin ME, Thellenberg-Karlsson C, Tilki D, T\u00fcrkeri LN, Uemura H, \u00dcr\u00fcn Y, Vale CL, Vapiwala N, Walz J, Yamoah K, Ye D, Yu EY, Zapatero A, Omlin A. Management of Patients with Advanced Prostate Cancer. Report from the 2024 Advanced Prostate Cancer Consensus Conference (APCCC). Eur Urol. 2025 Fe ...",
+      "authors": ""
+    },
+    {
+      "title": "Prostate cancer incidence and outcomes among Vietnam veterans receiving care in the Veterans Health Administration",
+      "pubmed_id": "40682278",
+      "pmc_id": "PMC12274657",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Green-Lott AY, Wadhwa A, Bailey AV, Kwan L, Haroldsen CL, Shelton JB, Lewis MS, Beenhouwer DO, Chamie K, Rose BS, Maxwell KN, Nickols NG, Yamoah K, Kelley MJ, Rebbeck TR, Schoen M, Rettig MB, Iyer HS, Garraway IP",
+      "journal": "Cancer"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: To develop and evaluate an AI-based prognostic and predictive models that may inform decisions for localized prostate cancer in patients undergoing prostatectomy and radiation therapy  \nAward Number: 22VA056-22VA056-S1  \nSponsor: ARTERA INC  \nGrass, G. (PD/PI), Yamoah, K. (Co-PD/PI)",
+      "title": "To develop and evaluate an AI-based prognostic and predictive models that may inform decisions for localized prostate cancer in patients undergoing prostatectomy and radiation therapy",
+      "award_number": "22VA056-22VA056-S1",
+      "sponsor": "ARTERA INC",
+      "investigators": [
+        {
+          "name": "Grass, G.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Yamoah, K.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Clinical utility of cell-free DNA methylation profiling in high-risk/oligometastatic prostate cancer patients treated with radiation therapy  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nGrass, G. (PD/PI), Wang, L. (PD/PI), Yamoah, K. (PD/PI)",
+      "title": "Clinical utility of cell-free DNA methylation profiling in high-risk/oligometastatic prostate cancer patients treated with radiation therapy",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Grass, G.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Wang, L.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: The Rate Elements Skewing Outcomes Linked to Veteran Equity in PCa (RESOLVE PCa) Consortium: Mulitilevel modeling to Predict Prostate Cancer Incidence and Aggressiveness  \nAward Number: 22CHAL02  \nSponsor: PROSTATE CANCER FOUNDATION  \nYamoah, K. (PD/PI)",
+      "title": "The Rate Elements Skewing Outcomes Linked to Veteran Equity in PCa (RESOLVE PCa) Consortium: Mulitilevel modeling to Predict Prostate Cancer Incidence and Aggressiveness",
+      "award_number": "22CHAL02",
+      "sponsor": "PROSTATE CANCER FOUNDATION",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Targeting tumor cell macrophage lipid interactions to overcome resistance to androgen receptor targeted therapy  \nAward Number: 1R21CA270913-01A1  \nSponsor: National Institutes of Health (NIH)  \nYamoah, K. (PD/PI)",
+      "title": "Targeting tumor cell macrophage lipid interactions to overcome resistance to androgen receptor targeted therapy",
+      "award_number": "1R21CA270913-01A1",
+      "sponsor": "National Institutes of Health (NIH)",
+      "source": "NIH",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Genetic risk of prostate cancer in self-identified Black Veterans   \nAward Number: HT9425-25-1-0545  \nSponsor: Department of Defense (DOD)  \nYamoah, K. (PD/PI)",
+      "title": "Genetic risk of prostate cancer in self-identified Black Veterans",
+      "award_number": "HT9425-25-1-0545",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Validation of the Radiosensitivity Index (RSI) as a Predictive Biomarker in Non-small Cell Lung Cancer Samples from RTOG Phase 3 Trial 0617  \nAward Number:   \nSponsor: Support Accounts-Oper  \nRosenberg, S. (PD/PI), Yamoah, K. (PD/PI)",
+      "title": "Validation of the Radiosensitivity Index (RSI) as a Predictive Biomarker in Non-small Cell Lung Cancer Samples from RTOG Phase 3 Trial 0617",
+      "award_number": "",
+      "sponsor": "Support Accounts-Oper",
+      "investigators": [
+        {
+          "name": "Rosenberg, S.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Ghana IntegRative Approach to Cancer ResEarch Training: The Grace Program  \nAward Number: 3D43CA260649-05S1  \nSponsor: National Cancer Institute (NCI)  \nGiuliano, A. (PD/PI), Gwede, C. (PD/PI), Yamoah, K. (PD/PI)",
+      "title": "Ghana IntegRative Approach to Cancer ResEarch Training: The Grace Program",
+      "award_number": "3D43CA260649-05S1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Giuliano, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Gwede, C.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Disrupting the Prostate Tumor Microenvironment in African American Men to Promote Response to Immune-modulatory Therapy  \nAward Number: 5R37CA264518-04  \nSponsor: National Cancer Institute (NCI)  \nYamoah, K. (PD/PI)",
+      "title": "Disrupting the Prostate Tumor Microenvironment in African American Men to Promote Response to Immune-modulatory Therapy",
+      "award_number": "5R37CA264518-04",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Deconvolute Key Biological Drivers That Define Subsets of Lethal Prostate Cancer in African American Men  \nAward Number: HT94252310651  \nSponsor: Department of Defense (DOD)  \nYamoah, K. (PD/PI)",
+      "title": "Deconvolute Key Biological Drivers That Define Subsets of Lethal Prostate Cancer in African American Men",
+      "award_number": "HT94252310651",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Profiling of Viright\u2019s Mechanism of Action and in Vitro Efficacy in Cancer Cell Assays  \nAward Number: NA  \nSponsor: Jupiter Biomedical Research  \nYamoah, K. (PD/PI), Etame, A. (Co-PD/PI)",
+      "title": "Profiling of Viright\u2019s Mechanism of Action and in Vitro Efficacy in Cancer Cell Assays",
+      "award_number": "NA",
+      "sponsor": "Jupiter Biomedical Research",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Etame, A.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Genomic Diversity of Prostate Cancer Across the African Diaspora  \nAward Number: 5R01CA259200-04  \nSponsor: National Cancer Institute (NCI)  \nYamoah, K. (PD/PI)",
+      "title": "Genomic Diversity of Prostate Cancer Across the African Diaspora",
+      "award_number": "5R01CA259200-04",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Exploiting immune tumor cell metabolic interactions in prostate cancer of African American men  \nAward Number: W81XWH-24-1-0473  \nSponsor: Department of Defense (DOD)  \nYamoah, K. (PD/PI)",
+      "title": "Exploiting immune tumor cell metabolic interactions in prostate cancer of African American men",
+      "award_number": "W81XWH-24-1-0473",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Identification & Validation of a Biomarker Signature That Can Improve Predictability of Aggressive Disease in Men of African Descent with Prostate Cancer  \nAward Number: N/A  \nSponsor: PROSTATE CANCER FOUNDATION  \nYamoah, K. (PD/PI)",
+      "title": "Identification & Validation of a Biomarker Signature That Can Improve Predictability of Aggressive Disease in Men of African Descent with Prostate Cancer",
+      "sponsor": "PROSTATE CANCER FOUNDATION",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: The John and Daria Barry Foundation Precision Oncology Center of Excellence in the VA Sunshine Healthcare Network  \nAward Number: 18VALO10  \nSponsor: PROSTATE CANCER FOUNDATION  \nYamoah, K. (PD/PI)",
+      "title": "The John and Daria Barry Foundation Precision Oncology Center of Excellence in the VA Sunshine Healthcare Network",
+      "award_number": "18VALO10",
+      "sponsor": "PROSTATE CANCER FOUNDATION",
+      "investigators": [
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-19291/",
+      "trial_id": "19291",
+      "title": "The Utility of PSMA-PET Imaging for Detecting Early Metastatic Prostate Cancer in Men with High GC Decipher\u00ae Test Scores: A Sub-aim of the VANDAAM Study (MCC #18523)",
+      "condition": "Genitourinary",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23303/",
+      "trial_id": "23303",
+      "title": "Phase III Study of Local or Systemic Therapy INtensification DIrected by PET in Prostate CAncer Patients with Post-ProstaTEctomy Biochemical Recurrence (INDICATE)",
+      "condition": "Genitourinary",
+      "intervention": "Apalutamide (); Decapeptyl SR (Triptorelin); Degarelix (); Lupron (leuprolide acetate); Relugolix (Orgovyx); Triptorelin (); goserelin acetate (Zoladex); leuprolide acetate ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-50428/",
+      "trial_id": "50428",
+      "title": "Metabolite Consumption in Patient-Derived Explants to Predict Therapeutic Response in Aggressive and Oligometastatic Prostate Cancer in African American Men",
+      "condition": "Genitourinary",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://lab.moffitt.org/yamoah-research-lab/",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/YamoahKosj_15507.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15507"
+  },
+  "content_hash": "f427c16b4619356658524366b0fc980e500b8e1820446ea677056b8adc0f3196",
+  "researcher_name": "kosj yamoah",
+  "department": "cancer epidemiology"
+}

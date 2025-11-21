@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/joel-brown)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/joel-brown)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -495,7 +494,9 @@ To be the leader in applying principles of ecology and evolution to contain and 
   * ## Research Interest
 As member of the Cancer Biology and Evolution Group and the Department of Integrated Mathematical Oncology, my research and collaborations are multi-disciplinary. I have ongoing collaborations with Drs. Robert Gatenby and Sandy Alexander on applying ecological principles to understanding cancer. In terms of experimental work, I enjoy collaborative work on skin cancer cell culturing with Ken Tsai, competition experiments to explore the cost of resistance with Dr. Robert Gillies and his group, mouse model work on prostate cancer and the evolution of cancer resistance with Drs. Gatenby and Arig Ibrahim. In terms of clinical trials, I have been part of a team led by Jngsong Zhang to examine the efficacy of Adaptive therapy for late stage metastatic castrate resistant cancer (Phase I trial). Currently working with Dr. Christine Chung and her team on a phase II trial for metastatic thyroid cancer. My work is highly collaborative and I look forward to extending and integrating my work to serve the experimentalists, mathematicians and clinicians.I use a combination of mathematical and experimental approaches to understand how organisms interact with and shape their environments. Squirrels are a particular favorite model system, as they have evolved unique attributes and behaviors for climbing trees, storing acorns and other foods, and avoiding predators. In viewing animals through their ecosystems and adaptations.
   * ## Publications
-    * Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys. 2025 Sep. Pubmedid: [40998270](https://www.ncbi.nlm.nih.gov/pubmed/40998270). 
+    * Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary Double-Bind Treatment Using Radiation Therapy and Natural Killer Cell-Based Immunotherapy in Prostate Cancer. Int J Radiat Oncol Biol Phys. 2025 Sep. Pubmedid: [40998270](https://www.ncbi.nlm.nih.gov/pubmed/40998270). 
+    * Hosny N, Shen K, Zhao Y, Qu J, Sun Y, Butler G, Amend S, Hammarlund EU, Gatenby R, Brown J, Pienta KJ, Phan TV, Boyer-Paulet S, Li S, Austin RH. Protocol to model tumor hypoxia in vitro using real-time phosphorescence-based sensing of O2 gradients generated by metastatic cancer cells. STAR Protoc. 2025 Oct.6(4):104163. Pubmedid: [41150854](https://www.ncbi.nlm.nih.gov/pubmed/41150854). 
+    * Halloway AH, Whelan CJ, Şekercioğlu ÇH, Brown JS. A biogeographic comparison of two convergent bird families. PLoS One. 2025 Oct.20(10):e0335195. Pubmedid: [41134757](https://www.ncbi.nlm.nih.gov/pubmed/41134757). Pmcid: PMC12551894. 
     * Gatenby RA, Teer JK, Tsai KY, Brown JS. Parallel and convergent dynamics in the evolution of primary breast and lung adenocarcinomas. Commun Biol. 2025 May.8(1):775. Pubmedid: [40399443](https://www.ncbi.nlm.nih.gov/pubmed/40399443). Pmcid: PMC12095661. 
     * Hosny N, Shen K, Zhao Y, Qu J, Sun Y, Butler G, Amend S, Hammarlund EU, Gatenby R, Brown J, Pienta KJ, Phan TV, Boyer-Paulet S, Li S, Austin RH. Phosphorescence-based sensing reveals size-dependent survival and motility of metastatic prostate cancer cells in self-generated hypoxia. iScience. 2025 May.28(5):112325. Pubmedid: [40475852](https://www.ncbi.nlm.nih.gov/pubmed/40475852). Pmcid: PMC12139443. 
     * Veith T, Beck R, Brown JS, Andor N. Inverse Game Theory Characterizes Frequency-Dependent Selection Driven by Karyotypic Diversity in Triple Negative Breast Cancer. bioRxiv. 2025 Mar. Pubmedid: [40196548](https://www.ncbi.nlm.nih.gov/pubmed/40196548). Pmcid: PMC11974723. 
@@ -517,8 +518,8 @@ As member of the Cancer Biology and Evolution Group and the Department of Integr
     * Welch DL, Fridley BL, Cen L, Teer JK, Yoder SJ, Pettersson F, Xu L, Cheng CH, Zhang Y, Alexandrow MG, Xiang S, Robertson-Tessi M, Brown JS, Metts J, Brohl AS, Reed DR. Modeling phenotypic heterogeneity towards evolutionarily inspired osteosarcoma therapy. Sci Rep. 2023 Nov.13(1):20125. Pubmedid: [37978271](https://www.ncbi.nlm.nih.gov/pubmed/37978271). Pmcid: PMC10656496. 
     * Brown JS, Amend SR, Austin RH, Gatenby RA, Hammarlund EU, Pienta KJ. Updating the Definition of Cancer. Mol Cancer Res. 2023 Nov.21(11):1142-1147. Pubmedid: [37409952](https://www.ncbi.nlm.nih.gov/pubmed/37409952). Pmcid: PMC10618731. 
     * Stein A, Salvioli M, Garjani H, Dubbeldam J, Viossat Y, Brown JS, Staňková K. Stackelberg evolutionary game theory: how to manage evolving systems. Philos Trans R Soc Lond B Biol Sci. 2023 May.378(1876):20210495. Pubmedid: [36934755](https://www.ncbi.nlm.nih.gov/pubmed/36934755). Pmcid: PMC10024980. 
-    * West J, Adler F, Gallaher J, Strobl M, Brady-Nicholls R, Brown J, Robertson-Tessi M, Kim E, Noble R, Viossat Y, Basanta D, Anderson ARA. A survey of open questions in adaptive therapy: Bridging mathematics and clinical translation. Elife. 2023 Mar.12. Pubmedid: [36952376](https://www.ncbi.nlm.nih.gov/pubmed/36952376). Pmcid: PMC10036119. 
     * El-Kenawi A, Berglund A, Estrella V, Zhang Y, Liu M, Putney RM, Yoder S, Johnson J, Brown J, Gatenby R. Elevated Methionine Flux Drives Pyroptosis Evasion in Persister Cancer Cells. Cancer Res. 2023 Mar.83(5):720-734. Pubmedid: [36480167](https://www.ncbi.nlm.nih.gov/pubmed/36480167). Pmcid: PMC9978888. 
+    * West J, Adler F, Gallaher J, Strobl M, Brady-Nicholls R, Brown J, Robertson-Tessi M, Kim E, Noble R, Viossat Y, Basanta D, Anderson ARA. A survey of open questions in adaptive therapy: Bridging mathematics and clinical translation. Elife. 2023 Mar.12. Pubmedid: [36952376](https://www.ncbi.nlm.nih.gov/pubmed/36952376). Pmcid: PMC10036119. 
     * Howell-Stephens J, Potratz EJ, Brown JS, Bernier D, Santymire RM. Integrating Measures of Fecal Glucocorticoid Metabolites and Giving-Up Densities to Assess Adrenocortical Activity and Well-Being in Zoo-Housed Three-Banded Armadillos (Tolypeutes matacus). Animals (Basel). 2023 Jun.13(12). Pubmedid: [37370485](https://www.ncbi.nlm.nih.gov/pubmed/37370485). Pmcid: PMC10295497. 
     * Capp JP, Thomas F, Marusyk A, M Dujon A, Tissot S, Gatenby R, Roche B, Ujvari B, DeGregori J, Brown JS, Nedelcu AM. The paradox of cooperation among selfish cancer cells. Evol Appl. 2023 Jul.16(7):1239-1256. Pubmedid: [37492150](https://www.ncbi.nlm.nih.gov/pubmed/37492150). Pmcid: PMC10363833. 
     * Bukkuri A, Pienta KJ, Hockett I, Austin RH, Hammarlund EU, Amend SR, Brown JS. Modeling cancer's ecological and evolutionary dynamics. Med Oncol. 2023 Feb.40(4):109. Pubmedid: [36853375](https://www.ncbi.nlm.nih.gov/pubmed/36853375). Pmcid: PMC9974726. 
@@ -533,9 +534,9 @@ As member of the Cancer Biology and Evolution Group and the Department of Integr
     * Freischel AR, Teer JK, Luddy K, Cunningham J, Artzy-Randrup Y, Epstein T, Tsai KY, Berglund A, Cleveland JL, Gillies RJ, Brown JS, Gatenby RA. Evolutionary Analysis of TCGA Data Using Over- and Under- Mutated Genes Identify Key Molecular Pathways and Cellular Functions in Lung Cancer Subtypes. Cancers (Basel). 2022 Dec.15(1). Pubmedid: [36612014](https://www.ncbi.nlm.nih.gov/pubmed/36612014). Pmcid: PMC9817988. 
     * Potratz EJ, Brown JS, Rafacz ML, Santymire RM. Designing an assay to evaluate behavioral responses to opposite-sex conspecifics in the endangered black-footed ferret (Mustela nigripes). Zoo Biol. 2022 Dec.42(3):397-406. Pubmedid: [36585919](https://www.ncbi.nlm.nih.gov/pubmed/36585919). 
     * Bukkuri A, Pienta KJ, Austin RH, Hammarlund EU, Amend SR, Brown JS. A life history model of the ecological and evolutionary dynamics of polyaneuploid cancer cells. Sci Rep. 2022 Aug.12(1):13713. Pubmedid: [35962062](https://www.ncbi.nlm.nih.gov/pubmed/35962062). Pmcid: PMC9374668. 
+    * Artzy-Randrup Y, Epstein T, Brown JS, Costa RLB, Czerniecki BJ, Gatenby RA. Novel evolutionary dynamics of small populations in breast cancer adjuvant and neoadjuvant therapy. NPJ Breast Cancer. 2021 Mar.7(1):26. Pubmedid: [33707440](https://www.ncbi.nlm.nih.gov/pubmed/33707440). Pmcid: PMC7952601. 
     * Pressley M, Gallaher JA, Brown JS, Tomaszewski MR, Borad P, Damaghi M, Gillies RJ, Whelan CJ. Cycling hypoxia selects for constitutive HIF stabilization. Sci Rep. 2021 Mar.11(1):5777. Pubmedid: [33707510](https://www.ncbi.nlm.nih.gov/pubmed/33707510). Pmcid: PMC7952589. 
     * Freischel AR, Damaghi M, Cunningham JJ, Ibrahim-Hashim A, Gillies RJ, Gatenby RA, Brown JS. Frequency-dependent interactions determine outcome of competition between two breast cancer cell lines. Sci Rep. 2021 Mar.11(1):4908. Pubmedid: [33649456](https://www.ncbi.nlm.nih.gov/pubmed/33649456). Pmcid: PMC7921689. 
-    * Artzy-Randrup Y, Epstein T, Brown JS, Costa RLB, Czerniecki BJ, Gatenby RA. Novel evolutionary dynamics of small populations in breast cancer adjuvant and neoadjuvant therapy. NPJ Breast Cancer. 2021 Mar.7(1):26. Pubmedid: [33707440](https://www.ncbi.nlm.nih.gov/pubmed/33707440). Pmcid: PMC7952601. 
     * Messan MR, Damaghi M, Freischel A, Miao Y, Brown J, Gillies R, Wallace D. Predicting the results of competition between two breast cancer lines grown in 3-D spheroid culture. Math Biosci. 2021 Jun.336:108575. Pubmedid: [33757835](https://www.ncbi.nlm.nih.gov/pubmed/33757835). 
     * Dujon AM, Capp JP, Brown JS, Pujol P, Gatenby RA, Ujvari B, Alix-Panabières C, Thomas F. Is There One Key Step in the Metastatic Cascade?. Cancers (Basel). 2021 Jul.13(15). Pubmedid: [34359593](https://www.ncbi.nlm.nih.gov/pubmed/34359593). Pmcid: PMC8345184. 
     * Ibrahim-Hashim A, Luddy K, Abrahams D, Enriquez-Navas P, Damgaci S, Yao J, Chen T, Bui MM, Gillies RJ, O'Farrelly C, Richards CL, Brown JS, Gatenby RA. Artificial selection for host resistance to tumour growth and subsequent cancer cell adaptations: an evolutionary arms race. Brit J Cancer. 2021 Jan.124(2):455-465. Pubmedid: [33024265](https://www.ncbi.nlm.nih.gov/pubmed/33024265). Pmcid: PMC7852689. 
@@ -599,8 +600,8 @@ As member of the Cancer Biology and Evolution Group and the Department of Integr
     * Brown JS. Why Darwin would have loved evolutionary game theory. Proc Biol Sci. 2016 09.283(1838). Pubmedid: [27605503](https://www.ncbi.nlm.nih.gov/pubmed/27605503). Pmcid: PMC5031650. 
     * Czupryna AM, Brown JS, Bigambo MA, Whelan CJ, Mehta SD, Santymire RM, Lankester FJ, Faust LJ. Ecology and Demography of Free-Roaming Domestic Dogs in Rural Villages near Serengeti National Park in Tanzania. PLoS One. 2016.11(11):e0167092. Pubmedid: [27893866](https://www.ncbi.nlm.nih.gov/pubmed/27893866). Pmcid: PMC5125679. 
     * Cunningham JJ, Brown JS, Vincent TL, Gatenby RA. Divergent and convergent evolution in metastases suggest treatment strategies based on specific metastatic sites. Evol Med Public Health. 2015 Mar.2015(1):76-87. Pubmedid: [25794501](https://www.ncbi.nlm.nih.gov/pubmed/25794501). Pmcid: PMC4404930. 
-    * Brown JS, Cunningham JJ, Gatenby RA. The multiple facets of Peto's paradox: a life-history model for the evolution of cancer suppression. Philos Trans R Soc Lond B Biol Sci. 2015 Jul.370(1673). Pubmedid: [26056365](https://www.ncbi.nlm.nih.gov/pubmed/26056365). Pmcid: PMC4581026. 
     * Lloyd MC, Rejniak KA, Brown JS, Gatenby RA, Minor ES, Bui MM. Pathology to enhance precision medicine in oncology: lessons from landscape ecology. Adv Anat Pathol. 2015 Jul.22(4):267-272. Pubmedid: [26050264](https://www.ncbi.nlm.nih.gov/pubmed/26050264). Pmcid: PMC4729443. 
+    * Brown JS, Cunningham JJ, Gatenby RA. The multiple facets of Peto's paradox: a life-history model for the evolution of cancer suppression. Philos Trans R Soc Lond B Biol Sci. 2015 Jul.370(1673). Pubmedid: [26056365](https://www.ncbi.nlm.nih.gov/pubmed/26056365). Pmcid: PMC4581026. 
     * Brown JS, Aktipis CA. Inclusive fitness effects can select for cancer suppression into old age. Philos Trans R Soc Lond B Biol Sci. 2015 Jul.370(1673). Pubmedid: [26056358](https://www.ncbi.nlm.nih.gov/pubmed/26056358). Pmcid: PMC4581037. 
     * McNickle GG, Brown JS. When Michaelis and Menten met Holling: towards a mechanistic theory of plant nutrient foraging behaviour. AoB Plants. 2014 Oct.6. Pubmedid: [25341427](https://www.ncbi.nlm.nih.gov/pubmed/25341427). Pmcid: PMC4271705. 
     * Gatenby RA, Cunningham JJ, Brown JS. Evolutionary triage governs fitness in driver and passenger mutations and suggests targeting never mutations. Nat Commun. 2014 Nov.5:5499. Pubmedid: [25407411](https://www.ncbi.nlm.nih.gov/pubmed/25407411). Pmcid: PMC4260773. 
@@ -735,7 +736,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -790,7 +791,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/joel-brown#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/joel-brown#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -808,7 +809,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1162,7 +1163,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/joel-brown#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/joel-brown#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

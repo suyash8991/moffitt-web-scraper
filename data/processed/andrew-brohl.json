@@ -1,0 +1,209 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/andrew-brohl/",
+  "last_updated": "2025-11-21T22:50:22.673353",
+  "researcher_id": "15427",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "sarcoma",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Brohl's research focus is in translational genomics, applying next-generation sequencing and assay technology to advance biologic discovery, identify novel targets for therapy, and assist clinical management.",
+  "research_interests": [
+    "Dr. Brohl's research focus is in translational genomics, applying next-generation sequencing and assay technology to advance biologic discovery, identify novel targets for therapy, and assist clinical management. Recent projects include genomic landscape discovery in sarcoma subtypes, identification of drug targets from high-throughput \u201comics\u201d datatypes, and development of genomics-based personalized cancer therapy program.\n  *"
+  ],
+  "associations": [
+    "Sarcoma",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Miami Miller School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Georgetown University",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "National Cancer Institute",
+      "specialty": "Hematology and Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes",
+      "pubmed_id": "40328759",
+      "pmc_id": "PMC12055966",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Checkpoint inhibitor therapy in immunosuppressed patients with Merkel cell carcinoma: not all immunosuppression is created equal",
+      "pubmed_id": "40099005",
+      "pmc_id": "PMC11911669",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Brohl AS",
+      "journal": "BMJ Oncol"
+    },
+    {
+      "title": "Treatment and Clinical Outcome of a Patient With Spindle Cell Rhabdomyosarcoma Harboring MEIS1-FOXO1 Gene Fusion",
+      "pubmed_id": "40896038",
+      "pmc_id": "PMC12398256",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Mathew R, Voss RK, Naghavi AO, Henderson-Jackson E, Brohl AS",
+      "journal": "Cureus"
+    },
+    {
+      "title": "Hypofractionated accelerated radiation dose-painting (HARD) improves outcomes in unresected soft-tissue sarcoma",
+      "pubmed_id": "39571685",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Bryant JM, Mills MN, Liveringhouse C, Palm R, Druta M, Brohl A, Reed DR, Johnstone PA, Miller JT, Latifi K, Feygelman V, Yang GQ, Naghavi AO",
+      "journal": "Radiother Oncol"
+    },
+    {
+      "title": "Publisher Correction: Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S",
+      "pubmed_id": "40858972",
+      "year": "1512",
+      "publication_date": "1512 trial",
+      "authors": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Khushalani NI, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A"
+    },
+    {
+      "title": "Anti-PD-1 therapy in unresectable desmoplastic melanoma: the phase 2 SWOG S",
+      "pubmed_id": "40813711",
+      "pmc_id": "PMC12419231",
+      "year": "1512",
+      "publication_date": "1512 trial",
+      "authors": "Kendra KL, Bellasea SL, Eroglu Z, Hu-Lieskovan S, Campbell KM, Carson WE, Wada DA, Plaza JA, Sosman JA, In GK, Ikeguchi A, Hyngstrom J, Brohl AS, Nikhil IK, Markowitz J, Negrea G, Kasbari S, Doolittle GC, Swami U, Roberts T, Mathew BN, Medina E, Baselga-Carretero I, Gonzalez CR, Garcilazo IP, Vega-Crespo A, Chen JM, Naser Al-Deen N, Patel SP, Sharon E, Moon J, Wu MC, Ribas A"
+    },
+    {
+      "title": "Durability of response to immune checkpoint blockade following treatment discontinuation and efficacy of rechallenge in advanced Merkel cell carcinoma",
+      "pubmed_id": "39242118",
+      "pmc_id": "PMC11381633",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Ramadoss T, Nichols M, Palacios C, Eroglu Z, Markowitz J, Karapetyan L, Tarhini AA, Wuthrick EJ, Sondak VK, Khushalani NI, Tsai KY, Brohl AS",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Pseudoangiosarcoma and cutaneous collagenous vasculopathy in a patient on a Bruton's tyrosine kinase inhibitor",
+      "pubmed_id": "39345278",
+      "pmc_id": "PMC11437239",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Kucharik AH, Curkovic NB, Chavez JC, Tsai KY, Brohl AS, Grichnik JM",
+      "journal": "JAAD Case Rep"
+    },
+    {
+      "title": "Preexisting Skin-Resident CD8 and \u03b3\u03b4 T-cell Circuits Mediate Immune Response in Merkel Cell Carcinoma and Predict Immunotherapy Efficacy",
+      "pubmed_id": "39058036",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Reinstein ZZ, Zhang Y, Ospina OE, Nichols MD, Chu VA, Pulido AM, Prieto K, Nguyen JV, Yin R, Moran Segura C, Usman A, Sell B, Ng S, de la Iglesia JV, Chandra S, Sosman JA, Cho RJ, Cheng JB, Ivanova E, Koralov SB, Slebos RJC, Chung CH, Khushalani NI, Messina JL, Sarnaik AA, Zager JS, Sondak VK, Vaske C, Kim S, Brohl AS, Mi X, Pierce B, Wang X, Fridley BL, Tsai KY, Choi J",
+      "journal": "Cancer Discov"
+    },
+    {
+      "title": "Biomarker Analyses Investigating Disease Biology and Associations with Outcomes in the JAVELIN Merkel 200 Trial of Avelumab in Metastatic Merkel Cell Carcinoma",
+      "pubmed_id": "39047170",
+      "pmc_id": "PMC11443199",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "D'Angelo SP, Lebb\u00e9 C, Nghiem P, Brohl AS, Mrowiec T, Leslie T, Georges S, G\u00fcezel G, Shah P",
+      "journal": "Clin Cancer Res"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Immune correlates of response to neoadjuvant treatment of Merkel cell carcinoma with pembrolizumab plus Lenvatinib  \nAward Number: OTSP# 100754 (23-0164)  \nSponsor: MERCK SHARP & DOHME CORP  \nBrohl, A. (PD/PI)",
+      "title": "Immune correlates of response to neoadjuvant treatment of Merkel cell carcinoma with pembrolizumab plus Lenvatinib",
+      "award_number": "OTSP# 100754 (23-0164)",
+      "sponsor": "MERCK SHARP & DOHME CORP",
+      "investigators": [
+        {
+          "name": "Brohl, A.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Role of the Chromosome 19 MicroRNA Cluster in Liver Cancers  \nAward Number: 5K08CA255933-02  \nSponsor: National Cancer Institute (NCI)  \nBrohl, A. (PD/PI)",
+      "title": "Role of the Chromosome 19 MicroRNA Cluster in Liver Cancers",
+      "award_number": "5K08CA255933-02",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Brohl, A.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Oncogenic role of the chromosome 19 microRNA cluster in soft tissue sarcoma  \nAward Number: HT94252310676  \nSponsor: Department of Defense (DOD)  \nBrohl, A. (PD/PI)",
+      "title": "Oncogenic role of the chromosome 19 microRNA cluster in soft tissue sarcoma",
+      "award_number": "HT94252310676",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Brohl, A.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Towards targeting the chromosome 19 microRNA cluster in Undifferentiated Embryonal Sarcoma of the Liver  \nAward Number: 24L01  \nSponsor: Florida Department of Health  \nBrohl, A. (PD/PI)",
+      "title": "Towards targeting the chromosome 19 microRNA cluster in Undifferentiated Embryonal Sarcoma of the Liver",
+      "award_number": "24L01",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Brohl, A.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23318/",
+      "trial_id": "23318",
+      "title": "Pembrolizumab for Advanced Cutaneous Sarcomas Not Including Angiosarcoma",
+      "condition": "Sarcoma",
+      "intervention": "Pembrolizumab (Keytruda)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23360/",
+      "trial_id": "23360",
+      "title": "IFx-Hu2.0 as an Adjunctive Therapy to Pembrolizumab in Checkpoint Inhibitor Na\u00efve Subjects with Advanced or Metastatic Merkel Cell Carcinoma",
+      "condition": "Cutaneous",
+      "intervention": "IFx-Hu2.0 (); Pembrolizumab (Keytruda)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BrohlAndrew_15427.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=15427"
+  },
+  "content_hash": "e7b1b30936ebcffff2cea8aeb1348bbb941fa2364016113e1c5b4b1a1af9723e",
+  "researcher_name": "andrew brohl",
+  "department": ""
+}

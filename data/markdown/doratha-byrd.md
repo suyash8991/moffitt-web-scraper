@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/doratha-byrd)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/doratha-byrd)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -514,6 +513,7 @@ Status: Open
     * Jeong D, Richards AR, Jean-Baptiste E, Gomez MF, Thomas KL, Mo Q, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA, Ulrich CM, Stewart PA, Siegel EM, Kresovich JK. Comparison of volumetric and single-slice computed tomography body composition metrics for colorectal cancer survival. Eur J Radiol. 2025 Sep.190:112241. Pubmedid: [40532592](https://www.ncbi.nlm.nih.gov/pubmed/40532592). 
     * Ilozumba MN, Gomez MF, Lin T, Himbert C, Round JL, Zac Stephens W, Warby CA, Hardikar S, Li CI, Figueiredo JC, Damerell V, Fillmore GC, Pickron B, Toriola AT, Shibata D, Holowatyj AN, Kahlert C, Sankar K, Siegel EM, Jedrzkiewicz J, Gigic B, Byrd DA, Ose J, Ulrich CM. Pre-surgery gut microbial diversity and abundance are associated with post-surgery onset of cachexia in colorectal cancer patients: the ColoCare Study. Cancer Causes Control. 2025 Sep. Pubmedid: [40906320](https://www.ncbi.nlm.nih.gov/pubmed/40906320). Pmcid: PMC12478455. 
     * Weis AM, Bauer KM, Tang WW, Stephen-Victor E, Bell R, Brown DG, Ekiz HA, Tran V, Klag KA, Swanson EA, Barrios L, Harwood M, Hill JH, Ost KS, Gigic B, Schneider M, Ose J, Hardikar S, Toriola AT, Shibata D, Li CI, Figueiredo JC, Byrd DA, Siegel EM, Arnolds K, Lozupone C, Ulrich CM, O'Connell RM, Stephens WZ, Round JL. A capsular polysaccharide from a healthy human microbiota member activates a Lag-3-NK cell axis to restrain colon cancer and augment immunotherapy. Cell Rep. 2025 Sep.44(9):116172. Pubmedid: [40849910](https://www.ncbi.nlm.nih.gov/pubmed/40849910). 
+    * Byrd DA, Gomez MF, Hogue SR, Burns JR, Smith N, Sampson J, Loftfield E, Wolf PG, Wan Y, Warner A, Hicks B, Dagnall C, Jones K, Kim Y, Xu J, Shi J, Sinha R, Vogtmann E. Associations of the Colon Tissue Microbiome and Circulating Bile Acids With Colorectal Adenoma Among Average-Risk Women. Cancer Med. 2025 Sep.14(18):e71048. Pubmedid: [40937639](https://www.ncbi.nlm.nih.gov/pubmed/40937639). Pmcid: PMC12426762. 
     * Byrd DA, Gomez M, Hogue S, Wan Y, Ortega-Villa A, Warner A, Dagnall C, Jones K, Hicks B, Albert P, Murphy G, Sinha R, Vogtmann E. Response to Hanif and Sholihah. J Natl Cancer Inst. 2025 Oct.117(10):2144-2145. Pubmedid: [40828889](https://www.ncbi.nlm.nih.gov/pubmed/40828889). Pmcid: PMC12505123. 
     * Levy JA, Kazemian E, Ramin C, Loroña NC, Nadri M, Gasho JO, Silos KD, Nikolova AP, Dey D, Siegel EM, Gigic B, Hardikar S, Byrd DA, Toriola AT, Ose J, Li CI, Shibata D, Ulrich CM, Tamarappoo BK, Atkins KM, Figueiredo JC. Subclinical Atherosclerosis and Cardiovascular Events Among Patients With Colorectal Cancer. Cancer Med. 2025 May.14(10):e70938. Pubmedid: [40365909](https://www.ncbi.nlm.nih.gov/pubmed/40365909). Pmcid: PMC12076194. 
     * Kresovich JK, Reid BM, O'Brien KM, Xu Z, Byrd DA, Weinberg CR, Sandler DP, Taylor JA. DNA methylation-predicted plasma protein levels and breast cancer risk. Breast Cancer Res. 2025 Mar.27(1):46. Pubmedid: [40140843](https://www.ncbi.nlm.nih.gov/pubmed/40140843). Pmcid: PMC11948855. 
@@ -565,7 +565,7 @@ Award Number: 5R01CA276496-02
 Sponsor: National Cancer Institute (NCI)  
 Byrd, D. (PD/PI)
     * Title: Transdisciplinary Team Science in Colorectal Cancer Prognosis: The ColoCare Study  
-Award Number: 5U01CA206110-09  
+Award Number: 5U01CA206110-10  
 Sponsor: National Cancer Institute (NCI)  
 Byrd, D. (PD/PI)
     * Title: Epigenomic Signatures in Cancer with an Emphasis on HPV-associated Cancer  
@@ -651,7 +651,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -706,7 +706,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/doratha-byrd#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/doratha-byrd#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -724,7 +724,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1078,7 +1078,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/doratha-byrd#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/doratha-byrd#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

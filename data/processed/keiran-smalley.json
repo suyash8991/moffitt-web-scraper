@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/keiran-smalley",
-  "last_updated": "2025-10-21T16:38:46.459392",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/keiran-smalley/",
+  "last_updated": "2025-11-21T22:50:25.084933",
   "researcher_id": "4585",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Tumor Microenvironment and Metastasis",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "tumor microenvironment and metastasis",
+  "research_program": "molecular medicine",
   "overview": "The Smalley lab is at the forefront of melanoma research, focusing on the immune environment, biology and therapeutic management of the deadliest form of skin cancer. Our research focus includes various melanoma subtypes; cutaneous, acral, pediatric, and uveal melanomas, as well as melanoma brain metastases. We utilize cutting-edge techniques such as Single Cell RNA-Seq, PROTACS, spatial transcriptomics, advanced proteomics and other omics platforms to investigate signaling adaptations, immune evasion, host-tumor interactions, and epigenetic modifications. The overarching goal of our group is to develop novel immunotherapies (checkpoint inhibitors, and T cell therapies) and targeted therapies (including epigenetic modulators and RAS inhibitor) that can be translated into the clinic.",
   "research_interests": [
     "Current Projects: 1. \ufeffLiver Metastasis in Uveal Melanoma: 50% of patients develop liver metastasis even after their primary cancer is treated, with 90% of these metastases occurring in the liver. We aim to elucidate the mechanisms underlying liver tropism in uveal melanoma, utilizing advanced in vivo models, scRNA-Seq and computational approaches. 2. \ufeffCombating Drug Resistance and Immune Evasion in Melanoma: We are investigating the role of stress-induced epigenetic dysregulation in driving drug resistance, immune escape, and metastatic spread, particularly to the brain. 3. \ufeffTargeting NRAS-Mutant Melanoma: NRAS mutations is found in 25% of cutaneous melanoma, we are investigating the therapeutic potential and immune impacts of pan-RAS inhibitors in NRAS-mutant melanoma models. 4. Advancing Therapeutic Strategies with PROTACS: We are utilizing the application of PROTAC technology to develop novel inhibitors aimed at modulating the immune response. 5. Development of CAR-T cell therapies for Acral Melanoma: Acral melanoma, a rare subtype of melanoma not associated with UV radiation, currently lacks effective targeted therapies. Our research focuses on characterizing the immune environment of acral melanoma, identifying novel immunotherapy targets and exploring the use of CAR-T cell therapy. 6. Developing novel immune checkpoint inhibitor combinations for melanoma brain metastases. Little is known about the immune environment of melanoma brain metastases. We aim to define the immune-tumor interactions of melanomas that metastasize to the brain and develop novel immune checkpoint inhibitor combinations to treat melanoma brain metastases.\n  *"
@@ -78,14 +78,6 @@
       "journal": "Pigment Cell Melanoma Res"
     },
     {
-      "title": "Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses",
-      "pubmed_id": "40888040",
-      "year": "2025",
-      "publication_date": "2025 Aug",
-      "authors": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA",
-      "journal": "Neurooncol"
-    },
-    {
       "title": "Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models",
       "pubmed_id": "40825611",
       "pmc_id": "PMC12366563",
@@ -93,6 +85,14 @@
       "publication_date": "2025 Aug",
       "authors": "Phadke MS, Li J, Sriramareddy S, Rodriguez PC, Ruffell B, Luca VC, Tran TTT, Chen YA, Smalley KSM",
       "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Phase IB Study of Avelumab and Whole Brain Radiotherapy (WBRT) in Patients with Leptomeningeal Disease (LMD) from Solid Tumors: Results and Molecular Analyses",
+      "pubmed_id": "40888040",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Pi\u00f1a Y, Law V, Sahebjam S, Tran N, Siddarajappa N, Li J, Mo Q, Phadke MS, Arrington J, Macaulay R, Mokhtari S, Evernden B, Ahmed KA, Smalley I, Yu M, Smalley KSM, Forsyth PA",
+      "journal": "Neurooncol"
     },
     {
       "title": "Ex Vivo Culture of Circulating Tumor Cells in the Cerebral Spinal Fluid from Melanoma Patients to Study Melanoma-Associated Leptomeningeal Disease",
@@ -120,13 +120,12 @@
       "journal": "Pigment Cell Melanoma Res"
     },
     {
-      "title": "C19MC miRNA-520G induces SP100 antiviral gene transcription and inhibits melanin production in skin cutaneous melanoma",
-      "pubmed_id": "37588194",
-      "pmc_id": "PMC10425800",
+      "title": "Combined BRAF, MEK, and heat-shock protein 90 inhibition in advanced BRAF V600-mutant melanoma",
+      "pubmed_id": "37776537",
       "year": "2024",
       "publication_date": "2024 Jan",
-      "authors": "Jinesh GG, Smallin MT, Mtchedlidze N, Godwin I, Napoli M, Hackel N, Phadke MS, Deshpande AA, Li X, Lockhart JH, Baldwin JR, Acevedo-Acevedo S, Gao Y, Reiser MA, Smalley KSM, Flores ER, Brohl AS",
-      "journal": "Genes Dis"
+      "authors": "Eroglu Z, Chen YA, Smalley I, Li J, Markowitz JK, Brohl AS, Tetteh L, Taylor H, Sondak VK, Khushalani NI, Smalley KSM",
+      "journal": "Cancer"
     }
   ],
   "grants": [
@@ -309,11 +308,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/smalley/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SmalleyKeiran_4585.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4585"
   },
-  "content_hash": "d2a91f0883062047c3ec24a61500872b1a37b564003ceb878ddefa42ee48b4da",
-  "researcher_name": "Keiran Smalley",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "31e9e39486a64fa99273f775531fdeaee288eb9bb3f1bbb3d9ee803572fb0262",
+  "researcher_name": "keiran smalley",
+  "department": "tumor microenvironment and metastasis"
 }

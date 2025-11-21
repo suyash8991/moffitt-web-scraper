@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/sanjay-premi)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/sanjay-premi)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -497,8 +496,8 @@ Dr. Premi’s research program focuses designing unique, therapeutic, and preven
 Dr. Premi’s lab focusses on designing novel, preventive and therapeutic strategies against skin cancers, including melanoma. Currently, there are three main interests of the lab. First is identifying novel therapeutic targets for melanoma and other skin cancers. We are interested in investigating the role of nitric oxide and its metabolites in de-sensitizing the melanomas to current therapeutic modalities. In particular, we focus on the role of nitrosylation and nitration, two posttranslational modifications induced by nitric oxide, in hyperactivating the RAS-MEK-ERK cascade, and also in deactivating antimelanoma immunity. We aim at identifying nitrosylation and nitration driven mechanisms of melanoma progression which will provide potential targets for novel therapeutic approaches against melanoma. Second major focus of the Premi lab is investigating the carcinogenicity of skin pigments. Contrary to their sun-protective role, we discovered that melanin-oxidation by nitric oxide synthase, produces carcinogenic, melanin-carbonyls (MCs). We are investigating the role of melanin-carbonyls in dysregulating melanocytic physiology and promoting melanoma progression and therapy resistance. Central goal of this research focus is to identify MC-mediated, non-classical regulation of melanoma progression and therapy resistance that could be used as a novel vulnerability against melanoma. The third major research focus of Premi lab is designing next generation, drug like sunscreen compounds. We design and screen novel plant based and synthetic compounds to identify the ones that are non-toxic, non-photosensitizers, potent anti-oxidants, and efficient in blocking incidental and delayed DNA damage induced by exposure to ultraviolet radiation (UV). To achieve this, we have designed several innovative, chemical, and cell-based methods which include measurement of triplet energies of carbonyls and other chemically excited species, DNA ELISA, interaction between DNA and melanin carbonyls, and effect of this interaction on gene expression. Ultimate goal is to design next generation skin-care products which are cosmetic as well as therapeutic. To achieve this, we are funded by NIH, DoD, and also by cosmetic and pharmaceutical industries.
   * ## Publications
     * Yadav VK, Srivastava J, Venkatachalam A, Tantak MP, Lawrence NJ, Fisher DE, Lawrence HR, Premi S. Melanin-Driven Delayed CPD Formation Is Independent of Melanin Biosynthesis Pathway. J Invest Dermatol. 2025 Sep. Pubmedid: [40992685](https://www.ncbi.nlm.nih.gov/pubmed/40992685). Pmcid: PMC12507450. 
-    * Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S. Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors. Cancer Res. 2025 Jun.85(12):2268-2287. Pubmedid: [40287947](https://www.ncbi.nlm.nih.gov/pubmed/40287947). Pmcid: PMC12167936. 
     * Srivastava J, Premi S. Targeting S-Nitrosylation to Overcome Therapeutic Resistance in NRAS-Driven Melanoma. Cancers (Basel). 2025 Jun.17(12). Pubmedid: [40563669](https://www.ncbi.nlm.nih.gov/pubmed/40563669). Pmcid: PMC12191001. 
+    * Srivastava J, Yadav VK, Jimenez RV, Phadatare PR, Inamdar NA, Young MM, Bacchiocchi A, Halaban R, Fang B, Pulido AM, Tsai KY, Smalley KSM, Koomen JM, Rodriguez PC, Premi S. Blocking Nitrosylation Induces Immunogenic Cell Death by Sensitizing NRAS-Mutant Melanoma to MEK Inhibitors. Cancer Res. 2025 Jun.85(12):2268-2287. Pubmedid: [40287947](https://www.ncbi.nlm.nih.gov/pubmed/40287947). Pmcid: PMC12167936. 
     * Srivastava J, Young MM, Yadav VK, Phadatare PR, Meyer TA, Chaudhuri RK, Premi S. The Role of Acetyl Zingerone and Its Derivatives in Inhibiting UV-Induced, Incident, and Delayed Cyclobutane Pyrimidine Dimers. Antioxidants (Basel). 2023 Jan.12(2). Pubmedid: [36829837](https://www.ncbi.nlm.nih.gov/pubmed/36829837). Pmcid: PMC9952391. 
     * Ramos LD, Gomes TMV, Quintiliano SAP, Premi S, Stevani CV, Bechara EJH. Biological Schiff bases may generate reactive triplet carbonyls and singlet oxygen: A model study. Free Radical Bio Med. 2022 Oct.191:97-104. Pubmedid: [36049617](https://www.ncbi.nlm.nih.gov/pubmed/36049617). 
     * Lawrence KP, Delinasios GJ, Premi S, Young AR, Cooke MS. Perspectives on Cyclobutane Pyrimidine Dimers-Rise of the Dark Dimers. Photochem Photobiol. 2022 May.98(3):609-616. Pubmedid: [34706095](https://www.ncbi.nlm.nih.gov/pubmed/34706095). 
@@ -620,7 +619,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -675,7 +674,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/sanjay-premi#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/sanjay-premi#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -693,7 +692,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1047,7 +1046,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/sanjay-premi#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/sanjay-premi#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

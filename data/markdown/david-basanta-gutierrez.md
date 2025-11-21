@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -638,7 +637,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -693,7 +692,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -711,7 +710,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1065,7 +1064,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 
@@ -1238,4 +1236,4 @@ English
   * [Fundraise for Moffitt](https://www.moffitt.org/give/get-involved/fundraise-for-moffitt/ "Fundraise for Moffitt")
 
 
-[](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez#page) ![](https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=09ade82a-11a2-42be-9cb6-3c9c1cd93e9c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=df1cad9f-62b1-4fa9-a78f-ccd4c6c9ab07&pt=David%20Basanta%20Gutierrez%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fdavid-basanta-gutierrez&tw_iframe_status=0&txn_id=oiyf6&type=javascript&version=2.3.34)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=09ade82a-11a2-42be-9cb6-3c9c1cd93e9c&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=df1cad9f-62b1-4fa9-a78f-ccd4c6c9ab07&pt=David%20Basanta%20Gutierrez%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fdavid-basanta-gutierrez&tw_iframe_status=0&txn_id=oiyf6&type=javascript&version=2.3.34)![](https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=2ef882ea-7b44-4094-8f18-4e7b48e5f8f1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=df1cad9f-62b1-4fa9-a78f-ccd4c6c9ab07&pt=David%20Basanta%20Gutierrez%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fdavid-basanta-gutierrez&tw_iframe_status=0&txn_id=otli4&type=javascript&version=2.3.34)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=2ef882ea-7b44-4094-8f18-4e7b48e5f8f1&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=df1cad9f-62b1-4fa9-a78f-ccd4c6c9ab07&pt=David%20Basanta%20Gutierrez%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fdavid-basanta-gutierrez&tw_iframe_status=0&txn_id=otli4&type=javascript&version=2.3.34)![](https://t.co/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=f633728f-8e38-4845-8953-19655ed6918f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=df1cad9f-62b1-4fa9-a78f-ccd4c6c9ab07&pt=David%20Basanta%20Gutierrez%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fdavid-basanta-gutierrez&tw_iframe_status=0&txn_id=otqq0&type=javascript&version=2.3.34)![](https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FLos_Angeles%26en-US%26Google%20Inc.%26Win32%26255%261080%26600%2616%2624%261080%26600%260%26na&eci=3&event=%7B%7D&event_id=f633728f-8e38-4845-8953-19655ed6918f&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=df1cad9f-62b1-4fa9-a78f-ccd4c6c9ab07&pt=David%20Basanta%20Gutierrez%20%7C%20Research%20Profile%20%7C%20Moffitt&tw_document_href=https%3A%2F%2Fwww.moffitt.org%2Fresearch-science%2Fresearchers%2Fdavid-basanta-gutierrez&tw_iframe_status=0&txn_id=otqq0&type=javascript&version=2.3.34)
+[](https://www.moffitt.org/research-science/researchers/david-basanta-gutierrez#page)

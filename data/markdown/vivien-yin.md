@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/vivien-yin)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/vivien-yin)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -490,13 +489,13 @@ Dr. Yin is an Associate Member in the Department of Biostatistics and Bioinforma
   * ## Research Interest
 I am fortunate to have collaborated with many outstanding collaborators who are experts in oncology. I have provided statistical and scientific collaboration for several nationally funded cancer clinical trial networks: I am the designated Lead Faculty Statistician for the Leukemia committee of the NCI’s NCTN group Alliance for Clinical Trials in Oncology (2016-present) and I was the Mayo Clinic Consortium Statistician for the NCI’s Experimental Therapeutics Clinical Trial Network (2015-2022). Additionally, I serve as the faculty statistician for the NCI Precision Medicine Initiative MyeloMATCH and for the NCI Head and Neck Rare Tumor Task Force. Currently at the Moffitt Cancer Center, I have the opportunity to collaborate with the department of Radiation Oncology and Health Outcomes and Behavior. Previously at the Mayo Clinic Cancer Center, I was the Co-Director for the Biostatistics and Bioinformatics Core of the Hepatobiliary SPORE (2018-2023), for which I successfully led the biostatistical component of the grant application and the competitive renewal. In my capacity as the primary statistician, I have designed and conducted > 20 cancer clinical trials, many of which utilized innovative designs. I had the opportunity to lead prognostic and predictive modeling using large, completed, international randomized clinical trials and evaluation of clinical and molecular biomarkers in colon cancer, as a co-investigator on two international research groups: the Adjuvant Colon Cancer End Points (ACCENT) Group and the ARCAD (Aide et Recherche en Cancérologie Digestive) Clinical Trials Program. My independent research program is motivated directly by my collaborations in clinical trial research. Recent areas of focus include: 1) adaptive dose-finding designs, 2) basket and umbrella trial (master protocol) designs, 4) evaluation of surrogate endpoints in clinical trials, and 5) causal machine learning for trial enrichment. I have made significant contributions to clinical trials as an implementation scientist and novel methods developer. I have national and international recognition for my work, including professional and institutional awards, research funding from FDA and the Alliance Foundation as PI, editorial board member for Contemporary Clinical Trial and Chinese Clinical Oncology, and national scientific review committees such as NCI Task Force and Clinical Trial Oversight Committee for the National Pediatric Cancer Foundation.
   * ## Publications
-    * Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST. Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study. Contemp Clin Trials. 2025 Sep.158:108096. Pubmedid: [40992541](https://www.ncbi.nlm.nih.gov/pubmed/40992541). 
+    * Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST. Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study. Contemp Clin Trials. 2025 Nov.158:108096. Pubmedid: [40992541](https://www.ncbi.nlm.nih.gov/pubmed/40992541). 
     * Selukar S, Yin V, Othus M. Synthetic control arms and other uses of external data in clinical trials for hematological malignancies. Blood Rev. 2025 Jul.101324. Pubmedid: [40753019](https://www.ncbi.nlm.nih.gov/pubmed/40753019). 
     * Zhao Y, Amorrortu RP, Hicks JK, Garcia MA, Haura EB, Yin J, Vadaparampil ST, Rollison DE. An examination of factors associated with disparities in clinical trial eligibility guided by the Socioecological Model. Cancer. 2025 Jul.131(13):e35944. Pubmedid: [40530674](https://www.ncbi.nlm.nih.gov/pubmed/40530674). Pmcid: PMC12263167. 
     * Shen S, Yin J. Bayesian mediation analysis using patient-reported outcomes from AI chatbots to infer causal pathways in clinical trials. PLoS One. 2025 Jul.20(7):e0326517. Pubmedid: [40705787](https://www.ncbi.nlm.nih.gov/pubmed/40705787). Pmcid: PMC12289003. 
     * Obermayer A, Davis J, Talada DP, Teng M, Eschrich S, Yin V, Spakowicz D, Dhrubo D, Rounbehler RJ, Churchman ML, Tarhini AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodriguez-Pessoa R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI. ShinyEvents: harmonizing longitudinal data for real world survival estimation. Res Sq. 2025 Aug. Pubmedid: [40799741](https://www.ncbi.nlm.nih.gov/pubmed/40799741). Pmcid: PMC12340904. 
-    * Yin J. Narrative Review of the Use of Genomic-Adjusted Radiation Dose (GARD) in Radiotherapy. Cancers (Basel). 2025 Aug.17(16). Pubmedid: [40867280](https://www.ncbi.nlm.nih.gov/pubmed/40867280). Pmcid: PMC12384496. 
     * Rishi A, Albuquerque KV, Jhingran A, Donovan EK, Horne ZD, Ludwig MS, Pathak P, Goldsberry R, Glaser SM, Garg A, Yin V, Fernandez DC, Beriwal S, Ahmed KA, Montejo ME. Definitive intensity-modulated radiotherapy for organ preservation in vulvar cancer: A multicenter study. Gynecol Oncol. 2025 Aug.199:1-9. Pubmedid: [40513383](https://www.ncbi.nlm.nih.gov/pubmed/40513383). 
+    * Yin J. Narrative Review of the Use of Genomic-Adjusted Radiation Dose (GARD) in Radiotherapy. Cancers (Basel). 2025 Aug.17(16). Pubmedid: [40867280](https://www.ncbi.nlm.nih.gov/pubmed/40867280). Pmcid: PMC12384496. 
     * Mansfield AS, Vivien Yin J, Bradbury P, Kwiatkowski DJ, Patel S, Bazhenova LA, Forde P, Lou Y, Dizona P, Villaruz LC, Arnold SM, Khalil M, Kindler HL, Koczywas M, Pacheco J, Rolfo C, Xia B, Mikula E, Chen L, Patel K, Smith KER, Cao L, Shapiro G, Costello BA, Adjei A, Sharon E, Moscow JA, Zamboni W, Hassan R. Randomized trial of anetumab ravtansine and pembrolizumab compared to pembrolizumab for mesothelioma. Lung Cancer. 2024 Sep.195:107928. Pubmedid: [39197359](https://www.ncbi.nlm.nih.gov/pubmed/39197359). Pmcid: PMC11416719. 
     * Dhir A, Hayashi M, Bodlak A, Oesterheld J, Loeb DM, Mascarenhas L, Isakoff MS, Sandler ES, Borinstein SC, Trucco M, Lagmay JP, Setty BA, Pratilas CA, Caywood E, Metts J, Yin H, Fridley B, Yin J, Laborde J, Reed DR, Adams DL, Wagner LM. Phase II Trial of Gemcitabine and Nab-Paclitaxel for Recurrent Osteosarcoma with Serial Monitoring Using Liquid Biopsy: A Report from the National Pediatric Cancer Foundation. Clin Cancer Res. 2024 Dec.30(23):5314-5322. Pubmedid: [39360936](https://www.ncbi.nlm.nih.gov/pubmed/39360936). 
     * Rutherford SC, Yin J, Pederson L, Perez Burbano G, LaPlant B, Shadman M, Li H, LeBlanc ML, Kenkre VP, Hong F, Blum KA, Dockter T, Martin P, Jung SH, Grant B, Rosenbaum C, Ujjani C, Barr PM, Unger JM, Cheson BD, Bartlett NL, Kahl B, Friedberg JW, Mandrekar SJ, Leonard JP. Relevance of Bone Marrow Biopsies for Response Assessment in US National Cancer Institute National Clinical Trials Network Follicular Lymphoma Clinical Trials. J Clin Oncol. 2023 Jan.41(2):336-342. Pubmedid: [35787017](https://www.ncbi.nlm.nih.gov/pubmed/35787017). Pmcid: PMC9839232. 
@@ -648,7 +647,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -703,7 +702,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/vivien-yin#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/vivien-yin#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -721,7 +720,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1075,7 +1074,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/vivien-yin#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/vivien-yin#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

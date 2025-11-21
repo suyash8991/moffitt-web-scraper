@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/katarzyna-rejniak",
-  "last_updated": "2025-10-21T16:33:59.974682",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/katarzyna-rejniak/",
+  "last_updated": "2025-11-21T22:50:25.024573",
   "researcher_id": "4695",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Integrated Mathematical Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "integrated mathematical oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "tumor microenvironment, including cellular, ECM, metabolism, and the interstitial fluid; tumor microenvironment role in response to treatments, including adoptive cell therapy with TIL and CAR T cells, targeted therapies, and chemotherpy.",
   "research_interests": [
     "Our research focuses on mathematical modeling and computational simulations of tumor initiation, progression and treatment. Computational simulations give the unique opportunity for testing various scenarios of tumor emergence and growth, as well as different protocols of chemo-, radio-, immuno-, hormone- and combined therapies. In particular, we are interested in investigating the bio-mechanics of normal vs. tumor-like tissue morphogenesis, micro-fluids in drug delivery and bio-physics of tumor microenvironment using the IBCell model (immersed boundary model of a cell), the microPKPD (regularized Stokeslets method of micro-pharmacodynamics and pharmacokinetics), or the multiscale MultiCell-LF (multi-cell lattice-free), silicoDCIS, and Organoid3D models. \n  *"
@@ -177,11 +177,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages.moffitt.org/rejniakk/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers/RejniakKatarzyna_4695.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4695"
   },
-  "content_hash": "4f47c5a0b59941bae97c26fdc9e6340eade932e7e2ea6a20a6e20b149c81d5b2",
-  "researcher_name": "Katarzyna Rejniak",
-  "department": "Integrated Mathematical Oncology"
+  "content_hash": "59590577eef83e197c62e7b1cd758bd7d2d6498aa090e1aaac51794472bc2529",
+  "researcher_name": "katarzyna rejniak",
+  "department": "integrated mathematical oncology"
 }

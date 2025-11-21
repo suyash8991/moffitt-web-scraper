@@ -1,0 +1,191 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/kedar-kirtane/",
+  "last_updated": "2025-11-21T22:50:25.072934",
+  "researcher_id": "21824",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "head and neck oncology",
+  "research_program": "health outcomes & behavior",
+  "overview": "Cellular Immunotherapies; Patient-reported outcomes; Quality of Life; Healthcare Disparities",
+  "research_interests": [
+    "I work on the development of innovative cellular therapies for solid tumor cancers and am focused on increasing representation of underrepresented groups to clinical trials.\n  *"
+  ],
+  "associations": [
+    "Head and Neck-Endocrine Oncology",
+    "Health Outcomes and Behavior",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Florida",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Duke University",
+      "position": "Intern",
+      "specialty": "Medicine"
+    },
+    {
+      "type": "Residency",
+      "institution": "Duke University",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Washington",
+      "specialty": "Hematology/Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Fred Hutchinson Cancer Research Center",
+      "specialty": "Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Evaluation of Neutrophil to Lymphocyte Ratio in Patients With Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma Treated With a Combination of Cetuximab and Nivolumab in a Phase II Clinical Trial",
+      "pubmed_id": "40905435",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Park R, Rind F, Kristoff T, Li J, Schell M, Slebos RJC, Thatikonda S, Chaudhary R, Biernacki MI, Meshkovska Y, Kaldas D, Kim HS, Farinhas J, Hernandez-Prera J, Kirtane K, Hall MS, Amelio AL, Rocco JW, Bhateja P, Steuer C, Bonomi M, Saba NF, Chung CH",
+      "journal": "Am J Clin Oncol"
+    },
+    {
+      "title": "Validation of the Functional Assessment of Cancer Therapy - Immune Checkpoint Modulator 17-Item Symptom Index (FACT-ICM-17) to facilitate implementation in research and clinical care",
+      "pubmed_id": "41045471",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Gudenkauf LM, Tometich DB, Hoogland AI, Li X, Kirtane K, Small BJ, Barata A, Gonzalez BD, Jacobs KD, Chung CH, Shafique MR, Gray J, Khushalani NI, Postow MA, Cella D, Webster KA, Dicker AP, Jim HSL",
+      "journal": "Cancer"
+    },
+    {
+      "title": "Long-term Survival and Molecular Biomarker Evaluation of a Phase II Cetuximab and Nivolumab Clinical Trial in Recurrent/Metastatic Head and Neck Cancer",
+      "pubmed_id": "41117857",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Chaudhary R, Moorhead G, Park R, Li J, Schell MJ, Song X, Tan A, Slebos RJC, Biernacki MI, Freeman SS, Thatikonda S, Meshkovska Y, Hernandez-Prera J, Kirtane K, Guevara-Patino JA, Amelio AL, Rocco JW, Danysh BP, Bonomi M, Saba NF, Haradhvala NJ, Getz G, Chung CH",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Design of a cluster randomized multi-level intervention to decrease barriers to minority cancer patient referral and enrollment to cancer clinical trials: The ACT WONDER2S study",
+      "pubmed_id": "40992541",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Rollison DE, Garcia MA, Amorrortu RP, Zhao Y, Mittman B, Turner K, Kirtane K, Soliman H, Byrne MM, Meade C, Gwede CK, Eschrich S, Yin J, Stanley NB, Fuzzell L, Hernandez D, Tapia-Kwan E, Vadaparampil ST",
+      "journal": "Contemp Clin Trials"
+    },
+    {
+      "title": "Nutrition in head and neck cancer care: a roadmap and call for research",
+      "pubmed_id": "40449504",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Chen X, Beilman B, Gibbs HD, Hamilton JL, Parker N, Bur AM, Caudell JJ, Gan GN, Hamilton-Reeves JM, Jim HSL, Kirtane K, Lominska C, Crowder SL, Arthur AE",
+      "journal": "Lancet Oncol"
+    },
+    {
+      "title": "Plasma Cell-Free Human Papillomavirus DNA and Oral Gargle HPV DNA in Patients with HPV-Related Oropharyngeal Cancer Treated with Radiotherapy",
+      "pubmed_id": "40643202",
+      "pmc_id": "PMC12281097",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Echevarria M, Park R, Caudell JJ, Kim Y, Yang GQ, Kirtane K, Chaudhary R, Kumar S, Amelio AL, Giuliano AR, Chung CH",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "The patient and caregiver experience of CAR T-cell therapy: A qualitative analysis",
+      "pubmed_id": "39883430",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Reblin M, Liang I, Tay DL, Kirtane K, Ketcher D",
+      "journal": "J Psychosoc Oncol"
+    },
+    {
+      "title": "Cutaneous Reactions to Iron Infusions: A Case Report and Clinical Review",
+      "pubmed_id": "40625824",
+      "pmc_id": "PMC12232973",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Patil N, Ravichandran S, Messina J, Kirtane K, Phuoc V, Kubal T, Maharaj S",
+      "journal": "EJHaem"
+    },
+    {
+      "title": "Pembrolizumab and Cabozantinib in Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma: Long-term Survival Update with a Biomarker Analysis",
+      "pubmed_id": "39167623",
+      "pmc_id": "PMC11479816",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Saba NF, Chaudhary R, Kirtane K, Marra A, Ekpenyong A, McCook-Veal A, Schmitt NC, Gross JH, Patel MR, Remick J, Bates JE, McDonald MW, Rudra SF, Stokes WA, Biernacki M, Song X, Slebos RJC, Liu Y, Steuer CE, Shin DM, Teng Y, Chung CH",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "The History and Future of Multidisciplinary Cancer Care",
+      "pubmed_id": "39271279",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "LaVigne AW, Doss VL, Berizzi D, Johnston FM, Kiess AP, Kirtane KS, Moghanaki D, Roumeliotis M, Yang GQ, Viswanathan AN",
+      "journal": "Semin Radiat Oncol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Expand clinical trial patient navigator program and strengthening community referrals in Southwest and Central Florida to increase access to a phase 1 study of a mRNA cancer vaccine and immunotherapy for patients with unresectable head and neck squamous cell carcinomas  \nAward Number:   \nSponsor: Bristol Myers Squibb Foundation  \nKirtane, K. (PD/PI)",
+      "title": "Expand clinical trial patient navigator program and strengthening community referrals in Southwest and Central Florida to increase access to a phase 1 study of a mRNA cancer vaccine and immunotherapy for patients with unresectable head and neck squamous cell carcinomas",
+      "award_number": "",
+      "sponsor": "Bristol Myers Squibb Foundation",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Kirtane, K.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21131/",
+      "trial_id": "21131",
+      "title": "A Phase II Randomized Trial of Adjuvant Therapy with Pembrolizumab After Resection of Recurrent/Second Primary Head and Neck Squamous Cell Carcinoma with High Risk Features",
+      "condition": "Head & Neck",
+      "intervention": "Paraplatin (carboplatin); Pembrolizumab (Keytruda); Radiotherapy (); carboplatin (); cisplatin ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21589/",
+      "trial_id": "21589",
+      "title": "BASECAMP-1: An Observational Study Obtaining Solid Tumor Tissue from Subjects with Primary Surgical Resection and Leukapheresis for CAR T-Cell Therapy Manufacturing",
+      "condition": "Immunotherapy",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23376/",
+      "trial_id": "23376",
+      "title": "A Phase 3 Open-Label, Randomized, Controlled Study to Evaluate he Efficacy And Safety of Petosemtamab Compared with Investigator's Choice Monotherapy Treatment in Previously Treated Patients with Incurable, Metastatic/Recurrent Head and Neck Squamous Cell Carcinoma",
+      "condition": "Head & Neck",
+      "intervention": "Cetuximab (); Erbitux (Cetuximab); Petosemtamab (); Taxotere (docetaxel); docetaxel (); methotrexate ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23553/",
+      "trial_id": "23553",
+      "title": "DENALI-1: A Seamless Phase 1/2 Study to Evaluate the Safety and Efficacy of A2B395, an Allogeneic Logic-gated Tmod CAR T, in Heterozygous HLA A*02 Adults with Recurrent Unresectable, Locally Advanced, or Metastatic Solid Tumors That Express EGFR and Have Lost HLA A*02 Expression.",
+      "condition": "Immunotherapy",
+      "intervention": "A2B395 (); MESNA (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KirtaneKedar_21824.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=21824"
+  },
+  "content_hash": "b060047925141a43024d6906ad2c837d25b3d973af3d412333ad99a0fa91be58",
+  "researcher_name": "kedar kirtane",
+  "department": "health outcomes & behavior"
+}

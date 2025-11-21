@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/roger-li",
-  "last_updated": "2025-10-21T16:40:06.549850",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/roger-li/",
+  "last_updated": "2025-11-21T22:50:26.704419",
   "researcher_id": "20904",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Genitourinary Oncology",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "genitourinary oncology",
+  "research_program": "immuno-oncology",
   "overview": "My research interest is in the conduct of investigational clinical trials in urothelial cancer and translational research to identify potential biomarkers to inform therapeutic efficacy. My current research builds upon my past achievements and aims to identify clinically actionable biomarkers to predict treatment response as well as to leverage the insights generated to design more innovative and efficacious therapies.",
   "research_interests": [
     "To achieve this, I am leveraging samples collected from several clinical trials I led employing novel therapeutic strategies in patients with muscle invasive bladder cancer, BCG unresponsive CIS-containing NMIBC, as well as intermediate risk NMIBC.\n  *"
@@ -105,20 +105,21 @@
       "journal": "J Urol"
     },
     {
+      "title": "Impact of timing of computed tomography staging and patient factors on the detection of 'true' cN+ bladder cancer",
+      "pubmed_id": "40631580",
+      "pmc_id": "PMC12522521",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "von Deimling M, Furrer M, Bianchi A, Pichler R, Maas M, Tully KH, Longoni M, Mertens LS, Taylor J, Del Giudice F, Li R, Gallioli A, Albisinni S, Crocetto F, Velev M, Afferi L, Mari A, Laukhtina E, Klemm J, Singla N, Fisch M, Spiess PE, Lotan Y, Moschini M, Black PC, Antonelli A, Kiss B, Shariat SF, Pradere B",
+      "journal": "BJU Int"
+    },
+    {
       "title": "Oncologic and survival outcomes in patients undergoing radical nephroureterectomy with preoperative or iatrogenic dialysis dependence",
       "pubmed_id": "40754548",
       "year": "2025",
       "publication_date": "2025 Nov",
       "authors": "Lee MS, Hensley PJ, Igel D, Li R, Clark RK, Bingham N, Pallauf M, Thapa P, Boorjian SA, Raman JD, Singla N, Coleman J, Margulis V, Spiess PE, Matin SF, Potretzke AM",
       "journal": "Urol Oncol"
-    },
-    {
-      "title": "The Financial Burden of Localized and Metastatic Bladder Cancer",
-      "pubmed_id": "39730299",
-      "year": "2025",
-      "publication_date": "2025 May",
-      "authors": "Scilipoti P, Moschini M, Li R, Lerner SP, Black PC, Necchi A, Roupr\u00eat M, Shariat SF, Gupta S, Morgans AK, Psutka SP, Kamat AM",
-      "journal": "Eur Urol"
     }
   ],
   "grants": [
@@ -220,11 +221,39 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22349/",
+      "trial_id": "22349",
+      "title": "Phase 1/2 Study of Erdafitinib Intravesical Delivery System (TAR-210) in Participants with Non-Muscle-Invasive or Muscle-Invasive Bladder Cancer",
+      "condition": "Genitourinary",
+      "intervention": "JNJ-42756493 (Erdafitinib)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23300/",
+      "trial_id": "23300",
+      "title": "A Phase 3, Randomized Study Evaluating the Efficacy and Safety of TAR-210 Erdafitinib Intravesical Delivery System Versus Single Agent Intravesical Chemotherapy in Participants With Intermediate-risk Non-muscle Invasive Bladder Cancer (IR-NMIBC) and Susceptible FGFR Alterations",
+      "condition": "Genitourinary",
+      "intervention": "Erdafitinib (); Gemzar (gemcitabine); JNJ-42756493 (Erdafitinib); gemcitabine (); mitomycin c ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23598/",
+      "trial_id": "23598",
+      "title": "A Phase 1/2 Open-label Clinical Study to Evaluate the Safety and Efficacy of Intravesical Sacituzumab Tirumotecan (sac-TMT, MK-2870) in Participants With Intermediate-risk Non-muscle Invasive Bladder Cancer (NMIBC)",
+      "condition": "Genitourinary",
+      "intervention": "Sacituzumab tirumotecan ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LiRoger_20904.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=20904"
   },
-  "content_hash": "3082059b8d0989d14304353a5a5b33d4c261272433b3fbcb3d7a97b218c6e9ce",
-  "researcher_name": "Roger Li",
-  "department": "Immunology"
+  "content_hash": "24b24b2aac0c676fdbf5f168d574869844f70ec248c8a88efcf09ca4aea144af",
+  "researcher_name": "roger li",
+  "department": "immunology"
 }

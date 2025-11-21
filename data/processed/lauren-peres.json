@@ -1,0 +1,315 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lauren-peres/",
+  "last_updated": "2025-11-21T22:50:25.260378",
+  "researcher_id": "21825",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
+  "overview": "Dr. Peres\u2019 research program uses an interdisciplinary approach to elucidate contributing causes of racial and ethnic disparities in ovarian cancer and multiple myeloma.",
+  "research_interests": [
+    "Dr. Peres is a cancer epidemiologist that uses an interdisciplinary approach to examine the effects of both molecular and lifestyle factors on cancer etiology and prognosis. Her research program focuses on elucidating the contributing causes of racial and ethnic disparities in ovarian cancer and multiple myeloma. She is currently characterizing epidemiologic and molecular features of these cancers in diverse populations to better understand the biologic basis of these disparities and improve outcomes. \n  *"
+  ],
+  "associations": [
+    "Cancer Epidemiology",
+    "Gynecologic Oncology",
+    "Cancer Epidemiology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Louisiana State University, MPH"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Louisiana State University, PhD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Regular physical inactivity and ovarian cancer risk in the Ovarian Cancer in Women of African Ancestry (OCWAA) Consortium",
+      "pubmed_id": "40956289",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Lima SM, Minlikeeva AN, Johnson CE, Guertin KA, Bandera EV, Zheng W, Bethea TN, Petrick JL, Joslin CE, Myers ER, Harris HR, Peres LC, Setiawan VW, Wu AH, Rosenberg L, Schildkraut JM, Ochs-Balcom HM",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    },
+    {
+      "title": "An Analytic Pipeline to Obtain Reliable Genetic Ancestry Estimates from Tumor-Derived RNA Sequencing Data",
+      "pubmed_id": "40622249",
+      "pmc_id": "PMC12340684",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Johnson CE, Ran X, Wrobel J, Davidson NR, Greene CS, Epstein MP, Marks JR, Peres LC, Doherty JA, Schildkraut JM",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    },
+    {
+      "title": "Perceived discrimination, trust in physicians, and their associations with ovarian cancer mortality among women in the African American Cancer Epidemiology Study",
+      "pubmed_id": "40327211",
+      "pmc_id": "PMC12578685",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Collin LJ, Johnson CE, Akonde M, Kan M, Bandera EV, Peres LC, Qin B, Cote ML, Alberg A, Peters ES, Hastert TA, Schildkraut JM",
+      "journal": "Cancer Causes Control"
+    },
+    {
+      "title": "Homologous Recombination Deficiency and Survival in Ovarian High-Grade Serous Carcinoma by Self-Reported Race",
+      "pubmed_id": "40905821",
+      "pmc_id": "PMC12478560",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Lawson-Michod KA, Johnson CE, Barnard ME, Davidson NR, Collin LJ, Nix DA, Huff CD, Berchuck A, Salas LA, Greene CS, Marks JR, Peres LC, Doherty JA, Schildkraut JM",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    },
+    {
+      "title": "Comparison of Standard-of-Care Idecabtagene Vicleucel and Ciltacabtagene Autoleucel in Relapsed/Refractory Multiple Myeloma",
+      "pubmed_id": "39965175",
+      "pmc_id": "PMC12037312",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Hansen DK, Peres LC, Dima D, Richards A, Shune L, Afrough A, Midha S, Dhakal B, Kocoglu MH, Atrash S, Ferreri C, Castaneda O, Davis JA, Bhurtel E, McGuirk J, Wagner C, Bansal R, Costello P, Smith K, Lieberman-Cribbin A, De Avila G, Purvey S, Hosoya H, Mikkilineni L, Oswald LB, Kaur G, Pasvolsky O, Gaballa M, Herr MM, Forsberg P, Janakiram M, Htut M, Asoori Maringanti S, Kalariya N, Hashmi H, Reshef R, Sborov DW, Nadeem O, Anwer F, Khouri J, Raza S, Atanackovic D, Alsina M, Freeman CL, Locke FL, Voorhees P, Anderson LD, Richard S, Martin T, Lin Y, Patel KK, Sidana S",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Universal driving restrictions beyond 4 weeks appear unnecessary following CAR-T therapy in multiple myeloma",
+      "pubmed_id": "40088469",
+      "pmc_id": "PMC12127628",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Banerjee R, Richards A, Midha S, Afrough A, Anwer F, Atanackovic D, Atrash S, Bachanova V, Beitinjaneh AM, Ouchveridze E, Castaneda Puglianini O, Chhabra S, Cicero KI, Davis JA, Dhakal B, Dima D, Ferreri CJ, Forsberg PA, Freeman CL, Herr MM, Jain T, Janakiram M, Khouri J, Kocoglu MH, Kumar AD, Liu Y, Locke FL, McGuirk JP, Mikkilineni L, Nadeem O, Parrondo RD, Pasvolsky O, Peres LC, Purvey S, Raza S, Reshef R, Richard S, Rossi AC, Sborov DW, Shune L, Wagner CB, Zanwar SS, Sidana S, Patel KK, Hansen DK, Kumar SK, Lin Y, Martin TG, Voorhees PM, Anderson LD, Cowan AJ, Kaur G",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Genomic Characterization of High-Grade Serous Ovarian Carcinoma Reveals Distinct Somatic Features in Black Individuals",
+      "pubmed_id": "40063699",
+      "pmc_id": "PMC12048278",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Lawson-Michod KA, Marks JR, Collin LJ, Nix DA, Davidson NR, Huff CD, Yu Y, Atkinson A, Johnson CE, Salas LA, Peres LC, Greene CS, Schildkraut JM, Doherty JA",
+      "journal": "Cancer Res"
+    },
+    {
+      "title": "Retrotransposon methylation profiles and survival in Black women with high-grade serous ovarian carcinoma",
+      "pubmed_id": "40734190",
+      "pmc_id": "PMC12309203",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Colin-Leitzinger C, Lawson-Michod KA, Johnson CE, Vlasac IM, Yoder S, Mesa T, Roeber D, Huff C, Hildebrandt MAT, Haller K, Alberg AJ, Bandera EV, Bondy M, Cote ML, Hastert T, Peters ES, Terry PD, Lawson AB, Berchuck A, Fridley BL, Chern JY, Doherty JA, Marks JR, Schildkraut JM, Christensen BC, Salas LA, Peres LC",
+      "journal": "Clin Epigenetics"
+    },
+    {
+      "title": "Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma",
+      "pubmed_id": "40637727",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK",
+      "journal": "Haematologica"
+    },
+    {
+      "title": "Neighborhood disorder and ovarian cancer survival in black women",
+      "pubmed_id": "40731251",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Pierson C, Mooney SJ, Lawson A, Alberg AJ, Bandera EV, Bondy M, Collin LJ, Cote ML, Hastert TA, Huels A, Johnson CE, Khanna N, Mandle HB, Peres LC, Ratnapradipa KL, Terry P, Schildkraut JM, Peters ES",
+      "journal": "Am J Epidemiol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: PILOT STUDY TO DEVELOP A PREDICTIVE MODEL OF IMMUNE-RELATED ADVERSE EVENTS IN MYELOMA PATIENTS TREATED WITH IDECABTAGENE VICLEUCEL IN THE STANDARD OF CARE SETTING  \nAward Number: 22VA024 SOW1  \nSponsor: Bristol Myers Squibb (BMS)  \nHansen, D. (PD/PI), Peres, L. (Co-PD/PI)",
+      "title": "PILOT STUDY TO DEVELOP A PREDICTIVE MODEL OF IMMUNE-RELATED ADVERSE EVENTS IN MYELOMA PATIENTS TREATED WITH IDECABTAGENE VICLEUCEL IN THE STANDARD OF CARE SETTING",
+      "award_number": "22VA024 SOW1",
+      "sponsor": "Bristol Myers Squibb (BMS)",
+      "investigators": [
+        {
+          "name": "Hansen, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Peres, L.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Characterizing and Evaluating Bridging Therapy and Disparities Among Relapsed/Refractory Multiple Myeloma Patients Treated with Idecabtagene Vicleucel in a Real-World Setting  \nAward Number: 22VA024-S6  \nSponsor: Bristol Myers Squibb (BMS)  \nHansen, D. (PD/PI), Peres, L. (Co-PD/PI)",
+      "title": "Characterizing and Evaluating Bridging Therapy and Disparities Among Relapsed/Refractory Multiple Myeloma Patients Treated with Idecabtagene Vicleucel in a Real-World Setting",
+      "award_number": "22VA024-S6",
+      "sponsor": "Bristol Myers Squibb (BMS)",
+      "investigators": [
+        {
+          "name": "Hansen, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Peres, L.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Effectiveness of chimeric antigen receptor T (CAR-T) cells therapy after previous failure with BCMA-based treatment in patients with relapsed or refractory multiple myeloma  \nAward Number: 22VA080-S2, 24-0167  \nSponsor: JANSSEN RESEARCH & DEVELOPMENT  \nHansen, D. (PD/PI), Peres, L. (PD/PI)",
+      "title": "Effectiveness of chimeric antigen receptor T (CAR-T) cells therapy after previous failure with BCMA-based treatment in patients with relapsed or refractory multiple myeloma",
+      "award_number": "22VA080-S2, 24-0167",
+      "sponsor": "JANSSEN RESEARCH & DEVELOPMENT",
+      "investigators": [
+        {
+          "name": "Hansen, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Real-world Clinical and Patient-reported Outcomes among Patients with Relapsed/refractory Multiple Myeloma Treated with Commercial CAR-T Therapy  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nHansen, D. (PD/PI), Oswald, L. (PD/PI), Peres, L. (PD/PI)",
+      "title": "Real-world Clinical and Patient-reported Outcomes among Patients with Relapsed/refractory Multiple Myeloma Treated with Commercial CAR-T Therapy",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Hansen, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Oswald, L.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Survivorship in Patients with Multiple Myeloma Treated with Chimeric Antigen Receptor T-Cell Therapy  \nAward Number: 5R01CA281756-02  \nSponsor: National Cancer Institute (NCI)  \nHansen, D. (PD/PI), Oswald, L. (PD/PI), Peres, L. (PD/PI)",
+      "title": "Survivorship in Patients with Multiple Myeloma Treated with Chimeric Antigen Receptor T-Cell Therapy",
+      "award_number": "5R01CA281756-02",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Hansen, D.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Oswald, L.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Influence of Comorbidities and Inflammatory Biomarkers in Disparities in Ovarian Cancer Treatment, Treatment Response, and Survival  \nAward Number: DT2020-015  \nSponsor: THE V FOUNDATION FOR CANCER  \nPeres, L. (PD/PI)",
+      "title": "Influence of Comorbidities and Inflammatory Biomarkers in Disparities in Ovarian Cancer Treatment, Treatment Response, and Survival",
+      "award_number": "DT2020-015",
+      "sponsor": "THE V FOUNDATION FOR CANCER",
+      "investigators": [
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Methylomic Basis of Survival Disparities Among Black and White Women with High-grade Serous Ovarian Cancer  \nAward Number: 5R01CA275974-03  \nSponsor: National Cancer Institute (NCI)  \nPeres, L. (PD/PI)",
+      "title": "Methylomic Basis of Survival Disparities Among Black and White Women with High-grade Serous Ovarian Cancer",
+      "award_number": "5R01CA275974-03",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Radiomic Biomarkers for Clinical Decision Support That Predict Patient Outcomes in Serous Ovarian Carcinoma  \nAward Number: 1R56CA279060-01A1  \nSponsor: National Cancer Institute (NCI)  \nPeres, L. (PD/PI), Schabath, M. (PD/PI)",
+      "title": "Radiomic Biomarkers for Clinical Decision Support That Predict Patient Outcomes in Serous Ovarian Carcinoma",
+      "award_number": "1R56CA279060-01A1",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Schabath, M.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Ovarian Cancer Survival in African-American Women  \nAward Number: 5R01CA237318-05  \nSponsor: National Cancer Institute (NCI)  \nPeres, L. (PD/PI)",
+      "title": "Ovarian Cancer Survival in African-American Women",
+      "award_number": "5R01CA237318-05",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Changing Contraceptive Patterns and Ovarian Cancer Risk  \nAward Number: 5R01CA258679-05  \nSponsor: National Cancer Institute (NCI)  \nPeres, L. (PD/PI)",
+      "title": "Changing Contraceptive Patterns and Ovarian Cancer Risk",
+      "award_number": "5R01CA258679-05",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Spatial and Bayesian Modeling Methods for Assessment of the Tumor Immune Microenvironment and Survival of Women with Ovarian Cancer  \nAward Number: 5R01CA279065-04  \nSponsor: National Cancer Institute (NCI)  \nPeres, L. (PD/PI)",
+      "title": "Spatial and Bayesian Modeling Methods for Assessment of the Tumor Immune Microenvironment and Survival of Women with Ovarian Cancer",
+      "award_number": "5R01CA279065-04",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Do Cytomegalovirus and EpsteinBarr Virus Infections Exacerbate Symptoms of Cognitive Decline Following Chemotherapy for Ovarian Cancer?  \nAward Number: HT9425-23-1-0171  \nSponsor: Department of Defense (DOD)  \nPeres, L. (PD/PI)",
+      "title": "Do Cytomegalovirus and EpsteinBarr Virus Infections Exacerbate Symptoms of Cognitive Decline Following Chemotherapy for Ovarian Cancer?",
+      "award_number": "HT9425-23-1-0171",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
+      "investigators": [
+        {
+          "name": "Peres, L.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/PeresLauren_21825.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=21825"
+  },
+  "content_hash": "260502695b37ce1fc68fec7a70e04ba9f488998bb9769f31aa68721eaac4579c",
+  "researcher_name": "lauren peres",
+  "department": "cancer epidemiology"
+}

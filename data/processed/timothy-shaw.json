@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/timothy-shaw",
-  "last_updated": "2025-10-21T16:39:18.893610",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/timothy-shaw/",
+  "last_updated": "2025-11-21T22:50:27.169068",
   "researcher_id": "28108",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "immuno-oncology",
   "overview": "Dr. Shaw's research focuses on systems immuno-oncology, particularly in developing computational tools to study immune interactions and associated regulatory networks.",
   "research_interests": [
     "Immunotherapy is emerging as a therapeutic modality, but achieving a durable response remains challenging in many instances. The problem is likely multifactorial and compounded by the complex regulatory network of the immune system. Thus, my research program aims to develop computational methodologies and tools to model these complexities. My program consists of the following three aims: 1) Building an integrative regulatory network of cancer-to-immune interactions and immune suppression. 2) Identifying targetable regulators generated from aim 1. 3) Using a proteo-genomics approach to identify cancer-specific isoforms for immunotherapy. My program will build a comprehensive systems biology resource of immune regulation of cancer, which will leverage multi-omics information derived from hidden-driver analysis, kinase activity, protein isoforms, and protein-protein interactions. Such an integrative approach presents opportunities to identify targets for immunotherapy or other therapeutic intervention. \n  *"
@@ -171,11 +171,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://shaw.moffitt.org/",
+  "google_scholar_url": "https://scholar.google.co.nz/citations?user=jvSEJuYAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ShawTimothy_28108.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28108"
   },
-  "content_hash": "1b5ee7171b3eefb7621af38408ae7824716b26f324ea8e6416a838d02c152ee5",
-  "researcher_name": "Timothy Shaw",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "4f64d9d52858090858ef5ef5a6497b13714bf7b31d5e0261109bf9e9dc3bfb3e",
+  "researcher_name": "timothy shaw",
+  "department": "biostatistics and bioinformatics"
 }

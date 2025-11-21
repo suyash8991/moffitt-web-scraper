@@ -1,0 +1,59 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/rui-zhou/",
+  "last_updated": "2025-11-21T22:50:26.753193",
+  "researcher_id": "23425",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer biology & evolution",
+  "overview": "",
+  "research_interests": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "associations": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "The Emerging Field of Noncoding RNAs and Their Importance in Pediatric Diseases",
+      "pubmed_id": "32482229",
+      "pmc_id": "PMC9003624",
+      "year": "2020",
+      "publication_date": "2020 Jun",
+      "authors": "Zhou R, Joshi P, Katsushima K, Liang W, Liu W, Goldenberg NA, Dover G, Perera RJ",
+      "journal": "J Pediatr"
+    },
+    {
+      "title": "The therapeutic and diagnostic potential of regulatory noncoding RNAs in medulloblastoma",
+      "pubmed_id": "31763623",
+      "pmc_id": "PMC6859950",
+      "year": "2019",
+      "publication_date": "2019 May",
+      "authors": "Joshi P, Katsushima K, Zhou R, Meoded A, Stapleton S, Jallo G, Raabe E, Eberhart CG, Perera RJ",
+      "journal": "Neurooncol Adv"
+    },
+    {
+      "title": "Requirement for CRIF1 in RNA interference and Dicer-2 stability",
+      "pubmed_id": "25483042",
+      "pmc_id": "PMC4615304",
+      "year": "2014",
+      "publication_date": "2014 Sep",
+      "authors": "Lim SJ, Scott A, Xiong XP, Vahidpour S, Karijolich J, Guo D, Pei S, Yu YT, Zhou R, Li WX",
+      "journal": "RNA Biol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=23425"
+  },
+  "content_hash": "5db9b91bf01816e0a6c4ba4669835fda52827c4ac7982bb1509a84365e84da03",
+  "researcher_name": "rui zhou",
+  "department": ""
+}

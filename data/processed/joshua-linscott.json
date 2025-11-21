@@ -1,0 +1,113 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/joshua-linscott/",
+  "last_updated": "2025-11-21T22:50:24.891620",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "genitourinary oncology",
+  "research_program": "molecular medicine",
+  "overview": "",
+  "research_interests": [
+    "Dr. Linscott is a translational researcher focused on urothelial carcinoma, with a particular interest in the discovery and development of urinary cell-free DNA biomarkers. Dr. Linscott\u2019s research goals include defining patterns of urinary cell-free DNA methylation as predictors of treatment response and disease progression, as well as studying the tumor immune microenvironment in BCG-treated patients using spatial transcriptomics.\n  *"
+  ],
+  "associations": [
+    "Genitourinary Oncology",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Urothelial Cancer: Leveraging Circulating Tumor DNA To Avoid Unnecessary Bladder-directed and Systemic Therapies",
+      "pubmed_id": "40716995",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Chatzkel J, Linscott J, Daniel Grass G, Li R",
+      "journal": "Eur Urol Focus"
+    },
+    {
+      "title": "Short- and Intermediate-Term Morbidity Following Total Pelvic Exenteration in Colorectal Cancer",
+      "pubmed_id": "39848249",
+      "pmc_id": "PMC11758541",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Guske C, Immen N, Conant D, Laborde J, Linscott J, Hayes M, Jazayeri SB, Fazili A, Siegel E, Dessureault S, Sanchez J, Stefanou A, Manley B, Felder S",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "FGFR Inhibition in Urothelial Carcinoma",
+      "pubmed_id": "39353825",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Li R, Linscott J, Catto JWF, Daneshmand S, Faltas BM, Kamat AM, Meeks JJ, Necchi A, Pradere B, Ross JS, van der Heijden MS, van Rhijn BWG, Loriot Y",
+      "journal": "Eur Urol"
+    },
+    {
+      "title": "Assessing the Impact of Treatment Timing Protocols in Clinical Trials for Bacillus Calmette-Gu\u00e9rin-unresponsive Non-muscle-invasive Bladder Cancer",
+      "pubmed_id": "40670271",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Guske C, Jazayeri SB, Harrs C, Rao N, Davaro F, Xu H, Zemp L, Yu A, Gilbert SM, Poch M, Spiess PE, Sexton W, Linscott J, Li R",
+      "journal": "Eur Urol Oncol"
+    },
+    {
+      "title": "Letter: Efficacy of Intravesical Nadofaragene Firadenovec for Patients With Bacillus Calmette-Gu\u00e9rin-Unresponsive Nonmuscle-Invasive Bladder Cancer: 5-Year Follow-Up From a Phase 3 Trial",
+      "pubmed_id": "38912644",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Linscott J, Li R",
+      "journal": "J Urol"
+    },
+    {
+      "title": "From Detection to Cure - Emerging Roles for Urinary Tumor DNA (utDNA) in Bladder Cancer",
+      "pubmed_id": "38837106",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Linscott JA, Miyagi H, Murthy PB, Yao S, Grass GD, Vosoughi A, Xu H, Wang X, Yu X, Yu A, Zemp L, Gilbert SM, Poch MA, Sexton WJ, Spiess PE, Li R",
+      "journal": "Curr Oncol Rep"
+    },
+    {
+      "title": "The Elusive Horizon: Biomarkers in Urothelial Carcinoma",
+      "pubmed_id": "38278663",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Linscott JA, Meeks JJ, Dyrskj\u00f8t L, Li R",
+      "journal": "Eur Urol"
+    },
+    {
+      "title": "Editorial Comment",
+      "pubmed_id": "38241201",
+      "year": "2024",
+      "publication_date": "2024 Apr",
+      "authors": "Linscott JA, Sexton WJ",
+      "journal": "J Urol"
+    },
+    {
+      "title": "",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Utilizing Cell Free DNA to Detect Minimal Residual Disease and Monitor Response to Neoadjuvant Chemotherapy in Muscle Invasive Bladder Cancer  \nAward Number:   \nSponsor: American Urological Association (AUA)  \nLinscott, J. (PD/PI)",
+      "title": "Utilizing Cell Free DNA to Detect Minimal Residual Disease and Monitor Response to Neoadjuvant Chemotherapy in Muscle Invasive Bladder Cancer",
+      "award_number": "",
+      "sponsor": "American Urological Association (AUA)",
+      "investigators": [
+        {
+          "name": "Linscott, J.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LinscottJoshua_34077.jpg",
+  "contact": {},
+  "content_hash": "01ec42f5858106b01b56f7e66bcb28566a9086eae7a83234c3825454cd1c4d99",
+  "researcher_name": "joshua linscott",
+  "department": ""
+}

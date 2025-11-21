@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/caroline-appleyard/",
+  "last_updated": "2025-11-21T22:50:23.086515",
+  "researcher_id": "3145",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer biology & evolution",
+  "overview": "",
+  "research_interests": [
+    "Dr. Appleyard's research interests are in the molecular basis of ulcerative colitis-associated dysplasia. One of the complications of Ulcerative Colitis is an increased risk for the development of cancer of the colon and rectum. Little is know about the transition from chronic inflammation into dysplasia and colorectal cancer, so the lab is currently attempting to develop a model of colitis-associated dysplasia which could be used to identify genetic alterations present in tumors. We will compare the development of dysplasia in animals which have tumors induced by a well-known carcinogen to that observed in animals with long term chronic intestinal inflammation, and controls. Dr. Appleyard and her associates aim to establish a profile of cancer related gene mutations (specifically p53, K-ras and APC) during the transition of inflammation to dysplasia, and correlate these with both histological and inflammatory changes. This may thus provide a molecular tool for improved estimation of diagnosis in patients with long standing ulcerative colitis as to their progression to colorectal cancer.\n  *"
+  ],
+  "associations": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Southampton, UK, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Calgary",
+      "specialty": "GI Phys/Pharm"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Dakota",
+      "specialty": "GI Phys/Pharm"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Efficacy of an environmental enrichment intervention for endometriosis: a pilot study",
+      "pubmed_id": "37885745",
+      "pmc_id": "PMC10598732",
+      "year": "2023",
+      "publication_date": "2023 Oct",
+      "authors": "De Hoyos G, Ramos-Sostre D, Torres-Rever\u00f3n A, Barros-Cartagena B, L\u00f3pez-Rodr\u00edguez V, Nieves-V\u00e1zquez C, Santiago-Saavedra F, Appleyard CB, Castro EM, Flores I",
+      "journal": "Front Psychol"
+    },
+    {
+      "title": "Feasibility and acceptability of an adapted environmental enrichment intervention for endometriosis: A pilot study",
+      "pubmed_id": "36683601",
+      "pmc_id": "PMC9846621",
+      "year": "2023",
+      "publication_date": "2023 Jan",
+      "authors": "Nieves-V\u00e1zquez CI, Detr\u00e9s-Marqu\u00e9z AC, Torres-Rever\u00f3n A, Appleyard CB, Llorens-De Jes\u00fas AP, Resto IN, L\u00f3pez-Rodr\u00edguez V, Ramos-Echevarr\u00eda PM, Castro EM, Flores I",
+      "journal": "Front Glob Womens Health"
+    },
+    {
+      "title": "A one month high fat diet disrupts the gut microbiome and integrity of the colon inducing adiposity and behavioral despair in male Sprague Dawley rats",
+      "pubmed_id": "36387539",
+      "pmc_id": "PMC9663868",
+      "year": "2022",
+      "publication_date": "2022 Nov",
+      "authors": "Chompre G, Sambolin L, Cruz ML, Sanchez R, Rodriguez Y, Rodr\u00edguez-Santiago RE, Yamamura Y, Appleyard CB",
+      "journal": "Heliyon"
+    },
+    {
+      "title": "Beyond depression and anxiety; a systematic review about the role of corticotropin-releasing hormone antagonists in diseases of the pelvic and abdominal organs",
+      "pubmed_id": "35275963",
+      "pmc_id": "PMC8916623",
+      "year": "2022",
+      "publication_date": "2022 Mar",
+      "authors": "Pag\u00e1n-Busig\u00f3 JE, L\u00f3pez-Carrasquillo J, Appleyard CB, Torres-Rever\u00f3n A",
+      "journal": "PLoS One"
+    },
+    {
+      "title": "Voluntary Wheel Running Reduces Vesicle Development in an Endometriosis Animal Model Through Modulation of Immune Parameters",
+      "pubmed_id": "36284640",
+      "pmc_id": "PMC9580825",
+      "year": "2022",
+      "publication_date": "2022 Jan",
+      "authors": "Appleyard CB, Cruz ML, Velazquez-Cruz J, Rivera-Mendez RM, Jimenez-Garcia JG, Rivera LA, Del Mar Mendez-Casillas M, Flores I, Al-Nakkash L, Chompre G",
+      "journal": "Front Reprod Health"
+    },
+    {
+      "title": "Metabolomics in endometriosis: challenges and perspectives for future studies",
+      "pubmed_id": "35128453",
+      "pmc_id": "PMC8812441",
+      "year": "2021",
+      "publication_date": "2021 Apr",
+      "authors": "Ortiz CN, Torres-Rever\u00f3n A, Appleyard CB",
+      "journal": "Reprod Fertil"
+    },
+    {
+      "title": "The Link Between Stress and Endometriosis: from Animal Models to the Clinical Scenario",
+      "pubmed_id": "32542543",
+      "pmc_id": "PMC9262098",
+      "year": "2020",
+      "publication_date": "2020 Sep",
+      "authors": "Appleyard CB, Flores I, Torres-Rever\u00f3n A",
+      "journal": "Reprod Sci"
+    },
+    {
+      "title": "Inhibition of Histone Methyltransferase EZH2 Suppresses Endometriotic Vesicle Development in a Rat Model of Endometriosis",
+      "pubmed_id": "32651901",
+      "pmc_id": "PMC9092274",
+      "year": "2020",
+      "publication_date": "2020 Sep",
+      "authors": "Seguinot-Tarafa I, Luna N, Suarez E, Appleyard CB, Flores I",
+      "journal": "Reprod Sci"
+    },
+    {
+      "title": "Short treatment with antalarmin alters adrenal gland receptors in the rat model of endometriosis",
+      "pubmed_id": "31935235",
+      "pmc_id": "PMC6959558",
+      "year": "2020",
+      "publication_date": "2020 Jan",
+      "authors": "Torres-Rever\u00f3n A, Rana M, Gorabi V, Rivera-Lopez LL, Appleyard CB",
+      "journal": "PLoS One"
+    },
+    {
+      "title": "Influence of Stress on the Vitamin D-Vitamin D Receptor System, Macrophages, and the Local Inflammatory Milieu in Endometriosis",
+      "pubmed_id": "32583376",
+      "year": "2020",
+      "publication_date": "2020 Dec",
+      "authors": "Lopez A, Cruz ML, Chompre G, Hern\u00e1ndez S, Isidro RA, Flores I, Appleyard CB",
+      "journal": "Reprod Sci"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3145"
+  },
+  "content_hash": "1dd89834e2bf6e23f46990804674b2fbc36d4a0ba7a669712501cf4cdfbda508",
+  "researcher_name": "caroline appleyard",
+  "department": ""
+}

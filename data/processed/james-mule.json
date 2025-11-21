@@ -1,0 +1,171 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/james-mule/",
+  "last_updated": "2025-11-21T22:50:24.212303",
+  "researcher_id": "2925",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "immunology",
+  "research_program": "immuno-oncology",
+  "overview": "The clinical application of immunotherapy for cancer is rapidly moving forward in multiple areas, which incorporate the adoptive transfer of antitumor-reactive T cells and the use of 'therapeutic' vaccines. Both clinical and immunologic endpoints have shown new promise to the field. Novel dendritic cell-based vaccine strategies designed in the laboratory and proven in preclinical animal tumor models are now entering the clinic, with the intent of providing therapeutic efficacy. Improvements on this approach involve breaking tolerance to tumor 'self' antigens by inhibiting regulatory cells, boosting T cell co-stimulation, and administering combinations of recombinant cytokines and other defined molecules with 'immuno-enhancing' activities. Development of these improvements is the primary research interest of Dr. Mul\u00e9.",
+  "research_interests": [
+    "On the basis of encouraging data from their preclinical studies, Dr. Mul\u00e9 and his colleagues initiated and completed two phase I clinical trials of autologous tumor lysate/keyhole limpet haemocyanin (KLH)-pulsed dendritic cells (TP-DCs) in children and adults with advanced solid tumors. The DCs, characterized as immature by phenotypic marker profiling, yielded both immunologic and very modest clinical responses. Immunologic assays revealed evidence of the induction of peripheral blood T-cell reactivity to both KLH and tumor lysates after immunization, particularly in children. Because durable and complete regression of established tumors has been difficult to achieve through administration of TP-DCs alone, Dr. Mul\u00e9 and his colleagues have embarked on a new series of clinical trails to evaluate potential improvements in their DC-based vaccine strategy that incorporate intratumoral delivery of KLH-pulsed DCs; systemic administration of interleukin-2 (IL-2); use of locally produced secondary lymphoid tissue chemokine; and the setting of lymphopenia-induced, homeostatic-driven T-cell proliferation. These clinical trials include (1) a phase Ib trial assessing autologous TP-DCs as a tumor vaccine administered with or without IL-2 in patients with metastatic melanoma; (2) a phase II trial assessing autologous TP-DCs as a tumor vaccine administered with low-dose IL-2 in patients with colorectal cancer; (3) a phase I trial assessing intratumoral administration of autologous DCs activated by granulocyte-macrophage colony-stimulating factor and interleukin-4 as a vaccine in muscle-invasive bladder cancer; (4) a phase I trial of escalating doses of fludarabine followed by intranodal delivery of MHC class I/II peptide-pulsed DCs in patients with chemotherapy-naive metastatic melanoma; (5) a randomized phase II trial of fludarabine followed by intranodal delivery of peptide-pulsed DCs with or without autologous lymphocyte infusion; (6) a phase II trial of TP-DC vaccines early after autologous hematopoietic stem cell transplantation to prolong progression-free survival in children with sarcoma; and (7) a phase I clinical study assessing autologous DCs gene-modified to secrete secondary lymphoid tissue chemokine as a vaccine to enhance T-cell priming in patients with advanced solid tumors.\n  *"
+  ],
+  "associations": [
+    "Cutaneous Oncology",
+    "Immunology",
+    "Radiation Oncology",
+    "Immuno-Oncology Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Center for Immunization & Infection Research in Cancer"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Fred Hutchinson Cancer Research Center, Individual PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Washington School of Medicine",
+      "specialty": "Tumor Immunology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "National Cancer Institute",
+      "specialty": "Tumor Immunology and Immunotherapy"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Stanford University School of Medicine",
+      "specialty": "Stem Cell Biology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Tumor-Associated Macrophages in Glioblastoma: Mechanisms of Tumor Progression and Therapeutic Strategies",
+      "pubmed_id": "41002423",
+      "pmc_id": "PMC12468907",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Chen J, Wu Q, Berglund AE, Macaulay RJ, Mul\u00e9 JJ, Etame AB",
+      "journal": "Cells"
+    },
+    {
+      "title": "Identification of an Immune-Related Gene Signature for Prognostic Prediction in Glioblastoma: Insights from Integrated Bulk and Single-Cell RNA Sequencing",
+      "pubmed_id": "40507280",
+      "pmc_id": "PMC12153616",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Chen J, Wu Q, Berglund AE, Macaulay RJ, Mul\u00e9 JJ, Etame AB",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Targeting MARCO in combination with anti-CTLA-4 leads to enhanced melanoma regression and immune cell infiltration via macrophage reprogramming",
+      "pubmed_id": "40081947",
+      "pmc_id": "PMC11907082",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Takahashi H, Perez-Villarroel P, Falahat R, Mul\u00e9 JJ",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Evaluating the Radiation Sensitivity Index and 12-Chemokine Gene Expression Signature for Clinical Use in a CLIA Laboratory",
+      "pubmed_id": "39932296",
+      "pmc_id": "PMC11873780",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Berglund AE, Puskas J, Yoder SJ, Smith AT, Marchion DC, Qin D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "Facts and Hopes: Toward the Next Quantum Leap in Melanoma",
+      "pubmed_id": "40407722",
+      "pmc_id": "PMC12240026",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Flaherty KT, Aplin AE, Davies MA, Hacohen N, Herlyn M, Hoon D, Hwu P, Lotem M, Mul\u00e9 J, Wargo JA, Fisher DE",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Enabling next-generation engineered TCR-T therapies based on high-throughput TCR discovery from diagnostic tumor biopsies",
+      "pubmed_id": "39809767",
+      "pmc_id": "PMC11733228",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Kuilman T, Schrikkema DS, Gadiot J, Gomez-Eerland R, Bies L, Walker J, Spaapen RM, Kok H, Houg D, Viyacheva M, Claassen YB, Saornil M, Krijgsman O, Stringer B, Ding H, Geleijnse A, Meinema AC, Weissbrich B, Lancee M, Engele CG, Sabatino M, Chen PL, Tsai KY, Mul\u00e9 JJ, Sondak VK, van den Bulk J, de Miranda NF, Jedema I, Haanen JG, van Heijst JWJ, Schumacher TN, Linnemann C, Bendle GM",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR",
+      "journal": "Nat Med"
+    },
+    {
+      "title": "CD40L stimulates tumor-infiltrating B-cells and improves ex vivo TIL expansion",
+      "pubmed_id": "40199608",
+      "pmc_id": "PMC11979601",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Rossetti RAM, Tordesillas L, Beatty MS, Cianne J, Martinez Planes E, Du D, Snedal S, Wang C, Perez BA, Berglund A, Chen YA, Sarnaik A, Mul\u00e9 JJ, Creelan B, Pilon-Thomas S, Abate-Daga D",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Evaluating the Radiation Sensitivity Index and 12-chemokine gene expression signature for clinical use in a CLIA laboratory",
+      "pubmed_id": "39345465",
+      "pmc_id": "PMC11429982",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Berglund A, Puskas J, Yoder S, Smith AT, Marchion DC, Qian D, Mul\u00e9 JJ, Torres-Roca JF, Eschrich SA",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "Differences in the pathological, transcriptomic, and prognostic implications of lymphoid structures between primary and metastatic cutaneous melanomas",
+      "pubmed_id": "39537211",
+      "pmc_id": "PMC11575263",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Karapetyan L, Li A, Vargas De Stefano D, Abushukair HM, Al-Bzour AN, Knight A, Layding C, Wang H, Xu J, Yao J, Song X, Joy M, Nguyen J, Moran-Segura C, Bruno S, Sander C, Messina J, Mule JJ, Storkus WJ, Kirkwood JM",
+      "journal": "J Immunother Cancer"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Improving melanoma immunotherapy through connections of TLSs, TIL, STING, and MARCO  \nAward Number:   \nSponsor: ADELSON MEDICAL RESEARCH FOUND  \nMulay, J. (PD/PI)",
+      "title": "Improving melanoma immunotherapy through connections of TLSs, TIL, STING, and MARCO",
+      "award_number": "",
+      "sponsor": "ADELSON MEDICAL RESEARCH FOUND",
+      "investigators": [
+        {
+          "name": "Mulay, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Improving immunotherapy and tackling resistance through studies of the melanoma microenvironment  \nAward Number: n/a  \nSponsor: ADELSON MEDICAL RESEARCH FOUND  \nMulay, J. (PD/PI)",
+      "title": "Improving immunotherapy and tackling resistance through studies of the melanoma microenvironment",
+      "award_number": "n/a",
+      "sponsor": "ADELSON MEDICAL RESEARCH FOUND",
+      "investigators": [
+        {
+          "name": "Mulay, J.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MuleJames_2925.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2925"
+  },
+  "content_hash": "30ab526e5f4b1b6d9cb8993636d8857ff7f78daec1ce12517251cf8d2a3fae15",
+  "researcher_name": "james mule",
+  "department": "immunology"
+}

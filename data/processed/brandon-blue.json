@@ -1,0 +1,137 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/brandon-blue/",
+  "last_updated": "2025-11-21T22:50:22.971834",
+  "researcher_id": "22488",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "health outcomes & behavior",
+  "overview": "Health Disparities",
+  "research_interests": [
+    "Dr. Blue specializes in plasma cell disorders and evaluation and treatment of patients prior to and after stem cell transplantation. Dr. Blue has a research focus in outcomes research. His interest is to explore and eliminate health disparities as it relates to hematologic malignancies.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Meharry Medical College",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Washington University School of Medicine",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Moffitt Cancer Center",
+      "specialty": "Blood and Marrow Transplant and Cellular Immunotherapy"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Saint Louis University School of Medicine",
+      "specialty": "Hematology/Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Target antigen and plasma cell phenotype are critical factors for sensitivity to response-adapted daratumumab therapy",
+      "pubmed_id": "40983035",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Meads MB, Zhao X, Noyes DR, Sudalagunta P, Achille A, Zhang C, Renatino Canevarolo R, Silva M, Magaletti D, DeAvila D, Toska S, Oates A, Lastorino D, Idiaquez DW, Song J, Sansil S, Yoder SJ, Grajales-Cruz AF, Blue BJ, Freeman CL, Kim J, Alsina M, Brayer J, Siqueira Silva A, Song X, Shain KH, Baz RC",
+      "journal": "Blood"
+    },
+    {
+      "title": "Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma",
+      "pubmed_id": "40637727",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK",
+      "journal": "Haematologica"
+    },
+    {
+      "title": "Cardiovascular adverse events and outcomes after anti-BCMA CAR-T for relapsed and refractory multiple myeloma",
+      "pubmed_id": "40229239",
+      "pmc_id": "PMC11997198",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Palfi S, Peres LC, Koelmeyer H, Alsina M, Baz RC, Blue BJ, Corallo S, De Avila G, Freeman C, Gonzalez R, Grajales-Cruz A, Harvey K, Liu HD, Nishihori T, Oliveira GH, Oswald LB, Castaneda Puglianini O, Selvakumar S, Sharma AB, Wang E, Shain KH, Jain M, Locke FL, Alomar M, Hansen DK, Lee DH",
+      "journal": "Blood Cancer J"
+    },
+    {
+      "title": "Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes",
+      "pubmed_id": "39652773",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL",
+      "journal": "Blood"
+    },
+    {
+      "title": "Simple Score of Albumin and CRP Predicts High-Grade Toxicity in Patients with Multiple Myeloma Receiving CAR-T Therapy",
+      "pubmed_id": "38123069",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Akhtar OS, Modi K, Kim J, Skellson L, Smith E, Al-Jumayli MA, Extermann M, De Avila G, Parker N, Castaneda-Puglianini O, Grajales-Cruz A, Baz R, Blue B, Shain K, Alsina M, Liu H, Nishihori T, Jain MD, Locke FL, Hansen DK, Freeman CL",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Safety and efficacy of anti-BCMA CAR-T cell therapy in older adults with multiple myeloma: A systematic review and meta-analysis",
+      "pubmed_id": "37723045",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Akhtar OS, Sheeba BA, Azad F, Alessi L, Hansen D, Alsina M, Baz R, Shain K, Grajales Cruz A, Castaneda Puglianini O, Liu H, Blue B, Nishihori T, Al Jumayli M, Extermann M, Locke FL, Mhaskar R, Freeman CL",
+      "journal": "Geriatr Oncol"
+    },
+    {
+      "title": "Racial and ethnic differences in clinical outcomes among patients with multiple myeloma treated with CAR T-cell therapy",
+      "pubmed_id": "37855718",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Peres LC, Oswald LB, Dillard CM, De Avila G, Nishihori T, Blue BJ, Freeman CL, Locke FL, Alsina M, Castaneda Puglianini OA, Shune L, Sborov DW, Wagner C, Dima D, Hashmi H, Davis JA, Kocoglu MH, Badros AZ, Atrash S, Simmons G, Kalariya N, Ferreri CJ, Anderson LD, Afrough A, Kaur G, Lin Y, Liu L, Nadeem O, Voorhees PM, Khouri J, McGuirk JP, Sidana S, Hansen DK, Patel KK",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Culturally Responsive Care Delivery in Oncology: The Example of Multiple Myeloma",
+      "pubmed_id": "37290997",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Blue B, Pierre A, Mikhael J",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "Patient-Reported Outcomes among Multiple Myeloma Patients Treated with Standard of Care Idecabtagene Vicleucel",
+      "pubmed_id": "37835405",
+      "pmc_id": "PMC10571575",
+      "year": "2023",
+      "publication_date": "2023 Sep",
+      "authors": "Oswald LB, Gudenkauf LM, Li X, De Avila G, Peres LC, Kirtane K, Gonzalez BD, Hoogland AI, Nguyen O, Rodriguez Y, Baz RC, Shain KH, Alsina M, Locke FL, Freeman C, Castaneda Puglianini O, Nishihori T, Liu H, Blue B, Grajales-Cruz A, Jim HSL, Hansen DK",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Racial and Socioeconomic Disparities in Long-Term Outcomes in \u22651 Year Allogeneic Hematopoietic Cell Transplantation Survivors: A CIBMTR Analysis",
+      "pubmed_id": "37482244",
+      "year": "2023",
+      "publication_date": "2023 Nov",
+      "authors": "Blue BJ, Brazauskas R, Chen K, Patel J, Hashmi S, Lehmann L, Bhatt N, Wood W, Saber W, Majhail N",
+      "journal": "Transplant Cell Ther"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BlueBrandon_22488.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=22488"
+  },
+  "content_hash": "03c1fbc1fef7902ca7296062f2deebe82236ec7f2e7e000d48ea52d22b7665dd",
+  "researcher_name": "brandon blue",
+  "department": ""
+}

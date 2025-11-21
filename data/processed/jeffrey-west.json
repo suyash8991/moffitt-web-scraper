@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jeffrey-west",
-  "last_updated": "2025-10-21T16:34:07.748414",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jeffrey-west/",
+  "last_updated": "2025-11-21T22:50:24.339298",
   "researcher_id": "19541",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Integrated Mathematical Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "integrated mathematical oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Studying the dynamics of cell-cell interactions that influence tumor evolution, heterogeneity, and treatment resistance.",
   "research_interests": [
     "The goal of Dr. West\u2019s research group is to aid in targeting treatment resistance by constructing mathematical models of 1) tumor evolution and heterogeneity and 2) evolutionary-minded treatment strategies, employing techniques such as agent-based modeling, dose response convexity analysis (second-order effects), and evolutionary game theory. These methods are broadly applicable to many cancer types, but recent publications have focused on applications to breast cancer and hematologic malignancies.\n  *"
@@ -39,12 +39,21 @@
       "journal": "medRxiv"
     },
     {
-      "title": "Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer",
+      "title": "Evolutionary Double-Bind Treatment Using Radiation Therapy and Natural Killer Cell-Based Immunotherapy in Prostate Cancer",
       "pubmed_id": "40998270",
       "year": "2025",
       "publication_date": "2025 Sep",
       "authors": "Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C",
       "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Evolutionary antifragile therapy",
+      "pubmed_id": "41000654",
+      "pmc_id": "PMC12458151",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "West J, Desai B, Strobl M, Gallaher J, Robertson-Tessi M, Marusyk A, Anderson ARA",
+      "journal": "bioRxiv"
     },
     {
       "title": "Mathematical Oncology: How Modeling Is Transforming Clinical Decision Making",
@@ -106,15 +115,6 @@
       "publication_date": "2024 Mar",
       "authors": "Pierik L, McDonald P, Anderson ARA, West J",
       "journal": "Bull Math Biol"
-    },
-    {
-      "title": "To modulate or to skip: De-escalating PARP inhibitor maintenance therapy in ovarian cancer using adaptive therapy",
-      "pubmed_id": "38772367",
-      "pmc_id": "PMC11190943",
-      "year": "2024",
-      "publication_date": "2024 Jun",
-      "authors": "Strobl MAR, Martin AL, West J, Gallaher J, Robertson-Tessi M, Gatenby R, Wenham R, Maini PK, Damaghi M, Anderson ARA",
-      "journal": "Cell Syst"
     }
   ],
   "grants": [
@@ -165,11 +165,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://labpages.moffitt.org/westj/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=7S9hrMMAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WestJeffrey_19541.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=19541"
   },
-  "content_hash": "7f0b1172ef8993977a008fcb8f911eed6633acd52efc5deef4d75979fee0bd64",
-  "researcher_name": "Jeffrey West",
-  "department": "Integrated Mathematical Oncology"
+  "content_hash": "1656e2a42f4e324712a67060309d7f409816a12d6b2682ec074cdf7df08e4980",
+  "researcher_name": "jeffrey west",
+  "department": "integrated mathematical oncology"
 }

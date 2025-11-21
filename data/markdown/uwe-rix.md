@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/uwe-rix)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/uwe-rix)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -502,6 +501,7 @@ Many drugs are unselective. This is a potential liability, but also an opportuni
   * ## Research Interest
 My scientific interest centers on chemical biology, targeted drugs, drug-protein interaction networks, synergy and molecular mechanisms of action in the context of cancer, particularly lung and ovarian cancer. I am pursuing a multi-layered chemical biology/systems pharmacology strategy based on the systematic screening for drug synergy and subsequent identification of the molecular basis underlying the observed synergy by for instance combining chemical proteomics, phosphoproteomics and gene expression profiling approaches. This integrated strategy can identify on one hand novel synergistic drug combinations, which due to the focus on clinical drug candidates has high potential for translation into clinical trials. In addition, the mechanistic understanding helps to further dissect complex oncogenic signaling networks, as well as providing potential mechanism-based biomarkers that can guide patient stratification. We also use small molecule fragments for screening cancer cells and subsequent target identification by chemical proteomics, which represents an excellent starting point for subsequent collaborative drug discovery efforts. We have many years of expertise in chemical proteomics, a postgenomic adaptation of classical drug-affinity chromatography that is powered by downstream mass spectrometry and bioinformatics analysis. This technology is optimally suited to support systematic investigations of cellular drug activities and mechanisms of action by characterizing in an unbiased fashion the cell-specific native drug-target interaction profiles, which are important starting points for identifying the engaged signaling pathways and networks. By applying this strategy, we have been able to identify a large number of new drug-protein interactions, predict drug side effects, characterize circuitries of oncogenic signaling and identify novel synergistic drug combinations. 
   * ## Publications
+    * Solanki HS, Shah H, Imbody D, Desai B, Kato R, Miroshnychenko D, Stern YE, Majumder A, Sarcar B, Xieraili A, Stewart PA, Fang B, Zhang Y, Yao J, Darville LN, Koomen JM, Rix U, Evans JW, Yang YC, Ahler E, Marusyk A, Singh M, Aronchik I, Haura EB. RAS-GTP Inhibition Overcomes Acquired Resistance to KRASG12C Inhibitors Mediated by Oncogenic and Wildtype RAS Activation in Non-Small Cell Lung Cancer. Cancer Res. 2025 Oct. Pubmedid: [41165456](https://www.ncbi.nlm.nih.gov/pubmed/41165456). 
     * Lodovichi S, Nepomuceno TC, Woods NT, Rix U, Koomen JM, Pellicioli A, Galli A, Monteiro ANA. SART1 modulates poly-(ADP-ribose) chain accumulation and PARP1 chromatin localization. iScience. 2024 Nov.27(11):111252. Pubmedid: [39569366](https://www.ncbi.nlm.nih.gov/pubmed/39569366). Pmcid: PMC11576398. 
     * Liao Y, Remsing Rix LL, Li X, Fang B, Izumi V, Welsh EA, Monastyrskyi A, Haura EB, Koomen JM, Doebele RC, Rix U. Differential network analysis of ROS1 inhibitors reveals lorlatinib polypharmacology through co-targeting PYK2. Cell Chem Biol. 2024 Feb.31(2):284-297.e10. Pubmedid: [37848034](https://www.ncbi.nlm.nih.gov/pubmed/37848034). Pmcid: PMC10922442. 
     * Xu X, Bok I, Jasani N, Wang K, Chadourne M, Mecozzi N, Deng O, Welsh EA, Kinose F, Rix U, Karreth FA. PTEN Lipid Phosphatase Activity Suppresses Melanoma Formation by Opposing an AKT/mTOR/FRA1 Signaling Axis. Cancer Res. 2024 Feb.84(3):388-404. Pubmedid: [38193852](https://www.ncbi.nlm.nih.gov/pubmed/38193852). Pmcid: PMC10842853. 
@@ -513,13 +513,13 @@ My scientific interest centers on chemical biology, targeted drugs, drug-protein
     * Remsing Rix LL, Sumi NJ, Hu Q, Desai B, Bryant AT, Li X, Welsh EA, Fang B, Kinose F, Kuenzi BM, Chen YA, Antonia SJ, Lovly CM, Koomen JM, Haura EB, Marusyk A, Rix U. IGF-binding proteins secreted by cancer-associated fibroblasts induce context-dependent drug sensitization of lung cancer cells. Sci Signal. 2022 Aug.15(747):eabj5879. Pubmedid: [35973030](https://www.ncbi.nlm.nih.gov/pubmed/35973030). Pmcid: PMC9528501. 
     * Phadke MS, Chen Z, Li J, Mohamed E, Davies MA, Smalley I, Duckett D, Palve V, Czerniecki BJ, Forsyth PA, Noyes D, Adeegbe DO, Eroglu Z, Nguyen KT, Tsai KY, Rix U, Burd CE, Chen YA, Rodriguez PC, Smalley KSM. Targeted Therapy Given after Anti-PD-1 Leads to Prolonged Responses in Mouse Melanoma Models through Sustained Antitumor Immunity. Cancer Immunol Res. 2021 May.9(5):554-567. Pubmedid: [33653716](https://www.ncbi.nlm.nih.gov/pubmed/33653716). Pmcid: PMC8102376. 
     * Solanki HS, Welsh EA, Fang B, Izumi V, Darville LNF, Stone B, Franzese R, Chavan S, Kinose F, Imbody D, Koomen JM, Rix U, Haura EB. Cell Type-specific Adaptive Signaling Responses to KRASG12C Inhibition. Clin Cancer Res. 2021 May.27(9):2533-2548. Pubmedid: [33619172](https://www.ncbi.nlm.nih.gov/pubmed/33619172). 
-    * Schubert L, Le AT, Estrada-Bernal A, Doak AE, Yoo M, Ferrara SE, Goodspeed A, Kinose F, Rix U, Tan AC, Doebele RC. Novel Human-Derived RET Fusion NSCLC Cell Lines Have Heterogeneous Responses to RET Inhibitors and Differential Regulation of Downstream Signaling. Mol Pharmacol. 2021 Jun.99(6):435-447. Pubmedid: [33795352](https://www.ncbi.nlm.nih.gov/pubmed/33795352). 
     * Wright GM, Gimbrone NT, Sarcar B, Percy TR, Gordián ER, Kinose F, Sumi NJ, Rix U, Cress WD. CDK4/6 inhibition synergizes with inhibition of P21-Activated Kinases (PAKs) in lung cancer cell lines. PLoS One. 2021 Jun.16(6):e0252927. Pubmedid: [34138895](https://www.ncbi.nlm.nih.gov/pubmed/34138895). Pmcid: PMC8211232. 
+    * Schubert L, Le AT, Estrada-Bernal A, Doak AE, Yoo M, Ferrara SE, Goodspeed A, Kinose F, Rix U, Tan AC, Doebele RC. Novel Human-Derived RET Fusion NSCLC Cell Lines Have Heterogeneous Responses to RET Inhibitors and Differential Regulation of Downstream Signaling. Mol Pharmacol. 2021 Jun.99(6):435-447. Pubmedid: [33795352](https://www.ncbi.nlm.nih.gov/pubmed/33795352). 
     * Cocco E, Lee JE, Kannan S, Schram AM, Won HH, Shifman S, Kulick A, Baldino L, Toska E, Arruabarrena-Aristorena A, Kittane S, Wu F, Cai Y, Arena S, Mussolin B, Kannan R, Vasan N, Gorelick AN, Berger MF, Novoplansky O, Jagadeeshan S, Liao Y, Rix U, Misale S, Taylor BS, Bardelli A, Hechtman JF, Hyman DM, Elkabets M, de Stanchina E, Verma CS, Ventura A, Drilon A, Scaltriti M. TRK xDFG Mutations Trigger a Sensitivity Switch from Type I to II Kinase Inhibitors. Cancer Discov. 2021 Jan.11(1):126-141. Pubmedid: [33004339](https://www.ncbi.nlm.nih.gov/pubmed/33004339). Pmcid: PMC8012405. 
     * Palve V, Liao Y, Remsing Rix LL, Rix U. Turning liabilities into opportunities: Off-target based drug repurposing in cancer. Semin Cancer Biol. 2021 Jan.68:209-229. Pubmedid: [32044472](https://www.ncbi.nlm.nih.gov/pubmed/32044472). Pmcid: PMC7415607. 
     * Fang B, Izumi V, Rix LLR, Welsh E, Pike I, Reuther GW, Haura EB, Rix U, Koomen JM. Lowering Sample Requirements to Study Tyrosine Kinase Signaling Using Phosphoproteomics with the TMT Calibrator Approach. Proteomics. 2020 Dec.20(24):e2000116. Pubmedid: [32865326](https://www.ncbi.nlm.nih.gov/pubmed/32865326). Pmcid: PMC7771371. 
-    * Faião-Flores F, Emmons MF, Durante MA, Kinose F, Saha B, Fang B, Koomen JM, Chellappan SP, Maria-Engler SS, Rix U, Licht JD, Harbour JW, Smalley KSM. HDAC Inhibition Enhances the In Vivo Efficacy of MEK Inhibitor Therapy in Uveal Melanoma. Clin Cancer Res. 2019 Sep.25(18):5686-5701. Pubmedid: [31227503](https://www.ncbi.nlm.nih.gov/pubmed/31227503). Pmcid: PMC6744978. 
     * Sumi NJ, Ctortecka C, Hu Q, Bryant AT, Fang B, Remsing Rix LL, Ayaz M, Kinose F, Welsh EA, Eschrich SA, Lawrence HR, Koomen JM, Haura EB, Rix U. Divergent Polypharmacology-Driven Cellular Activity of Structurally Similar Multi-Kinase Inhibitors through Cumulative Effects on Individual Targets. Cell Chem Biol. 2019 Sep.26(9):1240-1252.e11. Pubmedid: [31257184](https://www.ncbi.nlm.nih.gov/pubmed/31257184). Pmcid: PMC6754293. 
+    * Faião-Flores F, Emmons MF, Durante MA, Kinose F, Saha B, Fang B, Koomen JM, Chellappan SP, Maria-Engler SS, Rix U, Licht JD, Harbour JW, Smalley KSM. HDAC Inhibition Enhances the In Vivo Efficacy of MEK Inhibitor Therapy in Uveal Melanoma. Clin Cancer Res. 2019 Sep.25(18):5686-5701. Pubmedid: [31227503](https://www.ncbi.nlm.nih.gov/pubmed/31227503). Pmcid: PMC6744978. 
     * Sarcar B, Gimbrone NT, Wright G, Remsing Rix LL, Gordian ER, Rix U, Chiappori AA, Reuther GW, Santiago-Cardona PG, Muñoz-Antonia T, Cress WD. Characterization of epidermal growth factor receptor (EGFR) P848L, an unusual EGFR variant present in lung cancer patients, in a murine Ba/F3 model. FEBS Open Bio. 2019 Oct.9(10):1689-1704. Pubmedid: [31314158](https://www.ncbi.nlm.nih.gov/pubmed/31314158). Pmcid: PMC6768113. 
     * Xie M, Zheng H, Madan-Lala R, Dai W, Gimbrone NT, Chen Z, Kinose F, Blackstone SA, Smalley KSM, Cress WD, Haura EB, Rix U, Beg AA. MEK Inhibition Modulates Cytokine Response to Mediate Therapeutic Efficacy in Lung Cancer. Cancer Res. 2019 Nov.79(22):5812-5825. Pubmedid: [31362929](https://www.ncbi.nlm.nih.gov/pubmed/31362929). Pmcid: PMC6881545. 
     * Kuenzi BM, Remsing Rix LL, Kinose F, Kroeger JL, Lancet JE, Padron E, Rix U. Off-target based drug repurposing opportunities for tivantinib in acute myeloid leukemia. Sci Rep. 2019 Jan.9(1):606. Pubmedid: [30679640](https://www.ncbi.nlm.nih.gov/pubmed/30679640). Pmcid: PMC6345777. 
@@ -688,7 +688,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -743,7 +743,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/uwe-rix#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/uwe-rix#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -761,7 +761,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1115,7 +1115,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/uwe-rix#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/uwe-rix#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

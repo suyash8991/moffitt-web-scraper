@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/jiandong-chen)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/jiandong-chen)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -496,7 +495,7 @@ Our laboratory mainly focuses on studying the p53 pathway in tumor cells.
   * ## Research Interest
 My laboratory has a long-standing interest in studying the regulation of p53 by MDM2 and MDMX. An important goal of our research is the discovery of novel drug targets. Our work on p53 has contributed to the validation of MDM2 and MDMX as drug targets in cancer therapy. We have published extensively in the areas of p53/MDM2/MDMX phosphorylation, ubiquitination, transcriptional regulation, and drug discovery using biochemical/cellular assays and mouse tumor models. Ongoing research include targeting of tumors with temperature sensitive mutant p53, analysis of MDMX interaction with CK1 alpha, targeting of TAF1 transcription factor using PROTAC approach, evaluation of MDM2 as a PROTAC E3 ligase.
   * ## Publications
-    * Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther. 2025 May.OF1-OF10. Pubmedid: [40376796](https://www.ncbi.nlm.nih.gov/pubmed/40376796). 
+    * Chen L, Shultz ZP, Sansone M, Fang B, Liu X, Teng M, Schonbrunn E, Lopchuk JM, Chen J. PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells and Inhibits Tumor Growth In Vivo. Mol Cancer Ther. 2025 Nov.24(11):1712-1721. Pubmedid: [40376796](https://www.ncbi.nlm.nih.gov/pubmed/40376796). Pmcid: PMC12353786. 
     * Lu J, Chen L, Fatima Z, Huang J, Chen J. Synergistic rescue of temperature-sensitive p53 mutants by hypothermia and arsenic trioxide. Mol Carcinogen. 2024 Nov.63(11):2205-2217. Pubmedid: [39115446](https://www.ncbi.nlm.nih.gov/pubmed/39115446). Pmcid: PMC11466696. 
     * Shaikh DH, Park M, Chen J, Huang J, Friedman MS, Dam AN, Luthra AK, Cappelle S, Pena LR, Permuth JB, Mok SRS. Differences in Gender and Overall Survival for Temperature-Sensitive TP53 Mutations in Gastroesophageal Cancer. Medicina (Kaunas). 2024 Nov.60(11). Pubmedid: [39597086](https://www.ncbi.nlm.nih.gov/pubmed/39597086). Pmcid: PMC11597060. 
     * Fenton M, Borcherds W, Chen L, Anbanandam A, Levy R, Chen J, Daughdrill G. The MDMX Acidic Domain Uses Allovalency to Bind Both p53 and MDMX. J Mol Biol. 2022 Nov.434(22):167844. Pubmedid: [36181774](https://www.ncbi.nlm.nih.gov/pubmed/36181774). Pmcid: PMC9644833. 
@@ -521,8 +520,8 @@ My laboratory has a long-standing interest in studying the regulation of p53 by 
     * Peng L, Yuan Z, Li Y, Ling H, Izumi V, Fang B, Fukasawa K, Koomen J, Chen J, Seto E. Ubiquitinated sirtuin 1 (SIRT1) function is modulated during DNA damage-induced cell death and survival. J Biol Chem. 2015 Apr.290(14):8904-8912. Pubmedid: [25670865](https://www.ncbi.nlm.nih.gov/pubmed/25670865). Pmcid: PMC4423681. 
     * Zhang M, Xiang S, Joo HY, Wang L, Williams KA, Liu W, Hu C, Tong D, Haakenson J, Wang C, Zhang S, Pavlovicz RE, Jones A, Schmidt KH, Tang J, Dong H, Shan B, Fang B, Radhakrishnan R, Glazer PM, Matthias P, Koomen J, Seto E, Bepler G, Nicosia SV, Chen J, Li C, Gu L, Li GM, Bai W, Wang H, Zhang X. HDAC6 deacetylates and ubiquitinates MSH2 to maintain proper levels of MutSα. Mol Cell. 2014 Jul.55(1):31-46. Pubmedid: [24882211](https://www.ncbi.nlm.nih.gov/pubmed/24882211). Pmcid: PMC4188514. 
     * Zheng H, Chen L, Pledger WJ, Fang J, Chen J. p53 promotes repair of heterochromatin DNA by regulating JMJD2b and SUV39H1 expression. Oncogene. 2014 Feb.33(6):734-744. Pubmedid: [23376847](https://www.ncbi.nlm.nih.gov/pubmed/23376847). Pmcid: PMC3912226. 
-    * Cheng Q, Song T, Chen L, Chen J. Autoactivation of the MDM2 E3 ligase by intramolecular interaction. Mol Cell Biol. 2014 Aug.34(15):2800-2810. Pubmedid: [24842904](https://www.ncbi.nlm.nih.gov/pubmed/24842904). Pmcid: PMC4135571. 
     * Schneeberger VE, Luetteke N, Ren Y, Berns H, Chen L, Foroutan P, Martinez GV, Haura EB, Chen J, Coppola D, Wu J. SHP2E76K mutant promotes lung tumorigenesis in transgenic mice. Carcinogenesis. 2014 Aug.35(8):1717-1725. Pubmedid: [24480804](https://www.ncbi.nlm.nih.gov/pubmed/24480804). Pmcid: PMC4123642. 
+    * Cheng Q, Song T, Chen L, Chen J. Autoactivation of the MDM2 E3 ligase by intramolecular interaction. Mol Cell Biol. 2014 Aug.34(15):2800-2810. Pubmedid: [24842904](https://www.ncbi.nlm.nih.gov/pubmed/24842904). Pmcid: PMC4135571. 
     * Yang L, Chen J. SirT1 and rRNA in the nucleolus: regulating the regulator. Oncoscience. 2014.1(2):111-112. Pubmedid: [25594003](https://www.ncbi.nlm.nih.gov/pubmed/25594003). Pmcid: PMC4278288. 
     * Yang L, Song T, Chen L, Kabra N, Zheng H, Koomen J, Seto E, Chen J. Regulation of SirT1-nucleomethylin binding by rRNA coordinates ribosome biogenesis with nutrient availability. Mol Cell Biol. 2013 Oct.33(19):3835-3848. Pubmedid: [23897426](https://www.ncbi.nlm.nih.gov/pubmed/23897426). Pmcid: PMC3811878. 
     * Gray JE, Altiok S, Alexandrow MG, Walsh FW, Chen J, Schell MJ, Tai DF, Bepler G. Phase 2 randomized study of enzastaurin (LY317615) for lung cancer prevention in former smokers. Cancer. 2013 Mar.119(5):1023-1032. Pubmedid: [23065656](https://www.ncbi.nlm.nih.gov/pubmed/23065656). Pmcid: PMC3578040. 
@@ -541,8 +540,8 @@ My laboratory has a long-standing interest in studying the regulation of p53 by 
     * Cheng Q, Chen J. The phenotype of MDM2 auto-degradation after DNA damage is due to epitope masking by phosphorylation. Cell Cycle. 2011 Apr.10(7):1162-1166. Pubmedid: [21386656](https://www.ncbi.nlm.nih.gov/pubmed/21386656). Pmcid: PMC3100889. 
     * Kim D, Sun M, He L, Zhou QH, Chen J, Sun XM, Bepler G, Sebti SM, Cheng JQ. A small molecule inhibits Akt through direct binding to Akt and preventing Akt membrane translocation. J Biol Chem. 2010 Mar.285(11):8383-8394. Pubmedid: [20068047](https://www.ncbi.nlm.nih.gov/pubmed/20068047). Pmcid: PMC2832988. 
     * Yuan Z, Villagra A, Peng L, Coppola D, Glozak M, Sotomayor EM, Chen J, Lane WS, Seto E. The ATDC (TRIM29) protein binds p53 and antagonizes p53-mediated functions. Mol Cell Biol. 2010 Jun.30(12):3004-3015. Pubmedid: [20368352](https://www.ncbi.nlm.nih.gov/pubmed/20368352). Pmcid: PMC2876676. 
-    * Zhang Y, Dong H, Li Z, Xiang S, Zhu Y, Zhang M, Liu J, Bai W, Nicosia SV, Chen J. Bing De Ling, a Chinese herbal formula, inhibits cancer cells growth via p53. Front Biosci (Elite Ed). 2010 Jan.2(1):221-230. Pubmedid: [20036872](https://www.ncbi.nlm.nih.gov/pubmed/20036872). 
     * Phan J, Li Z, Kasprzak A, Li B, Sebti S, Guida W, Schönbrunn E, Chen J. Structure-based design of high affinity peptides inhibiting the interaction of p53 with MDM2 and MDMX. J Biol Chem. 2010 Jan.285(3):2174-2183. Pubmedid: [19910468](https://www.ncbi.nlm.nih.gov/pubmed/19910468). Pmcid: PMC2804373. 
+    * Zhang Y, Dong H, Li Z, Xiang S, Zhu Y, Zhang M, Liu J, Bai W, Nicosia SV, Chen J. Bing De Ling, a Chinese herbal formula, inhibits cancer cells growth via p53. Front Biosci (Elite Ed). 2010 Jan.2(1):221-230. Pubmedid: [20036872](https://www.ncbi.nlm.nih.gov/pubmed/20036872). 
     * Cheng Q, Chen J. Mechanism of p53 stabilization by ATM after DNA damage. Cell Cycle. 2010 Feb.9(3):472-478. Pubmedid: [20081365](https://www.ncbi.nlm.nih.gov/pubmed/20081365). Pmcid: PMC2977994. 
     * Chen L, Li Z, Zwolinska AK, Smith MA, Cross B, Koomen J, Yuan ZM, Jenuwein T, Marine JC, Wright KL, Chen J. MDM2 recruitment of lysine methyltransferases regulates p53 transcriptional output. Embo J. 2010 Aug.29(15):2538-2552. Pubmedid: [20588255](https://www.ncbi.nlm.nih.gov/pubmed/20588255). Pmcid: PMC2928696. 
     * Li B, Cheng Q, Li Z, Chen J. p53 inactivation by MDM2 and MDMX negative feedback loops in testicular germ cell tumors. Cell Cycle. 2010 Apr.9(7):1411-1420. Pubmedid: [20372076](https://www.ncbi.nlm.nih.gov/pubmed/20372076). Pmcid: PMC3008305. 
@@ -558,8 +557,8 @@ My laboratory has a long-standing interest in studying the regulation of p53 by 
     * Wang C, Rauscher FJ 3rd, Cress W, Chen J. Regulation of E2F1 function by the nuclear co-repressor KAP-1. J Biol Chem. 2007 Oct.282(41):29902-9. Pubmedid: [17704056](https://www.ncbi.nlm.nih.gov/pubmed/17704056). 
     * Gilkes D, Chen J. Distinct roles of MDMX in the regulation of p53 response to ribosomal stress. Cell Cycle. 2007 Jan.6(2):151-5. Epub 20. Pubmedid: [17327702](https://www.ncbi.nlm.nih.gov/pubmed/17327702). 
     * Wang C, Chen L, Hou X, Li Z, Kabra N, Ma Y, Nemoto S, Finkel T, Gu W, Cress WD, Chen J. Interactions between E2F1 and SirT1 regulate apoptotic response to DNA damage. Nat Cell Biol. 2006 Sep.8(9):1025-1031. Pubmedid: [16892051](https://www.ncbi.nlm.nih.gov/pubmed/16892051). 
-    * Gilkes DM, Chen L, Chen J. MDMX regulation of p53 response to ribosomal stress. Embo J. 2006 Nov.25(23):5614-5625. Pubmedid: [17110929](https://www.ncbi.nlm.nih.gov/pubmed/17110929). Pmcid: PMC1679771. 
     * Hu B, Gilkes DM, Farooqi B, Sebti SM, Chen J. MDMX overexpression prevents p53 activation by the MDM2 inhibitor Nutlin. J Biol Chem. 2006 Nov.281(44):33030-33035. Pubmedid: [16905541](https://www.ncbi.nlm.nih.gov/pubmed/16905541). 
+    * Gilkes DM, Chen L, Chen J. MDMX regulation of p53 response to ribosomal stress. Embo J. 2006 Nov.25(23):5614-5625. Pubmedid: [17110929](https://www.ncbi.nlm.nih.gov/pubmed/17110929). Pmcid: PMC1679771. 
     * Lebron C, Chen L, Gilkes DM, Chen J. Regulation of MDMX nuclear import and degradation by Chk2 and 14-3-3. Embo J. 2006 Mar.25(6):1196-1206. Pubmedid: [16511560](https://www.ncbi.nlm.nih.gov/pubmed/16511560). Pmcid: PMC1422166. 
     * Wang C, Ivanov A, Chen L, Fredericks WJ, Seto E, Rauscher FJ, Chen J. MDM2 interaction with nuclear corepressor KAP1 contributes to p53 inactivation. Embo J. 2005 Sep.24(18):3279-3290. Pubmedid: [16107876](https://www.ncbi.nlm.nih.gov/pubmed/16107876). Pmcid: PMC1224681. 
     * Chen L, Gilkes DM, Pan Y, Lane WS, Chen J. ATM and Chk2-dependent phosphorylation of MDMX contribute to p53 activation after DNA damage. Embo J. 2005 Oct.24(19):3411-3422. Pubmedid: [16163388](https://www.ncbi.nlm.nih.gov/pubmed/16163388). Pmcid: PMC1276172. 
@@ -691,7 +690,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -746,7 +745,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/jiandong-chen#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/jiandong-chen#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -764,7 +763,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1118,7 +1117,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/jiandong-chen#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/jiandong-chen#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

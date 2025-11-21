@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/elsa-flores",
-  "last_updated": "2025-10-21T16:34:41.661901",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/elsa-flores/",
+  "last_updated": "2025-11-21T22:50:23.640691",
   "researcher_id": "17085",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "The focus of my laboratory is to understand the p53 family pathway to target this pathway therapeutically in cancer. As a basic scientist, my lab has made important discoveries in understanding the functions of the p53 family and its family members, as described below. The overarching goal of my lab is to use this knowledge to target cancers with mutations in this pathway. Becoming part of the Moffitt Cancer Center is essential and offers a unique opportunity to accomplish my goals. I look forward to integrating my laboratory with others at Moffitt.",
   "research_interests": [
     "The main focus of my laboratory is to understand the overlapping and unique activities of the p53 family in human cancer using mouse models and patient derived tumors. p53 is commonly mutated in human cancer and has been difficult to target therapeutically in cancer. This is due to the complex network of genes regulated by p53 and the extensive interactions with its family members, p63 and p73. Prior to my work, very little was known about p63 and p73 function in cancer. We have demonstrated that p63 and p73 are required for p53 to induce apoptosis in response to DNA damage, which is critical for the response to chemo- and radiation therapy of tumors. Additionally, my laboratory generated genetically engineered mouse models mutant for isoforms of p63 and p73 and provided the first evidence that p63 and p73 are potent suppressors of tumorigenesis and metastasis. Using our mouse models we have unveiled previously unappreciated functions for TAp63, which we identified as the tumor suppressive isoform of p63 in mouse and human tumors, and \u2206Np63, the oncogenic isoform, in the regulation of microRNA biogenesis, stem cell maintenance, aging, and metabolism. We have also found that TAp63 and TAp73 can compensate for p53 function in vivo and found that inhibition of \u2206Np63 or \u2206Np73 leads to tumor regression in p53-/- mice by upregulation of TAp63 and TAp73 function and metabolic reprogramming within those tumors. The work from my laboratory indicates that the inter-related functions of the p53 family members must be understood for effective therapy of tumors with alterations in the p53 pathway. We are poised to make further advances in understanding the molecular mechanisms employed by this gene family in multiple biological processes. We are currently using genomic approaches to understand the regulation of multiple downstream pathways of the p53 family including the functions and regulation of long non-coding RNAs in multiple cancers, stem cell regulation, and tumor metabolism.\n  *"
@@ -235,11 +235,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://www.florescancerlab.org/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=oiGzcBAAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/FloresElsa_17085.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17085"
   },
-  "content_hash": "a39e81744d0dbe27863ad66e360cc66eefb5e0927929f5e1131bea4c0dac5f2e",
-  "researcher_name": "Elsa Flores",
-  "department": "Molecular Oncology"
+  "content_hash": "e747ab1896a6c4a1f1be4f44dc7b5fe00d1a7b1881b9d5553465449b661b5fe4",
+  "researcher_name": "elsa flores",
+  "department": "molecular oncology"
 }

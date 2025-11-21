@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/nagi-kumar",
-  "last_updated": "2025-10-21T16:36:11.090650",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/nagi-kumar/",
+  "last_updated": "2025-11-21T22:50:25.997496",
   "researcher_id": "1278",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Dr. Kumar is a Senior Member of the Cancer Epidemiology, Genitourinary and Breast Oncology Departments at the Moffitt Cancer Center. She collaborates with investigators in basic, population, and clinical sciences, both nationally and internationally, and has developed a program to accelerate agent development and biomarker validation for cancer chemoprevention.",
   "research_interests": [
     "Using a multi-disciplinary science-based approach and the rigor with which other therapeutic agents are tested, Dr. Kumar has initiated several epidemiological, laboratory, preclinical and phase I-II clinical trials evaluating safety, effectiveness and potential molecular targets of several agents for cancer chemoprevention, including green tea catechins, isoflavones, tannic acid, n-3 fatty acids, metformin, anthocyanins, sulforaphanes, Quercetin, n-3 fatty acids, curcumin, and combination agents for cancer chemoprevention. She leads two active phase II secondary chemoprevention trials targeting men with localized prostate cancer. Informed by her laboratory and early phase clinical trials, the goal of these randomized clinical trials is to comprehensively and rigorously evaluate the safety, effectiveness, and mechanism of green tea catechins on clinical and biological intermediate endpoint markers, implicated in prostate carcinogenesis, that will ultimately inform development of Phase III clinical trials for secondary chemoprevention of prostate cancer in men on active surveillance. And these trials will create a specimen repository with which to test future and evolving novel hypotheses to assess other genetic or environmental factors that may influence incidence and progression of prostate cancer. Dr. Kumar also leads a phase II chemoprevention trial evaluating a combination of curcumin and n-3 fatty acids to modulate lung nodules in former smokers. And she has developed and tested multimodal interventions to characterize and ameliorate symptoms of cancer treatment including for hypothyroidism, cancer cachexia, and cognitive impairment. Her goal for cancer chemoprevention at Moffitt Cancer Center is to utilize a systematic, broad spectrum approach to identify agents that can: (a) produce robust and concurrent inhibition of multiple hallmark-associated pathways in target (precursor or early stage tumor) tissue/microenvironment, (b) addressing the underlying biology of carcinogenesis; (c) enhance bioavailability and half-life, (d) with minimum toxicity, (e) in exceptionally high risk populations.\n  *"
@@ -141,11 +141,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KumarNagi_1278.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1278"
   },
-  "content_hash": "25657df992b5ca0acb84a7f9e3e69725ce3a51ce97cd2505173fea587d0aeafa",
-  "researcher_name": "Nagi Kumar",
-  "department": "Cancer Epidemiology"
+  "content_hash": "110130b97e38f67d01e4e29399e4bf2bffddd7822d56de971f1f25bc22ffcb90",
+  "researcher_name": "nagi kumar",
+  "department": "cancer epidemiology"
 }

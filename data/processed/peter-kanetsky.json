@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/peter-kanetsky",
-  "last_updated": "2025-10-21T16:35:27.655866",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/peter-kanetsky/",
+  "last_updated": "2025-11-21T22:50:26.371614",
   "researcher_id": "13006",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Dr. Kanetsky investigates genetic and non-genetic risk factors for development, progression, and/or treatment response for melanoma and testicular germ cell tumors. He also leads intervention studies to assess precision prevention for skin cancer.",
   "research_interests": [
     "Dr. Kanetsky has made seminal contributions to our understanding of melanoma and testicular germ cell tumors. Melanoma is a potentially lethal form of skin cancer and is the sixth most diagnosed cancer in Floridians. The high level of sun exposure, the most important environmental risk factor for melanoma, in the Sunshine State is partially responsible for the escalating occurrence of melanoma, especially among young adults. Increasing prevention behaviors such as responsible sun seeking and skin examinations can help ebb the rising tide of melanoma diagnoses, and Dr. Kanetsky\u2019s research seeks to determine whether knowledge of genetics can affect melanoma risk behaviors. Testicular germ cell cancers are the most common cancer in men between the ages of 15 and 35. Although highly treatable, standard chemotherapies have unpleasant and sometimes severe adverse consequences that can lead to decreased quality of life among these young men. Dr. Kanetsky plays a leadership role in an international genetic research consortium that addresses a spectrum of scientific questions focused on testicular germ cell tumors to better serve this adolescent and young adult male population. Dr. Kanetsky\u2019s research projects encompass the investigation of (i) inherited genetic factors and sun exposure on risk of melanoma and melanoma-related traits, (ii) influence of genes on survival outcomes among melanoma patients treated with immunotherapy, (iii) whether knowledge of genetic susceptibility affects positive change in melanoma risk reduction behaviors, and (iv) inherited genetics and risk of testicular germ cell tumors, tumor-related phenotypes, and survival outcomes.\n  *"
@@ -34,6 +34,15 @@
     }
   ],
   "publications": [
+    {
+      "title": "A retrospective cohort study of physical activity and survival in patients treated with immune checkpoint inhibitors",
+      "pubmed_id": "40971247",
+      "pmc_id": "PMC12579459",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Parker NH, Ramos JD, Tarhini AA, Schell MJ, Egan KM, Kanetsky PA",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
+    },
     {
       "title": "Association of Inherited Genetic Variants with Multiple Primary Melanoma",
       "pubmed_id": "40036058",
@@ -113,15 +122,6 @@
       "publication_date": "2023 May",
       "authors": "Ward SV, Autuori I, Luo L, LaPilla E, Yoo S, Sharma A, Busam KJ, Olilla DW, Dwyer T, Anton-Culver H, Zanetti R, Sacchetto L, Cust AE, Gallagher RP, Kanetsky PA, Rosso S, Begg CB, Berwick M, Thomas NE, Orlow I",
       "journal": "Cancers (Basel)"
-    },
-    {
-      "title": "Recruiting African American Prostate Cancer Survivors for a Population-based Biobank Study",
-      "pubmed_id": "36958853",
-      "pmc_id": "PMC10308568",
-      "year": "2023",
-      "publication_date": "2023 Jun",
-      "authors": "Li X, Roy S, Damonte J, Park HY, Hoogland AI, Jamison K, Komrokji KR, Yeo CD, Kim Y, Dhillon J, Gudenkauf LM, Oswald LB, Jim HSL, Yamoah K, Pow-Sang JM, Kanetsky PA, Gwede CK, Park JY, Gonzalez BD",
-      "journal": "Cancer Epidemiol Biomarkers Prev"
     }
   ],
   "grants": [
@@ -168,11 +168,29 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23436/",
+      "trial_id": "23436",
+      "title": "A Hybrid Effectiveness-Implementation Trial to Integrate Precision Skin Cancer Risk Feedback in Federal Qualified Health Centers",
+      "condition": "Cutaneous",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23665/",
+      "trial_id": "23665",
+      "title": "ProSalud: A Health Promotion Project to Reduce Cancer Risk in Latinos Living in Rural/Agricultural Communities within Moffitt's Catchment Area",
+      "condition": "Healthy Subjects",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://lab.moffitt.org/kanetsky/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KanetskyPeter_13006.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=13006"
   },
-  "content_hash": "eb1f8b0bda67af14ac6dd77d9324b4151828a6eb57e6dc8984afdd7e85e855e0",
-  "researcher_name": "Peter Kanetsky",
-  "department": "Cancer Epidemiology"
+  "content_hash": "7781e5023679f1e653287635b04a5f468817f0ecae591ec0f3fb3209c1b72932",
+  "researcher_name": "peter kanetsky",
+  "department": "cancer epidemiology"
 }

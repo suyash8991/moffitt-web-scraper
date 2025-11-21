@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jennifer-binning",
-  "last_updated": "2025-10-21T16:34:29.794065",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jennifer-binning/",
+  "last_updated": "2025-11-21T22:50:24.353641",
   "researcher_id": "24244",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "At Moffitt, The Binning Lab will apply cutting-edge biochemical and structural techniques to identify new pathogenic mechanisms employed by oncogenic human papilloma viruses (HPV) that are drivers of cervical and head and neck cancers. The fundamental work that will be pursued in Dr. Binning\u2019s laboratory will inform the development of diagnostics and therapeutics for these cancers.",
   "research_interests": [
     "The Binning lab studies how viruses such as Human Papillomavirus (HPV) re-wire host ubiquitin machinery to support viral replication and drive tumorigenesis. By exploring the link between human disease states and dysregulation of ubiquitin pathways, we aim to identify new pathogenic mechanisms that will guide the development of diagnostics and therapeutics. \n  *"
@@ -26,20 +26,30 @@
   "publications": [
     {
       "title": "Ancestral protein reconstruction reveals the mechanism of substrate specificity in FN3K-mediated deglycation",
+      "pubmed_id": "41041572",
+      "pmc_id": "PMC12486099",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Matlack JK, Miner RE, Lokhandwala J, Binning JM",
+      "journal": "Res Sq"
+    },
+    {
+      "title": "Targeted degradation of the HPV oncoprotein E6 reduces tumor burden in cervical cancer",
+      "pubmed_id": "40873032",
+      "pmc_id": "PMC12582245",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Smalley TB, Nicolaci AA, Tran KC, Lokhandwala J, Obertopp N, Matlack JK, Miner RE, Teng MN, Pilon-Thomas S, Binning JM",
+      "journal": "Mol Ther"
+    },
+    {
+      "title": "Ancestral protein reconstruction reveals the mechanism of substrate specificity in FN3K-mediated deglycation",
       "pubmed_id": "40766467",
       "pmc_id": "PMC12324494",
       "year": "2025",
       "publication_date": "2025 Jul",
       "authors": "Matlack JK, Miner RE, Lokhandwala J, Binning JM",
       "journal": "bioRxiv"
-    },
-    {
-      "title": "Targeted degradation of the HPV oncoprotein E6 reduces tumor burden in cervical cancer",
-      "pubmed_id": "40873032",
-      "year": "2025",
-      "publication_date": "2025 Aug",
-      "authors": "Smalley TB, Nicolaci AA, Tran KC, Lokhandwala J, Obertopp N, Matlack JK, Miner RE, Teng MN, Pilon-Thomas S, Binning JM",
-      "journal": "Mol Ther"
     },
     {
       "title": "Targeted degradation of the HPV oncoprotein E6 reduces tumor burden in cervical cancer",
@@ -103,15 +113,6 @@
       "publication_date": "2019 Dec",
       "authors": "Binning JM, Chesarino NM, Emerman M, Gross JD",
       "journal": "Cell Host Microbe"
-    },
-    {
-      "title": "Conformational Dynamics of the HIV-Vif Protein Complex",
-      "pubmed_id": "30961890",
-      "pmc_id": "PMC6486493",
-      "year": "2019",
-      "publication_date": "2019 Apr",
-      "authors": "Ball KA, Chan LM, Stanley DJ, Tierney E, Thapa S, Ta HM, Burton L, Binning JM, Jacobson MP, Gross JD",
-      "journal": "Biophys J"
     }
   ],
   "grants": [
@@ -157,11 +158,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BinningJennifer_24244.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24244"
   },
-  "content_hash": "5c93ba0f9efa40510dcdc920b58b2bcb69a1b45582f1e12fbad44952a1669d8b",
-  "researcher_name": "Jennifer Binning",
-  "department": "Molecular Oncology"
+  "content_hash": "17c5aeff787f2d3729d0c1c77e7353906ac4282415ba9924f2b7a46dc9401b15",
+  "researcher_name": "jennifer binning",
+  "department": "molecular oncology"
 }

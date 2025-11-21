@@ -1,0 +1,132 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lawrence-hall/",
+  "last_updated": "2025-11-21T22:50:25.278410",
+  "researcher_id": "953",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "cancer biology & evolution",
+  "overview": "",
+  "research_interests": [
+    "Data mining from biomedical data is a general interest of Dr. Hall and his colleagues. Dr. Hall's work has included predicting the secondary structure of proteins, drug discovery, and designation of `'interesting'' areas in magnetic resonance images of the brain. He and his co-workers have participated in the Fourth and Fifth Community-wide Experiments on the Critical Assessment of Techniques for Protein Structure Prediction, known as CASP-4 and CASP-5. Dr. Hall's more specific research interests include intelligent symbolic systems (including development of an effective automated method to determine patient eligibility for clinical trials), machine learning, pattern recognition, and integration of artificial intelligence into medical image processing. He and his co-workers are working on a multiyear, multi-institution project to bring automatic segmentation of tissues in brain images into the clinic, with automatic tracking of brain tumors a specific goal. Exploitation of imprecision with the use of fuzzy logic in pattern recognition, artificial intelligence, and learning is a research theme. Parallel learning systems are another area of interest. Methods of scaling fuzzy clustering algorithms to large amounts of data for exploratory analysis and to facilitate distributed learning is an emphasis. Dr. Hall and his co-workers have developed distributed boosting methods and several distributed approaches to machine learning. They also have developed dynamic neural networks, modified approaches to building accurate decision trees, and placed a particular emphasis on developing effective methodswith ensembles of classifiers. An ensemble might include a support factor machine, a decision tree, a neural network, and a rule learner.\n  *"
+  ],
+  "associations": [
+    "Cancer Biology & Evolution Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "Florida State University, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Florida State University, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "NASA-Ames Research Center",
+      "specialty": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Utilizing Clinicopathological and Radiomic Features for Risk Stratification of Lung Cancer Recurrence",
+      "pubmed_id": "40379589",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Ho WLJ, Fetisov N, Hall LO, Goldgof D, Schabath MB",
+      "journal": "Acad Radiol"
+    },
+    {
+      "title": "A Review of Nuclei Detection and Segmentation on Microscopy Images Using Deep Learning With Applications to Unbiased Stereology Counting",
+      "pubmed_id": "36327184",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Alahmari SS, Goldgof D, Hall LO, Mouton PR",
+      "journal": "IEEE Trans Neural Netw Learn Syst"
+    },
+    {
+      "title": "Classifying Malignancy in Prostate Glandular Structures from Biopsy Scans with Deep Learning",
+      "pubmed_id": "37190264",
+      "pmc_id": "PMC10136774",
+      "year": "2023",
+      "publication_date": "2023 Apr",
+      "authors": "Fogarty R, Goldgof D, Hall L, Lopez A, Johnson J, Gadara M, Stoyanova R, Punnen S, Pollack A, Pow-Sang J, Balagurunathan Y",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "A disector-based framework for the automatic optical fractionator",
+      "pubmed_id": "35839940",
+      "year": "2022",
+      "publication_date": "2022 Oct",
+      "authors": "Dave P, Goldgof D, Hall LO, Kolinko Y, Allen K, Alahmari S, Mouton PR",
+      "journal": "J Chem Neuroanat"
+    },
+    {
+      "title": "Ensembles of Convolutional Neural Networks for Survival Time Estimation of High-Grade Glioma Patients from Multimodal MRI",
+      "pubmed_id": "35204436",
+      "pmc_id": "PMC8871067",
+      "year": "2022",
+      "publication_date": "2022 Jan",
+      "authors": "Ben Ahmed K, Hall LO, Goldgof DB, Gatenby R",
+      "journal": "Diagnostics (Basel)"
+    },
+    {
+      "title": "Discovery of a Generalization Gap of Convolutional Neural Networks on COVID-19 X-Rays Classification",
+      "pubmed_id": "34178559",
+      "pmc_id": "PMC8224464",
+      "year": "2021",
+      "publication_date": "2021 Jun",
+      "authors": "Ahmed KB, Goldgof GM, Paul R, Goldgof DB, Hall LO",
+      "journal": "IEEE Access"
+    },
+    {
+      "title": "An adaptive digital stain separation method for deep learning-based automatic cell profile counts",
+      "pubmed_id": "33607171",
+      "year": "2021",
+      "publication_date": "2021 Apr",
+      "authors": "Dave P, Alahmari S, Goldgof D, Hall LO, Morera H, Mouton PR",
+      "journal": "J Neurosci Meth"
+    },
+    {
+      "title": "A Radiogenomics Ensemble to Predict EGFR and KRAS Mutations in NSCLC",
+      "pubmed_id": "33946756",
+      "pmc_id": "PMC8162978",
+      "year": "2021",
+      "publication_date": "2021 Apr",
+      "authors": "Moreno S, Bonfante M, Zurek E, Cherezov D, Goldgof D, Hall L, Schabath M",
+      "journal": "Tomography"
+    },
+    {
+      "title": "18F-FDG PET/CT Habitat Radiomics Predicts Outcome of Patients with Cervical Cancer Treated with Chemoradiotherapy",
+      "pubmed_id": "33937845",
+      "pmc_id": "PMC8082355",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Mu W, Liang Y, Hall LO, Tan Y, Balagurunathan Y, Wenham R, Wu N, Tian J, Gillies RJ",
+      "journal": "Radiol Artif Intell"
+    },
+    {
+      "title": "Hybrid models for lung nodule malignancy prediction utilizing convolutional neural network ensembles and clinical data",
+      "pubmed_id": "32280729",
+      "pmc_id": "PMC7134617",
+      "year": "2020",
+      "publication_date": "2020 Mar",
+      "authors": "Paul R, Schabath MB, Gillies R, Hall LO, Goldgof DB",
+      "journal": "J Med Imaging (Bellingham)"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=953"
+  },
+  "content_hash": "1bba956ac0666d3320fefa624dd775c7dbe6f3a5136f767c5cf8f28cb8553949",
+  "researcher_name": "lawrence hall",
+  "department": ""
+}

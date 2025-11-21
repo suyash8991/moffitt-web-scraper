@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/doug-cress)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/doug-cress)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -526,8 +525,8 @@ Research in the Cress laboratory addresses translational genetics of lung cancer
     * Chen DT, Huang PY, Lin HY, Haura EB, Antonia SJ, Cress WD, Gray JE. Strategies for power calculations in predictive biomarker studies in survival data. Oncotarget. 2016 Dec.7(49):80373-80381. Pubmedid: [27661007](https://www.ncbi.nlm.nih.gov/pubmed/27661007). Pmcid: PMC5348326. 
     * Chen L, Kurtyka CA, Welsh EA, Rivera JI, Engel BE, Muñoz-Antonia T, Yoder SJ, Eschrich SA, Creelan BC, Chiappori AA, Gray JE, Ramirez JL, Rosell R, Schabath MB, Haura EB, Chen DT, Cress WD. Early2 factor (E2F) deregulation is a prognostic and predictive biomarker in lung adenocarcinoma. Oncotarget. 2016 Dec.7(50):82254-82265. Pubmedid: [27756884](https://www.ncbi.nlm.nih.gov/pubmed/27756884). Pmcid: PMC5347689. 
     * Challa S, Guo J, Ding X, Xu CX, Li Y, Kim D, Smith MA, Cress WD, Coppola D, Haura EB, Cheng JQ. IKBKE Is a Substrate of EGFR and a Therapeutic Target in Non-Small Cell Lung Cancer with Activating Mutations of EGFR. Cancer Res. 2016 Aug.76(15):4418-4429. Pubmedid: [27287717](https://www.ncbi.nlm.nih.gov/pubmed/27287717). Pmcid: PMC4970891. 
-    * Baldelli E, Haura EB, Crinò L, Cress WD, Ludovini V, Schabath MB, Liotta LA, Petricoin EF, Pierobon M. Impact of upfront cellular enrichment by laser capture microdissection on protein and phosphoprotein drug target signaling activation measurements in human lung cancer: Implications for personalized medicine. Proteom Clin Appl. 2015 Oct.9(9-10):928-937. Pubmedid: [25676683](https://www.ncbi.nlm.nih.gov/pubmed/25676683). Pmcid: PMC4547918. 
     * Baldelli E, Bellezza G, Haura EB, Crinó L, Cress WD, Deng J, Ludovini V, Sidoni A, Schabath MB, Puma F, Vannucci J, Siggillino A, Liotta LA, Petricoin EF, Pierobon M. Functional signaling pathway analysis of lung adenocarcinomas identifies novel therapeutic targets for KRAS mutant tumors. Oncotarget. 2015 Oct.6(32):32368-32379. Pubmedid: [26468985](https://www.ncbi.nlm.nih.gov/pubmed/26468985). Pmcid: PMC4741699. 
+    * Baldelli E, Haura EB, Crinò L, Cress WD, Ludovini V, Schabath MB, Liotta LA, Petricoin EF, Pierobon M. Impact of upfront cellular enrichment by laser capture microdissection on protein and phosphoprotein drug target signaling activation measurements in human lung cancer: Implications for personalized medicine. Proteom Clin Appl. 2015 Oct.9(9-10):928-937. Pubmedid: [25676683](https://www.ncbi.nlm.nih.gov/pubmed/25676683). Pmcid: PMC4547918. 
     * Sosa-García B, Vázquez-Rivera V, González-Flores JN, Engel BE, Cress WD, Santiago-Cardona PG. The Retinoblastoma Tumor Suppressor Transcriptionally Represses Pak1 in Osteoblasts. PLoS One. 2015 Nov.10(11):e0142406. Pubmedid: [26555075](https://www.ncbi.nlm.nih.gov/pubmed/26555075). Pmcid: PMC4640669. 
     * Cao C, Gao R, Zhang M, Amelio AL, Fallahi M, Chen Z, Gu Y, Hu C, Welsh EA, Engel BE, Haura EB, Cress WD, Wu L, Zajac-Kaye M, Kaye FJ. Role of LKB1-CRTC1 on glycosylated COX-2 and response to COX-2 inhibition in lung cancer. J Natl Cancer Inst. 2015 Jan.107(1):358. Pubmedid: [25465874](https://www.ncbi.nlm.nih.gov/pubmed/25465874). Pmcid: PMC4271078. 
     * Fan C, Chen L, Huang Q, Shen T, Welsh EA, Teer JK, Cai J, Cress WD, Wu J. Overexpression of major CDKN3 transcripts is associated with poor survival in lung adenocarcinoma. Brit J Cancer. 2015 Dec.113(12):1735-1743. Pubmedid: [26554648](https://www.ncbi.nlm.nih.gov/pubmed/26554648). Pmcid: PMC4701993. 
@@ -679,7 +678,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -734,7 +733,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/doug-cress#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/doug-cress#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -752,7 +751,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1106,7 +1105,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/doug-cress#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/doug-cress#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

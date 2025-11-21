@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/issam-el-naqa",
-  "last_updated": "2025-10-21T16:34:11.280114",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/issam-el-naqa/",
+  "last_updated": "2025-11-21T22:50:24.130003",
   "researcher_id": "27669",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Machine Learning",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "machine learning",
+  "research_program": "cancer biology & evolution",
   "overview": "Senior Member Imaging analytics, bioinformatics, and outcoming modelings. Dr. El Naqa is the founding chair of the department of Machine Learning at Moffitt Cancer Center, Tampa, Fl. He is an internationally recognized authority in the fields of machine learning, data analytics, and oncology outcomes modeling and has published extensively in these areas with more than 220+ peer-reviewed journal publications and 4 edited textbooks. He has been a member and fellow of several academic and professional societies including AAPM and IEEE. His research has been funded by several federal and private grants in Canada and the USA and served on national and international study sections. He acts as a peer-reviewer and editorial board member for several leading international journals in his areas of expertise.",
   "research_interests": [
     "Bioinformatics and outcome modeling: design and develop large-scale datamining machine/deep learning methods and software tools to identify robust biomarkers of radiotherapy treatment outcomes from clinical and preclinical data using complex systems analysis and machine learning approaches (radiogenomics). Multimodality image-guided targeting and adaptive radiotherapy: design and develop hardware tools and software algorithms for multimodality image analysis and understanding, feature extraction for outcome prediction (radiomics), real-time treatment optimization and targeting. Clinical decision support: develop and design methods and tools for reinforcement machine learning and optimization of decision making for radiotherapy. Medical physics radiation measurement: design and develop new technologies for radiation using optical and acoustics techniques to interrogate radiation response in real time for online targeting and adaptation. Radiobiology: design and develop predictive models of tumor and normal tissue response to radiotherapy (radiogenomics). Investigate the application of these methods to develop therapeutic interventions for protection of normal tissue toxicities. \n  *"
@@ -70,6 +70,14 @@
       "journal": "PET Clin"
     },
     {
+      "title": "Factors impacting cardiac dose and overall survival in post-operative non-small cell lung cancer patients",
+      "pubmed_id": "40854381",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Cruz-Chamorro R, Bryant JM, Henning J, Robinson LA, Lee DH, Fontaine J, Toloza E, Rosenberg SA, Kim J, Naqa IE, Dilling TJ",
+      "journal": "Radiother Oncol"
+    },
+    {
       "title": "Software Support Tools for Reirradiation: A Report From Reirradiation Collaborative Group (ReCOG) 2024",
       "pubmed_id": "40240108",
       "year": "2025",
@@ -87,6 +95,14 @@
       "journal": "JNCI Cancer Spectr"
     },
     {
+      "title": "Does Time to Retreatment Matter? A Normal Tissue Complication Probability Model to Predict Radionecrosis After Repeat Stereotactic Radiosurgery for Recurrent Brain Metastases Incorporating Time-dependent Discounted Dose",
+      "pubmed_id": "39900228",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Sharma M, Naqa IE, Sneed PK",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
       "title": "Editorial: Artificial intelligence for cancer immunotherapy",
       "pubmed_id": "40568575",
       "pmc_id": "PMC12187814",
@@ -96,14 +112,6 @@
       "journal": "Front Immunol"
     },
     {
-      "title": "Does Time to Retreatment Matter? A Normal Tissue Complication Probability Model to Predict Radionecrosis After Repeat Stereotactic Radiosurgery for Recurrent Brain Metastases Incorporating Time-dependent Discounted Dose",
-      "pubmed_id": "39900228",
-      "year": "2025",
-      "publication_date": "2025 Jun",
-      "authors": "Sharma M, Naqa IE, Sneed PK",
-      "journal": "Int J Radiat Oncol Biol Phys"
-    },
-    {
       "title": "CLONEID: A Framework for Longitudinal Integration of Phenotypic and Genotypic Data to Monitor and Steer Subclonal Dynamics",
       "pubmed_id": "40631300",
       "pmc_id": "PMC12236826",
@@ -111,15 +119,6 @@
       "publication_date": "2025 Jul",
       "authors": "Veith T, Beck R, Tagal V, Li T, Alahmari S, Cole J, Hannaby D, Kyei J, Yu X, Maksin K, Schultz A, Lee H, El Naqa I, Eschrich S, Ji HP, Diaz A, Andor N",
       "journal": "bioRxiv"
-    },
-    {
-      "title": "The Biophysics of Flash Radiotherapy: Tools for Measuring Tumor and Normal Tissues Microenvironment",
-      "pubmed_id": "40867798",
-      "pmc_id": "PMC12383113",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "El Naqa I",
-      "journal": "Antioxidants (Basel)"
     }
   ],
   "grants": [
@@ -203,11 +202,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://lab.moffitt.org/elnaqa/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=9Vdfc2sAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ElNaqaIssam_27669.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=27669"
   },
-  "content_hash": "1f405bf82d645cd7f2cbf4ec60d99da73ae20f40227e0b7f5cefaf3b51b4efc7",
-  "researcher_name": "Issam El Naqa",
-  "department": "Machine Learning"
+  "content_hash": "ad00685b07188c7ff9504173cd8ede60c61d4a1885eb180907cb2ff67c366d9f",
+  "researcher_name": "issam el naqa",
+  "department": "machine learning"
 }

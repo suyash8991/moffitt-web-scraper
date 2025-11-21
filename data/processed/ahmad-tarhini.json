@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/ahmad-tarhini",
-  "last_updated": "2025-10-21T16:37:42.772959",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ahmad-tarhini/",
+  "last_updated": "2025-11-21T22:50:22.322070",
   "researcher_id": "24764",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cutaneous Oncology",
-  "research_program": "Molecular Medicine Program,Immuno-Oncology Program",
+  "primary_program": "cutaneous oncology",
+  "research_program": "molecular medicine, immuno-oncology",
   "overview": "As a clinical and translational physician-scientist, a major objective of Dr Tarhini's research has been the pursuit of studies that test novel targeted therapeutic strategies selected on the basis of a continuously deepening understanding of the molecular circuitry and immune biology of melanoma. This is in addition to a research focus upon the testing of predictors of response to immunotherapeutic agents and prognostic biomarkers of disease outcome. He has also been interested in health economics and outcomes research. He achieved independence early on in his career through novel investigator-initiated clinical and translational studies, leadership of national US Cooperative Group studies and NIH-funded translational projects that he heavily invested within the University of Pittsburgh's Skin Spore Grant where he has served for 10 years as Project Co-leader of the Biomarker Skin Spore Project. He also served as the principal investigator of the Experimental Therapeutics Clinical Trials Network (ETCTN) grant at Case Comprehensive Cancer Center. His original work on immunotherapy of melanoma and biomarkers of disease prognosis and therapeutic benefit has been published in high-impact, peer-reviewed journals and presented at leading national/international meetings. He currently serves as a chair/co-chair on several cooperative group trials, including U.S. Intergroup clinical trials E1609, S1404, EA6141, E3612, E3611, NCI8628, NCI10061 and EA6194. His efforts were awarded by being presented the University of Pittsburgh Cancer Institute Junior Scholar Award in Clinical Research, the Eastern Cooperative Oncology Group (ECOG) Research and Education Foundation Young Investigator Award and the H. Lee Moffitt Cancer Center and Research Institute Top Publication Award. Board certified in medical oncology, Dr. Tarhini\u2019s clinical interests include melanoma (cutaneous, uveal and mucosal) and other skin cancers. He served as a Track Leader of ASCO's Cancer Education Committee Melanoma/Skin Cancers Track and a member of the Scientific Committee. He served as an Organizer of the Society for Immunotherapy of Cancer (SITC) annual meeting. Dr Tarhini also serves as Chair, Scientific Committee, Oncology Research Information Exchange Network (ORIEN) and Chair, ORIEN ImmunoOncology Research Subcommittee. Moffitt Cancer Center",
   "research_interests": [
     "As a clinical and translational physician-scientist, a major objective of Dr Tarhini's research has been the pursuit of studies that test novel targeted therapeutic strategies selected on the basis of a continuously deepening understanding of the molecular circuitry and immune biology of melanoma. This is in addition to a research focus upon the testing of predictors of response to immunotherapeutic agents and prognostic biomarkers of disease outcome. He has also been recently interested in health economics and outcomes research. He achieved independence early on in his career through novel investigator-initiated clinical and translational studies, leadership of national US Cooperative Group studies and NIH-funded translational projects that he heavily invested within the University of Pittsburgh's Skin Spore Grant where he has served for 10 years as Project Co-leader of the Biomarker Skin Spore Project. He also served as the principal investigator of the Experimental Therapeutics Clinical Trials Network (ETCTN) grant at Case Comprehensive Cancer Center. His original work on immunotherapy of melanoma and biomarkers of disease prognosis and therapeutic benefit has been published in high-impact, peer-reviewed journals and presented at leading national/international meetings. He currently serves as a chair/co-chair on several cooperative group trials, including U.S. Intergroup clinical trials E1609, S1404, EA6141, E3612, E3611, NCI8628, NCI10061 and EA6194. His efforts were awarded by being presented the University of Pittsburgh Cancer Institute Junior Scholar Award in Clinical Research, the Eastern Cooperative Oncology Group (ECOG) Research and Education Foundation Young Investigator Award and the H. Lee Moffitt Cancer Center and Research Institute Top Publication Award. Board certified in medical oncology, Dr. Tarhini\u2019s clinical interests include melanoma (cutaneous, uveal and mucosal) and other skin cancers. He has recently served as a Track Leader of ASCO's Cancer Education Committee Melanoma/Skin Cancers Track and a member of the Scientific Committee. He served as an Organizer of the Society for Immunotherapy of Cancer (SITC) annual meeting. Dr Tarhini also serves as Chair, Scientific Committee, Oncology Research Information Exchange Network (ORIEN) and Chair, ORIEN ImmunoOncology Research Subcommittee. Moffitt Cancer Center \n  *"
@@ -51,6 +51,15 @@
       "publication_date": "2025 Sep",
       "authors": "Long GV, Nair N, Marbach D, Scolyer RA, Wilson S, Cotting D, Staedler N, Amaria RN, Ascierto PA, Tarhini AA, Robert C, Hamid O, Gaudy-Marqueste C, Lebbe C, Munoz-Couselo E, Menzies AM, Pages C, Curigliano G, Mandala M, Jessop N, Bader U, Perdicchio M, Teichgr\u00e4ber V, Muecke M, Markert C, Blank C",
       "journal": "Nat Med"
+    },
+    {
+      "title": "A retrospective cohort study of physical activity and survival in patients treated with immune checkpoint inhibitors",
+      "pubmed_id": "40971247",
+      "pmc_id": "PMC12579459",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Parker NH, Ramos JD, Tarhini AA, Schell MJ, Egan KM, Kanetsky PA",
+      "journal": "Cancer Epidemiol Biomarkers Prev"
     },
     {
       "title": "Monoclonal antibodies as adjuvant therapies for resected melanoma",
@@ -121,14 +130,6 @@
       "publication_date": "2024 Sep",
       "authors": "Samson SC, Rojas A, Zitnay RG, Carney KR, Hettinga W, Schaelling MC, Sicard D, Zhang W, Gilbert-Ross M, Dy GK, Cavnar MJ, Furqan M, Browning RF, Naqash AR, Schneider BP, Tarhini A, Tschumperlin DJ, Venosa A, Marcus AI, Emerson LL, Spike BT, Knudsen BS, Mendoza MC",
       "journal": "bioRxiv"
-    },
-    {
-      "title": "Patient reported outcomes and patient experiences of immune checkpoint modulators for advanced or recurrent melanoma: a mixed methods study",
-      "pubmed_id": "38709312",
-      "year": "2024",
-      "publication_date": "2024 May",
-      "authors": "Tometich DB, Geiss C, Maconi ML, Chavez M, Hoogland AI, Li X, Nieves-Lopez A, Rodriguez Y, Bryant C, Brohl AS, Eroglu Z, Markowitz J, Tarhini AA, Hwu P, Khushalani NI, Jim HSL",
-      "journal": "Support Care Cancer"
     }
   ],
   "grants": [
@@ -144,9 +145,9 @@
       ]
     },
     {
-      "description": "Title: Inherited genetic variation as a predictor of the risk of immune related adverse events and the likelihood of clinical benefit  \nAward Number: 22B09  \nSponsor: Florida Department of Health  \nTarhini, A. (PD/PI)",
+      "description": "Title: Inherited genetic variation as a predictor of the risk of immune related adverse events and the likelihood of clinical benefit  \nAward Number: 23B09  \nSponsor: Florida Department of Health  \nTarhini, A. (PD/PI)",
       "title": "Inherited genetic variation as a predictor of the risk of immune related adverse events and the likelihood of clinical benefit",
-      "award_number": "22B09",
+      "award_number": "23B09",
       "sponsor": "Florida Department of Health",
       "investigators": [
         {
@@ -156,11 +157,71 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20494/",
+      "trial_id": "20494",
+      "title": "A Phase II Study of High Dose Bolus IL2 in Combination with Low Dose Ipilimumab Followed Sequentially by Nivolumab in Patients with Inoperable Stage III or Stage IV Melanoma Who Have Failed Prior Anti-PD1 Immunotherapy",
+      "condition": "Cutaneous",
+      "intervention": "Aldesleukin (Interleukin-2); BMS-936558 (Nivolumab); IL-2 (Interleukin-2); Interleukin-2 (); Ipilimumab (); Nivolumab (Opdivo); Proleukin (Interleukin-2); Yervoy (Ipilimumab)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21239/",
+      "trial_id": "21239",
+      "title": "Randomized Phase II/III Study of Nivolumab plus Ipilimumab plus Sargramostim versus Nivolumab plus Ipilimumab in Patients with Unresectable Stage III or Stage IV Melanoma",
+      "condition": "Cutaneous",
+      "intervention": "BMS-936558 (Nivolumab); Ipilimumab (); Nivolumab (Opdivo); Sargramostim (); Yervoy (Ipilimumab)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21341/",
+      "trial_id": "21341",
+      "title": "A Phase II Study of Cemiplimab plus Ziv-Aflibercept for Subjects with Metastatic Uveal Melanoma",
+      "condition": "Cutaneous",
+      "intervention": "Cemiplimab (); REGN2810 (Cemiplimab); Ziv-aflibercept ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22574/",
+      "trial_id": "22574",
+      "title": "Neoadjuvant and Adjuvant Anti-PD1 or Combinations for Locoregionally Advanced Melanoma",
+      "condition": "Cutaneous",
+      "intervention": "BMS-936558 (Nivolumab); BMS-986016 (Relatlimab); Ipilimumab (); Nivolumab (Opdivo); Relatlimab (); Yervoy (Ipilimumab)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23240/",
+      "trial_id": "23240",
+      "title": "A Phase 1, Open Label Single-Arm Two-Part Study to Investigate Safety, Pharmacokinetics, and Preliminary Efficacy Of Pan-RAF/MEK Glue NST-628 Oral Tablets in Subjects with Solid Tumors Harboring Genetic Alterations in the MAPK Pathway And With Other Solid Tumors",
+      "condition": "Cutaneous",
+      "intervention": "NST-628 ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23460/",
+      "trial_id": "23460",
+      "title": "A Multicenter Phase I/Ib Dose Escalation Study of WTX-124 as Monotherapy and in Combination with Pembrolizumab in Patients with Selected Advanced or Metastatic Solid Tumors",
+      "condition": "Cutaneous",
+      "intervention": "Pembrolizumab (Keytruda)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23475/",
+      "trial_id": "23475",
+      "title": "A Phase 1/2 Study of OR502 Alone and in Combination with other Anti-cancer Agents in Subjects with Advanced Malignancies",
+      "condition": "Cutaneous",
+      "intervention": "Cemiplimab (); OR502 (); REGN2810 (Cemiplimab)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TarhiniAhmad_24764.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24764"
   },
-  "content_hash": "a4f8afc1208d17894f7b61140c2659296ae0e747c4556c4db6cbe5a8f9e80799",
-  "researcher_name": "Ahmad Tarhini",
-  "department": "Immunology"
+  "content_hash": "e117e8f601f1113536a4a2ebdcde4186fdfc8541223e722f5f48c708140393b2",
+  "researcher_name": "ahmad tarhini",
+  "department": "immunology"
 }

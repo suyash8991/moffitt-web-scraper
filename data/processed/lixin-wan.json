@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/lixin-wan",
-  "last_updated": "2025-10-21T16:38:09.542505",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lixin-wan/",
+  "last_updated": "2025-11-21T22:50:25.411747",
   "researcher_id": "16495",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "molecular oncology",
+  "research_program": "molecular medicine",
   "overview": "The Wan lab is focused on the regulation and role of Anaphase-Promoting Complexes (APC) in directing the destruction of key proteins that control transit through the cell cycle, and in shaping proteomic networks in normal versus cancer cells. The lab is now investigating how APC complexes are rewired in cancer cells, and during the acquisition of resistance to targeted and conventional therapeutics. The long term goal of the lab is to define vulnerabilities in these circuits to develop novel anti-cancer therapies.",
   "research_interests": [
     "The research in Dr. Wan\u2019s lab is focused on protein post-translational modifications. We are interested in understanding how these modifications are misregulated in tumor cells, tumor-infiltrating immune cells, and tumor-interacting stroma cells. We are also interested in developing next-generation techniques to characterize these modifications. Our current projects include the multifaceted roles of ITCH in melanoma and the melanoma immune microenvironment, the context-dependent functions of master cell cycle regulator APC/C in breast cancer and ovarian cancer, the crosstalk between tumor cell aneuploidy and innate immunity, and several others. The lab uses a wide range of approaches in our projects: molecular biology, protein biochemistry, in vitro cell culture models, xenograft and syngeneic mouse models, genetically engineered mouse models, various CRISPR-based techniques, and genomic/transcriptomic/proteomic omics techniques. Our recent representative publications: Qing et al, Nature Communications 2019; Han et al. Nature Communications 2019; Dai et al. Cell Reports 2022. Others can be found on Dr. Wan\u2019s Google Scholar page: https://scholar.google.com/citations?user=VKWLR3MAAAAJ \n  *"
@@ -101,18 +101,18 @@
       "journal": "Mol Cell"
     },
     {
-      "title": "Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle",
-      "pubmed_id": "32669607",
-      "pmc_id": "PMC7852548",
+      "title": "Author Correction: Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle",
+      "pubmed_id": "32859994",
+      "pmc_id": "PMC7852582",
       "year": "2021",
       "publication_date": "2021 Jan",
       "authors": "Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W",
       "journal": "Cell Res"
     },
     {
-      "title": "Author Correction: Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle",
-      "pubmed_id": "32859994",
-      "pmc_id": "PMC7852582",
+      "title": "Skp2 dictates cell cycle-dependent metabolic oscillation between glycolysis and TCA cycle",
+      "pubmed_id": "32669607",
+      "pmc_id": "PMC7852548",
       "year": "2021",
       "publication_date": "2021 Jan",
       "authors": "Liu J, Peng Y, Shi L, Wan L, Inuzuka H, Long J, Guo J, Zhang J, Yuan M, Zhang S, Wang X, Gao J, Dai X, Furumoto S, Jia L, Pandolfi PP, Asara JM, Kaelin WG, Liu J, Wei W",
@@ -159,11 +159,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/home-wan-lab/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=VKWLR3MAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/WanLixin_16495.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16495"
   },
-  "content_hash": "daf07bc0ae80281c686b16040973b69231408ff1413ece478e2d54f7338f8e91",
-  "researcher_name": "Lixin Wan",
-  "department": "Molecular Oncology"
+  "content_hash": "67288ef063b5a4233684f5ba4c98c54b4ac9d6810da173ab0cc7824dc616a74f",
+  "researcher_name": "lixin wan",
+  "department": "molecular oncology"
 }

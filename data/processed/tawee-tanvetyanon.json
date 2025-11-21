@@ -1,0 +1,165 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/tawee-tanvetyanon/",
+  "last_updated": "2025-11-21T22:50:27.089263",
+  "researcher_id": "3399",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "thoracic oncology",
+  "research_program": "health outcomes & behavior",
+  "overview": "Thoracic malignancies: mesothelioma, thymoma, non-small cell lung cancer, small cell lung cancer",
+  "research_interests": [
+    "Dr. Tanvetyanon focuses his research on health outcomes and survival analysis. He has published over 100 articles in biomedical journals. \n  *"
+  ],
+  "associations": [
+    "Thoracic Oncology",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, Masters"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Chulalongkorn University in Bangkok, Thailand",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Albert Einstein Medical Center at Thomas Jefferson Medical College, Pennsylvania",
+      "position": "Intern"
+    },
+    {
+      "type": "Residency",
+      "institution": "Albert Einstein Medical Center at Thomas Jefferson Medical College, Pennsylvania",
+      "specialty": ""
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Loyola University Chicago, Stritch School of Medicine, Illinois",
+      "specialty": "Medical Oncology & Hematology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Hematology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "NCCN Guidelines\u00ae Insights: Non-Small Cell Lung Cancer, Version 7",
+      "pubmed_id": "40930154",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Riely GJ, Wood DE, Aisner DL, Loo BW, Axtell AL, Bauman JR, Bharat A, Chang JY, Desai A, Dilling TJ, Dowell J, Durm GA, Gettinger S, Grotz TE, Gubens MA, Juloori A, Lackner RP, Lanuti M, Levy B, Lin J, Lovly CM, Maldonado F, Morgensztern D, Mullikin TC, Ng T, Owen D, Owen DH, Patel SP, Patil T, Polanco PM, Riess J, Mendez ALR, Shapiro TA, Singh AP, Stevenson J, Tam A, Tanvetyanon T, Yanagawa J, Yau E, Gregory K, Hang L"
+    },
+    {
+      "title": "Thymomas and Thymic Carcinomas, Version 2",
+      "pubmed_id": "40499586",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Riely GJ, Wood DE, Loo BW, Aisner DL, Akerley W, Bauman JR, Bharat A, Chang JY, Chirieac LR, DeCamp M, Desai A, Dilling TJ, Dowell J, Durm GA, Gettinger S, Grotz TE, Gubens MA, Juloori A, Lackner RP, Lanuti M, Lin J, Lovly CM, Maldonado F, Morgensztern D, Mullikin TC, Ng T, Owen D, Owen DH, Patel SP, Patil T, Polanco PM, Riess J, Shapiro TA, Singh AP, Stevenson J, Tam A, Tanvetyanon T, Yanagawa J, Yang SC, Yau E, Gregory K, Hang L"
+    },
+    {
+      "title": "Timeliness of Newer Targeted Therapy and Survival in Lung Cancer: A Population-Based Analysis",
+      "pubmed_id": "40472300",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Tanvetyanon T, Joshi U, Chen DT, Gray JE",
+      "journal": "JCO Oncol Pract"
+    },
+    {
+      "title": "A Multicenter Open-Label Randomized Phase II Study of Osimertinib With and Without Ramucirumab in Tyrosine Kinase Inhibitor-Na\u00efve EGFR-Mutant Metastatic Non-Small Cell Lung Cancer (RAMOSE trial)",
+      "pubmed_id": "39378386",
+      "pmc_id": "PMC11776886",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Le X, Patel JD, Shum E, Baik C, Sanborn RE, Shu CA, Kim C, Fidler MJ, Hall R, Elamin YY, Tu J, Blumenschein G, Zhang J, Gibbons D, Gay C, Mohindra NA, Chae Y, Boumber Y, Sabari J, Santana-Davila R, Rogosin S, Herzberg B, Creelan B, Pellini B, Tanvetyanon T, Heeke S, Hernandez M, Gray JE, Saltos A, Heymach JV",
+      "journal": "J Clin Oncol"
+    },
+    {
+      "title": "Surgery and Stereotactic Radiotherapy for Stage I Small-Cell Lung Carcinoma: A 25-Year Experience",
+      "pubmed_id": "38926078",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Robinson LA, Tanvetyanon T, Robinson NA, Bryant S, Bailey A, Reed DR, Dilling T",
+      "journal": "Clin Lung Cancer"
+    },
+    {
+      "title": "Association between Infection and Calculated Globulin Level among Patients with Thymic Epithelial Tumor",
+      "pubmed_id": "39337087",
+      "pmc_id": "PMC11432503",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Cui J, Tanvetyanon T",
+      "journal": "J Clin Med"
+    },
+    {
+      "title": "Systemic Therapy Options for Peritoneal Mesothelioma",
+      "pubmed_id": "39413826",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Tanvetyanon T, Simon GR",
+      "journal": "J Natl Compr Canc Ne"
+    },
+    {
+      "title": "Phase II trial of dual anti-CTLA-4 and anti-PD-1 blockade in rare tumors SWOG/NCI experience: invasive mucinous or non-mucinous lepidic adenocarcinoma of the lung (formerly bronchioloalveolar carcinoma)",
+      "pubmed_id": "39583952",
+      "pmc_id": "PMC11583498",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Chae YK, Othus M, Patel SP, Gerber DE, Tanvetyanon T, Kim HS, Chung LI, McLeod CM, Lopez G, Chen HX, Sharon E, Streicher H, Ryan CW, Blanke CD, Kurzrock R",
+      "journal": "Ther Adv Med Oncol"
+    },
+    {
+      "title": "Timeliness of EGFR/ALK Inhibitor Treatment and Survival in Lung Cancer: A Population-Based Analysis",
+      "pubmed_id": "38825406",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Tanvetyanon T, Chen DT, Gray JE",
+      "journal": "Clin Lung Cancer"
+    },
+    {
+      "title": "Non-Small Cell Lung Cancer, Version 4",
+      "pubmed_id": "38754467",
+      "year": "2024",
+      "publication_date": "2024 May",
+      "authors": "Riely GJ, Wood DE, Ettinger DS, Aisner DL, Akerley W, Bauman JR, Bharat A, Bruno DS, Chang JY, Chirieac LR, DeCamp M, Desai AP, Dilling TJ, Dowell J, Durm GA, Gettinger S, Grotz TE, Gubens MA, Juloori A, Lackner RP, Lanuti M, Lin J, Loo BW, Lovly CM, Maldonado F, Massarelli E, Morgensztern D, Mullikin TC, Ng T, Owen D, Owen DH, Patel SP, Patil T, Polanco PM, Riess J, Shapiro TA, Singh AP, Stevenson J, Tam A, Tanvetyanon T, Yanagawa J, Yang SC, Yau E, Gregory KM, Hang L"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Timeliness of durvalumab consolidation and survival in non-small cell lung cancer  \nAward Number:   \nSponsor: FLATIRON HEALTH, INC.  \nTanvetyanon, T. (PD/PI)",
+      "title": "Timeliness of durvalumab consolidation and survival in non-small cell lung cancer",
+      "award_number": "",
+      "sponsor": "FLATIRON HEALTH, INC.",
+      "investigators": [
+        {
+          "name": "Tanvetyanon, T.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20937/",
+      "trial_id": "20937",
+      "title": "A Multicenter, Phase II Trial of Pembrolizumab and Sunitinib In Refractory Advanced Thymic Carcinoma",
+      "condition": "Thoracic",
+      "intervention": "Pembrolizumab (Keytruda); Sunitinib Malate (SU011248)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/TanvetyanonTawee_3399.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3399"
+  },
+  "content_hash": "645056c80393ab2766b2091d986ee313f9b6d0960834ebdca58f2b1e2dcd2c48",
+  "researcher_name": "tawee tanvetyanon",
+  "department": ""
+}

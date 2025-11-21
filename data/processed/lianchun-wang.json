@@ -1,0 +1,115 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lianchun-wang/",
+  "last_updated": "2025-11-21T22:50:25.332890",
+  "researcher_id": "24527",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "",
+  "overview": "",
+  "research_interests": [],
+  "associations": [],
+  "education": [],
+  "publications": [
+    {
+      "title": "Heparan sulfate proteoglycans in cancer: Pathogenesis and therapeutic potential",
+      "pubmed_id": "36725112",
+      "year": "2023",
+      "publication_date": "2023 Feb",
+      "authors": "Yang H, Wang L",
+      "journal": "Adv Cancer Res"
+    },
+    {
+      "title": "Heparan Sulfate Proteoglycans in Tauopathy",
+      "pubmed_id": "36551220",
+      "pmc_id": "PMC9776397",
+      "year": "2022",
+      "publication_date": "2022 Nov",
+      "authors": "Zhu Y, Gandy L, Zhang F, Liu J, Wang C, Blair LJ, Linhardt RJ, Wang L",
+      "journal": "Biomolecules"
+    },
+    {
+      "title": "Robo4 is constitutively shed by ADAMs from endothelial cells and the shed Robo4 functions to inhibit Slit3-induced angiogenesis",
+      "pubmed_id": "35288626",
+      "pmc_id": "PMC8921330",
+      "year": "2022",
+      "publication_date": "2022 Mar",
+      "authors": "Xiao W, Pinilla-Baquero A, Faulkner J, Song X, Prabhakar P, Qiu H, Moremen KW, Ludwig A, Dempsey PJ, Azadi P, Wang L",
+      "journal": "Sci Rep"
+    },
+    {
+      "title": "STK35 Gene Therapy Attenuates Endothelial Dysfunction and Improves Cardiac Function in Diabetes",
+      "pubmed_id": "35097018",
+      "pmc_id": "PMC8792894",
+      "year": "2022",
+      "publication_date": "2022 Jan",
+      "authors": "Joladarashi D, Zhu Y, Willman M, Nash K, Cimini M, Thandavarayan RA, Youker KA, Song X, Ren D, Li J, Kishore R, Krishnamurthy P, Wang L",
+      "journal": "Front Cardiovasc Med"
+    },
+    {
+      "title": "Developing an Effective Peptide-Based Vaccine for COVID-19: Preliminary Studies in Mice Models",
+      "pubmed_id": "35336856",
+      "pmc_id": "PMC8954996",
+      "year": "2022",
+      "publication_date": "2022 Feb",
+      "authors": "Yang H, Cao J, Lin X, Yue J, Zieneldien T, Kim J, Wang L, Fang J, Huang RP, Bai Y, Sneed K, Cao C",
+      "journal": "Viruses"
+    },
+    {
+      "title": "6-O-desulfated heparin attenuates myocardial ischemia/reperfusion injury in mice through the regulation of miR-199a-5p/klotho axis",
+      "pubmed_id": "36107266",
+      "year": "2022",
+      "publication_date": "2022 Dec",
+      "authors": "Wang Y, Li T, Li N, Huang C, Xiong X, Xie X, Wu M, Wang L, Jiang J",
+      "journal": "Glycoconj J"
+    },
+    {
+      "title": "Application of a Mutant Cell Library to Determine the Structure-Function Relationship of Heparan Sulfate in Facilitating FGF2-FGFR1 Signaling",
+      "pubmed_id": "34626412",
+      "year": "2021",
+      "publication_date": "2021 Oct",
+      "authors": "Faulkner J, Song X, Wang L",
+      "journal": "Methods Mol Biol"
+    },
+    {
+      "title": "The Sulfation Code of Tauopathies: Heparan Sulfate Proteoglycans in the Prion Like Spread of Tau Pathology",
+      "pubmed_id": "34095227",
+      "pmc_id": "PMC8173255",
+      "year": "2021",
+      "publication_date": "2021 May",
+      "authors": "Mah D, Zhao J, Liu X, Zhang F, Liu J, Wang L, Linhardt R, Wang C",
+      "journal": "Front Mol Biosci"
+    },
+    {
+      "title": "Heparan Sulfate Facilitates Spike Protein-Mediated SARS-CoV-2 Host Cell Invasion and Contributes to Increased Infection of SARS-CoV-2 G614 Mutant and in Lung Cancer",
+      "pubmed_id": "34179075",
+      "pmc_id": "PMC8231436",
+      "year": "2021",
+      "publication_date": "2021 Jun",
+      "authors": "Yue J, Jin W, Yang H, Faulkner J, Song X, Qiu H, Teng M, Azadi P, Zhang F, Linhardt RJ, Wang L",
+      "journal": "Front Mol Biosci"
+    },
+    {
+      "title": "The degree of polymerization and sulfation patterns in heparan sulfate are critical determinants of cytomegalovirus entry into host cells",
+      "pubmed_id": "34352038",
+      "pmc_id": "PMC8384199",
+      "year": "2021",
+      "publication_date": "2021 Aug",
+      "authors": "Mitra D, Hasan MH, Bates JT, Bierdeman MA, Ederer DR, Parmar RC, Fassero LA, Liang Q, Qiu H, Tiwari V, Zhang F, Linhardt RJ, Sharp JS, Wang L, Tandon R",
+      "journal": "PLoS Pathog"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24527"
+  },
+  "content_hash": "1ad7db24b7f7578ee215340ea922b94a1258e0f25a7c91d0b0a814e6885cc2aa",
+  "researcher_name": "lianchun wang",
+  "department": ""
+}

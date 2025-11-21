@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/john-heine",
-  "last_updated": "2025-10-21T16:35:53.284176",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/john-heine/",
+  "last_updated": "2025-11-21T22:50:24.643573",
   "researcher_id": "1000",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Traditional breast cancer risk factors and subject history merged with risk factors derived from mammograms may result in better treatment decisions.",
   "research_interests": [
     "Dr. Heine\u2019s current research blends imaging physics with statistical learning methods to address unresolved issues in epidemiology with an emphasis on breast cancer risk assessments. Mammographic breast density is a significant breast cancer risk factor, not used clinically due to measurement difficulties. Dr. Heine has made significant inroads into developing methods of calibrating mammograms to adjust for the acquisition technique differences and developing automated measures of breast density that show strong association with breast cancer. In parallel, Dr Heine is developing novel methods of incorporating statistical learning techniques into epidemiology for improved risk modeling. The near term objective of this discipline fusion research is to develop an automated system for data collection and analysis to enable both population and individual level risk assessments at the breast clinics within Moffitt Cancer Center.\n  *"
@@ -165,11 +165,22 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-19209/",
+      "trial_id": "19209",
+      "title": "Combined Imaging and Blood Biomarkers for Breast Cancer Diagnosis",
+      "condition": "Healthy Subjects",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/HeineJohn_1000.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1000"
   },
-  "content_hash": "c20ed3829734ad624fdfcad424f91952bcca8fecb01e9768f8df146aaca7ceec",
-  "researcher_name": "John Heine",
-  "department": "Cancer Epidemiology"
+  "content_hash": "7d7ca7dca07cb53ecaee0124a05a0cb2c7addf8ee95727f0c6784112bc46c482",
+  "researcher_name": "john heine",
+  "department": "cancer epidemiology"
 }

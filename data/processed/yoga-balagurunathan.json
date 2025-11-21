@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/yoga-balagurunathan",
-  "last_updated": "2025-10-21T16:34:14.373130",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/yoga-balagurunathan/",
+  "last_updated": "2025-11-21T22:50:27.456831",
   "researcher_id": "11050",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Machine Learning",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "machine learning",
+  "research_program": "cancer biology & evolution",
   "overview": "Dr. Balagurunathan\u2019s research is focused on understanding the physiology of the tumor and its relationship to the underlying genome. His interests include data integration from various modalities (radiology, pathology, genome) to improve clinical decision support. His disease focus are prostate cancer, lung cancer and B-cell lymphomas.",
   "research_interests": [
     "Dr. Balagurunathan\u2019s research is focused on understanding the physiology of the tumor and its relationship to the underlying genome. His interests include data integration from various modalities (radiology, pathology, genome) to improve clinical decision support, His diseasefoci are prostate cancer, lung cancer and B-cell lymphomas. \n  *"
@@ -72,14 +72,6 @@
       "journal": "J Racial Ethn Health Disparities"
     },
     {
-      "title": "Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes",
-      "pubmed_id": "39652773",
-      "year": "2025",
-      "publication_date": "2025 Apr",
-      "authors": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL",
-      "journal": "Blood"
-    },
-    {
       "title": "5hmC-profiles in Puerto Rican Hispanic/Latino men with aggressive prostate cancer",
       "pubmed_id": "40265030",
       "pmc_id": "PMC12011585",
@@ -87,6 +79,14 @@
       "publication_date": "2025 Apr",
       "authors": "Patel MS, Almubarak M, Matta J, Ortiz-Sanchez C, Encarnacion J, Ruiz-Deya G, Dutil J, Dhillon J, Yamoah K, Berglund A, Park H, Kilari D, Balagurunathan Y, Wang L, Park JY",
       "journal": "Front Oncol"
+    },
+    {
+      "title": "Tumor burden quantified by soluble B-cell maturation antigen and metabolic tumor volume determines myeloma CAR-T outcomes",
+      "pubmed_id": "39652773",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Freeman CL, Noble J, Menges M, Villanueva R, Nakashima JY, Figura NB, Tonseth RP, Idiaquez DW, Skelson L, Smith EC, Abraham-Miranda J, Corallo S, De Avila G, Castaneda Puglianini O, Liu HD, Alsina M, Nishihori T, Shain KH, Baz RC, Blue BJ, Grajales-Cruz A, Koomen JM, Atkins RM, Hansen DK, Siqueira Silva A, Kim J, Balagurunathan Y, Locke FL",
+      "journal": "Blood"
     },
     {
       "title": "Radiomic features of PET/CT imaging of large B cell lymphoma lesions predicts CAR T cell therapy efficacy",
@@ -135,11 +135,22 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22098/",
+      "trial_id": "22098",
+      "title": "Non-Invasive Biomarkers in Prostate Cancer Disease Management",
+      "condition": "Genitourinary",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://lab.moffitt.org/yogab-lab/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=F2zFrdkAAAAJ&hl=en&oi=ao",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/BalagurunathanYoga_11050.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=11050"
   },
-  "content_hash": "a50acf73a7ac8874bdffe2356c5eb5619241290a34d0fd63a2e5354082963785",
-  "researcher_name": "Yoga Balagurunathan",
-  "department": "Machine Learning"
+  "content_hash": "ec9b677a8cf53316d2791ca0880b411e8b901cd9816666fdb193b5eda6978254",
+  "researcher_name": "yoga balagurunathan",
+  "department": "machine learning"
 }

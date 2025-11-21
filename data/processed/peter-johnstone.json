@@ -1,0 +1,132 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/peter-johnstone/",
+  "last_updated": "2025-11-21T22:50:26.335985",
+  "researcher_id": "14427",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "radiation oncology",
+  "research_program": "health outcomes & behavior",
+  "overview": "Palliation in oncology; proton therapy.",
+  "research_interests": [
+    "Dr. Johnstone's recent focus has been divided between process analyses and survivorship issues: identification of the impact of cancer or its therapy on patients' quality of life, and then intervening to palliate toxicity. Of specific interest is the use of Integrative therapies in this regard. His group is now investigating complementary modalities with physiologic monitoring in such patients.\n  *"
+  ],
+  "associations": [
+    "Radiation Oncology",
+    "Health Outcomes and Behavior",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Uniformed Services University of the Health Sciences",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "National Naval Medical Center",
+      "specialty": "Imtern"
+    },
+    {
+      "type": "Residency",
+      "institution": "National Cancer Institute",
+      "specialty": "Radiation Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Impact of recent clinical trials on meta-analysis of stereotactic body radiation therapy for spine metastases and urgent call for consistent study endpoints",
+      "pubmed_id": "40211741",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Wong HCY, Lee SF, Ryu S, Chan AW, Caini S, Johnstone P, van der Linden Y, van der Velden JM, Martin E, Alcorn S, Johnstone C, Choi JI, Marta GN, Oldenburger E, Raman S, Rembielak A, Vassiliou V, Bonomo P, Nguyen QN, Tse S, Hoskin PJ, Simone CB",
+      "journal": "Ann Palliat Med"
+    },
+    {
+      "title": "Simplifying post-operative radiotherapy for bone metastases",
+      "pubmed_id": "40211743",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Keit E, Oliver DE, Yu HM, Johnstone PAS",
+      "journal": "Ann Palliat Med"
+    },
+    {
+      "title": "Outcomes of PeIN at the surgical margin: insights from an organ-sparing penile cancer database",
+      "pubmed_id": "40478443",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Jazayeri SB, Fazili A, Sirard RB, Zemp L, Johnstone PAS, Chahoud J, Spiess PE",
+      "journal": "World J Urol"
+    },
+    {
+      "title": "Treatment strategies in human papillomavirus-related advanced penile cancer",
+      "pubmed_id": "39966660",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Longoni M, Fankhauser CD, Negri F, Salonia A, Basile G, Johnstone PAS, Bandini M",
+      "journal": "Nat Rev Urol"
+    },
+    {
+      "title": "Hypofractionated accelerated radiation dose-painting (HARD) improves outcomes in unresected soft-tissue sarcoma",
+      "pubmed_id": "39571685",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Bryant JM, Mills MN, Liveringhouse C, Palm R, Druta M, Brohl A, Reed DR, Johnstone PA, Miller JT, Latifi K, Feygelman V, Yang GQ, Naghavi AO",
+      "journal": "Radiother Oncol"
+    },
+    {
+      "title": "The Prognostic Role of HPV or p16INK4a Status in Penile Squamous Cell Carcinoma: A Meta-Analysis",
+      "pubmed_id": "39752880",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Mustasam A, Parza K, Ionescu F, Gullapalli K, Paravathaneni M, Kim Y, Sandstrom RE, Al Assaad M, Grass GD, Johnstone P, Eschrich S, Safa H, Chadha J, Roman Souza G, David J, Semaan A, Zacharias NM, Pettaway C, Giuliano AR, Spiess PE, Chahoud J",
+      "journal": "J Natl Compr Canc Ne"
+    },
+    {
+      "title": "Prostate Artery Embolization in the Setting of Prostate Cancer: Review and Opinion",
+      "pubmed_id": "39876663",
+      "pmc_id": "PMC11775958",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Parikh N, Yamoah K, Johnstone P, Torres-Roca J, Pow-Sang J, Fernandez D, Rishi A, Grass GD",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "The Role of Radiation, Immunotherapy, and Chemotherapy in the Management of Locally Advanced or Metastatic Cutaneous Malignancies",
+      "pubmed_id": "39682109",
+      "pmc_id": "PMC11640331",
+      "year": "2024",
+      "publication_date": "2024 Nov",
+      "authors": "Yacoub I, Rayn K, Choi JI, Bakst R, Chhabra A, Qian JY, Johnstone P, Simone CB",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "Thirty-day mortality as a metric for palliative radiotherapy in pediatric patients",
+      "pubmed_id": "38170195",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Keit E, Nanda R, Johnstone PAS",
+      "journal": "Curr Opin Support Palliat Care"
+    },
+    {
+      "title": "Management of Lymph Node-positive Penile Cancer: A Systematic Review",
+      "pubmed_id": "37208237",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Sachdeva A, McGuinness L, Zapala \u0141, Greco I, Garcia-Perdomo HA, Kailavasan M, Antunes-Lopes T, Ayres B, Barreto L, Campi R, Crook J, Johnstone P, Kumar V, Manzie K, Marcus JD, Necchi A, Oliveira P, Osborne J, Pagliaro LC, Protzel C, Bryan Rumble R, S\u00e1nchez Mart\u00ednez DF, Spiess PE, Tagawa ST, van der Heijden MS, Parnham AS, Pettaway CA, Albersen M, Sangar VK, Brouwer OR, Sakalis VI",
+      "journal": "Eur Urol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JohnstonePeter_14427.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14427"
+  },
+  "content_hash": "56841d7fd13e8c4110bef7f9fbfe6fd5ec3de193ee1674e19dc7d98d1cb93903",
+  "researcher_name": "peter johnstone",
+  "department": "health outcomes & behavior"
+}

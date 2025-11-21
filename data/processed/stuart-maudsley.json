@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/stuart-maudsley",
-  "last_updated": "2025-10-21T16:37:28.360020",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/stuart-maudsley/",
+  "last_updated": "2025-11-21T22:50:26.998215",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Drug Discovery",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "drug discovery",
+  "research_program": "molecular medicine",
   "overview": "My research theme involves the investigation of how disruptions of G protein-coupled receptor (GPCR) signaling networks underpin the genesis and etiology of cancers as well as other aging-related pathologies. Through my novel appreciation of the multidimensional signaling profiles of GPCRs I aim to introduce a new generation of precision and patient-specific receptor-based therapeutic interventions. In addition to this I also aim to employ this enhanced appreciation of GPCR biology for the creation of new cell/tissue-based diagnostic agents for early - non-invasive - cancer detection.",
   "research_interests": [
     "My research interests primarily revolve around the exploitation of receptor signaling paradigms with respect to generating either theragnostics or ameliorative therapies for cancer and potentially driving morbidities such as metabolic syndrome or gastro-intestinal motility syndromes. My research combines high dimensionality data acquisition and analysis coupled with 'wet lab' molecular pharmacology approaches to advance drug discovery, design and development. My primary targets are G protein-coupled receptors but since these molecular targets are intrinsically associated with so many other signaling entities in cells then my interests in therapeutic targeting extend to several other signaling molecules such as proteases, kinases, transporters, scaffolding proteins and nucleotides. One of my current hypotheses is that an intracellular network of GPCRs and associayed signaling factors form a stress sensory network that maintain a monitoring and response system for all cells. This system and its integrity likely act as a gatekeeper for cells so that they can maintain a healthy cell cycle control and metabolic activity. I propose that the disintegration of this network may be one of the key features that predisposes cells to aberrant behavior that includes a potenial slip into oncogenic activity. I therefore plan to 'biohack' this sensory/response system to realign this GPCR monitoring of cell functionality in a cell- and patient-specific manner. \n  *"
@@ -108,9 +108,12 @@
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "",
   "contact": {},
-  "content_hash": "fce7d71691a3a021cc1cd64060eb86d455d697f8fc3ccf08ec91c76f788ecf90",
-  "researcher_name": "Stuart Maudsley",
-  "department": "Drug Discovery"
+  "content_hash": "00d357d8604edcb7ae6e5b1efdbf0621e658d90484d3f71d6e10f1f02f8cbf3a",
+  "researcher_name": "stuart maudsley",
+  "department": "drug discovery"
 }

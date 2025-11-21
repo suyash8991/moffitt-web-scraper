@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/mark-ji",
-  "last_updated": "2025-10-21T16:37:04.895264",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/mark-ji/",
+  "last_updated": "2025-11-21T22:50:25.618717",
   "researcher_id": "17534",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Drug Discovery",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "drug discovery",
+  "research_program": "molecular medicine",
   "overview": "The Ji research laboratory focuses on rational design and development of potent and selective small-molecule inhibitors for protein\u2013protein interactions (PPIs). To achieve this goal, we examine the crystal structures of PPI complex structures and design scaffolds to mimic key binding features of the ligand proteins to initiate the research. Our areas of research include developing new technologies to design and characterize PPI inhibitors, designing and synthesizing potent and selective inhibitors for important PPI targets, and developing PPI inhibitors into candidates ready for in vivo studies. This synthetic medicinal chemistry laboratory has three research components: data mining and structure-based drug design, synthetic organic chemistry, and biochemistry and cell-based studies.",
   "research_interests": [
     "Developing a new class of \u03b1-helix mimetics called binding-mode \u03b1-helical hot spot mimetics. Generalizable scaffolds that mimic \u03b1-helical hot spots can greatly facilitate medicinal chemistry to discover drug-like potent inhibitors for \u03b1-helix mediated PPIs. Previous studies from Ji laboratory observed the side chains of hydrophobic \u03b1-helical hot spots are convergent to the limited spatial areas when forming PPI complex structures. This observation allows us to develop a new class of \u03b1-helix mimetics, binding-mode \u03b1-helical hot spot mimetics. Developing first-in-class small-molecule antagonists for the \u03b2-catenin/B-cell lymphoma 9 (BCL9) protein\u2013protein interaction (PPI). Hyperactive \u03b2-catenin signaling is a cancer hallmark and plays an important role in cancer recurrence, metastasis, and immune evasion. Disruption of \u03b2-catenin/BCL9 PPI to abolish hyperactive \u03b2-catenin signaling has great therapeutic potential. BCL9 or BCL9L uses an \u03b1-helical domain to bind to \u03b2-catenin. We have been collaborating with other Moffitt researchers to develop first-in-class small-molecule preclinical candidates for the disruption of \u03b2-catenin/BCL9 PPI. Developing cell-permeable phosphotyrosine mimetics. Protein tyrosine phosphorylation is a key molecular mechanism to regulate intracellular signaling. Aberrant activation of phosphotyrosine signaling plays a key role in many pathological processes. Peptides, peptidomimetics, and small molecules have been developed to bind with the pTyr-binding pockets with the goal to regulate intracellular phophotyrosine-binding domains. However, all of them display low cell permeability, which is mainly caused by the highly polar and negatively charged phosphate or phosphate-like groups. We are developing novel cell-permeable phosphotyrosine mimetics.\n  *"
@@ -167,11 +167,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages2.moffitt.org/ji/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=MKLY3SYAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JiMark_17534.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17534"
   },
-  "content_hash": "7e0ccb6507484c6b0ef23426142ee77854f3e0c877220075226094bfe4827c0f",
-  "researcher_name": "Mark Ji",
-  "department": "Drug Discovery"
+  "content_hash": "f032d83404ba032bc5a40e7b3e580f9167d7d386af72c2674a87e2af390802ae",
+  "researcher_name": "mark ji",
+  "department": "drug discovery"
 }

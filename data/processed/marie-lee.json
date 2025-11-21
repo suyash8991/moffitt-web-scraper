@@ -1,0 +1,157 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/marie-lee/",
+  "last_updated": "2025-11-21T22:50:25.547877",
+  "researcher_id": "4284",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "breast oncology",
+  "research_program": "cancer epidemiology",
+  "overview": "In addition to her clinical interests in young breast cancer patients, Dr. Lee is active in clinical research, clinical trials, and translational breast cancer research. She is actively involved with her colleagues in investigating and improving fertility preservation education and collaborating with the faculty in Molecular and Functional Imaging in the development of novel agents for intraoperative identification of breast cancer.",
+  "research_interests": [
+    "Dr. Lee has been a clinical and translational investigator since her initial appointment at Moffitt. She has been a clinical collaborator in behavioral and outcomes studies as well as translational and biomarker driven work with a particular focus on intraoperative imaging of breast cancer as well as predictors of metastasis. She has written and conducted clinical trials at all phases, including IITs and both pharmacologic and drug trials. She has an open tissue collection protocol for breast cancer patients. In addition to internal and private funding, she has been a recipient of NIH and DOD grants, and continues to actively seek external funding for clinical and translational projects.\n  *"
+  ],
+  "associations": [
+    "Breast Oncology",
+    "Cancer Epidemiology Program",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Northeastern Ohio Universities College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Lenox Hill Hospital",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "Lenox Hill Hospital",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Michigan Cancer Center",
+      "specialty": "Surgical Breast Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Disparities in the Surgical Management of the Axilla by Self-Identified Race in the Multicenter Neoadjuvant I-SPY2 Trial",
+      "pubmed_id": "40699532",
+      "pmc_id": "PMC12494629",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Kaur M, Dimitroff K, Boughey JC, Esserman LJ, Yau C, Tchou J, Quirarte A, Lee MC, Howard-McNatt MM, Switalla K, Kuerer H, Sauder C, Postlewait LM, Arciero C, Rao R, Wallace A, Reyna C, Ahmed K, Gutnik L, Taunk N, Perlmutter J, DeMichele A, Yee D, Hylton NM, Symmans WF, Rugo HS, Shatsky RA, Isaacs C, Rudra S, Pohlmann P, Ewing C, Wong J, Alvarado M, Jaskowiak N, Prionas N, Golshan M, Piltin MA, Olopade OI, Mukhtar RA",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Impact of Neoadjuvant Chemotherapy on Surgical Outcomes and Conversion to Node-Negativity in Invasive Lobular Breast Cancer: Analysis of Molecularly High-Risk Tumors by Histologic Subtype on the I-SPY2 Clinical Trial",
+      "pubmed_id": "40705266",
+      "pmc_id": "PMC12494636",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Mukhtar RA, Dimitroff K, Yau C, Chien AJ, Connolly EP, Howard-McNatt M, Rao R, Ladores V, Golshan M, Sauder CA, Ahmed K, Lancaster R, Fox J, Gutnik L, Lee MC, Tchou J, Prionas N, Arciero CA, Reyna C, Kuerer H, Switalla K, Taunk N, Tuttle TM, Moran MS, Postlewait LM, Perlmutter J, DeMichele A, Yee D, Hylton N, Symmans WF, Rugo HS, Shatsky R, Isaacs C, Esserman LJ, Van't Veer L, Boughey JC",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Impact of Time to Surgery Post Neoadjuvant Chemotherapy on Breast Cancer Outcomes: A Retrospective Study of Patients Enrolled in the I-SPY 2 Clinical Trial",
+      "pubmed_id": "40849380",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Van Hassel J, Dimitroff K, Yau C, Mukhtar R, Boughey JC, Ladores V, Howard-McNatt MM, Jaskowiak N, Perlmutter J, DeMichele A, Yee D, Hylton N, Symmans WF, Veer LV, Rugo H, Esserman LJ, Shatsky R, Isaacs C, Kuerer H, Wallace AM, Prionas N, Tseng J, Reyna CR, Taunk N, Kesmodel S, Lee MC, Fox J, Piltin MA, Tchou J, Arciero CA, Postlewait LM, Sauder C, Rao R",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Oncologic Outcomes with De-Escalation of Axillary Surgery After Neoadjuvant Chemotherapy for Breast Cancer: Results from > 1500 Patients on the I-SPY2 Clinical Trial",
+      "pubmed_id": "39946078",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Boughey JC, Yu H, Switalla K, Velle L, Lopes A, Wallace AM, Lancaster RB, Reyna CR, Tuttle TM, Jaskowiak N, Tchou J, Rao R, Lee MC, Naik AM, Golshan M, Arciero CA, Sauder CAM, Matsen CB, Yau C, Esserman L, Mukhtar RA",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Antitumor CD4+ T Helper 1 Cells Target and Control the Outgrowth of Disseminated Cancer Cells",
+      "pubmed_id": "40249209",
+      "pmc_id": "PMC12046335",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Ramamoorthi G, Lee MC, Farrell CM, Snyder C, Garg SK, Aldrich AL, Lok V, Dominguez-Viqueira W, Olson-Mcpeek SK, Rosa M, Gautam N, Pilon-Thomas S, Cen L, Kodumudi KN, Wiener D, Oskarsson T, Gomes AP, Gatenby RA, Czerniecki BJ",
+      "journal": "Cancer Immunol Res"
+    },
+    {
+      "title": "Frailty and Malnutrition in Surgical Outcomes of Elderly Breast Cancer Patients",
+      "pubmed_id": "39387508",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Hanssen D, Champion N, Ngo J, Palfi S, Whiting J, Sun W, Laronga C, Sam C, Lee MC",
+      "journal": "J Surg Oncol"
+    },
+    {
+      "title": "A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer",
+      "pubmed_id": "40097486",
+      "pmc_id": "PMC11914126",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B",
+      "journal": "NPJ Breast Cancer"
+    },
+    {
+      "title": "Society of Surgical Oncology Breast Disease Site Working Group Statement on Bilateral Risk-Reducing Mastectomy: Indications, Outcomes, and Risks",
+      "pubmed_id": "39538100",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Singh P, Agnese DM, Amin M, Barrio AV, van den Bruele AB, Burke EE, Danforth DN, Dirbas FM, Eladoumikdachi F, Fayanju OM, Kantor O, Kumar S, Lee MC, Matsen C, Nguyen TT, Ozmen T, Park KU, Plichta JK, Reyna C, Showalter SL, Styblo T, Tranakas N, Weiss A, Woodfin A, Laronga C, Boughey JC",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Alteration of the Tumor Microenvironment With Intratumoral Dendritic Cells Before Chemotherapy in ERBB2 Breast Cancer: A Nonrandomized Clinical Trial",
+      "pubmed_id": "39636623",
+      "pmc_id": "PMC11622104",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Han HS, Aldrich AL, Garg SK, Weinfurtner RJ, Nguyen JV, Mo Q, Whiting J, Childress J, Soliman H, Costa R, Armaghani A, Soyano A, Kiluk J, Hoover S, Lee MC, Khakpour N, Shenoi N, Jameel Z, Koski GK, Czerniecki BJ",
+      "journal": "JAMA Oncol"
+    },
+    {
+      "title": "Clipping the Positive Lymph Node in Patients with Clinically Node Positive Breast Cancer Treated with Neoadjuvant Chemotherapy: Impact on Axillary Surgery in the ISPY-2 Clinical Trial",
+      "pubmed_id": "38995451",
+      "pmc_id": "PMC11452431",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Switalla KM, Boughey JC, Dimitroff K, Yau C, Ladores V, Yu H, Tchou J, Golshan M, Ahrendt G, Postlewait LM, Piltin M, Reyna CR, Matsen CB, Tuttle TM, Wallace AM, Arciero CA, Lee MC, Tseng J, Son J, Rao R, Sauder C, Naik A, Howard-McNatt M, Lancaster R, Norwood P, Esserman LJ, Mukhtar RA",
+      "journal": "Ann Surg Oncol"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-19000/",
+      "trial_id": "19000",
+      "title": "Evaluation of Anti-Her2 and Anti-Her3 T-Helper Response in Primary Breast Cancer",
+      "condition": "Breast",
+      "intervention": "Not Applicable ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23366/",
+      "trial_id": "23366",
+      "title": "Patient-Reported Outcomes in Recipients of Intralesional Vaccines for Breast Cancer at Moffitt Cancer Center",
+      "condition": "Breast",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LeeMarie_4284.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4284"
+  },
+  "content_hash": "65c55456d3a4e67bc5df7070673770ae8e5d02636a941561521232fbf39919f0",
+  "researcher_name": "marie lee",
+  "department": ""
+}

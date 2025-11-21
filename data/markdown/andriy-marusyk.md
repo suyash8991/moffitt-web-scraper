@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/andriy-marusyk)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/andriy-marusyk)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -501,6 +500,8 @@ The main focus of research in my lab is filling this gap through development of 
   * ## Research Interest
 Tumors are mini eco-systems, where evolving populations of genetically and phenotypically heterogeneous malignant cells are engaged in a network of reciprocal interactions with multiple normal cell types as well as with non-cellular components of tumor micro and macro environment. Research over recent decades shed light on molecular pathways essential for cancer cell survival, leading to development of multiple novel therapeutic approaches. Unfortunately, almost in all cases anti-cancers therapies provide only a temporary success, as tumors eventually relapse owing to outgrowth of therapy-resistant phenotypes. Preventing and limiting this outgrowth cannot be achieved only by focusing on proximal molecular mechanisms of resistance. We also need to develop adequate level of understanding of evolutionary dynamics, a knowledge that is mostly lacking.
   * ## Publications
+    * West J, Desai B, Strobl M, Gallaher J, Robertson-Tessi M, Marusyk A, Anderson ARA. Evolutionary antifragile therapy. bioRxiv. 2025 Sep. Pubmedid: [41000654](https://www.ncbi.nlm.nih.gov/pubmed/41000654). Pmcid: PMC12458151. 
+    * Solanki HS, Shah H, Imbody D, Desai B, Kato R, Miroshnychenko D, Stern YE, Majumder A, Sarcar B, Xieraili A, Stewart PA, Fang B, Zhang Y, Yao J, Darville LN, Koomen JM, Rix U, Evans JW, Yang YC, Ahler E, Marusyk A, Singh M, Aronchik I, Haura EB. RAS-GTP Inhibition Overcomes Acquired Resistance to KRASG12C Inhibitors Mediated by Oncogenic and Wildtype RAS Activation in Non-Small Cell Lung Cancer. Cancer Res. 2025 Oct. Pubmedid: [41165456](https://www.ncbi.nlm.nih.gov/pubmed/41165456). 
     * Marusyk A. Evolutionary gambit to defeat drug resistance in cancer. Nat Biotechnol. 2025 May.43(5):689-690. Pubmedid: [38965429](https://www.ncbi.nlm.nih.gov/pubmed/38965429). 
     * Kato R, Solanki HS, Ozakinci H, Desai B, Gundlapalli H, Yang YC, Aronchik I, Singh M, Johnson J, Marusyk A, Boyle TA, Haura EB. In Situ RAS:RAF Binding Correlates with Response to KRASG12C Inhibitors in KRASG12C-Mutant Non-Small Cell Lung Cancer. Clin Cancer Res. 2025 Mar.31(6):1150-1162. Pubmedid: [39836411](https://www.ncbi.nlm.nih.gov/pubmed/39836411). Pmcid: PMC11924342. 
     * Tyczynska Weh M, Kumar P, Marusyk V, Marusyk A, Basanta D. The adaptive state determines the impact of mutations on evolving populations. Proc Natl Acad Sci U S A. 2025 Jul.122(26). Pubmedid: [40569384](https://www.ncbi.nlm.nih.gov/pubmed/40569384). Pmcid: PMC12232665. 
@@ -513,8 +514,8 @@ Tumors are mini eco-systems, where evolving populations of genetically and pheno
     * Miti T, Desai B, Miroshnychenko D, Basanta D, Marusyk A. Dissecting the Spatially Restricted Effects of Microenvironment-Mediated Resistance on Targeted Therapy Responses. Cancers (Basel). 2024 Jun.16(13). Pubmedid: [39001467](https://www.ncbi.nlm.nih.gov/pubmed/39001467). Pmcid: PMC11240540. 
     * França GS, Baron M, King BR, Bossowski JP, Bjornberg A, Pour M, Rao A, Patel AS, Misirlioglu S, Barkley D, Tang KH, Dolgalev I, Liberman DA, Avital G, Kuperwaser F, Chiodin M, Levine DA, Papagiannakopoulos T, Marusyk A, Lionnet T, Yanai I. Cellular adaptation to cancer therapy along a resistance continuum. Nature. 2024 Jul.631(8022):876-883. Pubmedid: [38987605](https://www.ncbi.nlm.nih.gov/pubmed/38987605). 
     * Miroshnychenko D, Miti T, Kumar P, Miller A, Laurie M, Giraldo N, Bui MM, Altrock PM, Basanta D, Marusyk A. Stroma-Mediated Breast Cancer Cell Proliferation Indirectly Drives Chemoresistance by Accelerating Tumor Recovery between Chemotherapy Cycles. Cancer Res. 2023 Nov.83(22):3681-3692. Pubmedid: [37791818](https://www.ncbi.nlm.nih.gov/pubmed/37791818). Pmcid: PMC10646478. 
-    * Capp JP, Thomas F, Marusyk A, M Dujon A, Tissot S, Gatenby R, Roche B, Ujvari B, DeGregori J, Brown JS, Nedelcu AM. The paradox of cooperation among selfish cancer cells. Evol Appl. 2023 Jul.16(7):1239-1256. Pubmedid: [37492150](https://www.ncbi.nlm.nih.gov/pubmed/37492150). Pmcid: PMC10363833. 
     * Gatenbee CD, Baker AM, Prabhakaran S, Swinyard O, Slebos RJC, Mandal G, Mulholland E, Andor N, Marusyk A, Leedham S, Conejo-Garcia JR, Chung CH, Robertson-Tessi M, Graham TA, Anderson ARA. Virtual alignment of pathology image series for multi-gigapixel whole slide images. Nat Commun. 2023 Jul.14(1):4502. Pubmedid: [37495577](https://www.ncbi.nlm.nih.gov/pubmed/37495577). Pmcid: PMC10372014. 
+    * Capp JP, Thomas F, Marusyk A, M Dujon A, Tissot S, Gatenby R, Roche B, Ujvari B, DeGregori J, Brown JS, Nedelcu AM. The paradox of cooperation among selfish cancer cells. Evol Appl. 2023 Jul.16(7):1239-1256. Pubmedid: [37492150](https://www.ncbi.nlm.nih.gov/pubmed/37492150). Pmcid: PMC10363833. 
     * Miroshnychenko D, Miti T, Miller A, Kumar P, Laurie M, Bui MM, Altrock PM, Basanta D, Marusyk A. Paracrine enhancement of tumor cell proliferation provides indirect stroma-mediated chemoresistance via acceleration of tumor recovery between chemotherapy cycles. bioRxiv. 2023 Feb. Pubmedid: [36798328](https://www.ncbi.nlm.nih.gov/pubmed/36798328). Pmcid: PMC9934626. 
     * Adhikari E, Liu Q, Johnson J, Stewart P, Marusyk V, Fang B, Izumi V, Bowers K, Guzman KM, Koomen JM, Marusyk A, Lau EK. Brain metastasis-associated fibroblasts secrete fucosylated PVR/CD155 that induces breast cancer invasion. Cell Rep. 2023 Dec.42(12):113463. Pubmedid: [37995180](https://www.ncbi.nlm.nih.gov/pubmed/37995180). 
     * Vander Velde R, Shaffer S, Marusyk A. Integrating mutational and nonmutational mechanisms of acquired therapy resistance within the Darwinian paradigm. Trends Cancer. 2022 Jun.8(6):456-466. Pubmedid: [35307314](https://www.ncbi.nlm.nih.gov/pubmed/35307314). 
@@ -653,7 +654,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -708,7 +709,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/andriy-marusyk#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/andriy-marusyk#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -726,7 +727,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1080,7 +1081,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/andriy-marusyk#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/andriy-marusyk#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

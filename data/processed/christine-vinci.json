@@ -1,0 +1,217 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/christine-vinci/",
+  "last_updated": "2025-11-21T22:50:23.209423",
+  "researcher_id": "17159",
+  "degrees": [
+    "PhD",
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "health outcomes and behavior",
+  "research_program": "health outcomes & behavior",
+  "overview": "Dr. Vinci's research focuses on developing behavioral interventions that address cancer-risk behaviors (e.g., tobacco, alcohol use) and stress management among cancer caregivers. To date, most of the interventional research she has conducted is specific to mindfulness-based interventions and strategies, with a primary focus on technology as a delivery modality.",
+  "research_interests": [
+    "Dr. Vinci has expertise in the following areas: 1) mindfulness-based interventions for cancer-risk behaviors; 2) technology as integrated into smoking cessation treatment; 3) cue reactivity among those who smoke and drink alcohol; 4) substance use among underserved populations; and 5) mindfulness-based interventions for cancer caregivers. \n  *"
+  ],
+  "associations": [
+    "Health Outcomes and Behavior",
+    "Blood and Marrow Transplant and Cellular Immunotherapy",
+    "Health Outcomes & Behavior Program",
+    "Tobacco Research & Intervention Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Carolina Aiken, MS"
+    },
+    {
+      "type": "Graduate",
+      "institution": "Louisiana State University, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Mississippi Medical Center/GV (Sonny) Montgomery Veteran Affairs Medical Center",
+      "position": "Intern",
+      "specialty": "(Resident)"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "The University of Texas MD Anderson Cancer Center",
+      "specialty": "Health Disparities Research"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Using augmented reality to deliver cue exposure treatment for smoking cessation: App usability findings and protocol for a randomized controlled trial",
+      "pubmed_id": "39880329",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Poudel R, Dougan SO, Yates H, Sawyer L, Martinez U, Brandon KO, Sutton SK, Vidrine DJ, Ritterband LM, Wiseman KP, Vickerman KA, Turner K, Byrne MM, Yang MJ, Horta M, Brandon TH, Vinci C",
+      "journal": "Contemp Clin Trials"
+    },
+    {
+      "title": "Proximal Effects of a Just-in-Time Adaptive Intervention for Smoking Cessation With Wearable Sensors: Microrandomized Trial",
+      "pubmed_id": "40106803",
+      "pmc_id": "PMC11966069",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Vinci C, Sutton SK, Yang MJ, Jones SR, Kumar S, Wetter DW",
+      "journal": "JMIR Mhealth Uhealth"
+    },
+    {
+      "title": "TIP25-241: Utilizing Augmented Reality as an Adjunct for Smoking Cessation: Trial in Progress",
+      "pubmed_id": "40154366",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Dougan SO, Yates HC, Horta M, Brandon KO, Rivera M, Smith HR, Martinez U, Sutton SK, Vidrine DJ, Ritterband LH, Wiseman KP, Vickerman KA, Poudel R, Yang MJ, Brandon TH, Vinci C",
+      "journal": "J Natl Compr Canc Ne"
+    },
+    {
+      "title": "TIP25-246: Evaluating the Effect of a Mindfulness-Based Intervention on Metabolic and Immunological Biomarkers of Stress Among Caregivers of Allogeneic Hematopoietic Stem Cell Transplant Recipients: Trial in Progress",
+      "pubmed_id": "40154283",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Poudel R, Amisha F, Washington S, Smith HR, Dougan SO, Yang MJ, Horta M, Khimani F, Vinci C",
+      "journal": "J Natl Compr Canc Ne"
+    },
+    {
+      "title": "HSR25-166: Linking COVID-Related Distress and Mental Health Service Utilization Among Allogeneic Hematopoietic Stem Cell Transplant Patients",
+      "pubmed_id": "40157349",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Smith HR, Horta M, Dougan SO, Washington SJ, Yates HC, Pidala J, Reblin M, Jim H, Sutton SK, Vinci C",
+      "journal": "J Natl Compr Canc Ne"
+    },
+    {
+      "title": "Using Mindfulness to Manage Moral Injury in Veterans: Feasibility and Satisfaction of a Pilot Randomized Controlled Trial",
+      "pubmed_id": "40017139",
+      "pmc_id": "PMC12050104",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Kelley ML, Bravo AJ, Burgin EE, Gaylord SA, Vinci C, Strowger M, Gabelmann JM, Currier JM",
+      "journal": "J Clin Psychol"
+    },
+    {
+      "title": "AutoFOCUS: A mindfulness-based intervention for caregivers of autologous hematopoietic stem cell transplant recipients",
+      "pubmed_id": "40842352",
+      "pmc_id": "PMC12491394",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Yepez V, Yang MJ, Washington S, Jones S, Poudel R, Pidala J, Horta M, Vinci C",
+      "journal": "Palliat Support Care"
+    },
+    {
+      "title": "Early Treatment Engagement and Long-Term Smoking Abstinence Among Women With Cervical Intraepithelial Neoplasia or Cervical Cancer",
+      "pubmed_id": "40673008",
+      "pmc_id": "PMC12264617",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Hoogland CE, Sutton SK, Fennell BS, Simmons VN, Vinci C, Naqa IE, Salloum RG, Shete SS, Hembree T, Vidrine DJ, Vidrine JI",
+      "journal": "AJPM Focus"
+    },
+    {
+      "title": "A brief mindfulness intervention improves electrophysiological markers of attention in meditation-na\u00efve individuals: the moderating role of inattention symptoms",
+      "pubmed_id": "40918282",
+      "pmc_id": "PMC12408574",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Yu X, Vinci C, Potts GF",
+      "journal": "Front Psychol"
+    },
+    {
+      "title": "Effect of psychological interventions on outcomes for caregivers of hematopoietic stem cell transplant patients: Protocol for a systematic review and planned meta-analysis",
+      "pubmed_id": "40824926",
+      "pmc_id": "PMC12360561",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Poudel R, Yang MJ, Dougan SO, Yates H, Brown B, Washington S, Satardekar AP, Haver MK, Vinci C",
+      "journal": "PLoS One"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Development of a Mindfulness-Based Smartphone Application for BMT Caregivers  \nAward Number: DBG-24-1253286-01-CPHP  \nSponsor: American Cancer Society, Inc. (ACS)  \nVinci, C. (PD/PI)",
+      "title": "Development of a Mindfulness-Based Smartphone Application for BMT Caregivers",
+      "award_number": "DBG-24-1253286-01-CPHP",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Vinci, C.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Efficacy of a Mindfulness-Based Stress Management Program for Allogeneic HCT Caregivers  \nAward Number: 5R01CA255265-05  \nSponsor: National Cancer Institute (NCI)  \nVinci, C. (PD/PI)",
+      "title": "Efficacy of a Mindfulness-Based Stress Management Program for Allogeneic HCT Caregivers",
+      "award_number": "5R01CA255265-05",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Vinci, C.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Augmented Reality as an Adjunct to Quitline Counseling for Smoking Cessation  \nAward Number: 5R01DA055298-04  \nSponsor: National Institute on Drug Abuse (NIDA)  \nVinci, C. (PD/PI)",
+      "title": "Augmented Reality as an Adjunct to Quitline Counseling for Smoking Cessation",
+      "award_number": "5R01DA055298-04",
+      "sponsor": "National Institute on Drug Abuse (NIDA)",
+      "investigators": [
+        {
+          "name": "Vinci, C.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-20786/",
+      "trial_id": "20786",
+      "title": "Efficacy Of A Mindfulness-Based Stress Management Program For Allogeneic HCT Caregivers",
+      "condition": "Malignant Hematology",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23499/",
+      "trial_id": "23499",
+      "title": "Moffitt Community Registry (MCR)",
+      "condition": "Multiple",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23529/",
+      "trial_id": "23529",
+      "title": "Development of a Mindfulness-Based Smartphone Application for BMT Caregivers",
+      "condition": "Malignant Hematology",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23633/",
+      "trial_id": "23633",
+      "title": "Beyond Smoking: Using Augmented Reality to Address Vaping and Dual Use in Emerging Adulthood",
+      "condition": "Healthy Subjects",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23803/",
+      "trial_id": "23803",
+      "title": "Development of a Mindfulness-Based Intervention for Caregivers of Head and Neck Cancer Patients",
+      "condition": "Head & Neck",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://lab.moffitt.org/vinci/",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/VinciChristine_17159.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17159"
+  },
+  "content_hash": "2554abf8b20c3f6c1fee245339d9f06a73d98458893477c16f9f1fe12195e76b",
+  "researcher_name": "christine vinci",
+  "department": "health outcomes & behavior"
+}

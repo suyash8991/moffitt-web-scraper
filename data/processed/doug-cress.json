@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/doug-cress",
-  "last_updated": "2025-10-21T16:34:37.583287",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/doug-cress/",
+  "last_updated": "2025-11-21T22:50:23.516458",
   "researcher_id": "501",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Lung malignancies are the leading cancer killer. Research in the Cress laboratory seeks 1) to understand genetic and metabolic alterations that drive lung cancer, and 2) to develop novel therapeutics and therapeutic biomarkers based on this understanding.",
   "research_interests": [
     "Research in the Cress laboratory addresses translational genetics of lung cancer; including genetic and metabolic alterations that drive lung cancer, the response of lung cancer to therapy and the development of biomarkers to guide therapeutic choices in lung cancer. Current projects focus specifically on the molecular biology of EGFR and STK11 mutations with an interest in the role that altered metabolism plays in tumor progression and immune evasion. As the co-Director of the Puerto Rico Biobank, Dr. Cress also has an emerging interest in the role that race, ethnicity, ancestry and genetics play in the molecular biology of lung cancer. \n  *"
@@ -184,11 +184,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=pcQ5YMAAAAAJ",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/CressDoug_501.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=501"
   },
-  "content_hash": "27f2f32321eb125fb0b1f1108621d2186b8dd7996c28cf83687d1639d9f2dc87",
-  "researcher_name": "Doug Cress",
-  "department": "Molecular Oncology"
+  "content_hash": "d6dd65c469a3d989ced693a7a64b366d8fa2cb94ab6cb02485f75f0fb9d56831",
+  "researcher_name": "doug cress",
+  "department": "molecular oncology"
 }

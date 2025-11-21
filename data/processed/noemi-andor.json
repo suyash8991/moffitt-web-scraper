@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/noemi-andor",
-  "last_updated": "2025-10-21T16:33:42.134046",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/noemi-andor/",
+  "last_updated": "2025-11-21T22:50:26.179313",
   "researcher_id": "24447",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Integrated Mathematical Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "integrated mathematical oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Dr. Andor's research combines computational biology, mathematical modeling and pharmacology to increase odds in the race against tumor evolution.",
   "research_interests": [
     "Dr. Andor's research focuses on the development and integration of methods to quantify the clonal composition of a tumor from different perspectives, including its genome, transcriptome and appearance. Overall goal is to use these clone characteristics to inform how a tumo's environment can be altered in order to favor certain tumor subclones over others.\n  *"
@@ -105,15 +105,6 @@
       "journal": "bioRxiv"
     },
     {
-      "title": "Virtual alignment of pathology image series for multi-gigapixel whole slide images",
-      "pubmed_id": "37495577",
-      "pmc_id": "PMC10372014",
-      "year": "2023",
-      "publication_date": "2023 Jul",
-      "authors": "Gatenbee CD, Baker AM, Prabhakaran S, Swinyard O, Slebos RJC, Mandal G, Mulholland E, Andor N, Marusyk A, Leedham S, Conejo-Garcia JR, Chung CH, Robertson-Tessi M, Graham TA, Anderson ARA",
-      "journal": "Nat Commun"
-    },
-    {
       "title": "Mathematical Modeling of Clonal Interference by Density-Dependent Selection in Heterogeneous Cancer Cell Lines",
       "pubmed_id": "37508513",
       "pmc_id": "PMC10378185",
@@ -121,6 +112,15 @@
       "publication_date": "2023 Jul",
       "authors": "Veith T, Schultz A, Alahmari S, Beck R, Johnson J, Andor N",
       "journal": "Cells"
+    },
+    {
+      "title": "Virtual alignment of pathology image series for multi-gigapixel whole slide images",
+      "pubmed_id": "37495577",
+      "pmc_id": "PMC10372014",
+      "year": "2023",
+      "publication_date": "2023 Jul",
+      "authors": "Gatenbee CD, Baker AM, Prabhakaran S, Swinyard O, Slebos RJC, Mandal G, Mulholland E, Andor N, Marusyk A, Leedham S, Conejo-Garcia JR, Chung CH, Robertson-Tessi M, Graham TA, Anderson ARA",
+      "journal": "Nat Commun"
     }
   ],
   "grants": [
@@ -177,11 +177,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://www.cloneredesign.com/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/AndorNoemi_24447.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24447"
   },
-  "content_hash": "1ce3ddb1aab837a95e00b255e3a48cbdaf74c96b71ae316a5c69e19ec9452af1",
-  "researcher_name": "Noemi Andor",
-  "department": "Integrated Mathematical Oncology"
+  "content_hash": "49725c17a0eb9b002e73f5601aac31d3b795a20f74ad6b24f9313fc16c5712a9",
+  "researcher_name": "noemi andor",
+  "department": "integrated mathematical oncology"
 }

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/andrii-monastyrskyi",
-  "last_updated": "2025-10-21T16:37:32.270547",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/andrii-monastyrskyi/",
+  "last_updated": "2025-11-21T22:50:22.709978",
   "researcher_id": "24126",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Drug Discovery",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "drug discovery",
+  "research_program": "molecular medicine",
   "overview": "The Monastyrskyi lab harnesses the power of organic chemistry and chemical biology to develop new tools for studying the function and therapeutic potential of cancer targets.",
   "research_interests": [
     "In the Monastyrskyi laboratory, we harness the synergies between synthetic organic chemistry, medicinal chemistry, and chemical biology to innovate small molecules that both elucidate and modulate therapeutically relevant targets in cancer. Our approach is deeply rooted in a hypothesis- driven, mechanistic framework that emphasizes the pivotal role of molecular markers for precise patient selection and the development of pharmacodynamic biomarkers, interconnecting the drug's mechanism of action and its therapeutic efficacy. Our current research is particularly focused on drugging kinases such as CDK11, CDK12/13, and ULK1, chemoproteomics-enabled fragment-based drug discovery, and advancing targeted protein degradation strategies.\n  *"
@@ -30,6 +30,14 @@
     }
   ],
   "publications": [
+    {
+      "title": "Targeting CDK12/13 Drives Mitotic Arrest to Overcome Resistance to KRASG12C Inhibitors",
+      "pubmed_id": "41165466",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Stern YE, Ghosh P, Peroza J, Solanki HS, Imbody D, Bridenstine L, Pandurangan T, Frydman SM, Nickens KN, Walker-Mimms HL, Suvarna K, Chaudhary N, Monastyrskyi A, Duckett D, Haura EB",
+      "journal": "Cancer Res"
+    },
     {
       "title": "Highlights from the Lowlands: Early Career Researchers Shine at Medicinal Chemistry Frontiers 2024",
       "pubmed_id": "39571174",
@@ -105,15 +113,6 @@
       "year": "2023",
       "publication_date": "2023 Apr",
       "authors": "Nacheva K, Kulkarni SS, Kassu M, Flanigan D, Monastyrskyi A, Iyamu ID, Doi K, Barber M, Namelikonda N, Tipton JD, Parvatkar P, Wang HG, Manetsch R",
-      "journal": "J Med Chem"
-    },
-    {
-      "title": "Aminoalkoxycarbonyloxymethyl Ether Prodrugs with a pH-Triggered Release Mechanism: A Case Study Improving the Solubility, Bioavailability, and Efficacy of Antimalarial 4(1H)-Quinolones with Single Dose Cures",
-      "pubmed_id": "33979164",
-      "pmc_id": "PMC8904075",
-      "year": "2021",
-      "publication_date": "2021 May",
-      "authors": "Monastyrskyi A, Brockmeyer F, LaCrue AN, Zhao Y, Maher SP, Maignan JR, Padin-Irizarry V, Sakhno YI, Parvatkar PT, Asakawa AH, Huang L, Casandra D, Mashkouri S, Kyle DE, Manetsch R",
       "journal": "J Med Chem"
     }
   ],
@@ -199,11 +198,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://monastyrskyi.moffitt.org/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MonastyrskyiAndrii_24126.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24126"
   },
-  "content_hash": "085247a99fd829d6817a1b14eef6401b30c48680b3e71a19f3e1cf090bdf378b",
-  "researcher_name": "Andrii Monastyrskyi",
-  "department": "Drug Discovery"
+  "content_hash": "f822c2818f4c95da4b2f915051d89c9daf604cd2c1d0416157733d3c65c4b8a6",
+  "researcher_name": "andrii monastyrskyi",
+  "department": "drug discovery"
 }

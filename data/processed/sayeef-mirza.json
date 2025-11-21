@@ -1,0 +1,161 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/sayeef-mirza/",
+  "last_updated": "2025-11-21T22:50:26.790192",
+  "researcher_id": "unknown",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "blood and marrow transplant and cellular immunotherapy",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Mirza\u2019s clinical and research interests involve optimizing stem cell transplantation and cellular therapies for both hematologic malignancies and non-hematologic conditions. He is also interested in immune reconstitution and regulating the immune system to maximize long-term clinical outcomes. He looks forward to synthesizing a career in clinical investigation and translational research. He is spearheading an effort to offer transplant and CAR-T to patients with non-hematologic and/or autoimmune conditions.",
+  "research_interests": [
+    "Dr. Mirza\u2019s research has involved studying the toxicities associated with hematopoietic stem cell transplantation and cellular therapies using both single institutional experiences and multi-institutional registries.\n  *"
+  ],
+  "associations": [
+    "Blood and Marrow Transplant and Cellular Immunotherapy",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South FloridaMPH"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University of South Florida"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of South Florida",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Yale University",
+      "specialty": "Hematology & Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide",
+      "pubmed_id": "40617898",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H",
+      "journal": "Bone Marrow Transplant"
+    },
+    {
+      "title": "Standard-of-care idecabtagene vicleucel for relapsed/refractory multiple myeloma",
+      "pubmed_id": "40198886",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Sidana S, Ahmed N, Akhtar OS, Brazauskas R, Oloyede T, Bye M, Hansen DK, Ferreri CJ, Freeman CL, Afrough A, Anderson LD, Dhakal B, Dhanda DS, Gowda L, Hashmi H, Harrison MJ, Kitali A, Landau HJ, Mirza AS, Patwardhan P, Qazilbash MH, Usmani SZ, Patel KK, Nishihori T, Ganguly S, Pasquini MC",
+      "journal": "Blood"
+    },
+    {
+      "title": "Cytokine Release Syndrome and Neurotoxicity Following CD19 CAR-T in B-Cell Lymphoma",
+      "pubmed_id": "40288610",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Shouval R, Strouse C, Kim S, Oloyede T, Ahmed S, Awan FT, Luan D, Bachanova V, Badar T, Bar M, Barba P, Beitinjaneh AM, Cashen A, Dholaria B, Elsawy M, Ganguly S, Geethakumari PR, Greenbaum U, Hashmi H, Hill LC, Jain MD, Jain T, Kebriaei P, Kittai AS, Locke FL, Lulla PD, Mead E, McGuirk JP, Mussetti A, Nishihori T, Olson AL, Pennisi M, Perales MA, Riedell PA, Saber W, Mirza AS, Magalhaes-Silverman M, Shpall EJ, Sorror M, Wudhikarn K, Turtle CJ, Moskop A, Pasquini MC",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "Outcomes of older adults and frail patients receiving idecabtagene vicleucel: a CIBMTR study",
+      "pubmed_id": "39786391",
+      "pmc_id": "PMC11986210",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Akhtar OS, Oloyede T, Brazauskas R, Afrough A, Hashmi H, Sidana S, Ahmed N, Bye M, Hansen DK, Ferreri CJ, Dhakal B, Dhanda DS, Harrison MJ, Kitali A, Landau HJ, Mirza AS, Patel J, Patwardhan P, Qazilbash MH, Patel KK, Nishihori T, Ganguly S, Gowda L, Anderson LD, Pasquini MC, Usmani SZ, Freeman CL",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Outcomes of Haploidentical Stem Cell Transplant Recipients With HHV-6B Reactivation",
+      "pubmed_id": "39411216",
+      "pmc_id": "PMC11475747",
+      "year": "2024",
+      "publication_date": "2024 Oct",
+      "authors": "Handley G, Yepes A, Eliassen E, Dominguez G, Pasikhova Y, Klinkova O, Baluch A, Febres-Aldana AJ, Alsina M, Elmariah H, Khimani F, Hansen DK, Freeman CL, Jain MD, Locke F, Lazaryan A, Liu HD, Mishra A, Mirza AS, Nishihori T, Ochoa L, Perez L, Pidala J, Puglianini OC, Nieder M, Perna F, Kim J, Bejanyan N, Faramand R",
+      "journal": "Open Forum Infect Dis"
+    },
+    {
+      "title": "Real-world and clinical trial outcomes in large B-cell lymphoma with axicabtagene ciloleucel across race and ethnicity",
+      "pubmed_id": "38635762",
+      "pmc_id": "PMC11251200",
+      "year": "2024",
+      "publication_date": "2024 Jun",
+      "authors": "Locke FL, Siddiqi T, Jacobson CA, Ghobadi A, Ahmed S, Miklos DB, Perales MA, Munoz J, Fingrut WB, Pennisi M, Gauthier J, Shadman M, Gowda L, Mirza AS, Abid MB, Hong S, Majhail NS, Kharfan-Dabaja MA, Khurana A, Badar T, Lin Y, Bennani NN, Herr MM, Hu ZH, Wang H, Baer A, Baro E, Miao H, Spooner C, Xu H, Pasquini MC",
+      "journal": "Blood"
+    },
+    {
+      "title": "Minimalist approach to conditioning intensity for allogeneic transplantation of patients with non-Hodgkin Lymphoma: if less is more, than how low do we go?",
+      "pubmed_id": "38185504",
+      "year": "2024",
+      "publication_date": "2024 Jan",
+      "authors": "Mirza AS, Lazaryan A",
+      "journal": "Transplant Cell Ther"
+    },
+    {
+      "title": "SYK and ZAP70 kinases in autoimmunity and lymphoid malignancies",
+      "pubmed_id": "35398488",
+      "year": "2022",
+      "publication_date": "2022 Jun",
+      "authors": "Leveille E, Chan LN, Mirza AS, Kume K, M\u00fcschen M",
+      "journal": "Cell Signal"
+    },
+    {
+      "title": "Preventative Cancer Screening Rates Among Uninsured Patients in Free Clinics: A Retrospective Cohort Study of Cancer Survivors and Non-cancer Survivors",
+      "pubmed_id": "35245986",
+      "pmc_id": "PMC8902193",
+      "year": "2022",
+      "publication_date": "2022 Jan",
+      "authors": "MacDonald M, Mirza AS, Mhaskar R, Ewing A, Chen L, Robinson K, Lu Y, Ayoubi N, Gonzalez E, Guerra L, Roetzheim R, Woodard L, Pabbathi S",
+      "journal": "Cancer Control"
+    },
+    {
+      "title": "Outcomes Following Intolerance to Tacrolimus/Sirolimus Graft-versus-Host Disease Prophylaxis for Allogeneic Hematopoietic Cell Transplantation",
+      "pubmed_id": "35017119",
+      "year": "2022",
+      "publication_date": "2022 Apr",
+      "authors": "Mirza AS, Tandon A, Jenneman D, Cao S, Brimer T, Kumar A, Kidd M, Khimani F, Faramand R, Mishra A, Liu H, Nishihori T, Perez L, Lazaryan A, Bejanyan N, Nieder M, Pidala J, Elmariah H",
+      "journal": "Transplant Cell Ther"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: A Randomized, Multicenter, Phase III Trial of Tacrolimus/Methotrexate/Ruxolitinib versus Post-Transplant Cyclophosphamide/Tacrolimus/Mycophenolate Mofetil in Non-Myeloablative/Reduced Intensity  \nAward Number: N/A  \nSponsor: Medical College of Virginia Foundation (MCVF)  \nMirza, A. (PD/PI), Pidala, J. ()",
+      "title": "A Randomized, Multicenter, Phase III Trial of Tacrolimus/Methotrexate/Ruxolitinib versus Post-Transplant Cyclophosphamide/Tacrolimus/Mycophenolate Mofetil in Non-Myeloablative/Reduced Intensity",
+      "sponsor": "Medical College of Virginia Foundation (MCVF)",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Mirza, A.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Pidala, J.",
+          "role": ""
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23456/",
+      "trial_id": "23456",
+      "title": "A Randomized, Multicenter, Phase III Trial of Tacrolimus/Methotrexate/Ruxolitinib versus Post-Transplant Cyclophosphamide/Tacrolimus/Mycophenolate Mofetil in Non-Myeloablative/Reduced Intensity Conditioning Allogeneic Peripheral Blood Stem Cell Transplantation (CTN 2203)",
+      "condition": "Immunotherapy",
+      "intervention": "Alkeran (Melphalan); Cellcept (Mycophenolate Mofetil); FK506 (Tacrolimus); Jakafi (Ruxolitinib); Melphalan (); Mycophenolate Mofetil (); Radiotherapy (); Ruxolitinib (); Tacrolimus (); busulfan (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate); methotrexate ()",
+      "status": "OPEN (SUSPENDED)"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MirzaSayeef_4662.jpg",
+  "contact": {},
+  "content_hash": "2f4977e92c67b8d568ee27be09f870541053f5cfb946ce7e93b5fe036ce40f4b",
+  "researcher_name": "sayeef mirza",
+  "department": ""
+}

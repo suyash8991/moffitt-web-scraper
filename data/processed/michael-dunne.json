@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/michael-dunne",
-  "last_updated": "2025-10-21T16:39:08.005279",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/michael-dunne/",
+  "last_updated": "2025-11-21T22:50:25.775706",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "BioEngineering",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "bioengineering",
+  "research_program": "immuno-oncology",
   "overview": "The central research theme of Dr. Dunne's lab is cell-based drug delivery. the Dunne Lab harnesses chemistry, materials science, bioengineering, pharmaceutical sciences, and immunology approaches in order to improve the delivery efficiency of therapeutic molecules to tumors, while sparing normal tissue.",
   "research_interests": [
     "Dr. Dunne\u2019s primary research interest is the development of technologies that improve the delivery efficiency of a wide range of therapeutics to solid tumors. Specifically, the Dune Lab focuses on using novel hydrogel materials in order to develop triggered-release, cell-based drug delivery therapeutics that modulate the tumor microenvironment in order to improve the efficacy of the current generation of cell and immuno-therapies. Additional research is focused on improving anti-cancer cell therapies by combining them with externally applied stimuli (e.g. radiotherapy, hyperthermia, and/or focused ultrasound) in order to alter immune cell accumulation and distribution within the tumor.\n  *"
@@ -28,7 +28,21 @@
       "specialty": "BioEngineering"
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "title": "Biophysical modeling identifies an optimal hybrid amoeboid-mesenchymal mechanism for maximal T cell migration speeds",
+      "pubmed_id": "39026744",
+      "pmc_id": "PMC11257493",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Alonso-Matilla R, Pedro DI, Pepe A, Serrano-Velez J, Dunne M, Nguyen DT, Sawyer WG, Provenzano PP, Odde DJ",
+      "journal": "bioRxiv"
+    },
+    {
+      "title": "",
+      "authors": ""
+    }
+  ],
   "grants": [
     {
       "description": "Title: Soft Materials to Harness the Immune System for Targeted Drug Delivery  \nAward Number:   \nSponsor: American Cancer Society, Inc. (ACS)  \nDunne, M. (PD/PI)",
@@ -44,9 +58,12 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com.au/citations?user=eR82W8gAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/DunneMichael_37746.jpg",
   "contact": {},
-  "content_hash": "aa8837e05c89d7b5d98f104ae40aaa55f74b30a560367d5a7b483ade73aaaaf2",
-  "researcher_name": "Michael Dunne",
-  "department": "Immunology"
+  "content_hash": "792128f3e9e78a36253620ac6bf42e06f03b8b471f79125e6ee756d0cd887929",
+  "researcher_name": "michael dunne",
+  "department": "immunology"
 }

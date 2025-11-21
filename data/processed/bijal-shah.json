@@ -1,0 +1,202 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/bijal-shah/",
+  "last_updated": "2025-11-21T22:50:22.915302",
+  "researcher_id": "8329",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "immuno-oncology",
+  "overview": "Dr. Shah is focused on clinical and translational research efforts, particularly in regards to mantle cell lymphoma (MCL) and acute lymphoblastic leukemia (ALL), with a specific interest in issues related to the care of adolescents and young adults. His interests in the latter are a direct extension of my background in pediatrics, and have been supplemented by work done at Moffitt, as well as within the cooperative group setting.",
+  "research_interests": [
+    "Dr. Shah has served as primary investigator on 11 phase 1, 2, and 3 studies, with a special focus on investigational therapeutics for Non-Hodgkin lymphoma and acute lymphoblastic leukemia (ALL). He has also worked to create our institutional database for mantle cell lymphoma (MCL), given our high volumes in this regard. At present Moffitt has over 350 patients characterized, from which we have already generated several abstracts to further our understanding of this disease.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, MS"
+    },
+    {
+      "type": "Medical School",
+      "institution": "University of South Florida",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "Duke University",
+      "position": "Intern",
+      "specialty": "al Medicine & Pediatrics"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Moffitt Cancer Center",
+      "specialty": "Hematology & Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Internal Medicine",
+      "certification": "Hematology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Zanubrutinib versus acalabrutinib indirect treatment comparison in relapsed or refractory mantle cell lymphoma",
+      "pubmed_id": "40889741",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Shah B, Challagulla S, Xu S, Williams R, Ren S, Srivastava T, Gautam R, Yang K, Saba NS, Tam CS",
+      "journal": "Leuk Lymphoma"
+    },
+    {
+      "title": "Real-world treatment patterns of Bruton tyrosine kinase inhibitors in mantle cell lymphoma in a community oncology setting",
+      "pubmed_id": "40916371",
+      "pmc_id": "PMC12490371",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Shah BD, Xue M, Furnback W, Yang K",
+      "journal": "Future Oncol"
+    },
+    {
+      "title": "The impact of social determinants of health on outcomes of brexucabtagene autoleucel in adults with relapsed/refractory B-cell acute lymphoblastic leukemia",
+      "pubmed_id": "40849364",
+      "pmc_id": "PMC12583187",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "O'Connor TE, Lin C, Roloff GW, Zhang A, Miller K, Aldoss I, Kopmar NE, Dekker SE, Gupta VK, Jeyakumar N, Muhsen IN, Valtis Y, Ahmed N, Sutherland K, Dykes KC, Ahmed M, Chen E, Zambrano H, Bradshaw D, Mercadal S, Schwartz M, Tracy S, Connor MP, Kubiak M, Mukherjee A, Majhail N, Battiwalla M, Mountjoy L, Malik SA, Mathews J, Shaughnessy P, Blunk B, Logan AC, Ladha A, Advani AS, Stefan M, Guzowski C, Hoeg RT, Hilal T, Moore J, O'Dwyer KM, Hill LC, Sasine J, Oliai C, Solh MM, Lee CJ, Kota VK, Koura D, Kumaran MV, Leonard JT, Frey NV, Park JH, Luskin MR, Bachanova V, Galal A, Pullarkat V, Bishop MR, Stock W, Cassaday RD, Shah BD, Faramand R, Muffly LS, Tsai SB, Dholaria B",
+      "journal": "Bone Marrow Transplant"
+    },
+    {
+      "title": "Three-year analysis of adult patients with relapsed or refractory B-cell acute lymphoblastic leukemia treated with brexucabtagene autoleucel in ZUMA-3",
+      "pubmed_id": "40108332",
+      "pmc_id": "PMC12055586",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Shah BD, Cassaday RD, Park JH, Houot R, Logan AC, Boissel N, Leguay T, Bishop MR, Topp MS, O'Dwyer KM, Tzachanis D, Arellano ML, Lin Y, Baer MR, Schiller GJ, Subklewe M, Abedi M, Minnema MC, Wierda WG, DeAngelo DJ, Stiff P, Jeyakumar D, Mao D, Adhikary S, Zhou L, Hadjivassileva T, Damico Khalid R, Ghobadi A, Oluwole OO",
+      "journal": "Leukemia"
+    },
+    {
+      "title": "Clinical use of measurable residual disease in adult ALL: recommendations from a panel of US experts",
+      "pubmed_id": "39853316",
+      "pmc_id": "PMC11960638",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Short NJ, Aldoss I, DeAngelo DJ, Konopleva MY, Leonard JT, Logan A, Park JH, Shah BD, Stock W, Jabbour EJ",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "Real-world outcomes for young adult patients receiving CD19 CAR T-cell therapy",
+      "pubmed_id": "40127395",
+      "pmc_id": "PMC12166372",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Lust H, Schultz LM, Kwon S, Roloff GW, Aldoss I, Baggott C, John S, Rossoff J, McNerney KO, Fabrizio VA, Talano JA, Moskop A, Curran KJ, Phillips CL, Karras NA, Baumeister SHC, Cooper S, Hermiston ML, Satwani P, Qayed M, Raikar SS, MacMillan ML, Hall EM, Nguyen K, Cassaday RD, Kopmar NE, Kota VK, Mathews J, Shaughnessy PJ, Schwartz MS, Ladha A, Yaghmour G, Kumaran M, Bachanova V, Tracy SI, Othman T, Luskin MR, Chen EC, Advani AS, Jeyakumar N, Miller K, Zhang A, Shah BD, Muffly LS, Faramand RG",
+      "journal": "Blood Adv"
+    },
+    {
+      "title": "A Systematic Literature Review of the Economic and Healthcare Resource Utilization Burden of Relapsed/Refractory Follicular Lymphoma",
+      "pubmed_id": "40263163",
+      "pmc_id": "PMC12209080",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Shah B, Xue M, Furnback W, Seymour EK, Kim J, Chuang PY, Dec M, Yang K",
+      "journal": "Pharmacoecon Open"
+    },
+    {
+      "title": "Sarcopenia and Skeletal Muscle Loss after CAR T-cell Therapy in Diffuse Large B-cell Lymphoma",
+      "pubmed_id": "40238583",
+      "pmc_id": "PMC12213223",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Jhaveri K, Thapa R, Ercan D, Saha A, Noble J, Singh P, Fahrmann J, Saini N, Wu R, Dennison JB, Hanash S, Jenq RR, Modi K, Figura N, Chavez J, Shah B, Nishihori T, Lazaryan A, Khimani F, Bachmeier C, Gage K, Mishra A, Perna F, Davila ML, Spiegel J, Rejeski K, Subklewe M, Locke FL, Freeman C, Parker N, Jain MD",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Comparison of axicabtagene ciloleucel and tisagenlecleucel patient CAR-T cell products by single-cell RNA sequencing",
+      "pubmed_id": "40730421",
+      "pmc_id": "PMC12306477",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Yu X, Jain MD, Menges MA, Cen L, Noble JD, Atkins R, Mohammad TJ, Bachmeier CA, Naderinezhad S, Reid K, Corallo S, Yoder SJ, Zhang C, Zhang L, Miranda JA, Shah B, Chavez JC, Hesterberg RS, Delgado LC, Savid-Frontera C, Rodriguez PC, Cleveland JL, Wang X, Davila ML, Locke FL",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma",
+      "pubmed_id": "39476082",
+      "pmc_id": "PMC11733535",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH",
+      "journal": "Cancer Res"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Optimizing single cell sequencing to elucidate the relationship between response to brexucabtagene autoleucel (brexu-cel)and cellular determinants of exhaustion  \nAward Number: 18VA031 SOW#2  \nSponsor: Kite Pharma  \nShah, B. (PD/PI), Locke, F. (Co-PD/PI), Yu, X. (Co-PD/PI)",
+      "title": "Optimizing single cell sequencing to elucidate the relationship between response to brexucabtagene autoleucel (brexu-cel)and cellular determinants of exhaustion",
+      "award_number": "18VA031 SOW#2",
+      "sponsor": "Kite Pharma",
+      "investigators": [
+        {
+          "name": "Shah, B.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Locke, F.",
+          "role": "Co-PD/PI"
+        },
+        {
+          "name": "Yu, X.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21213/",
+      "trial_id": "21213",
+      "title": "A Single-Arm, Open-Label Phase 1b Study of Hyper-CVAD + Calaspargase pegol in Young Adults with Newly Diagnosed Acute Lymphoblastic Leukemia",
+      "condition": "Malignant Hematology",
+      "intervention": "Calaspargase pegol ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22286/",
+      "trial_id": "22286",
+      "title": "Phase 2 Study of KTE-X19 in MRD Positive B-ALL",
+      "condition": "Malignant Hematology",
+      "intervention": "KTE-X19 (); Vincristine (); cyclophosphamide (); cytoxan (cyclophosphamide); fludarabine (Fludarabine phosphate)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23453/",
+      "trial_id": "23453",
+      "title": "A Phase 1/2 Study to Evaluate the Safety and Efficacy of AZD0486 in Adolescent and Adult Participants with Relapsed or Refractory B-Cell Acute Lymphoblastic Leukemia",
+      "condition": "Malignant Hematology",
+      "intervention": "AZD0486 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23652/",
+      "trial_id": "23652",
+      "title": "A Phase 1, multicenter, open-label study of UB-VV111 in combination with rapamycin in relapsed/refractory (R/R) CD19+ hematologic malignancies",
+      "condition": "Malignant Hematology",
+      "intervention": "Rapamycin (Sirolimus); UB-VV111 ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ShahBijal_8329.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=8329"
+  },
+  "content_hash": "9c5ca3fb2fedb3d07175de1f7ef17b3bb366652cc6f55de1c8be37bca27ba3c1",
+  "researcher_name": "bijal shah",
+  "department": ""
+}

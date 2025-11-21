@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jorge-mansilla-soto",
-  "last_updated": "2025-10-21T16:40:09.966349",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jorge-mansilla-soto/",
+  "last_updated": "2025-11-21T22:50:24.805500",
   "researcher_id": "35941",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Immunology",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "immunology",
+  "research_program": "immuno-oncology",
   "overview": "Immunobiology of engineered CAR T cells",
   "research_interests": [
     "Our general research interest is the understanding of how engineered CAR receptors modulate T cell function in response to tumor targets. Using locus-specific human CAR T cells, we study how distinct chimeric receptor designs drive T cell anti-tumor activity in response to tumor targets in both hematological and solid tumor animal models. In addition, we study the signaling and transcriptional programs that are established in diverse stimulation environments with the ultimate goal to leverage this information to design more efficacious T cell therapies for cancer.\n  *"
@@ -109,11 +109,14 @@
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=35941"
   },
-  "content_hash": "21e4c7ba6e3841015f3c25d1a5e979fe952a299095cc717efe353734666ca0eb",
-  "researcher_name": "Jorge Mansilla Soto",
-  "department": "Immunology"
+  "content_hash": "9188af53fc5beb1f76452c75e24a82e9755cfa883d8b3ec83d4a5af31c7a41b4",
+  "researcher_name": "jorge mansilla soto",
+  "department": "immunology"
 }

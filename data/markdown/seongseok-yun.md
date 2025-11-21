@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/seongseok-yun)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/seongseok-yun)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -499,7 +498,7 @@ As a physician-scientist, with clinical and basic research expertise in hematolo
 **Medical School:**
     * Seoul National University, College of Medicine - MD
   * ## Research Interest
-The current focus of my laboratory is defining the oncogenic mechanisms of MYC in the development and maintenance of myeloid neoplasms including acute myeloid leukemia (AML) and myelofibrosis (MF), specifically focusing on MYC-directed epigenetic regulation of DNA methyl- and hydroxy-methylation, as well as MYC-induced alarmins and their roles in chronic inflammation in both normal hematopoietic stem cells and cancer cells. 
+The current focus of my laboratory is defining the oncogenic mechanisms of MYC in the development and maintenance of myeloid neoplasms including acute myeloid leukemia (AML) and myelofibrosis (MF), specifically focusing on MYC-directed epigenetic regulation of DNA methyl- and hydroxy-methylation, as well as MYC-induced alarmins and their roles in chronic inflammation in both normal hematopoietic stem cells and cancer cells.
   * ## Publications
     * Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS. Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm. Blood Neoplasia. 2025 May.2(2):100062. Pubmedid: [40453136](https://www.ncbi.nlm.nih.gov/pubmed/40453136). Pmcid: PMC12067887. 
     * Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS. Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML). Leuk Res. 2025 Mar.150:107662. Pubmedid: [39921921](https://www.ncbi.nlm.nih.gov/pubmed/39921921). 
@@ -544,8 +543,8 @@ The current focus of my laboratory is defining the oncogenic mechanisms of MYC i
     * Yun S, Khoubyari R, Abraham I. Potential Benefit of Low-Dose Candesartan in Trastuzumab-Induced Cardiotoxic Effects. JAMA Oncol. 2016 Oct.3(2):279. Pubmedid: [27787557](https://www.ncbi.nlm.nih.gov/pubmed/27787557). 
     * Yun S, Acharya U. Waxing and Waning Pruritic Cutaneous Lesions Refractory to Antibiotic Treatment. JAMA Oncol. 2016 Nov.2(11):1501-1502. Pubmedid: [27467706](https://www.ncbi.nlm.nih.gov/pubmed/27467706). 
     * Yun S, Vincelette ND, Segar JM, Dong Y, Shen Y, Kim DW, Abraham I. Comparative Effectiveness of Newer Tyrosine Kinase Inhibitors Versus Imatinib in the First-Line Treatment of Chronic-Phase Chronic Myeloid Leukemia Across Risk Groups: A Systematic Review and Meta-Analysis of Eight Randomized Trials. Clin Lymphoma Myeloma Leuk. 2016 Jun.16(6):e85-e94. Pubmedid: [27101984](https://www.ncbi.nlm.nih.gov/pubmed/27101984). 
-    * Yun S, Vincelette ND, Knorr KL, Almada LL, Schneider PA, Peterson KL, Flatten KS, Dai H, Pratz KW, Hess AD, Smith BD, Karp JE, Hendrickson AE, Fernandez-Zapico ME, Kaufmann SH. 4EBP1/c-MYC/PUMA and NF-κB/EGR1/BIM pathways underlie cytotoxicity of mTOR dual inhibitors in malignant lymphoid cells. Blood. 2016 Jun.127(22):2711-2722. Pubmedid: [26917778](https://www.ncbi.nlm.nih.gov/pubmed/26917778). Pmcid: PMC4891953. 
     * Yun S, Vincelette ND, Abraham I. Multiple Causes of Cardiotoxic Effects in Patients With Chronic Myeloid Leukemia. JAMA Oncol. 2016 Jun.2(6):828-829. Pubmedid: [27281623](https://www.ncbi.nlm.nih.gov/pubmed/27281623). 
+    * Yun S, Vincelette ND, Knorr KL, Almada LL, Schneider PA, Peterson KL, Flatten KS, Dai H, Pratz KW, Hess AD, Smith BD, Karp JE, Hendrickson AE, Fernandez-Zapico ME, Kaufmann SH. 4EBP1/c-MYC/PUMA and NF-κB/EGR1/BIM pathways underlie cytotoxicity of mTOR dual inhibitors in malignant lymphoid cells. Blood. 2016 Jun.127(22):2711-2722. Pubmedid: [26917778](https://www.ncbi.nlm.nih.gov/pubmed/26917778). Pmcid: PMC4891953. 
     * Yun S, Vincelette ND, Abraham I, Robertson KD, Fernandez-Zapico ME, Patnaik MM. Targeting epigenetic pathways in acute myeloid leukemia and myelodysplastic syndrome: a systematic review of hypomethylating agents trials. Clin Epigenetics. 2016 Jun.8:68. Pubmedid: [27307795](https://www.ncbi.nlm.nih.gov/pubmed/27307795). Pmcid: PMC4908810. 
     * Yun S, Vincelette ND, Green MR, Wahner Hendrickson AE, Abraham I. Targeting immune checkpoints in unresectable metastatic cutaneous melanoma: a systematic review and meta-analysis of anti-CTLA-4 and anti-PD-1 agents trials. Cancer Med. 2016 Jul.5(7):1481-1491. Pubmedid: [27167347](https://www.ncbi.nlm.nih.gov/pubmed/27167347). Pmcid: PMC4867662. 
     * Alcharakh M, Yun S, Dong Y, Vincelette ND, Daud M, Manzoor S, Riaz IB, Anwer F. Blinatumomab-induced donor T-cell activation for post-stem cell transplant-relapsed acute CD19-positive biphenotypic leukemia. Immunotherapy. 2016 Jul.8(8):847-852. Pubmedid: [27381683](https://www.ncbi.nlm.nih.gov/pubmed/27381683). 
@@ -562,8 +561,8 @@ The current focus of my laboratory is defining the oncogenic mechanisms of MYC i
     * Yun S, Howe LN, Afshar S, Jahan K. Concurrent diffuse alveolar haemorrhage and venous thromboembolism in p-ANCA associated vasculitis treated with rituximab. BMJ Case Rep. 2014 Jun.2014. Pubmedid: [24916986](https://www.ncbi.nlm.nih.gov/pubmed/24916986). Pmcid: PMC4054105. 
     * Yun S, Vincelette ND, Phan T, Anwer F. Spontaneous tumour lysis syndrome associated with contrast dye iohexol use in mantle cell lymphoma. BMJ Case Rep. 2014 Jul.2014. Pubmedid: [25028407](https://www.ncbi.nlm.nih.gov/pubmed/25028407). Pmcid: PMC4112310. 
     * Ding H, McDonald JS, Yun S, Schneider PA, Peterson KL, Flatten KS, Loegering DA, Oberg AL, Riska SM, Huang S, Sinicrope FA, Adjei AA, Karp JE, Meng XW, Kaufmann SH. Farnesyltransferase inhibitor tipifarnib inhibits Rheb prenylation and stabilizes Bax in acute myelogenous leukemia cells. Haematologica. 2014 Jan.99(1):60-69. Pubmedid: [23996484](https://www.ncbi.nlm.nih.gov/pubmed/23996484). Pmcid: PMC4007940. 
-    * Taverna JA, Babiker HM, Yun S, Bishop MC, Lau-Braunhut S, Meyer PN, Enzler T. The great masquerader of malignancy: chronic intestinal pseudo-obstruction. Biomark Res. 2014 Dec.2(1):23. Pubmedid: [25635225](https://www.ncbi.nlm.nih.gov/pubmed/25635225). Pmcid: PMC4310203. 
     * Taverna J, Nair A, Yun S, Paulson S, Schatz JH, Persky D, Fuchs D, Puvvada S. A rare presentation of in situ mantle cell lymphoma and follicular lymphoma: a case report and review of the literature. Case Rep Hematol. 2014 Dec.2014:145129. Pubmedid: [25478252](https://www.ncbi.nlm.nih.gov/pubmed/25478252). Pmcid: PMC4249607. 
+    * Taverna JA, Babiker HM, Yun S, Bishop MC, Lau-Braunhut S, Meyer PN, Enzler T. The great masquerader of malignancy: chronic intestinal pseudo-obstruction. Biomark Res. 2014 Dec.2(1):23. Pubmedid: [25635225](https://www.ncbi.nlm.nih.gov/pubmed/25635225). Pmcid: PMC4310203. 
     * Yun S, Braunhut BL, Walker CN, Bhati W, Sussman AN, Anwer F. Nephrotic syndrome secondary to proliferative glomerulonephritis with monoclonal immunoglobulin deposits of lambda light chain. Case Rep Nephrol. 2014 Aug.2014:164694. Pubmedid: [25136462](https://www.ncbi.nlm.nih.gov/pubmed/25136462). Pmcid: PMC4129672. 
     * Yun S, Taverna JA, Puvvada SD, Anwer F. NK/T-cell non-Hodgkin's lymphoma with secondary haemophagocytic lymphohistiocytosis treated with matched unrelated donor allogeneic stem cell transplant. BMJ Case Rep. 2014 Aug.2014. Pubmedid: [25123574](https://www.ncbi.nlm.nih.gov/pubmed/25123574). Pmcid: PMC4139541. 
     * Yun S, Anwer F, Vincelette ND. Dasatinib-induced pulmonary hypertension in chronic myelogenous leukaemia. BMJ Case Rep. 2014 Apr.2014. Pubmedid: [24810451](https://www.ncbi.nlm.nih.gov/pubmed/24810451). Pmcid: PMC3992554. 
@@ -656,7 +655,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -711,7 +710,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/seongseok-yun#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/seongseok-yun#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -729,7 +728,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1083,7 +1082,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/seongseok-yun#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/seongseok-yun#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

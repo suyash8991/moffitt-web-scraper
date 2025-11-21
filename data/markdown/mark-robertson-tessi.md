@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/mark-robertson-tessi)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/mark-robertson-tessi)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -487,7 +486,9 @@ My research focuses on the integration of mathematical modeling with both experi
   * ## Research Interest
 1) Dynamic clinical decision support frameworks for implementing evolutionary therapies. Many challenges exist to implementing a real-time decision support framework based on large data sets and mathematical modeling. I have been tackling aspects of this problem since my first year at Moffitt, when I helped develop a decision support tool for undetectable breast cancer metastases in the inaugural IMO workshop. More recently, the opportunity to implement these ideas in the clinic became reality with the clinical trial for the Evolutionary Tumor Board (ETB), where mathematical modeling and data analysis are used to generate predictions of patient response to available treatment options. My role in the ETB, which has been enrolling patients since 2020, was to develop and implement novel techniques for using both individual and cohort patient data to predict treatment response and identify alternative optimal strategies for patients. To date, we have enrolled 21 patients in the trial and have developed many novel methods that will serve as the foundation for upcoming evolutionary therapy trials. We are in the process of submitting the first two papers on the ETB, and the approach is extending into a number of new trials in this space, including a multi-institution ETB for pediatric cancers (MCC 22170) of which I am co-PI with Jonathan Metts. 2) Tumor-immune interactions and immunotherapies. Starting with my Ph.D. research and continuing at Moffitt, I have studied the dynamics of immune cells and associated signaling molecules in response to a growing tumor. The complex and dual-edged nature of the immune response, with its pro- and anti-tumor elements, leads to a rich landscape of interactions that benefits from mathematical modeling approaches. Across several diverse tumor-immune models, the repeated observation of personalized “Goldilocks windows” of immunotherapy suggests that there is room to improve the delivery of such treatments in the clinic. 3) Phenotypic heterogeneity, natural selection, and the tumor microenvironment. My major project upon starting as a postdoc was developing a detailed and calibrated mechanistic model of vascular tumor growth, in the context of aerobic glycolysis and acid-mediated invasion. The model included evolving cellular metabolism and a dynamic microenvironment. This work drew upon the interdisciplinary knowledge and data being generated by Moffitt’s Physical Sciences in Oncology U54 center grant. The model predicted many interesting and unintuitive phenomena that were subsequently validated in parallel experimental systems. Several additional studies extended and adapted this model, leading the conceptualization and development of a model-building platform (Hybrid Automata Library, aka HAL) that is now being used in the wider mathematical oncology field. In addition, the model was the basis of the ‘Cancer Crusade’ mobile game, an NIH funded citizen-science initiative that led to a subsequent collaboration with Lawrence Livermore National Laboratory, where we used machine learning approaches to identify optimal treatment policies for patient cohorts.
   * ## Publications
-    * Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary double-bind treatment using radiotherapy and NK cell-based immunotherapy in prostate cancer. Int J Radiat Oncol Biol Phys. 2025 Sep. Pubmedid: [40998270](https://www.ncbi.nlm.nih.gov/pubmed/40998270). 
+    * Luddy KA, West J, Robertson-Tessi M, Desai B, Ojeda A, Newman H, Estrella V, Bursell TM, Barrett S, O'Sullivan J, Marignol L, Gatenby RA, Brown JS, Anderson AR, O'Farrelly C. Evolutionary Double-Bind Treatment Using Radiation Therapy and Natural Killer Cell-Based Immunotherapy in Prostate Cancer. Int J Radiat Oncol Biol Phys. 2025 Sep. Pubmedid: [40998270](https://www.ncbi.nlm.nih.gov/pubmed/40998270). 
+    * West J, Desai B, Strobl M, Gallaher J, Robertson-Tessi M, Marusyk A, Anderson ARA. Evolutionary antifragile therapy. bioRxiv. 2025 Sep. Pubmedid: [41000654](https://www.ncbi.nlm.nih.gov/pubmed/41000654). Pmcid: PMC12458151. 
+    * Luddy K, Newman H, Gravon J, Robertson-Tessi M, Gatenby R. Radiopharmaceutical Therapy and Immunotherapy Combinations Utilizing Cancer Evolution and Computational Modeling in Metastatic Prostate Cancer. PET Clin. 2025 Oct. Pubmedid: [41136296](https://www.ncbi.nlm.nih.gov/pubmed/41136296). 
     * Scibilia KR, Gallagher K, Masud MA, Robertson-Tessi M, Gatenbee CD, West J, Llamas P, Prabhakaran S, Gallaher J, Anderson ARA. Mathematical Oncology: How Modeling Is Transforming Clinical Decision Making. Cancer Res. 2025 Oct. Pubmedid: [41105675](https://www.ncbi.nlm.nih.gov/pubmed/41105675). 
     * Reed DR, Tulpule A, Metts J, Trucco M, Robertson-Tessi M, O'Donohue TJ, Iglesias-Cardenas F, Isakoff MS, Mauguen A, Shukla N, Dela Cruz FS, Tap W, Kentsis A, Morris CD, Hameed M, Honeyman JN, Behr GG, Sulis ML, Ortiz MV, Slotkin E. Pediatric Leukemia Roadmaps Are a Guide for Positive Metastatic Bone Sarcoma Trials. J Clin Oncol. 2024 Sep.42(25):2955-2960. Pubmedid: [38843482](https://www.ncbi.nlm.nih.gov/pubmed/38843482). 
     * Metts JL, Aye JM, Crane JN, Oberoi S, Balis FM, Bhatia S, Bona K, Carleton B, Dasgupta R, Dela Cruz FS, Greenzang KA, Kaufman JL, Linardic CM, Parsons SK, Robertson-Tessi M, Rudzinski ER, Soragni A, Stewart E, Weigel BJ, Wolden SL, Weiss AR, Venkatramani R, Heske CM. Roadmap for the next generation of Children's Oncology Group rhabdomyosarcoma trials. Cancer. 2024 Nov.130(22):3785-3796. Pubmedid: [38941509](https://www.ncbi.nlm.nih.gov/pubmed/38941509). Pmcid: PMC11511643. 
@@ -616,7 +617,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -671,7 +672,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/mark-robertson-tessi#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/mark-robertson-tessi#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -689,7 +690,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1043,7 +1044,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/mark-robertson-tessi#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/mark-robertson-tessi#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

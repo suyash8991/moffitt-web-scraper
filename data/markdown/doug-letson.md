@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/doug-letson)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/doug-letson)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -512,8 +511,8 @@ As an orthopaedic oncology surgeon, Dr. Letson’s research and clinical interes
     * Yang G, Yuan Z, Ahmed K, Welsh EA, Fulp WJ, Gonzalez RJ, Mullinax JE, Letson D, Bui M, Harrison LB, Scott JG, Torres-Roca JF, Naghavi AO. Genomic identification of sarcoma radiosensitivity and the clinical implications for radiation dose personalization. Transl Oncol. 2021 Oct.14(10):101165. Pubmedid: [34246048](https://www.ncbi.nlm.nih.gov/pubmed/34246048). Pmcid: PMC8274330. 
     * Alexander JH, Binitie OT, Letson GD, Joyce DM. Osteosarcoma: An Evolving Understanding of a Complex Disease. J Am Acad Orthop Surg. 2021 Oct.29(20):e993-e1004. Pubmedid: [34623342](https://www.ncbi.nlm.nih.gov/pubmed/34623342). 
     * Mason NT, Burkett JM, Nelson RS, Pow-Sang JM, Gatenby RA, Kubal T, Peabody JW, Letson GD, McLeod HL, Zhang J. Budget Impact of Adaptive Abiraterone Therapy for Castration-Resistant Prostate Cancer. Am Health Drug Benefits. 2021 Mar.14(1):15-20. Pubmedid: [33841621](https://www.ncbi.nlm.nih.gov/pubmed/33841621). Pmcid: PMC8025923. 
-    * Belzarena AC, Binitie O, Letson D, Joyce DM. Intramedullary rod failure in metastatic breast cancer: Do triple negative cancer patients have more revision surgery?. J Bone Oncol. 2021 Jun.28:100358. Pubmedid: [33898214](https://www.ncbi.nlm.nih.gov/pubmed/33898214). Pmcid: PMC8056433. 
     * Broman KK, Joyce D, Binitie O, Letson GD, Gonzalez RJ, Choi J, Mullinax JE. Intraoperative Localization Using an Implanted Radar Reflector Facilitates Resection of Non-Palpable Trunk and Extremity Sarcoma. Ann Surg Oncol. 2021 Jun.28(6):3366-3374. Pubmedid: [33073344](https://www.ncbi.nlm.nih.gov/pubmed/33073344). 
+    * Belzarena AC, Binitie O, Letson D, Joyce DM. Intramedullary rod failure in metastatic breast cancer: Do triple negative cancer patients have more revision surgery?. J Bone Oncol. 2021 Jun.28:100358. Pubmedid: [33898214](https://www.ncbi.nlm.nih.gov/pubmed/33898214). Pmcid: PMC8056433. 
     * Liu W, Chan CM, Gong L, Bui MM, Han G, Letson GD, Yang Y, Niu X. Malignancy in giant cell tumor of bone in the extremities. J Bone Oncol. 2021 Feb.26:100334. Pubmedid: [33251099](https://www.ncbi.nlm.nih.gov/pubmed/33251099). Pmcid: PMC7680773. 
     * Leavey PJ, Laack NN, Krailo MD, Buxton A, Randall RL, DuBois SG, Reed DR, Grier HE, Hawkins DS, Pawel B, Nadel H, Womer RB, Letson GD, Bernstein M, Brown K, Maciej A, Chuba P, Ahmed AA, Indelicato DJ, Wang D, Marina N, Gorlick R, Janeway KA, Mascarenhas L. Phase III Trial Adding Vincristine-Topotecan-Cyclophosphamide to the Initial Treatment of Patients With Nonmetastatic Ewing Sarcoma: A Children's Oncology Group Report. J Clin Oncol. 2021 Dec.39(36):4029-4038. Pubmedid: [34652968](https://www.ncbi.nlm.nih.gov/pubmed/34652968). Pmcid: PMC8677904. 
     * Henderson ER, Keeney BJ, Husson EG, Bernthal NM, Ji T, Pala E, Funovics PT, Groundland JS, Lozano-Calderon S, Puchner S, Zoller SD, Ruggieri P, Windhager R, Guo W, Hornicek FJ, Letson GD, Temple HT. Nonmechanical Revision Indications Portend Repeat Limb-Salvage Failure Following Total Femoral Replacement. J Bone Joint Surg Am. 2020 Sep.102(17):1511-1520. Pubmedid: [32453111](https://www.ncbi.nlm.nih.gov/pubmed/32453111). 
@@ -682,7 +681,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -737,7 +736,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/doug-letson#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -755,7 +754,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1109,7 +1108,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/doug-letson#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/doug-letson#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

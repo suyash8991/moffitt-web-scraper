@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/gina-denicola)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/gina-denicola)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -507,8 +506,8 @@ Cells have energetic and anabolic needs for growth and proliferation. Dr. DeNico
     * Gantner BN, Palma FR, Pandkar MR, Sakiyama MJ, Arango D, DeNicola GM, Gomes AP, Bonini MG. Metabolism and epigenetics: drivers of tumor cell plasticity and treatment outcomes. Trends Cancer. 2024 Nov.10(11):992-1008. Pubmedid: [39277448](https://www.ncbi.nlm.nih.gov/pubmed/39277448). 
     * Ward NP, Yoon SJ, Flynn T, Sherwood AM, Olley MA, Madej J, DeNicola GM. Mitochondrial respiratory function is preserved under cysteine starvation via glutathione catabolism in NSCLC. Nat Commun. 2024 May.15(1):4244. Pubmedid: [38762605](https://www.ncbi.nlm.nih.gov/pubmed/38762605). Pmcid: PMC11102494. 
     * Rawat V, DeLear P, Prashanth P, Ozgurses ME, Tebeje A, Burns PA, Conger KO, Solís C, Hasnain Y, Novikova A, Endress JE, González-Sánchez P, Dong W, Stephanopoulos G, DeNicola GM, Harris I, Sept D, Mason FM, Coloff JL. Drug screening in human physiologic medium identifies uric acid as an inhibitor of rigosertib efficacy. JCI Insight. 2024 May.9(13). Pubmedid: [38815134](https://www.ncbi.nlm.nih.gov/pubmed/38815134). 
-    * Pezacki AT, Gonciarz RL, Okamura T, Matier CD, Torrente L, Cheng K, Miller SG, Ralle M, Ward NP, DeNicola GM, Renslo AR, Chang CJ. A tandem activity-based sensing and labeling strategy reveals antioxidant response element regulation of labile iron pools. Proc Natl Acad Sci U S A. 2024 Jul.121(28). Pubmedid: [38968123](https://www.ncbi.nlm.nih.gov/pubmed/38968123). Pmcid: PMC11252945. 
     * Asantewaa G, Tuttle ET, Ward NP, Kang YP, Kim Y, Kavanagh ME, Girnius N, Chen Y, Rodriguez K, Hecht F, Zocchi M, Smorodintsev-Schiller L, Scales TQ, Taylor K, Alimohammadi F, Duncan RP, Sechrist ZR, Agostini-Vulaj D, Schafer XL, Chang H, Smith ZR, O'Connor TN, Whelan S, Selfors LM, Crowdis J, Gray GK, Bronson RT, Brenner D, Rufini A, Dirksen RT, Hezel AF, Huber AR, Munger J, Cravatt BF, Vasiliou V, Cole CL, DeNicola GM, Harris IS. Glutathione synthesis in the mouse liver supports lipid abundance through NRF2 repression. Nat Commun. 2024 Jul.15(1):6152. Pubmedid: [39034312](https://www.ncbi.nlm.nih.gov/pubmed/39034312). Pmcid: PMC11271484. 
+    * Pezacki AT, Gonciarz RL, Okamura T, Matier CD, Torrente L, Cheng K, Miller SG, Ralle M, Ward NP, DeNicola GM, Renslo AR, Chang CJ. A tandem activity-based sensing and labeling strategy reveals antioxidant response element regulation of labile iron pools. Proc Natl Acad Sci U S A. 2024 Jul.121(28). Pubmedid: [38968123](https://www.ncbi.nlm.nih.gov/pubmed/38968123). Pmcid: PMC11252945. 
     * Jiang Y, El Khoury E, Pezacki AT, Qian N, Oi M, Torrente L, Miller SG, Ralle M, DeNicola GM, Min W, Chang CJ. An Activity-Based Sensing Approach to Multiplex Mapping of Labile Copper Pools by Stimulated Raman Scattering. J Am Chem Soc. 2024 Dec.146(49):33324-33337. Pubmedid: [39586074](https://www.ncbi.nlm.nih.gov/pubmed/39586074). 
     * Greenwood HE, Barber AR, Edwards RS, Tyrrell WE, George ME, Dos Santos SN, Baark F, Tanc M, Khalil E, Falzone A, Ward NP, DeBlasi JM, Torrente L, Soni PN, Pearce DR, Firth G, Smith LM, Vilhelmsson Timmermand O, Huebner A, Swanton C, Hynds RE, DeNicola GM, Witney TH. Imaging NRF2 activation in non-small cell lung cancer with positron emission tomography. Nat Commun. 2024 Dec.15(1):10484. Pubmedid: [39690148](https://www.ncbi.nlm.nih.gov/pubmed/39690148). Pmcid: PMC11652680. 
     * Conger KO, Chidley C, Ozgurses ME, Zhao H, Kim Y, Semina SE, Burns P, Rawat V, Lietuvninkas L, Sheldon R, Ben-Sahra I, Frasor J, Sorger PK, DeNicola GM, Coloff JL. ASCT2 is a major contributor to serine uptake in cancer cells. Cell Rep. 2024 Aug.43(8):114552. Pubmedid: [39068660](https://www.ncbi.nlm.nih.gov/pubmed/39068660). Pmcid: PMC11406281. 
@@ -545,10 +544,10 @@ Cells have energetic and anabolic needs for growth and proliferation. Dr. DeNico
     * Combs JA, DeNicola GM. Publisher Correction: The smell of death and deCYStiny: polyamines play the hero. Nat Metab. 2020 Oct.2(10):1180. Pubmedid: [32973367](https://www.ncbi.nlm.nih.gov/pubmed/32973367). 
     * DeBlasi JM, DeNicola GM. Dissecting the Crosstalk between NRF2 Signaling and Metabolic Processes in Cancer. Cancers (Basel). 2020 Oct.12(10). Pubmedid: [33080927](https://www.ncbi.nlm.nih.gov/pubmed/33080927). Pmcid: PMC7603127. 
     * Combs JA, DeNicola GM. The smell of death and deCYStiny: polyamines play the hero. Nat Metab. 2020 Oct.2(10):995-996. Pubmedid: [32747795](https://www.ncbi.nlm.nih.gov/pubmed/32747795). 
+    * Kang YP, Falzone A, Liu M, González-Sánchez P, Choi BH, Coloff JL, Saller JJ, Karreth FA, DeNicola GM. PHGDH supports liver ceramide synthesis and sustains lipid homeostasis. Cancer Metab. 2020 Jun.8:6. Pubmedid: [32549981](https://www.ncbi.nlm.nih.gov/pubmed/32549981). Pmcid: PMC7294658. 
     * Harris IS, DeNicola GM. The Complex Interplay between Antioxidants and ROS in Cancer. Trends Cell Biol. 2020 Jun.30(6):440-451. Pubmedid: [32303435](https://www.ncbi.nlm.nih.gov/pubmed/32303435). 
     * Ward NP, Kang YP, Falzone A, Boyle TA, DeNicola GM. Nicotinamide nucleotide transhydrogenase regulates mitochondrial metabolism in NSCLC through maintenance of Fe-S protein function. J Exp Med. 2020 Jun.217(6). Pubmedid: [32196080](https://www.ncbi.nlm.nih.gov/pubmed/32196080). Pmcid: PMC7971138. 
     * Ward NP, DeNicola GM. The Golgi: Keeping It Unapologetically Basic. Cancer Discov. 2020 Jun.10(6):768-770. Pubmedid: [32482665](https://www.ncbi.nlm.nih.gov/pubmed/32482665). 
-    * Kang YP, Falzone A, Liu M, González-Sánchez P, Choi BH, Coloff JL, Saller JJ, Karreth FA, DeNicola GM. PHGDH supports liver ceramide synthesis and sustains lipid homeostasis. Cancer Metab. 2020 Jun.8:6. Pubmedid: [32549981](https://www.ncbi.nlm.nih.gov/pubmed/32549981). Pmcid: PMC7294658. 
     * Cheung EC, DeNicola GM, Nixon C, Blyth K, Labuschagne CF, Tuveson DA, Vousden KH. Dynamic ROS Control by TIGAR Regulates the Initiation and Progression of Pancreatic Cancer. Cancer Cell. 2020 Feb.37(2):168-182.e4. Pubmedid: [31983610](https://www.ncbi.nlm.nih.gov/pubmed/31983610). Pmcid: PMC7008247. 
     * Torrente L, Prieto-Farigua N, Falzone A, Elkins CM, Boothman DA, Haura EB, DeNicola GM. Inhibition of TXNRD or SOD1 overcomes NRF2-mediated resistance to β-lapachone. Redox Biol. 2020 Feb.30:101440. Pubmedid: [32007910](https://www.ncbi.nlm.nih.gov/pubmed/32007910). Pmcid: PMC6997906. 
     * Humpton TJ, Alagesan B, DeNicola GM, Lu D, Yordanov GN, Leonhardt CS, Yao MA, Alagesan P, Zaatari MN, Park Y, Skepper JN, Macleod KF, Perez-Mancera PA, Murphy MP, Evan GI, Vousden KH, Tuveson DA. Oncogenic KRAS Induces NIX-Mediated Mitophagy to Promote Pancreatic Cancer. Cancer Discov. 2019 Sep.9(9):1268-1287. Pubmedid: [31263025](https://www.ncbi.nlm.nih.gov/pubmed/31263025). Pmcid: PMC6726540. 
@@ -670,7 +669,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -725,7 +724,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/gina-denicola#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/gina-denicola#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -743,7 +742,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1097,7 +1096,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/gina-denicola#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/gina-denicola#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/philippe-spiess",
-  "last_updated": "2025-10-21T16:38:50.144262",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/philippe-spiess/",
+  "last_updated": "2025-11-21T22:50:26.401653",
   "researcher_id": "4110",
   "degrees": [
     "MD"
   ],
   "title": "",
-  "primary_program": "Genitourinary Oncology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "genitourinary oncology",
+  "research_program": "molecular medicine",
   "overview": "My main areas of research interests include developing novel therapeutic agents in the management of locally advanced and metastatic renal carcinoma.",
   "research_interests": [
     "My main areas of research interests include developing novel therapeutic agents in the management of locally advanced and metastatic renal carcinoma. As well, I have interests in developing multi-modality therapeutic strategies in the management of locally advanced and locally recurrent prostate cancer, with the aim of optimizing treatment outcomes while minimizing morbidity.\n  *"
@@ -50,11 +50,53 @@
       "journal": "BJU Int"
     },
     {
+      "title": "Evaluating the Evolving Treatment Landscape of Systemic Therapies in Penile Cancer",
+      "pubmed_id": "41008800",
+      "pmc_id": "PMC12468617",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Jaime-Casas S, Barragan-Carrillo R, Eskenazi F, Dugarte JP, Chahoud J, Spiess PE, Medina LG",
+      "journal": "Cancers (Basel)"
+    },
+    {
       "title": "Low-grade non-muscle-invasive bladder cancer: molecular landscape, treatment strategies and emerging therapies",
       "pubmed_id": "40931081",
       "year": "2025",
       "publication_date": "2025 Sep",
       "authors": "Wen L, Miyagi H, Spiess PE, Yu A, Mendelsohn CL, Tan WS, Psutka SP, Lerner SP, Cheng L, Dyrskj\u00f8t L, Meeks JJ, Shariat SF, Gontero P, Pradere B, Steinberg GD, Kamat AM, Li R",
+      "journal": "Nat Rev Urol"
+    },
+    {
+      "title": "Impact of Systemic Therapy for Renal Cell Carcinoma With a Tumor Thrombus: Results From the Intercontinental Collaboration on Renal Cell Carcinoma Database",
+      "pubmed_id": "41125506",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Sandberg M, Russell G, Feldman D, Hayes M, David RB, Miller J, Patel K, Aljabi B, Byun SS, Faba OR, Cannoletta D, Letowski T, Villoldo G, Marchinena PG, Mourao T, Ciancio G, Peyton CC, Zanotti R, Chang S, Spiess PE, Mehrazin R, Abreu D, Zequi SC, Rodriguez A",
+      "journal": "Clin Genitourin Cancer"
+    },
+    {
+      "title": "Management and optimization of chronic renal insufficiency in the setting of kidney cancer A Systematic Review",
+      "pubmed_id": "40658472",
+      "pmc_id": "PMC12539876",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Cobb JK, Miyagi H, Chahoud J, Bassil C, Spiess PE",
+      "journal": "Int Braz J Urol"
+    },
+    {
+      "title": "Feasibility and Functional Reactivity of Expanded Tumor-infiltrating Lymphocytes from Non-clear-cell Renal Cell Carcinoma",
+      "pubmed_id": "40962596",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Potez M, Jazayeri SB, Guske C, Miller J, Ali J, Carter M, Khambati F, Dhillon J, Sexton W, Zemp L, Manley B, Souza GR, Spiess PE, Beatty M, Pilon-Thomas S, Chahoud J",
+      "journal": "Eur Urol"
+    },
+    {
+      "title": "The opportunities and barriers for developing tumour-infiltrating lymphocyte therapy for patients with advanced genitourinary cancers",
+      "pubmed_id": "41006825",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Potez M, Roman Souza G, Spiess PE, Pilon-Thomas S, Chahoud J",
       "journal": "Nat Rev Urol"
     },
     {
@@ -65,22 +107,6 @@
       "publication_date": "2025 Sep",
       "authors": "Cooper S, Nicholson S, Crook J, Watkin N, Pettaway C, Barber J, Mitra A, Woodley O, Millin A, Hall E, Pathmanathan A, Penegar S, Burnett S, Spiess P, Miles E, Hoffman K, Yang H, Tree AC",
       "journal": "Int J Radiat Oncol Biol Phys"
-    },
-    {
-      "title": "Management and optimization of chronic renal insufficiency in the setting of kidney cancer A Systematic Review",
-      "pubmed_id": "40658472",
-      "year": "2025",
-      "publication_date": "2025 Sep",
-      "authors": "Cobb JK, Miyagi H, Chahoud J, Bassil C, Spiess PE",
-      "journal": "Int Braz J Urol"
-    },
-    {
-      "title": "Human papillomavirus vaccination and its effect on genital men's health",
-      "pubmed_id": "40898707",
-      "year": "2025",
-      "publication_date": "2025 Sep",
-      "authors": "Barrera Cardenas JC, Spiess PE, Garc\u00eda-Perdomo HA",
-      "journal": "Considerations for a public health strategy"
     },
     {
       "title": "Computational Histology Artificial Intelligence (CHAI) Enhances Risk Stratification of High-grade Ta Non-muscle-invasive Bladder Cancer in a Multicenter Cohort: Comparison to Current European Association of Urology and American Urological Association Stra",
@@ -98,30 +124,6 @@
       "publication_date": "2025 Oct",
       "authors": "Katims AB, Tin AL, Assel M, Hensley P, Li R, Margulis V, Matin S, Pallauf M, Clark RK, Raman JD, Singla N, Spiess PE, Coleman J",
       "journal": "J Urol"
-    },
-    {
-      "title": "Oncologic and survival outcomes in patients undergoing radical nephroureterectomy with preoperative or iatrogenic dialysis dependence",
-      "pubmed_id": "40754548",
-      "year": "2025",
-      "publication_date": "2025 Nov",
-      "authors": "Lee MS, Hensley PJ, Igel D, Li R, Clark RK, Bingham N, Pallauf M, Thapa P, Boorjian SA, Raman JD, Singla N, Coleman J, Margulis V, Spiess PE, Matin SF, Potretzke AM",
-      "journal": "Urol Oncol"
-    },
-    {
-      "title": "Neoadjuvant toripalimab plus nimotuzumab combined with taxol-based chemotherapy in locally advanced penile squamous cell carcinoma",
-      "pubmed_id": "40215977",
-      "year": "2025",
-      "publication_date": "2025 May",
-      "authors": "An X, Guo SJ, Yan R, Xue T, Xiong LB, Ma HL, Xue C, Zhang YC, Li JB, Chen MT, Li ZS, Liu TY, Zhang ZL, Dong P, Li YH, Yao K, Hu ZQ, Chen XF, Luo JX, Lei YH, Liang PY, Liu ZZ, Qi L, Xu WF, Cao ZG, Chen NH, Li X, Sheng XN, Luo GH, Shi BK, Xie Q, Liu ZW, Zhou FJ, Spiess PE, Shi YX, Han H",
-      "journal": "Cancer Cell"
-    },
-    {
-      "title": "Authors' Reply to the Letter to the Editor by May et al: Optimized Prognostic Stratification in PSCC",
-      "pubmed_id": "40340844",
-      "year": "2025",
-      "publication_date": "2025 May",
-      "authors": "Chahoud J, Spiess PE",
-      "journal": "J Natl Compr Canc Ne"
     }
   ],
   "grants": [
@@ -140,11 +142,23 @@
       "description": ""
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-19319/",
+      "trial_id": "19319",
+      "title": "InPACT- International Penile Advanced Cancer Trial (International Rare Cancers Initiative Study)",
+      "condition": "Genitourinary",
+      "intervention": "Ifosfamide (); Not Applicable (); Radiotherapy (); Taxol (paclitaxel); cisplatin (); paclitaxel ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SpiessPhilippe_4110.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4110"
   },
-  "content_hash": "4c8ddc57f4b5ce524da4109dc48dbab2dee3a34b283fde4b51d122e48a9585a8",
-  "researcher_name": "Philippe Spiess",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "3c4a1f1c602a9dc706f29c0eb1a9d39a6b71c607a751ac54d89542f4799101fa",
+  "researcher_name": "philippe spiess",
+  "department": "tumor microenvironment and metastasis"
 }

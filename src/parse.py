@@ -524,6 +524,96 @@ class ResearcherProfileParser:
 
         return grants
 
+    def extract_lab_page_url(self, markdown: str) -> str:
+        """
+        Extract the researcher's personal lab page URL if available.
+
+        Args:
+            markdown (str): The markdown content
+
+        Returns:
+            str: The lab page URL, or empty string if not found
+        """
+        # Look for "View Lab Page" link
+        lab_page_match = re.search(r'\[View Lab Page\s*\]\s*\((.*?)\)', markdown)
+        if lab_page_match:
+            return lab_page_match.group(1).strip()
+        return ""
+
+    def extract_google_scholar_url(self, markdown: str) -> str:
+        """
+        Extract the researcher's Google Scholar profile URL if available.
+
+        Args:
+            markdown (str): The markdown content
+
+        Returns:
+            str: The Google Scholar URL, or empty string if not found
+        """
+        # Look for "Google Scholar Profile" link
+        scholar_match = re.search(r'\[Google Scholar Profile\]\s*\((.*?)\)', markdown)
+        if scholar_match:
+            return scholar_match.group(1).strip()
+        return ""
+
+    def extract_participating_trials(self, markdown: str) -> List[Dict[str, str]]:
+        """
+        Extract the researcher's participating clinical trials.
+
+        Args:
+            markdown (str): The markdown content
+
+        Returns:
+            List[Dict[str, str]]: List of trial information dictionaries
+        """
+        trials = []
+
+        # Look for the Participating Trials section (may have bullet point before ##)
+        trials_match = re.search(r'(?:\*\s+)?##\s+Participating\s+Trials\n(.*?)(?=\*\s+##|###|##|$)', markdown, re.DOTALL)
+        if trials_match:
+            trials_text = trials_match.group(1)
+
+            # Extract individual trial entries
+            # Trials typically start with a link containing "Clinical Trial"
+            # Note: link format may have spaces like [ Clinical Trial 23320 ]
+            trial_entries = re.findall(r'\[\s*Clinical Trial.*?\]\((.*?)\)(.*?)(?=\[\s*Clinical Trial|\*\*If you believe|\Z)', trials_text, re.DOTALL)
+
+            for trial_url, trial_details in trial_entries:
+                trial = {}
+
+                # Extract trial URL (remove title attribute if present)
+                clean_url = re.sub(r'\s+"[^"]*"$', '', trial_url)
+                trial["trial_url"] = clean_url.strip()
+
+                # Extract trial ID from URL (e.g., /clinical-trials-and-studies/clinical-trial-23320/)
+                trial_id_match = re.search(r'clinical-trial-(\d+)', trial_url)
+                if trial_id_match:
+                    trial["trial_id"] = trial_id_match.group(1)
+
+                # Extract trial title (first line after the link)
+                title_match = re.search(r'^\s*([^\n]+)', trial_details)
+                if title_match:
+                    trial["title"] = title_match.group(1).strip()
+
+                # Extract condition
+                condition_match = re.search(r'Condition:\s*([^\n]+)', trial_details)
+                if condition_match:
+                    trial["condition"] = condition_match.group(1).strip()
+
+                # Extract intervention
+                intervention_match = re.search(r'Intervention:\s*([^\n]+)', trial_details)
+                if intervention_match:
+                    trial["intervention"] = intervention_match.group(1).strip()
+
+                # Extract status
+                status_match = re.search(r'Status:\s*([^\n]+)', trial_details)
+                if status_match:
+                    trial["status"] = status_match.group(1).strip()
+
+                trials.append(trial)
+
+        return trials
+
     def parse_markdown(self, markdown: str, profile_url: str) -> Dict[str, Any]:
         """
         Parse markdown content into a structured researcher profile.
@@ -571,6 +661,15 @@ class ResearcherProfileParser:
 
         # Extract grants
         researcher["grants"] = self.extract_grants(markdown)
+
+        # Extract participating trials
+        researcher["participating_trials"] = self.extract_participating_trials(markdown)
+
+        # Extract lab page URL
+        researcher["lab_page_url"] = self.extract_lab_page_url(markdown)
+
+        # Extract Google Scholar URL
+        researcher["google_scholar_url"] = self.extract_google_scholar_url(markdown)
 
         # Extract photo URL
         researcher["photo_url"] = self.extract_photo_url(markdown)

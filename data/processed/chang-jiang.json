@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/chang-jiang",
-  "last_updated": "2025-10-21T16:32:49.903236",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/chang-jiang/",
+  "last_updated": "2025-11-21T22:50:23.152187",
   "researcher_id": "unknown",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Our lab's research sits at the interface of redox biology, metabolism, and signaling and focuses on understanding the role of antioxidant systems in oxidative stress response and cancer therapy resistance. To address these questions, we combine frontier molecular, genomic, metabolomic, and proteomic approaches.",
   "research_interests": [
     "We are interested in the following areas: (1) Role and regulation of mitochondrial antioxidant system in cancer cells. (2) Mitochondria and redox signaling crosstalk in cancer cells. (3) Redox vulnerabilities of human malignancies, focusing on selenoproteins. (4) The impact of onco-viral infection (EBV, HBV and HPV) on the redox status of cancer cells.\n  *"
@@ -135,9 +135,12 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/jiang/",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/JiangChang_23086.jpg",
   "contact": {},
-  "content_hash": "2964c5c60ab4a60a18e999a991230cc0d8289379da37d7c0475669166245c5d8",
-  "researcher_name": "Chang Jiang",
-  "department": "Molecular Oncology"
+  "content_hash": "4e96575c7ee83676b9179d9d14e8d33e8aced681ec0425d3f6021cd8a8639c27",
+  "researcher_name": "chang jiang",
+  "department": "molecular oncology"
 }

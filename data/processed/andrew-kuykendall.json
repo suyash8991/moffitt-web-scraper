@@ -1,0 +1,215 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/andrew-kuykendall/",
+  "last_updated": "2025-11-21T22:50:22.689457",
+  "researcher_id": "17604",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
+  "overview": "",
+  "research_interests": [
+    "Malignant Hematology",
+    "Molecular Medicine Program"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Florida College of Medicine",
+      "degree": "M.D."
+    },
+    {
+      "type": "Residency",
+      "institution": "University of South Florida",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida at Moffitt Cancer Center",
+      "specialty": "Hematology and Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "The Ongoing Challenges of Managing Cytopenic Myelofibrosis in 2025: The Emergence of Non-JAK Inhibitor Therapies",
+      "pubmed_id": "41030319",
+      "pmc_id": "PMC12477285",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Reynolds SB, Komrokji R, Kuykendall AT",
+      "journal": "Blood Lymphat Cancer"
+    },
+    {
+      "title": "Characterization of Indolent Chronic Myelomonocytic Leukemia Phenotypes and Dynamic Features of Disease Progression",
+      "pubmed_id": "40254502",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Aguirre LE, Ball S, Jain A, Ali NA, Sallman DA, Kuykendall A, Sweet K, Lancet JE, Padron E, Komrokji RS",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "Revised \"iRR6\" model in intermediate-1 risk myelofibrosis patients treated with ruxolitinib",
+      "pubmed_id": "40839414",
+      "pmc_id": "PMC12369922",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Palandri F, Branzanti F, Bonifacio M, Elli EM, Morsia E, Farina M, Tiribelli M, Benevolo G, Beggiato E, Martino B, Caocci G, Pugliese N, Tieghi A, Crugnola M, Binotto G, Cavazzini F, Abruzzese E, Isidori A, Dedola A, Scalzulli E, Duminuco A, Tosoni L, Strazimiri A, Lemoli RM, Cilloni D, Bocchia M, Pane F, Sartor C, Heidel FH, Breccia M, Palumbo GA, Kuykendall AT",
+      "journal": "Cancer"
+    },
+    {
+      "title": "An observational study of disease management in adult patients with polycythemia vera: results from a large U",
+      "pubmed_id": "40698408",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Kuykendall A, Bellamy L, Desai L, Morrison O, Gofman L, Molina A",
+      "journal": "S"
+    },
+    {
+      "title": "Pelabresib plus ruxolitinib for JAK inhibitor-naive myelofibrosis: a randomized phase 3 trial",
+      "pubmed_id": "40065169",
+      "pmc_id": "PMC12092244",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Rampal RK, Grosicki S, Chraniuk D, Abruzzese E, Bose P, Gerds AT, Vannucchi AM, Palandri F, Lee SE, Gupta V, Lucchesi A, Oh ST, Kuykendall AT, Patriarca A, \u00c1lvarez-Larr\u00e1n A, Mesa R, Kiladjian JJ, Talpaz M, Scandura JM, Lavie D, Harris M, Kays SK, Li Q, Boxhammer R, Brown B, Jegg AM, Harrison CN, Mascarenhas J",
+      "journal": "Nat Med"
+    },
+    {
+      "title": "Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm",
+      "pubmed_id": "40453136",
+      "pmc_id": "PMC12067887",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS",
+      "journal": "Blood Neoplasia"
+    },
+    {
+      "title": "Phase Ib study of PRT543, an oral protein arginine methyltransferase 5 (PRMT5) inhibitor, in patients with advanced splicing factor-mutant myeloid malignancies",
+      "pubmed_id": "39856223",
+      "pmc_id": "PMC11879867",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Bewersdorf JP, Mi X, Lu B, Kuykendall A, Sallman D, Patel M, Stevens D, Philipovskiy A, Sutamtewagul G, Masarova L, Keiffer G, Verma A, Bhagwat N, Wang M, Moore A, Rager J, Heiser D, Ro S, Hong WJ, Abdel-Wahab O, Stein EM",
+      "journal": "Leukemia"
+    },
+    {
+      "title": "Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML)",
+      "pubmed_id": "39921921",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS",
+      "journal": "Leuk Res"
+    },
+    {
+      "title": "Long-term follow-up and combined Phase 2 results of eprenetapopt and azacitidine in patients with TP53 mutant MDS/AML",
+      "pubmed_id": "40657305",
+      "pmc_id": "PMC12255903",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Sallman DA, Komrokji RS, Dezern AE, Sebert M, Garcia-Manero G, Rahm\u00e9 R, Winer ES, Lehmann-Che J, Roboz GJ, Madelaine I, Sekeres MA, Peterlin P, Chan O, Beyne-Rauzy O, Kuykendall A, Recher C, McLemore A, Stamatoullas A, Zhang L, Willems L, Mo Q, Raffoux E, Nardelli L, Berthon C, Al Ali NH, Quesnel B, Padron E, Kantarjian HM, List AF, Ades L, Lancet JE, Fenaux P, Cluzeau T",
+      "journal": "Hemasphere"
+    },
+    {
+      "title": "Hematological Response to Frontline Treatment in Lower Risk Myelodysplastic Syndromes (LRMDS) is Associated With Better Overall Survival",
+      "pubmed_id": "40113545",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Komrokji RS, Ammad-Ud-Din M, Ali NHA, Xie Z, Chan O, Kuykendall AT, Yun S, Walker AR, Lancet J, Padron E, Sallman DA",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Comparing Overall Survival in Subjects with Intermediate-2 or High-Risk Myelofibrosis (MF) Relapsed/Refractory to Janus Kinase (JAK) Inhibitor from Study MYF2001 to Overall Survival in Myelofibrosis Subjects   \nAward Number: 24-0012-S2  \nSponsor: Geron  \nKuykendall, A. (PD/PI)",
+      "title": "Comparing Overall Survival in Subjects with Intermediate-2 or High-Risk Myelofibrosis (MF) Relapsed/Refractory to Janus Kinase (JAK) Inhibitor from Study MYF2001 to Overall Survival in Myelofibrosis Subjects",
+      "award_number": "24-0012-S2",
+      "sponsor": "Geron",
+      "investigators": [
+        {
+          "name": "Kuykendall, A.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21415/",
+      "trial_id": "21415",
+      "title": "An Open Label, Phase 1/1b Study to Evaluate the Safety, Pharmacokinetics, Pharmacodynamics and Clinical Activity of Imetelstat in Combination with Ruxolitinib in Patients with Myelofibrosis",
+      "condition": "Malignant Hematology",
+      "intervention": "Fedratinib (); Imetelstat (GRN163L); Jakafi (Ruxolitinib); Momelotinib (); Pacritinib (); Ruxolitinib ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22095/",
+      "trial_id": "22095",
+      "title": "A Phase 2 study of Canakinumab in patients with Myelofibrosis",
+      "condition": "Malignant Hematology",
+      "intervention": "Canakinumab (); Fedratinib (); Jakafi (Ruxolitinib); Momelotinib (); Pacritinib (); Ruxolitinib ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22318/",
+      "trial_id": "22318",
+      "title": "A Phase 1 Study of Avapritinib in Combination with Decitabine in Patients with Systemic Mastocytosis with an Associated Hematologic Neoplasm (SM-AHN)",
+      "condition": "Malignant Hematology",
+      "intervention": "Avapritinib (); BLU-285 (Avapritinib); Cedazuridine (); decitabine (5-aza-2'-deoxycytidine)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23103/",
+      "trial_id": "23103",
+      "title": "An Extension Study to Evaluate the Long-term Safety of Rusfertide (PTG-300) in Subjects with Polycythemia Vera",
+      "condition": "Malignant Hematology",
+      "intervention": "Rusfertide (PTG-300)",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23207/",
+      "trial_id": "23207",
+      "title": "A First-in-Human Study of the Safety, Pharmacokinetics, and Pharmacodynamics of JNJ-88549968, a T-cell Redirecting Bispecific Antibody for CALR mutated Myeloproliferative Neoplasms",
+      "condition": "Malignant Hematology",
+      "intervention": "JNJ-88549968 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23308/",
+      "trial_id": "23308",
+      "title": "A Multicenter, Open-Label, Phase 1 Study of AJ1-11095 Administered as Oral Monotherapy in Patients with Primary Myelofibrosis (PMF), Post-Polycythemia Vera Myelofibrosis (PPV-MF), or Post-Essential Thrombocythemia Myelofibrosis (PET-MF) Who Have Been Failed by a Type I JAK2 Inhibitor (JAK2i)",
+      "condition": "Malignant Hematology",
+      "intervention": "AJ1-11095 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23346/",
+      "trial_id": "23346",
+      "title": "A Phase 3, Randomized, Double-blind, Add-on Study Evaluating the Safety and Efficacy of Navtemadlin Plus Ruxolitinib vs Placebo Plus Ruxolitinib in JAK Inhibitor-Na\u00efve Patients with Myelofibrosis Who Have a Suboptimal Response to Ruxolitinib",
+      "condition": "Malignant Hematology",
+      "intervention": "Jakafi (Ruxolitinib); Navtemadlin (); Placebo (); Ruxolitinib ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23484/",
+      "trial_id": "23484",
+      "title": "Phase II Study of Reparixin in Patients with Myelofibrosis Myeloproliferative Neoplasms Research Consortium [MPN-RC 120]",
+      "condition": "Malignant Hematology",
+      "intervention": "Reparixin ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/KuykendallAndrew_17604.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17604"
+  },
+  "content_hash": "1ed112c739d47a9309972315730b692a70ba097f60547978f63cdd349a0b2fe1",
+  "researcher_name": "andrew kuykendall",
+  "department": ""
+}

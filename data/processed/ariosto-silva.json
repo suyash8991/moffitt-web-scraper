@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/ariosto-silva",
-  "last_updated": "2025-10-21T16:33:22.879478",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ariosto-silva/",
+  "last_updated": "2025-11-21T22:50:22.807078",
   "researcher_id": "4634",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Metabolism and Physiology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "metabolism and physiology",
+  "research_program": "cancer biology & evolution",
   "overview": "My focus is in the evolutioanry dynamics and molecular mechanisms driving progression and therapy resistance in cancer, more specifically multiple myeloma.",
   "research_interests": [
     "Evolution of tumor invasiveness and adaptive tumor microenvironment particularly in multiple myeloma; cancer metabolism\n  *"
@@ -32,6 +32,14 @@
     }
   ],
   "publications": [
+    {
+      "title": "Target antigen and plasma cell phenotype are critical factors for sensitivity to response-adapted daratumumab therapy",
+      "pubmed_id": "40983035",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Meads MB, Zhao X, Noyes DR, Sudalagunta P, Achille A, Zhang C, Renatino Canevarolo R, Silva M, Magaletti D, DeAvila D, Toska S, Oates A, Lastorino D, Idiaquez DW, Song J, Sansil S, Yoder SJ, Grajales-Cruz AF, Blue BJ, Freeman CL, Kim J, Alsina M, Brayer J, Siqueira Silva A, Song X, Shain KH, Baz RC",
+      "journal": "Blood"
+    },
     {
       "title": "Developing SEMA4A-directed CAR T cells to overcome low BCMA antigen density in multiple myeloma",
       "pubmed_id": "41072416",
@@ -110,15 +118,6 @@
       "publication_date": "2024 Dec",
       "authors": "Li L, Hu X, Nkwocha J, Kmieciak M, Meads MB, Shain KH, Alugubelli RR, Silva AS, Mann H, Sudalagunta PR, Canevarolo RR, Zhou L, Grant S",
       "journal": "Brit J Haematol"
-    },
-    {
-      "title": "Genomic Classification and Individualized Prognosis in Multiple Myeloma",
-      "pubmed_id": "38194610",
-      "pmc_id": "PMC11095887",
-      "year": "2024",
-      "publication_date": "2024 Apr",
-      "authors": "Maura F, Rajanna AR, Ziccheddu B, Poos AM, Derkach A, Maclachlan K, Durante M, Diamond B, Papadimitriou M, Davies F, Boyle EM, Walker B, Hultcrantz M, Silva A, Hampton O, Teer JK, Siegel EM, Bolli N, Jackson GH, Kaiser M, Pawlyn C, Cook G, Kazandjian D, Stein C, Chesi M, Bergsagel L, Mai EK, Goldschmidt H, Weisel KC, Fenk R, Raab MS, Van Rhee F, Usmani S, Shain KH, Weinhold N, Morgan G, Landgren O",
-      "journal": "J Clin Oncol"
     }
   ],
   "grants": [
@@ -152,11 +151,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://lab.moffitt.org/silva/",
+  "google_scholar_url": "https://scholar.google.com/citations?user=wmXvy8IAAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/SilvaAriosto_4634.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4634"
   },
-  "content_hash": "a59e7f0e08d650fbd4d0c2300d06e02e77236408b7cbee2f1b56b7cfeec41630",
-  "researcher_name": "Ariosto Silva",
-  "department": "Metabolism and Physiology"
+  "content_hash": "65ac1238a2e48849033a50cf1a4f638464af49e82a68d06930d8ebffdf3a439b",
+  "researcher_name": "ariosto silva",
+  "department": "metabolism and physiology"
 }

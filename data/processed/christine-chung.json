@@ -1,0 +1,243 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/christine-chung/",
+  "last_updated": "2025-11-21T22:50:23.165565",
+  "researcher_id": "16159",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "head and neck oncology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Chung's laboratory has been working on molecular characterization of head and neck cancer (HNC) and translation of these findings to develop integral biomarker-driven clinical trials. Using multi-omics approach, our research has shown that tumors sharing the same histology have distinct molecular gene and protein expression profiles, and these molecularly defined patient populations have distinctly different clinical outcomes. We are evaluating the tumor immune microenvironment of tobacco-related and human papillomavirus-related HNC to identify novel molecular processes which can be therapeutically exploited.",
+  "research_interests": [
+    "Dr. Chung's research focuses on molecular characterization of Head and Neck Cancer and translation of these findings to develop integral biomarker-driven clinical trials.\n  *"
+  ],
+  "associations": [
+    "Head and Neck-Endocrine Oncology",
+    "Molecular Medicine Program",
+    "Melanoma & Skin Cancer Center of Excellence",
+    "Center of Excellence for Evolutionary Therapy"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Eastern Virginia Medical School",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of North Carolina, Chapel Hill",
+      "position": "Intern",
+      "specialty": "al Medicine Residency"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of North Carolina, Chapel Hill",
+      "specialty": "Medical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Evaluation of Neutrophil to Lymphocyte Ratio in Patients With Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma Treated With a Combination of Cetuximab and Nivolumab in a Phase II Clinical Trial",
+      "pubmed_id": "40905435",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Park R, Rind F, Kristoff T, Li J, Schell M, Slebos RJC, Thatikonda S, Chaudhary R, Biernacki MI, Meshkovska Y, Kaldas D, Kim HS, Farinhas J, Hernandez-Prera J, Kirtane K, Hall MS, Amelio AL, Rocco JW, Bhateja P, Steuer C, Bonomi M, Saba NF, Chung CH",
+      "journal": "Am J Clin Oncol"
+    },
+    {
+      "title": "PV-10 Triggers Immunogenic Cell Death in Head and Neck Squamous Cell Carcinoma via Endoplasmic Reticulum Stress and Apoptosis",
+      "pubmed_id": "40552938",
+      "pmc_id": "PMC12327362",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Thatikonda S, Chaudhary R, Meshkovska Y, Biernacki M, Slebos RJC, Song X, Hall MS, Lilley K, Pilon-Thomas S, Guevara-Patino JA, Spiess PE, Chahoud J, Amelio AL, Wachter EA, Rodrigues D, Chung CH",
+      "journal": "Mol Cancer Ther"
+    },
+    {
+      "title": "Clinical significance of peripheral T-cell repertoire in head and neck squamous cell carcinoma treated with cetuximab and nivolumab",
+      "pubmed_id": "40056190",
+      "pmc_id": "PMC11890688",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Wang X, Li T, Slebos RJC, Chaudhary R, Guevara-Patino JA, Bonomi M, Saba NF, Chung CH",
+      "journal": "Cancer Immunol Immun"
+    },
+    {
+      "title": "Local Single-Dose Radiation Improves Adoptive Cell Therapy With Tumor-Infiltrating Lymphocytes",
+      "pubmed_id": "40582598",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Obertopp N, Bekker RA, Grass GD, Zelenka T, Thomas A, Potez M, Ali J, Blauvelt J, Hall AM, Hall MS, Chung CH, Enderling H, Pilon-Thomas S",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Durable Response to Redifferentiation in a Patient With Metastatic NCOA4::RET Fusion-driven Papillary Thyroid Cancer",
+      "pubmed_id": "40330117",
+      "pmc_id": "PMC12050687",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Tarasova VD, Chung CH, Agosto Salgado S",
+      "journal": "JCEM Case Rep"
+    },
+    {
+      "title": "Neoadjuvant Chemotherapy and Surgery versus Surgery for Organ Preservation of T3 and T4a Nasal and Paranasal Sinus Squamous Cell Carcinoma: ECOG-ACRIN EA3163",
+      "pubmed_id": "40227186",
+      "pmc_id": "PMC12165817",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Saba NF, Flamand Y, Lin DT, Chung CH, McDonald MW, Flampouri S, Khan SA, Snyderman CH, Hanna EY, El-Sayed IH, Solares CA, Le CH, Ghaly M, Hwang PH, Shin DM, Axelrod RS, Ikpeazu CV, Adkins DR, Duan F, Cohen M, Samuels MA, Swiecicki PL, Subramaniam RM, Chakravarthy AB, Burtness BA",
+      "journal": "Clin Cancer Res"
+    },
+    {
+      "title": "Plasma Cell-Free Human Papillomavirus DNA and Oral Gargle HPV DNA in Patients with HPV-Related Oropharyngeal Cancer Treated with Radiotherapy",
+      "pubmed_id": "40643202",
+      "pmc_id": "PMC12281097",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Echevarria M, Park R, Caudell JJ, Kim Y, Yang GQ, Kirtane K, Chaudhary R, Kumar S, Amelio AL, Giuliano AR, Chung CH",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "Virusplot: a web server for viral integration analysis and visualization",
+      "pubmed_id": "40046621",
+      "pmc_id": "PMC11880266",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Hu E, An J, Gersten AJ, Wu N, Kawachi N, Zhu J, Rosenblatt G, Augustine S, Smith RV, Segall JE, Ostrer H, Amelio AL, Chung CH, Prystowsky MB, Ow TJ, Deng W, Yin S",
+      "journal": "Front Oncol"
+    },
+    {
+      "title": "Efficacy and safety of one-time autologous tumor-infiltrating lymphocyte cell therapy in patients with recurrent and/or metastatic head and neck squamous cell carcinoma",
+      "pubmed_id": "40854613",
+      "pmc_id": "PMC12382571",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Ferris RL, Leidner RS, Chung CH, Jimeno A, Lee SM, Sukari A, Nieva JJ, Grilley-Olson JE, Redman R, Wong SJ, Villaflor VM, Misleh J, Finckenstein FG, Chou J, Gastman B, Fiaz R, Catlett M, Yi M, Cohen EEW",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Postoperative Radiotherapy \u00b1 Cetuximab for Intermediate-Risk Head and Neck Cancer",
+      "pubmed_id": "39841939",
+      "pmc_id": "PMC12003072",
+      "year": "2025",
+      "publication_date": "2025 Apr",
+      "authors": "Machtay M, Torres-Saavedra PA, Thorstad W, Nguyen-T\u00e2n PF, Siu LL, Holsinger FC, El-Naggar A, Chung C, Cmelak A, Burtness B, Bednarz G, Quon H, Breen SL, Gwede CK, Dicker AP, Yao M, Jordan RC, Dorth J, Lee N, Chan JW, Dunlap N, Bar-Ad V, Stokes WA, Chakravarti A, Sher D, Rao S, Harris J, Yom SS, Le QT",
+      "journal": "J Clin Oncol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Ultrasensitive detection of circulating DNA methylation for head and neck cancer prognosis  \nAward Number: 1R01DE034377-01A1  \nSponsor: National Institute of Dental and Craniofacial Research (NIDCR)  \nChung, C. (PD/PI)",
+      "title": "Ultrasensitive detection of circulating DNA methylation for head and neck cancer prognosis",
+      "award_number": "1R01DE034377-01A1",
+      "sponsor": "National Institute of Dental and Craniofacial Research (NIDCR)",
+      "investigators": [
+        {
+          "name": "Chung, C.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: M4OC-Prevent 2.0: Phase IIb Trial of Metformin for Oral Cancer Prevention  \nAward Number: 5UG1CA242596-06  \nSponsor: National Cancer Institute (NCI)  \nChung, C. (PD/PI)",
+      "title": "M4OC-Prevent 2.0: Phase IIb Trial of Metformin for Oral Cancer Prevention",
+      "award_number": "5UG1CA242596-06",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Chung, C.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: PI3K Pathway Activation and Its Associated Genomic Profile as Predictive Biomarkers of HPV-Related Oropharyngeal Cancer  \nAward Number: HHSN26120150003I  \nSponsor: National Cancer Institute (NCI)  \nChung, C. (PD/PI)",
+      "title": "PI3K Pathway Activation and Its Associated Genomic Profile as Predictive Biomarkers of HPV-Related Oropharyngeal Cancer",
+      "award_number": "HHSN26120150003I",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Chung, C.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Effects of hypoxia in tumor immune microenvironment in tobacco-related head and neck squamous cell carcinoma (HNSCC)  \nAward Number: 21K04  \nSponsor: Florida Department of Health  \nChung, C. (PD/PI), Song, X. (Co-PD/PI)",
+      "title": "Effects of hypoxia in tumor immune microenvironment in tobacco-related head and neck squamous cell carcinoma (HNSCC)",
+      "award_number": "21K04",
+      "sponsor": "Florida Department of Health",
+      "investigators": [
+        {
+          "name": "Chung, C.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Song, X.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21641/",
+      "trial_id": "21641",
+      "title": "First-in-Human, Phase 1/1b, Open-label, Multicenter Study of Bifunctional EGFR/TGF_ Fusion Protein BCA101 Alone and in Combination with Pembrolizumab in Patients With EGFR-Driven Advanced Solid Tumors",
+      "condition": "Head & Neck",
+      "intervention": "BCA101 (); Pembrolizumab (Keytruda)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21657/",
+      "trial_id": "21657",
+      "title": "Randomized Phase II/III Trial of Radiation with High-Dose Cisplatin (100 mg/m2) Every Three Weeks Versus Radiation with Low-Dose Weekly Cisplatin (40 mg/m2) for Patients with Locoregionally Advanced Squamous Cell Carcinoma of the Head and Neck (SCCHN)",
+      "condition": "Head & Neck",
+      "intervention": "Aloxi (Palonosetron); Aprepitant (); Dexamethasone (); Fosaprepitant (); Granisetron (); KCL (); Mannitol (); MgSO4 (); Olanzapine (); Ondansetron (); Palonosetron (); Zofran (Ondansetron); cisplatin ()",
+      "status": "OPEN (SUSPENDED)"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22485/",
+      "trial_id": "22485",
+      "title": "A Phase II Study of ACR-368 and Low Dose Gemcitabine Combination Therapy in Patients with Recurrent and/or Metastatic Head and Neck Squamous Cell Carcinoma",
+      "condition": "Head & Neck",
+      "intervention": "ACR-368 (); Gemzar (gemcitabine); gemcitabine ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23115/",
+      "trial_id": "23115",
+      "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Phase 3 Study of Ficlatuzumab in Combination with Cetuximab in Participants with Recurrent or Metastatic (R/M) HPV-Negative Head and Neck Squamous Cell Carcinoma (FIERCE-HN)",
+      "condition": "Head & Neck",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23204/",
+      "trial_id": "23204",
+      "title": "A Phase II Study of Neoadjuvant Cetuximab and Cemiplimab in Patients Undergoing Surgery for Head and Neck Squamous Cell Carcinoma",
+      "condition": "Head & Neck",
+      "intervention": "Cemiplimab (); Cetuximab (); Erbitux (Cetuximab); REGN2810 (Cemiplimab)",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23691/",
+      "trial_id": "23691",
+      "title": "A Multicenter, Randomized, Double-blind, Phase 2/3 Study of Ficerafusp Alfa (BCA101) or Placebo in Combination with Pembrolizumab for First-Line Treatment of PD-L1-positive, Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma",
+      "condition": "Head & Neck",
+      "intervention": "Pembrolizumab (Keytruda); ficerafusp alfa/Placebo ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChungChristine_16159.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=16159"
+  },
+  "content_hash": "52083e165a0bc3d81a94793ef40a5e073970b65687ccdddbc84e4c908aa45098",
+  "researcher_name": "christine chung",
+  "department": ""
+}

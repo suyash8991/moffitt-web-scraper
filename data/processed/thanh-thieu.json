@@ -1,0 +1,140 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/thanh-thieu/",
+  "last_updated": "2025-11-21T22:50:27.104444",
+  "researcher_id": "31212",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "machine learning",
+  "research_program": "health outcomes & behavior",
+  "overview": "Dr. Thieu\u2019s research centers on using natural language processing (NLP) and multi-modal machine learning to advance the forefront of cancer informatics. His work has been resulting in cutting-edge methods for cancer registry, ICD code identification, functional status identification, disease progression, disease recurrence, early-prediction modeling.",
+  "research_interests": [
+    "Dr. Thieu\u2019s research centers on using natural language processing (NLP) and multi-modal machine learning to advance the forefront of cancer informatics. His work has been resulting in cutting-edge methods for cancer registry, ICD code identification, functional status identification, disease progression, disease recurrence, early-prediction modeling.\n  *"
+  ],
+  "associations": [
+    "Machine Learning",
+    "Health Outcomes & Behavior Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of Missouri, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "National Institute of Health Clinical Center",
+      "specialty": "Health Informatics"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Large language models in cancer: potentials, risks, and safeguards",
+      "pubmed_id": "39777117",
+      "pmc_id": "PMC11703354",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Zitu MM, Le TD, Duong T, Haddadan S, Garcia M, Amorrortu R, Zhao Y, Rollison DE, Thieu T",
+      "journal": "BJR Artif Intell"
+    },
+    {
+      "title": "A novel hyperparameter search approach for accuracy and simplicity in disease prediction risk scoring",
+      "pubmed_id": "38899502",
+      "pmc_id": "PMC11258418",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Lu Y, Duong T, Miao Z, Thieu T, Lamichhane J, Ahmed A, Delen D",
+      "journal": "J Am Med Inform Assoc"
+    },
+    {
+      "title": "Overview of approaches to estimate real-world disease progression in lung cancer",
+      "pubmed_id": "37738580",
+      "pmc_id": "PMC10637832",
+      "year": "2023",
+      "publication_date": "2023 Oct",
+      "authors": "Amorrortu R, Garcia M, Zhao Y, El Naqa I, Balagurunathan Y, Chen DT, Thieu T, Schabath MB, Rollison DE",
+      "journal": "JNCI Cancer Spectr"
+    },
+    {
+      "title": "PHILM2Web: A high-throughput database of macromolecular host-pathogen interactions on the Web",
+      "pubmed_id": "35776535",
+      "pmc_id": "PMC9248916",
+      "year": "2022",
+      "publication_date": "2022 Jun",
+      "authors": "Le TD, Nguyen PD, Korkin D, Thieu T",
+      "journal": "Database (Oxford)"
+    },
+    {
+      "title": "A comprehensive study of mobility functioning information in clinical notes: Entity hierarchy, corpus annotation, and sequence labeling",
+      "pubmed_id": "33401169",
+      "pmc_id": "PMC8104034",
+      "year": "2021",
+      "publication_date": "2021 Mar",
+      "authors": "Thieu T, Maldonado JC, Ho PS, Ding M, Marr A, Brandt D, Newman-Griffis D, Zirikly A, Chan L, Rasch E",
+      "journal": "Int J Med Inform"
+    },
+    {
+      "title": "Broadening horizons: the case for capturing function and the role of health informatics in its use",
+      "pubmed_id": "31615472",
+      "pmc_id": "PMC6794808",
+      "year": "2019",
+      "publication_date": "2019 Oct",
+      "authors": "Newman-Griffis D, Porcino J, Zirikly A, Thieu T, Camacho Maldonado J, Ho PS, Ding M, Chan L, Rasch E",
+      "journal": "BMC Public Health"
+    },
+    {
+      "title": "Literature mining of host-pathogen interactions: comparing feature-based supervised learning and language-based approaches",
+      "pubmed_id": "22285561",
+      "year": "2012",
+      "publication_date": "2012 Mar",
+      "authors": "Thieu T, Joshi S, Warren S, Korkin D",
+      "journal": "Bioinformatics"
+    },
+    {
+      "title": "",
+      "authors": ""
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Extending the Capabilities and Reach of EMERSE in Support of Cancer Research  \nAward Number: 5U24CA269315-02  \nSponsor: National Institutes of Health (NIH)  \nThieu, T. (PD/PI)",
+      "title": "Extending the Capabilities and Reach of EMERSE in Support of Cancer Research",
+      "award_number": "5U24CA269315-02",
+      "sponsor": "National Institutes of Health (NIH)",
+      "source": "NIH",
+      "investigators": [
+        {
+          "name": "Thieu, T.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Applying Large Language Models to Accelerate Abstraction of Cancer Pathology Reports for Cancer Registry (LLMs for Unstructured Data Extraction)  \nAward Number: 3P30CA076292-25S4  \nSponsor: National Cancer Institute (NCI)  \nCleveland, J. (PD/PI), Thieu, T. (PD/PI)",
+      "title": "Applying Large Language Models to Accelerate Abstraction of Cancer Pathology Reports for Cancer Registry (LLMs for Unstructured Data Extraction)",
+      "award_number": "3P30CA076292-25S4",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Cleveland, J.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Thieu, T.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "https://lab.moffitt.org/thieu/",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ThieuThanh_31212.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=31212"
+  },
+  "content_hash": "c17d69de1acb1073b98c8228ad3c673f37f5b30661a301941c1d57d2bfa863c3",
+  "researcher_name": "thanh thieu",
+  "department": "machine learning"
+}

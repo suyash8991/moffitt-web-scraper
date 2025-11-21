@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/aliya-qayyum)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/aliya-qayyum)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -500,10 +499,17 @@ Research interest focuses on the investigation of imaging tools for the evaluati
     * Imperial College School of Medicine and Technology
   * ## Research Interest
 Recent research has primarily involved imaging features of primary and secondary liver cancer including detection of early response of hepatocellular carcinoma to immunotherapy using MRI; investigation of CT feature association with molecular characteristics and tumor mutations in intra-hepatic cholangiocarcinoma and colorectal liver metastases. 
+  * ## Participating Trials
+[ Clinical Trial 21783 ](https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21783/ "Clinical Trial 21783")   
+A Pilot Study of Advanced Multi-Parametric MRI and MR Elastography to Evaluate Malignant Liver Tumors and Response to Neoadjuvant Therapy Prior to Surgical Resection   
+Condition: Gastrointestinal Tumor   
+Status: OPEN (SUSPENDED) 
+**If you believe you are eligible for one of these trials or studies, please call  
+[813-745-6100](tel:+813-745-6100) or toll-free [1-800-679-0775](tel:+1-800-679-0775). **
   * ## Publications
-    * Fang AM, Chapin BF, Shi CW, Sun J, Qayyum A, Kundra V, Corn PG, Kuban DA, Ravizzini GC, Surasi DSS, Ma J, Bathala TK. Whole-body magnetic resonance imaging for staging patients with high-risk prostate cancer. Prostate Cancer P D. 2025 Sep.28(3):761-766. Pubmedid: [39289537](https://www.ncbi.nlm.nih.gov/pubmed/39289537). 
     * Childers BG, Denbo JW, Kim RD, Hoffe SE, Glushko T, Qayyum A, Anaya DA. Intrahepatic cholangiocarcinoma: role of imaging as a critical component for multi-disciplinary treatment approach. Abdom Radiol (NY). 2025 Sep.50(9):4110-4124. Pubmedid: [40095023](https://www.ncbi.nlm.nih.gov/pubmed/40095023). 
     * El Homsi M, Hassan OT, O'Brien C, Singh C, Arif-Tiwari H, Becker-Weidman DJ, Karolyi D, Bonde A, Venkatesh SK, Brunsing RL, Cunha GM, Miller FH, Costello J, Qayyum A, Marks RM. Standardized reporting of extrahepatic cholangiocarcinoma. Abdom Radiol (NY). 2025 Sep. Pubmedid: [40944876](https://www.ncbi.nlm.nih.gov/pubmed/40944876). 
+    * Fang AM, Chapin BF, Shi CW, Sun J, Qayyum A, Kundra V, Corn PG, Kuban DA, Ravizzini GC, Surasi DSS, Ma J, Bathala TK. Whole-body magnetic resonance imaging for staging patients with high-risk prostate cancer. Prostate Cancer P D. 2025 Sep.28(3):761-766. Pubmedid: [39289537](https://www.ncbi.nlm.nih.gov/pubmed/39289537). 
     * Park MA, Whelan CJ, Ahmed S, Boeringer T, Brown J, Carson TL, Crowder SL, Gage K, Gregg C, Jeong DK, Jim HSL, Judge AR, Mason TM, Parker N, Pillai S, Qayyum A, Rajasekhara S, Rasool G, Tinsley SM, Schabath MB, Stewart P, West J, McDonald P, Permuth JB. Correction: Park et al. Defining and Addressing Research Priorities in Cancer Cachexia through Transdisciplinary Collaboration. Cancers 2024, 16, 2364. Cancers (Basel). 2025 Mar.17(6). Pubmedid: [40149388](https://www.ncbi.nlm.nih.gov/pubmed/40149388). Pmcid: PMC11941415. 
     * Glushko T, Costello J, Chima R, McGettigan M, Kim R, Jeong D, Qayyum A. Molecular signatures of intrahepatic cholangiocarcinoma: role in targeted therapy selection. Eur J Radiol. 2025 Jun.187:112056. Pubmedid: [40222184](https://www.ncbi.nlm.nih.gov/pubmed/40222184). 
     * Khasawneh H, O'Brien C, Czeyda-Pommersheim F, Qayyum A, Miller FH, Arif Tiwari H, Paspulati RM, Kierans AS. Beyond cholangiocarcinoma: imaging features of mimicking pathologies in the biliary tract. Abdom Radiol (NY). 2025 Jul.50(7):2928-2943. Pubmedid: [39710762](https://www.ncbi.nlm.nih.gov/pubmed/39710762). 
@@ -721,7 +727,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -776,7 +782,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/aliya-qayyum#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/aliya-qayyum#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -794,7 +800,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1148,7 +1154,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/aliya-qayyum#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/aliya-qayyum#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

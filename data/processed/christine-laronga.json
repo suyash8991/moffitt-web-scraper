@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/christine-laronga/",
+  "last_updated": "2025-11-21T22:50:23.188184",
+  "researcher_id": "3414",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "breast oncology",
+  "research_program": "cancer epidemiology",
+  "overview": "Breast cancer has been Dr. Laronga's passion. Her interests cover the entire range from basic science research to patient care: bench to bedside and back.",
+  "research_interests": [
+    "Dr. Laronga's research involves creating proteomic profiles for different aspects of breast diseases (race; benign vs. cancer; genetic vs. sporadic breast cancer; etc.) Patient care revolves around diagnosing and treating breast cancer in a compassionate and cutting edge manner.\n  *"
+  ],
+  "associations": [
+    "Breast Oncology",
+    "Center for Immunization & Infection Research in Cancer",
+    "Cancer Epidemiology Program",
+    "Cancer Chemoprevention Research Interest Group"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of Medicine and Dentistry of New Jersey- Robert Wood Johnson Medical School Piscataway",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Medicine and Dentistry of New Jersey- Robert Wood Johnson Medical School Piscataway",
+      "specialty": ""
+    },
+    {
+      "type": "Residency",
+      "institution": "University of Medicine and Dentistry of New Jersey- Robert Wood Johnson Medical School Piscataway",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of Texas- MD Anderson Cancer Center",
+      "specialty": "Surgical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Identifying Axillary Metastases in Patients with T3 Invasive Lobular Carcinoma",
+      "pubmed_id": "41072035",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Baumrucker C, Aiello P, Harris N, Whiting J, Funaro K, Hoover S, Kiluk J, Kruper L, Mallory M, Khakpour N, Laronga C, Czerniecki BJ, Lee MC, Detz D",
+      "journal": "South Med J"
+    },
+    {
+      "title": "Frailty and Malnutrition in Surgical Outcomes of Elderly Breast Cancer Patients",
+      "pubmed_id": "39387508",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Hanssen D, Champion N, Ngo J, Palfi S, Whiting J, Sun W, Laronga C, Sam C, Lee MC",
+      "journal": "J Surg Oncol"
+    },
+    {
+      "title": "A pilot study incorporating HER2-directed dendritic cells into neoadjuvant therapy of early stage HER2+ER- breast cancer",
+      "pubmed_id": "40097486",
+      "pmc_id": "PMC11914126",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Soliman H, Aldrich A, Abdo N, Han H, Soyano A, Costa R, Armaghani A, Kiluk J, Khakpour N, Lee MC, Hoover S, Laronga C, Niell B, Mooney B, Weinfurtner RJ, Rosa M, Czerniecki B",
+      "journal": "NPJ Breast Cancer"
+    },
+    {
+      "title": "Highlights and Perspectives from the Society of Surgical Oncology's Statements on Bilateral and Contralateral Risk-Reducing Mastectomy",
+      "pubmed_id": "40210811",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Showalter SL, Laronga C",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Lifestyle Behaviors and Needs After Breast Cancer Diagnosis: A Qualitative Assessment",
+      "pubmed_id": "39033310",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Sauls RM, Buro AW, Brown N, Riccardi D, Mallory M, Hoover S, Laronga C, Pabbathi S, Carson TL",
+      "journal": "Am J Health Promot"
+    },
+    {
+      "title": "Society of Surgical Oncology Breast Disease Site Working Group Statement on Bilateral Risk-Reducing Mastectomy: Indications, Outcomes, and Risks",
+      "pubmed_id": "39538100",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Singh P, Agnese DM, Amin M, Barrio AV, van den Bruele AB, Burke EE, Danforth DN, Dirbas FM, Eladoumikdachi F, Fayanju OM, Kantor O, Kumar S, Lee MC, Matsen C, Nguyen TT, Ozmen T, Park KU, Plichta JK, Reyna C, Showalter SL, Styblo T, Tranakas N, Weiss A, Woodfin A, Laronga C, Boughey JC",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Factors Associated With Node-Positive Disease in Estrogen Receptor-Positive Breast Cancer Patients",
+      "pubmed_id": "38061237",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Gallagher J, Elleson KM, Englander K, Chintapally N, Sun W, Whiting J, Laronga C, Lee MC",
+      "journal": "J Surg Res"
+    },
+    {
+      "title": "Publisher's Note to Partial Breast Irradiation for Patients With Early-Stage Invasive Breast Cancer or Ductal Carcinoma In Situ: An ASTRO Clinical Practice Guideline (Pract Radiat Oncol",
+      "pubmed_id": "37984712",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Shaitelman SF, Anderson BM, Arthur DW, Bazan JG, Bellon JR, Bradfield L, Coles CE, Gerber NK, Kathpal M, Kim L, Laronga C, Meattini I, Nichols EM, Pierce LJ, Poppe MM, Spears PA, Vinayak S, Whelan T, Lyons JA"
+    },
+    {
+      "title": "Partial Breast Irradiation for Patients With Early-Stage Invasive Breast Cancer or Ductal Carcinoma In Situ: An ASTRO Clinical Practice Guideline",
+      "pubmed_id": "37977261",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Shaitelman SF, Anderson BM, Arthur DW, Bazan JG, Bellon JR, Bradfield L, Coles CE, Gerber NK, Kathpal M, Kim L, Laronga C, Meattini I, Nichols EM, Pierce LJ, Poppe MM, Spears PA, Vinayak S, Whelan T, Lyons JA",
+      "journal": "Pract Radiat Oncol"
+    },
+    {
+      "title": "Academic women surgeons' authorship: Quality over quantity",
+      "pubmed_id": "39085170",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Reyna C, Laronga C",
+      "journal": "World J Surg"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/LarongaChristine_3414.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3414"
+  },
+  "content_hash": "90bf839dae188aff0f65c2c7e2e22342537c48d6fc2e639040a36db99e04081d",
+  "researcher_name": "christine laronga",
+  "department": ""
+}

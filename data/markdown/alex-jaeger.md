@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/alex-jaeger)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/alex-jaeger)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -499,10 +498,10 @@ Dr. Jaeger’s research is focused on understanding the fundamental relationship
     * Stewart PA, Jaeger AM. Taking the temperature of lung cancer antigens. Nat Cancer. 2023 May.4(5):586-587. Pubmedid: [37237079](https://www.ncbi.nlm.nih.gov/pubmed/37237079). 
     * Amini AP, Kirkpatrick JD, Wang CS, Jaeger AM, Su S, Naranjo S, Zhong Q, Cabana CM, Jacks T, Bhatia SN. Multiscale profiling of protease activity in cancer. Nat Commun. 2022 Oct.13(1):5745. Pubmedid: [36192379](https://www.ncbi.nlm.nih.gov/pubmed/36192379). Pmcid: PMC9530178. 
     * Jaeger AM, Stopfer LE, Ahn R, Sanders EA, Sandel DA, Freed-Pastor WA, Rideout WM, Naranjo S, Fessenden T, Nguyen KB, Winter PS, Kohn RE, Westcott PMK, Schenkel JM, Shanahan SL, Shalek AK, Spranger S, White FM, Jacks T. Deciphering the immunopeptidome in vivo reveals new tumour antigens. Nature. 2022 Jul.607(7917):149-155. Pubmedid: [35705813](https://www.ncbi.nlm.nih.gov/pubmed/35705813). 
-    * Burger ML, Cruz AM, Crossland GE, Gaglia G, Ritch CC, Blatt SE, Bhutkar A, Canner D, Kienka T, Tavana SZ, Barandiaran AL, Garmilla A, Schenkel JM, Hillman M, de Los Rios Kobara I, Li A, Jaeger AM, Hwang WL, Westcott PMK, Manos MP, Holovatska MM, Hodi FS, Regev A, Santagata S, Jacks T. Antigen dominance hierarchies shape TCF1+ progenitor CD8 T cell phenotypes in tumors. Cell. 2021 Sep.184(19):4996-5014.e26. Pubmedid: [34534464](https://www.ncbi.nlm.nih.gov/pubmed/34534464). Pmcid: PMC8522630. 
     * Nishida Y, Zhao R, Heese LE, Akiyama H, Patel S, Jaeger AM, Jacamo RO, Kojima K, Ma MCJ, Ruvolo VR, Chachad D, Devine W, Lindquist S, Davis RE, Porco JA, Whitesell L, Andreeff M, Ishizawa J. Inhibition of translation initiation factor eIF4a inactivates heat shock factor 1 (HSF1) and exerts anti-leukemia activity in AML. Leukemia. 2021 Sep.35(9):2469-2481. Pubmedid: [34127794](https://www.ncbi.nlm.nih.gov/pubmed/34127794). Pmcid: PMC8764661. 
-    * Freed-Pastor WA, Lambert LJ, Ely ZA, Pattada NB, Bhutkar A, Eng G, Mercer KL, Garcia AP, Lin L, Rideout WM, Hwang WL, Schenkel JM, Jaeger AM, Bronson RT, Westcott PMK, Hether TD, Divakar P, Reeves JW, Deshpande V, Delorey T, Phillips D, Yilmaz OH, Regev A, Jacks T. The CD155/TIGIT axis promotes and maintains immune evasion in neoantigen-expressing pancreatic cancer. Cancer Cell. 2021 Oct.39(10):1342-1360.e14. Pubmedid: [34358448](https://www.ncbi.nlm.nih.gov/pubmed/34358448). Pmcid: PMC8511341. 
+    * Burger ML, Cruz AM, Crossland GE, Gaglia G, Ritch CC, Blatt SE, Bhutkar A, Canner D, Kienka T, Tavana SZ, Barandiaran AL, Garmilla A, Schenkel JM, Hillman M, de Los Rios Kobara I, Li A, Jaeger AM, Hwang WL, Westcott PMK, Manos MP, Holovatska MM, Hodi FS, Regev A, Santagata S, Jacks T. Antigen dominance hierarchies shape TCF1+ progenitor CD8 T cell phenotypes in tumors. Cell. 2021 Sep.184(19):4996-5014.e26. Pubmedid: [34534464](https://www.ncbi.nlm.nih.gov/pubmed/34534464). Pmcid: PMC8522630. 
     * Westcott PMK, Sacks NJ, Schenkel JM, Ely ZA, Smith O, Hauck H, Jaeger AM, Zhang D, Backlund CM, Beytagh MC, Patten JJ, Elbashir R, Eng G, Irvine DJ, Yilmaz OH, Jacks T. Low neoantigen expression and poor T-cell priming underlie early immune escape in colorectal cancer. Nat Cancer. 2021 Oct.2(10):1071-1085. Pubmedid: [34738089](https://www.ncbi.nlm.nih.gov/pubmed/34738089). Pmcid: PMC8562866. 
+    * Freed-Pastor WA, Lambert LJ, Ely ZA, Pattada NB, Bhutkar A, Eng G, Mercer KL, Garcia AP, Lin L, Rideout WM, Hwang WL, Schenkel JM, Jaeger AM, Bronson RT, Westcott PMK, Hether TD, Divakar P, Reeves JW, Deshpande V, Delorey T, Phillips D, Yilmaz OH, Regev A, Jacks T. The CD155/TIGIT axis promotes and maintains immune evasion in neoantigen-expressing pancreatic cancer. Cancer Cell. 2021 Oct.39(10):1342-1360.e14. Pubmedid: [34358448](https://www.ncbi.nlm.nih.gov/pubmed/34358448). Pmcid: PMC8511341. 
     * Raghavan S, Winter PS, Navia AW, Williams HL, DenAdel A, Lowder KE, Galvez-Reyes J, Kalekar RL, Mulugeta N, Kapner KS, Raghavan MS, Borah AA, Liu N, Väyrynen SA, Costa AD, Ng RWS, Wang J, Hill EK, Ragon DY, Brais LK, Jaeger AM, Spurr LF, Li YY, Cherniack AD, Booker MA, Cohen EF, Tolstorukov MY, Wakiro I, Rotem A, Johnson BE, McFarland JM, Sicinska ET, Jacks TE, Sullivan RJ, Shapiro GI, Clancy TE, Perez K, Rubinson DA, Ng K, Cleary JM, Crawford L, Manalis SR, Nowak JA, Wolpin BM, Hahn WC, Aguirre AJ, Shalek AK. Microenvironment drives cell state, plasticity, and drug response in pancreatic cancer. Cell. 2021 Dec.184(25):6119-6137.e26. Pubmedid: [34890551](https://www.ncbi.nlm.nih.gov/pubmed/34890551). Pmcid: PMC8822455. 
     * Genshaft AS, Ziegler CGK, Tzouanas CN, Mead BE, Jaeger AM, Navia AW, King RP, Mana MD, Huang S, Mitsialis V, Snapper SB, Yilmaz ÖH, Jacks T, Van Humbeck JF, Shalek AK. Live cell tagging tracking and isolation for spatial transcriptomics using photoactivatable cell dyes. Nat Commun. 2021 Aug.12(1):4995. Pubmedid: [34404785](https://www.ncbi.nlm.nih.gov/pubmed/34404785). Pmcid: PMC8371137. 
     * Dong B, Jaeger AM, Hughes PF, Loiselle DR, Hauck JS, Fu Y, Haystead TA, Huang J, Thiele DJ. Targeting therapy-resistant prostate cancer via a direct inhibitor of the human heat shock transcription factor 1. Sci Transl Med. 2020 Dec.12(574). Pubmedid: [33328331](https://www.ncbi.nlm.nih.gov/pubmed/33328331). 
@@ -632,7 +631,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -687,7 +686,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/alex-jaeger#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/alex-jaeger#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -705,7 +704,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1059,7 +1058,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/alex-jaeger#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/alex-jaeger#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

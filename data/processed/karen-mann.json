@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/karen-mann",
-  "last_updated": "2025-10-21T16:34:57.917791",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/karen-mann/",
+  "last_updated": "2025-11-21T22:50:25.011915",
   "researcher_id": "17771",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "Pancreatic ductal adenocarcinoma (PDAC) is highly metastatic, and most patients die within a year of diagnosis. Survival rates have not significantly changed over the past couple of decades, illustrating the unmet need for identifying therapeutic targets and development of treatments to improve patient survival and quality of life. The research in my laboratory utilizes genetic, epigenetic and proteomic approaches in ex vivo and in vivo model systems to gain mechanistic insight into the role and regulation of transcriptional reprogramming and alternative splicing driving pancreatic cancer progression and metastasis to identify novel opportunities for therapeutic intervention.",
   "research_interests": [
     "Many solid tumor types, including pancreatic cancer, are highly molecularly heterogeneous, which poses a major challenge for identifying genetic and epigenetic events that actively contribute to tumor progression. Using a high-throughput in vivo genetic screening approach in a PDAC mouse model, we identified several novel tumor suppressors that cooperate with oncogenic KRAS to promote disease progression and metastasis through transcriptional rewiring and alternative splicing programs. My lab is focused on characterizing novel progression drivers we identified in our screen involved in gene transcription and alternative splicing, respectively, and the contribution of their deregulated gene networks in cancer progression and metastatic disease. TCF12 encodes a bHLH transcription factor with divergent roles in gene regulation in stem cells and differentiating cells during development. We found TCF12 levels are significantly decreased in invasive pancreatic adenocarcinoma compared to nonmalignant pancreatic lesions and that TCF12 depletion in orthotopic models of pancreatic cancer drives metastatic disease. We have recently expanded our studies of TCF12 in lung adenocarcinoma. Our current studies, in collaboration with Xiaoqing Yu and Paul Stewart, employ multiomics approaches to dissect (i) the transcriptional reprogramming driven by TCF12 downregulation during tumor progression and metastasis and (ii) how TCF12 transcriptome remodeling enhances oncogenic signaling. In collaboration with Lixin Wan, we are investigating mechanisms of TCF12 turnover through E3 ubiquitin-mediated degradation during PDAC progression. Recent data highlights splicing regulation as an important process driving cancer progression. Exon splicing profiles are shared among cancers of epithelial origin, suggesting that biological processes important to cancer development are commonly regulated by alternative exon splicing. We identified the RNA binding proteins RBFOX2 and MBNL1 as splicing regulators important for pancreatic cancer progression. My lab has recently shown RBFOX2 is regulated at both the transcriptional and post-transcriptional level in pancreatic cancer. Our functional validation studies demonstrated RBFOX2 reduction drives a highly metastatic disease in orthotopic mouse models, potentially through splicing modulation of transcripts involved in cell migration and invasion. In collaboration with Xiaoqing Yu and Moffitt Cancer Center and Mik Black at the University of Otago, New Zealand, we identified exon splicing events regulated by RBFOX2 enriched in transcripts encoding proteins involved in cytoskeletal remodeling and invadopodia formation. Our analyses of human PDAC RNASeq data show skipping of RBFOX2-target exons is prominent in human PDAC and metastases. Our current studies, in collaboration with Lancia Darville-Bowleg and John Koomen, are investigating how alternative splicing modulates protein isoforms with distinct or enhanced protein-protein interactions and phosphorylation modifications that promote cancer progression. In collaboration with Dae Kim and Margaret Park at Moffitt Cancer Center, we are investigating how loss of RBFOX2 and the resulting splicing dysregulation impacts disease progression and recurrence in patients. In collaboration with Ernesto Guccione at the Icahn School of Medicine, Mt. Sinai, NY, we are taking ex vivo and in vivo approaches to address how exon skipping of RBFOX2 and MBNL1 target exons enhances cell survival, metastasis and disease recurrence. Using Antisense Oligonucleotides as novel tool compounds, we are investigating the feasibility of targeting progression-associated exon splicing events in vivo to prevent or reduce metastasis. \n  *"
@@ -154,11 +154,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages2.moffitt.org/mann_k",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MannKaren_17771.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=17771"
   },
-  "content_hash": "b30a05504eb4c49683d4b8934b1a744897e37895cdbe0dc7be4465c2d801aed4",
-  "researcher_name": "Karen Mann",
-  "department": "Molecular Oncology"
+  "content_hash": "72add7024ee0cbff2970775a1e3d8ddf8f707bc56987f24d2b59b769ebf33367",
+  "researcher_name": "karen mann",
+  "department": "molecular oncology"
 }

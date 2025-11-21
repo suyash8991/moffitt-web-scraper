@@ -1,0 +1,203 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/john-mullinax/",
+  "last_updated": "2025-11-21T22:50:24.678581",
+  "researcher_id": "14628",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "sarcoma",
+  "research_program": "immuno-oncology",
+  "overview": "Dr. Mullinax has an active laboratory research effort focused on immunotherapy for soft tissue sarcoma. This approach strives to enhance the patient\u2019s own immune response to cancer and has shown great promise recently for several different subtypes of sarcoma. In his laboratory effort, Dr. Mullinax is working to identify mechanisms and strategies to bring immunotherapy efforts, specifically adoptive cell therapy, to patients with advanced sarcoma.",
+  "research_interests": [
+    "Dr. Mullinax studies the immune infiltrate in soft tissue sarcoma with the goal of developing adoptive cell therapy for patients with advanced soft tissue sarcoma. Currently, he has a large research protocol which involves the study of resected sarcoma specimens. Specialized immune cells within the tumor which have the ability to attack tumor cells, called tumor infiltrating lymphocytes (TIL), are grown from the tumor in his lab and studied. Through the study of these cells, we are understanding the underlying mechanisms of tumor-immune interaction that will be used to develop novel therapies for patients with advanced sarcoma. He is a part of a larger team at Moffitt focused on this strategy for several other tumor types and the collaboration between this team is yielding very promising results for patients. His work is currently funded by the Ocala Royal Dames, the Chotiner Family Foundation and an Interdisciplinary Mathematical Oncology (IMO) Department grant.\n  *"
+  ],
+  "associations": [
+    "Sarcoma",
+    "Immunology",
+    "Immuno-Oncology Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of South Florida",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "University of South Florida",
+      "position": "Intern",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of South Florida",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of South Florida",
+      "specialty": "General Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "National Cancer Institute Surgery Branch",
+      "specialty": "Surgical Oncology"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Moffitt Cancer Center",
+      "specialty": "Complex General Surgical Oncology"
+    },
+    {
+      "type": "Board Certification",
+      "institution": "Surgery",
+      "certification": "Complex General Surgical Oncology"
+    }
+  ],
+  "publications": [
+    {
+      "title": "ASO Author Reflections: Emphasizing Surgical Palliative Care in CGSO Fellowship Programs",
+      "pubmed_id": "40924245",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Dineen S, Mullinax J",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Implementation of a Palliative Surgical Oncology Rotation to Complex General Surgical Oncology Fellowship Training",
+      "pubmed_id": "40849382",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Dineen S, O'Leary C, Rajasekhara S, Mullinax J",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Genomic, transcriptomic, and immunogenomic landscape of over 1300 sarcomas of diverse histology subtypes",
+      "pubmed_id": "40328759",
+      "pmc_id": "PMC12055966",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Soupir A, Ospina OE, Hampton O, Churchman M, Radmacher M, Hedges D, McKean D, Agius P, Zeeshan S, Seligson ND, Pollock R, Liebner D, Chen JL, Tinoco G, Salhia B, McCarter M, Wilky BA, Miller BJ, Cavnar MJ, Groundland JS, Schneider BP, Riedlinger G, Edge SB, Moskaluk CA, Cardona K, Naqash AR, Gonzalez RJ, Mullinax JE, Joyce DM, Binitie O, Douglas Letson G, Naghavi AO, Druta M, Reed DR, Siegel EM, Teer JK, Fridley BL, Brohl AS",
+      "journal": "Nat Commun"
+    },
+    {
+      "title": "Defining benchmark values for outcomes of comprehensive resection of primary retroperitoneal liposarcoma: a retrospective multicenter study",
+      "pubmed_id": "40521170",
+      "pmc_id": "PMC12167443",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Tirotta F, Fiore M, Bonvalot S, Strauss D, Rutkowski P, Gyorki DE, van Houdt WJ, Callegaro D, Albertsmeier M, Tzanis D, Cananzi F, Sicklick JK, Mullinax J, Wilkinson M, Grignol VP, Cardona K, Bouhadiba T, Novak M, Valeri S, Fairweather M, Ford SJ, Skoczylas J, Snow H, Hayes AJ, Hodson J, Raut CP, Gronchi A",
+      "journal": "EClinicalMedicine"
+    },
+    {
+      "title": "Radiologic and Pathologic Response Evaluation After Neoadjuvant Chemotherapy for Primary Retroperitoneal Sarcoma: A Transatlantic Australasian Retroperitoneal Sarcoma Working Group (TARPSWG) Collaboration",
+      "pubmed_id": "40374864",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "van der Burg SJC, Fiore M, Rutkowski P, Albertsmeier M, Bonvalot S, Grignol VP, Raut CP, Cananzi FCM, Mullinax JE, Gyorki DE, Pennacchioli E, Ford SJ, Nessim C, Cardona K, Callegaro D, Skoczylas J, Lindner LH, Gronchi A, Van Houdt WJ",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "The Use of Radar-Guided Localization to Identify Metastatic Melanoma After Neoadjuvant Immunotherapy",
+      "pubmed_id": "40279056",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Dugan MM, Beekman KE, DePalo DK, Parker LM, Elleson KM, Mullinax JE, Sarnaik AA, Sondak VK, Perez MC, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "ASO Visual Abstract: Isolated Limb Infusion for Limb Threatening Sarcomas",
+      "pubmed_id": "39446227",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Aflatooni S, Dugan MM, Boby A, Ghali H, DePalo DK, Naqvi SMH, Mullinax JE, Zager JS",
+      "journal": "Ann Surg Oncol"
+    },
+    {
+      "title": "Expansion of tumor-infiltrating and marrow-infiltrating lymphocytes from pediatric malignant solid tumors",
+      "pubmed_id": "39243253",
+      "pmc_id": "PMC11668621",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Metts J, Rodriguez-Valentin M, Hensel J, Alfaro A, Snyder CW, Binitie O, Chebli C, Monforte H, Pilon-Thomas S, Mullinax J",
+      "journal": "Cytotherapy"
+    },
+    {
+      "title": "Art of TIL immunotherapy: SITC's perspective on demystifying a complex treatment",
+      "pubmed_id": "39837618",
+      "pmc_id": "PMC11752064",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Turcotte S, Donia M, Gastman B, Besser M, Brown R, Coukos G, Creelan B, Mullinax J, Sondak VK, Yang JC, Rohaan MW, Marie Svane I, Lotze MT, Haanen JBAG, Goff SL",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Oncolytic Viral Therapy in Osteosarcoma",
+      "pubmed_id": "39066301",
+      "pmc_id": "PMC11281467",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Karadimas T, Huynh TH, Chose C, Zervoudakis G, Clampitt B, Lapp S, Joyce D, Letson GD, Metts J, Binitie O, Mullinax JE, Lazarides A",
+      "journal": "Viruses"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: The TINKS Trial  \nAward Number: 810828-1224-00  \nSponsor: ISABELLA SANTOS FOUNDATION  \nMullinax, J. (PD/PI)",
+      "title": "The TINKS Trial",
+      "award_number": "810828-1224-00",
+      "sponsor": "ISABELLA SANTOS FOUNDATION",
+      "investigators": [
+        {
+          "name": "Mullinax, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Biomarkers of Response in Pediatric Patients Following Adoptive Cell Therapy with Tumor Infiltrating Lymphocytes  \nAward Number: GC2025-012  \nSponsor: V FOUNDATION  \nMullinax, J. (PD/PI)",
+      "title": "Biomarkers of Response in Pediatric Patients Following Adoptive Cell Therapy with Tumor Infiltrating Lymphocytes",
+      "award_number": "GC2025-012",
+      "sponsor": "V FOUNDATION",
+      "investigators": [
+        {
+          "name": "Mullinax, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Leveraging the Lymphocytic Infiltration of Soft Tissue Sarcoma for Autologous Cellular Immunotherapy  \nAward Number: 5K08CA252642-05  \nSponsor: National Cancer Institute (NCI)  \nMullinax, J. (PD/PI)",
+      "title": "Leveraging the Lymphocytic Infiltration of Soft Tissue Sarcoma for Autologous Cellular Immunotherapy",
+      "award_number": "5K08CA252642-05",
+      "sponsor": "National Cancer Institute (NCI)",
+      "source": "NCI",
+      "investigators": [
+        {
+          "name": "Mullinax, J.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22294/",
+      "trial_id": "22294",
+      "title": "A Randomized Phase III Study of Neoadjuvant Chemotherapy followed by Surgery versus Surgery Alone for Patients with High Risk RetroPeritoneal Sarcoma (STRASS 2)",
+      "condition": "Sarcoma",
+      "intervention": "Adriamycin (doxorubicin); DTIC (Dacarbazine); Dacarbazine (); Ifosfamide (); Not Applicable (); doxorubicin ()",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?user=paSngW4AAAAJ&hl=en",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MullinaxJohn_14628.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=14628"
+  },
+  "content_hash": "b44c08fc31cf61c207076eadb5c0952c5c32e7dc0bf0741914e10630c3e12ba3",
+  "researcher_name": "john mullinax",
+  "department": "immunology"
+}

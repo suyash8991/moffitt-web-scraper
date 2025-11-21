@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/martina-molgora",
-  "last_updated": "2025-10-21T16:40:19.255129",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/martina-molgora/",
+  "last_updated": "2025-11-21T22:50:25.676091",
   "researcher_id": "39484",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Immunology",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "immunology",
+  "research_program": "immuno-oncology",
   "overview": "My main interest is the orchestration of the innate immune response in tumors, with a focus on myeloid cells as key players in immune evasion. I aim to investigate the role of innate immune cells in both resistance and response to therapy, elucidating their intricate interactions within the tumor microenvironment. My ultimate goal is to identify novel therapeutic targets and strategies to enhance treatment efficacy.",
   "research_interests": [
     "Identity and function of TREM2 macrophages in tumors: During my postdoctoral research, I identified TREM2 as a marker of immunosuppressive macrophages in tumors. I found that TREM2 blockade promotes tumor control and response to therapy and is associated with a beneficial immune response. I now aim at understanding the mechanism and pathways by which TREM2 macrophages develop and accumulate in tumors, with the goal to identify strategies to prevent their expansion and therefore favor the anti-tumor immune response. Impact of soluble TREM2 in cancer: TREM2 is a transmembrane receptor highly expressed in tumor-associated macrophages. TREM2 can be cleaved and released as a soluble form, named soluble TREM2. The impact of soluble TREM2 in cancer is currently unknown. I aim at understanding the potential role of soluble TREM2 as a diagnostic, prognostic and therapeutic factor in different tumor types. I also aim at exploring the mechanisms by which soluble TREM2 might influence the tumor microenvironment. Influence of gut-trafficking cells on systemic immunity and distant-site tumors: Numerous studies have reported the impact of the gut environment on different conditions, although the underlying molecular mechanism still needs to be fully elucidated and multiple questions remain open regarding the interaction between the gut and immune responses at distant sites. Gut-resident cells can sense local signals from both microbes and other cells and represent a potential intermediary element between the gut and distant site organs. My goal is to explore the impact of gut-trafficking cells in tumors and in different physiological and pathological scenarios. \n  *"
@@ -70,15 +70,6 @@
       "journal": "Clin Cancer Res"
     },
     {
-      "title": "TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer",
-      "pubmed_id": "37081148",
-      "pmc_id": "PMC11088947",
-      "year": "2023",
-      "publication_date": "2023 May",
-      "authors": "Park MD, Reyes-Torres I, LeBerichel J, Hamon P, LaMarche NM, Hegde S, Belabed M, Troncoso L, Grout JA, Magen A, Humblin E, Nair A, Molgora M, Hou J, Newman JH, Farkas AM, Leader AM, Dawson T, D'Souza D, Hamel S, Sanchez-Paulete AR, Maier B, Bhardwaj N, Martin JC, Kamphorst AO, Kenigsberg E, Casanova-Acebes M, Horowitz A, Brown BD, De Andrade LF, Colonna M, Marron TU, Merad M",
-      "journal": "Nat Immunol"
-    },
-    {
       "title": "TREM2: A new player in the tumor microenvironment",
       "pubmed_id": "36989543",
       "year": "2023",
@@ -94,6 +85,15 @@
       "publication_date": "2023 May",
       "authors": "Brioschi S, Belk JA, Peng V, Molgora M, Rodrigues PF, Nguyen KM, Wang S, Du S, Wang WL, Grajales-Reyes GE, Ponce JM, Yuede CM, Li Q, Baer JM, DeNardo DG, Gilfillan S, Cella M, Satpathy AT, Colonna M",
       "journal": "Immunity"
+    },
+    {
+      "title": "TREM2 macrophages drive NK cell paucity and dysfunction in lung cancer",
+      "pubmed_id": "37081148",
+      "pmc_id": "PMC11088947",
+      "year": "2023",
+      "publication_date": "2023 May",
+      "authors": "Park MD, Reyes-Torres I, LeBerichel J, Hamon P, LaMarche NM, Hegde S, Belabed M, Troncoso L, Grout JA, Magen A, Humblin E, Nair A, Molgora M, Hou J, Newman JH, Farkas AM, Leader AM, Dawson T, D'Souza D, Hamel S, Sanchez-Paulete AR, Maier B, Bhardwaj N, Martin JC, Kamphorst AO, Kenigsberg E, Casanova-Acebes M, Horowitz A, Brown BD, De Andrade LF, Colonna M, Marron TU, Merad M",
+      "journal": "Nat Immunol"
     },
     {
       "title": "Lipid-Associated Macrophages Are Induced by Cancer-Associated Fibroblasts and Mediate Immune Suppression in Breast Cancer",
@@ -118,11 +118,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/MolgoraMartina_39484.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=39484"
   },
-  "content_hash": "22334558fcbfedd138dbf573de357a080b417bbf48eaa1163887a2f351f4d923",
-  "researcher_name": "Martina Molgora",
-  "department": "Immunology"
+  "content_hash": "00bf8048c525819f4d91812b585ce36d8015e9f840066e451b29b12eb6c502ed",
+  "researcher_name": "martina molgora",
+  "department": "immunology"
 }

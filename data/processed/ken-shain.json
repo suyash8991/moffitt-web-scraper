@@ -1,14 +1,14 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/ken-shain",
-  "last_updated": "2025-10-21T16:38:42.245507",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ken-shain/",
+  "last_updated": "2025-11-21T22:50:25.108059",
   "researcher_id": "2060",
   "degrees": [
     "MD",
     "PhD"
   ],
   "title": "",
-  "primary_program": "Malignant Hematology",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
   "overview": "To date, Dr. Shain has been actively participating in translation research in multiple myeloma and other hematologic malignancies, with 40 publications as well as a number of book chapters. Clinically, Dr. Shain is/has been the principal investigator and co-investigator of a number of clinical trials in multiple myeloma. His translational research has focused on the mechanisms by which components of the bone marrow microenvironment influence myeloma biology, survival, and drug response. He is currently collaborating with a wide range of Moffitt and non-Moffitt researchers, mathematicians, clinicians and other groups to carry out his research goals.",
   "research_interests": [
     "This research goal and desire to bring personalized therapy to the forefront of myeloma therapy involves several projects \u2013 (1) Personalized care of multiple myeloma: A) EMMA (evolutionary mathematical myeloma advisor) - a novel collaboration with critical alliance with our integrated mathematical oncology department (Dr. Robert Gatenby, Dr. Robert Gilles and Dr. Ariosto Silva among others) characterizing aspects of the evolution of drug response. This collaboration has led the development of a novel mathematically-based model to predict patient response to therapy; thus, facilitating potential for the design of patient-specific/optimized therapeutic strategies that could extend survival in patients. B) GEP (gene expression profiling) - under a sponsored research agreement with Signal Genetics we will develop GEP signatures to better define risk of progression for antecedent conditions and to better inform key patient management decisions in multiple myeloma. (2) Targeting mediators of plasma cell development: Using three different mouse models we have identified a heretofore uncharacterized role of the histone deacetylase (HDAC), HDAC11, in plasma cell differentiation and biology. Our preliminary data indicate that HDAC11, the most recently identified HDAC, is critical for B cell development, more specifically plasma cell differentiation in vivo. Ongoing research will hopefully lead to the development of targeted therapeutics and clinical trials in myeloma patients. (3) Microenvironment-modulated synthetic lethality: Microenvironmental determinants alter tumor drug response; thereby, conferring myeloma survival and drug resistance. To this end, major questions remain: A) Can we identify key environmental determinants facilitating this survival phenotype to combat EMDR, MRD (minimal residual disease), and relapse? B) Can we identify drug targets that exhibit a TME-induced \u201csynthetic lethality\u201d (e.g. drugs with increased activity within the context of the TME)? We have recently identified PYK2/FAK2 as a target meeting this criteria and are working on translating this into clinical trials in collaboration with Verastem.\n  *"
@@ -50,13 +50,12 @@
   ],
   "publications": [
     {
-      "title": "Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma",
-      "pubmed_id": "39633543",
-      "pmc_id": "PMC12130774",
+      "title": "Target antigen and plasma cell phenotype are critical factors for sensitivity to response-adapted daratumumab therapy",
+      "pubmed_id": "40983035",
       "year": "2025",
-      "publication_date": "2025 Jun",
-      "authors": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC",
-      "journal": "Haematologica"
+      "publication_date": "2025 Sep",
+      "authors": "Meads MB, Zhao X, Noyes DR, Sudalagunta P, Achille A, Zhang C, Renatino Canevarolo R, Silva M, Magaletti D, DeAvila D, Toska S, Oates A, Lastorino D, Idiaquez DW, Song J, Sansil S, Yoder SJ, Grajales-Cruz AF, Blue BJ, Freeman CL, Kim J, Alsina M, Brayer J, Siqueira Silva A, Song X, Shain KH, Baz RC",
+      "journal": "Blood"
     },
     {
       "title": "Outcomes of teclistamab in patients with relapsed/refractory multiple myeloma with prior exposure to BCMA-directed therapy: a multicenter study from the U",
@@ -68,11 +67,12 @@
       "journal": "S"
     },
     {
-      "title": "Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma",
-      "pubmed_id": "40637727",
+      "title": "Acid ceramidase controls proteasome inhibitor resistance and is a novel therapeutic target for the treatment of relapsed/refractory multiple myeloma",
+      "pubmed_id": "39633543",
+      "pmc_id": "PMC12130774",
       "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK",
+      "publication_date": "2025 Jun",
+      "authors": "Bishop RT, Li T, Sudalagunta P, Nasr M, Nyman KJ, Alugubelli RR, Meads M, Frieling J, Nerlakanti N, Tauro M, Fang B, Grant S, Koomen J, Silva AS, Shain KH, Lynch CC",
       "journal": "Haematologica"
     },
     {
@@ -85,13 +85,12 @@
       "journal": "Nat Commun"
     },
     {
-      "title": "The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma",
-      "pubmed_id": "39476082",
-      "pmc_id": "PMC11733535",
+      "title": "Cytopenias and infections following ciltacabtagene autoleucel in heavily-pretreated relapsed or refractory multiple myeloma",
+      "pubmed_id": "40637727",
       "year": "2025",
-      "publication_date": "2025 Jan",
-      "authors": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH",
-      "journal": "Cancer Res"
+      "publication_date": "2025 Jul",
+      "authors": "Dima D, Logue JM, Waqar SHB, Peres LC, Colin-Leitzinger CM, De Avila G, Smith EC, Skelson L, Matte KL, Blue B, Hovanky VN, Gaballa M, Pasvolsky O, Oswald LB, Fortuna GGM, Wagner CB, DeJarnette S, Dillard C, Perna F, Mikkilineni L, Hosoya H, Freeman CL, Shain KH, Baz RC, Grajales-Cruz A, Puglianini OC, Alsina M, Locke FL, Shune LO, Sborov DW, Patel KK, Sidana S, Hansen DK",
+      "journal": "Haematologica"
     },
     {
       "title": "A plain language summary of the final analysis of the GRIFFIN study of daratumumab plus lenalidomide, bortezomib, and dexamethasone for people with newly diagnosed multiple myeloma",
@@ -111,6 +110,15 @@
       "journal": "Blood"
     },
     {
+      "title": "The Functional Transcriptomic Landscape Informs Therapeutic Strategies in Multiple Myeloma",
+      "pubmed_id": "39476082",
+      "pmc_id": "PMC11733535",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Sudalagunta PR, Canevarolo RR, Meads MB, Silva M, Zhao X, Cubitt CL, Sansil SS, DeAvila G, Alugubelli RR, Bishop RT, Tungesvik A, Zhang Q, Hampton O, Teer JK, Welsh EA, Yoder SJ, Shah BD, Hazlehurst L, Gatenby RA, Van Domelen DR, Chai Y, Wang F, DeCastro A, Bloomer AM, Siegel EM, Lynch CC, Sullivan DM, Alsina M, Nishihori T, Brayer J, Cleveland JL, Dalton W, Walker CJ, Landesman Y, Baz R, Silva AS, Shain KH",
+      "journal": "Cancer Res"
+    },
+    {
       "title": "Daratumumab with lenalidomide as maintenance after transplant in newly diagnosed multiple myeloma: the AURIGA study",
       "pubmed_id": "39331724",
       "pmc_id": "PMC11775507",
@@ -127,15 +135,6 @@
       "publication_date": "2025 Aug",
       "authors": "Freeman CL, Abraham-Miranda J, Menges M, Atkins RM, Noble J, Liu H, Corallo S, Cuadrado Delgado LA, Ribickas AJ, Savid-Frontera C, de Avila G, Castaneda Puglianini OA, Ochoa-Bayona J, Hansen DK, Alsina M, Baz R, Nishihori T, Shain KH, Locke FL",
       "journal": "Mol Ther"
-    },
-    {
-      "title": "Unc-51 Like Kinase 3 (ULK3) is essential for autophagy and cell survival in multiple myeloma",
-      "pubmed_id": "40831505",
-      "pmc_id": "PMC12363935",
-      "year": "2025",
-      "publication_date": "2025 Aug",
-      "authors": "Tauro M, Li T, Sudalagunta PR, Meads M, Canevarolo RR, Nerlakanti N, Alugubelli RR, Lawrence HR, Gunawan S, Ayaz M, Nareddy P, Yun SY, Shay G, Yang K, Tran TH, Bishop RT, Nasr MM, Lawrence NNJ, Sch\u00f6nbrunn E, Cleveland JL, Silva AS, Shain KH, Lynch CC",
-      "journal": "Res Sq"
     }
   ],
   "grants": [
@@ -176,11 +175,30 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-21219/",
+      "trial_id": "21219",
+      "title": "Predicting Progression of Developing Myeloma in a High-Risk Screened Population",
+      "condition": "Malignant Hematology",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22534/",
+      "trial_id": "22534",
+      "title": "Phase 3 Randomized Study Comparing Talquetamab in Combination with Pomalidomide (TaIP), Talquetamab in Combination with Teclistamab (TaITec), and Investigators Choice of Either Elotuzumab, Pomalidomide, and Dexamethasone (PVd) in Participants with Relapsed or Refractory Myeloma who Have Received an AntiCD38 Antibody and Lenalidomide (MonumenTAL-6)",
+      "condition": "Malignant Hematology",
+      "intervention": "Bortezomib (); CC-4047 (Pomalidomide); Dexamethasone (); Elotuzumab (); PS-341 (Bortezomib); Pomalidomide (); Talquetamab (); Teclistamab (); Velcade (Bortezomib)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ShainKen_2060.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=2060"
   },
-  "content_hash": "dd5d7c9cef971fdc2c697d5fd9533f1118443271384f12e0dbfc40e2a1dbda4c",
-  "researcher_name": "Ken Shain",
-  "department": "Tumor Microenvironment and Metastasis"
+  "content_hash": "fa90837ab7f86d16753fb11fa27dc01eed19c8ab375264517555a187ff1faf9f",
+  "researcher_name": "ken shain",
+  "department": "tumor microenvironment and metastasis"
 }

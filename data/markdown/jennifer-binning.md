@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/jennifer-binning)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/jennifer-binning)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -493,8 +492,9 @@ At Moffitt, The Binning Lab will apply cutting-edge biochemical and structural t
   * ## Research Interest
 The Binning lab studies how viruses such as Human Papillomavirus (HPV) re-wire host ubiquitin machinery to support viral replication and drive tumorigenesis. By exploring the link between human disease states and dysregulation of ubiquitin pathways, we aim to identify new pathogenic mechanisms that will guide the development of diagnostics and therapeutics. 
   * ## Publications
+    * Matlack JK, Miner RE, Lokhandwala J, Binning JM. Ancestral protein reconstruction reveals the mechanism of substrate specificity in FN3K-mediated deglycation. Res Sq. 2025 Sep. Pubmedid: [41041572](https://www.ncbi.nlm.nih.gov/pubmed/41041572). Pmcid: PMC12486099. 
+    * Smalley TB, Nicolaci AA, Tran KC, Lokhandwala J, Obertopp N, Matlack JK, Miner RE, Teng MN, Pilon-Thomas S, Binning JM. Targeted degradation of the HPV oncoprotein E6 reduces tumor burden in cervical cancer. Mol Ther. 2025 Nov.33(11):5415-5426. Pubmedid: [40873032](https://www.ncbi.nlm.nih.gov/pubmed/40873032). Pmcid: PMC12582245. 
     * Matlack JK, Miner RE, Lokhandwala J, Binning JM. Ancestral protein reconstruction reveals the mechanism of substrate specificity in FN3K-mediated deglycation. bioRxiv. 2025 Jul. Pubmedid: [40766467](https://www.ncbi.nlm.nih.gov/pubmed/40766467). Pmcid: PMC12324494. 
-    * Smalley TB, Nicolaci AA, Tran KC, Lokhandwala J, Obertopp N, Matlack JK, Miner RE, Teng MN, Pilon-Thomas S, Binning JM. Targeted degradation of the HPV oncoprotein E6 reduces tumor burden in cervical cancer. Mol Ther. 2025 Aug. Pubmedid: [40873032](https://www.ncbi.nlm.nih.gov/pubmed/40873032). 
     * Smalley TB, Nicolaci A, Tran KC, Lokhandwala J, Obertopp N, Matlack JK, Miner RE, Teng MN, Pilon-Thomas S, Binning JM. Targeted degradation of the HPV oncoprotein E6 reduces tumor burden in cervical cancer. bioRxiv. 2024 Oct. Pubmedid: [39464070](https://www.ncbi.nlm.nih.gov/pubmed/39464070). Pmcid: PMC11507957. 
     * Lokhandwala J, Matlack JK, Smalley TB, Miner RE, Tran TH, Binning JM. Structural basis for FN3K-mediated protein deglycation. Structure. 2024 Oct.32(10):1711-1724.e5. Pubmedid: [39173621](https://www.ncbi.nlm.nih.gov/pubmed/39173621). Pmcid: PMC11455621. 
     * Welsch JT, Smalley TB, Matlack JK, Avalon NE, Binning JM, Johnson MP, Allcock AL, Baker BJ. Tuaimenals B-H, Merosesquiterpenes from the Irish Deep-Sea Soft Coral Duva florida with Bioactivity against Cervical Cancer Cell Lines. J Nat Prod. 2023 Jan.86(1):182-190. Pubmedid: [36580354](https://www.ncbi.nlm.nih.gov/pubmed/36580354). Pmcid: PMC9887596. 
@@ -606,7 +606,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -661,7 +661,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/jennifer-binning#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/jennifer-binning#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -679,7 +679,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1033,7 +1033,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/jennifer-binning#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/jennifer-binning#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

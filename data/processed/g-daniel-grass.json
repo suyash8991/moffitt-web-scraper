@@ -1,0 +1,190 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/g-daniel-grass/",
+  "last_updated": "2025-11-21T22:50:23.806361",
+  "researcher_id": "24004",
+  "degrees": [
+    "MD",
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "radiation oncology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Grass is focused on treating patients with genitourinary malignancies by implementing novel approaches with leading edge radiation technologies and using imaging and tumor genomics in the decision-making process. He is also interested in multi-disciplinary care models in bladder cancer, which provide patients the opportunity to hear the best treatment options available before deciding on a treatment approach.",
+  "research_interests": [
+    "Dr. Grass is interested in personalizing the approach to radiation therapy delivery by integrating patient-specific tumor genomics, metabolism and host-immune system interactions. He also has an interest in rare genitourinary cancers, including small cell cancer of the bladder and penile cancer, and identifying novel treatment approaches for these aggressive tumor types.\n  *"
+  ],
+  "associations": [
+    "Radiation Oncology",
+    "Lung Cancer Center of Excellence",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Medical University of South Carolina",
+      "degree": "PhD"
+    },
+    {
+      "type": "Medical School",
+      "institution": "Medical University of South Carolina",
+      "degree": "MD"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Cisplatin-ineligible patients with muscle-invasive bladder cancer demonstrate poor long-term survival following immediate radical cystectomy",
+      "pubmed_id": "40932312",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Fazili A, Jazayeri SB, Rose KM, Guske C, Wen L, Durant A, Prunty M, Bukavina L, Tyson MD, Grass GD, Xu H, Spiess PE, Gilbert SM, Sexton WJ, Zemp L, Pessoa RR, Poch M, Lerner SP, Li R",
+      "journal": "BJU Int"
+    },
+    {
+      "title": "Neoadjuvant prostate artery embolization prior to prostate radiation therapy: A single institution experience on the durability of clinical urinary improvement after radiation",
+      "pubmed_id": "41122670",
+      "pmc_id": "PMC12536586",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Khatri VM, Grass GD, Thapa R, Maun-Garcia L, Latifi K, Naghavi AO, Garg A, Fernandez D, Torres-Roca J, Rishi A, Jazayeri-Moghaddas O, Pow-Sang J, Johnstone PAS, Yamoah K, Parikh N",
+      "journal": "Clin Transl Radiat Oncol"
+    },
+    {
+      "title": "Association between transcriptomic metrics of exogenous antigen presentation and adaptive immunity with locoregional recurrence in localized estrogen receptor negative breast cancer: retrospective review of multi-institutional datasets",
+      "pubmed_id": "40361136",
+      "pmc_id": "PMC12070507",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Robinson TJ, Liveringhouse CL, Wilson C, Friedman S, Nakashima J, Mills MN, Purcell JD, Figura NB, Dongliang D, Thapa R, Welsh E, Ahmed KA, Grass GD, Fridley BL, Diaz R",
+      "journal": "Breast Cancer Res"
+    },
+    {
+      "title": "ROICellTrack: a deep learning framework for integrating cellular imaging modalities in subcellular spatial transcriptomic profiling of tumor tissues",
+      "pubmed_id": "40199763",
+      "pmc_id": "PMC12085996",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Song X, Yu X, Moran-Segura CM, Xu H, Li T, Davis JT, Vosoughi A, Grass GD, Li R, Wang X",
+      "journal": "Bioinformatics"
+    },
+    {
+      "title": "Nivolumab adjuvant to chemo-radiation in localized muscle-invasive urothelial cancer: primary analysis of a multicenter, single-arm, phase II, investigator-initiated trial (NEXT)",
+      "pubmed_id": "40102029",
+      "pmc_id": "PMC11927433",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Galarza Fortuna GM, Grass D, Maughan BL, Jain RK, Dechet C, Beck J, Schuetz E, Sanchez A, O'Neil B, Poch M, Li R, Lloyd S, Tward J, Phunrab T, Hawks JL, Swami U, Boucher KM, Agarwal N, Gupta S",
+      "journal": "J Immunother Cancer"
+    },
+    {
+      "title": "Local Single-Dose Radiation Improves Adoptive Cell Therapy With Tumor-Infiltrating Lymphocytes",
+      "pubmed_id": "40582598",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Obertopp N, Bekker RA, Grass GD, Zelenka T, Thomas A, Potez M, Ali J, Blauvelt J, Hall AM, Hall MS, Chung CH, Enderling H, Pilon-Thomas S",
+      "journal": "Int J Radiat Oncol Biol Phys"
+    },
+    {
+      "title": "Urothelial Cancer: Leveraging Circulating Tumor DNA To Avoid Unnecessary Bladder-directed and Systemic Therapies",
+      "pubmed_id": "40716995",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Chatzkel J, Linscott J, Daniel Grass G, Li R",
+      "journal": "Eur Urol Focus"
+    },
+    {
+      "title": "The Prognostic Role of HPV or p16INK4a Status in Penile Squamous Cell Carcinoma: A Meta-Analysis",
+      "pubmed_id": "39752880",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Mustasam A, Parza K, Ionescu F, Gullapalli K, Paravathaneni M, Kim Y, Sandstrom RE, Al Assaad M, Grass GD, Johnstone P, Eschrich S, Safa H, Chadha J, Roman Souza G, David J, Semaan A, Zacharias NM, Pettaway C, Giuliano AR, Spiess PE, Chahoud J",
+      "journal": "J Natl Compr Canc Ne"
+    },
+    {
+      "title": "Oncolytic immunotherapy with nivolumab in muscle-invasive bladder cancer: a phase 1b trial",
+      "pubmed_id": "39521884",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Li R, Villa NY, Yu X, Johnson JO, Borjas G, Dhillon J, Moran-Segura CM, Kim Y, Francis N, Dorman D, Powers JJ, Sexton WJ, Spiess PE, Poch MA, Zemp L, Gilbert SM, Zhang J, Pow-Sang JM, Anderson ARA, Li T, Wang X, Grass GD, Burke JM, Dinney CPN, Rodriguez PC, Jain RK, Mul\u00e9 JJ, Conejo-Garcia JR",
+      "journal": "Nat Med"
+    },
+    {
+      "title": "Prostate Artery Embolization in the Setting of Prostate Cancer: Review and Opinion",
+      "pubmed_id": "39876663",
+      "pmc_id": "PMC11775958",
+      "year": "2025",
+      "publication_date": "2025 Jan",
+      "authors": "Parikh N, Yamoah K, Johnstone P, Torres-Roca J, Pow-Sang J, Fernandez D, Rishi A, Grass GD",
+      "journal": "Cancer Control"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: To develop and evaluate an AI-based prognostic and predictive models that may inform decisions for localized prostate cancer in patients undergoing prostatectomy and radiation therapy  \nAward Number: 22VA056-22VA056-S1  \nSponsor: ARTERA INC  \nGrass, G. (PD/PI), Yamoah, K. (Co-PD/PI)",
+      "title": "To develop and evaluate an AI-based prognostic and predictive models that may inform decisions for localized prostate cancer in patients undergoing prostatectomy and radiation therapy",
+      "award_number": "22VA056-22VA056-S1",
+      "sponsor": "ARTERA INC",
+      "investigators": [
+        {
+          "name": "Grass, G.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Yamoah, K.",
+          "role": "Co-PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: To Develop and Evaluate an AI-Based Prognostic and Predictive Models That May Inform Decisions for Non-Muscle Invasive Bladder Cancer (NMIBC) and Muscle Invasive Bladder Cancer (MIBC)  \nAward Number: Exhibit A-2  \nSponsor: ARTERA INC  \nGrass, G. (PD/PI)",
+      "title": "To Develop and Evaluate an AI-Based Prognostic and Predictive Models That May Inform Decisions for Non-Muscle Invasive Bladder Cancer (NMIBC) and Muscle Invasive Bladder Cancer (MIBC)",
+      "award_number": "Exhibit A-2",
+      "sponsor": "ARTERA INC",
+      "investigators": [
+        {
+          "name": "Grass, G.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Clinical utility of cell-free DNA methylation profiling in high-risk/oligometastatic prostate cancer patients treated with radiation therapy  \nAward Number:   \nSponsor: Foundation Support-Rsch  \nGrass, G. (PD/PI), Wang, L. (PD/PI), Yamoah, K. (PD/PI)",
+      "title": "Clinical utility of cell-free DNA methylation profiling in high-risk/oligometastatic prostate cancer patients treated with radiation therapy",
+      "award_number": "",
+      "sponsor": "Foundation Support-Rsch",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Grass, G.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Wang, L.",
+          "role": "PD/PI"
+        },
+        {
+          "name": "Yamoah, K.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23562/",
+      "trial_id": "23562",
+      "title": "A Phase II Double-Blinded, Placebo-Controlled Trial of Prostate Oligometastatic Radiotherapy with or without Androgen Deprivation Therapy in Oligometastatic Prostate Cancer (NRG Promethean)",
+      "condition": "Genitourinary",
+      "intervention": "Placebo (); Radiotherapy (); Relugolix (Orgovyx)",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GrassGDaniel_24004.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=24004"
+  },
+  "content_hash": "7f9c112f5949f2a6d8b1233a9d4961212680be0aa5170f0f866c916f927d9ced",
+  "researcher_name": "g daniel grass",
+  "department": ""
+}

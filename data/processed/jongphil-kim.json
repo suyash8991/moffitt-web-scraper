@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jongphil-kim",
-  "last_updated": "2025-10-21T16:39:14.964292",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jongphil-kim/",
+  "last_updated": "2025-11-21T22:50:24.786916",
   "researcher_id": "4228",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Immuno-Oncology Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "immuno-oncology",
   "overview": "I have sought to develop statistical methodologies to solve statistical problems identified through collaborative research. My primary research interest involves the design and analysis of early phase clinical trials, multiple comparisons, time-to-event endpoints analysis, imaging data analysis, concordance, and longitudinal data analysis.",
   "research_interests": [
     "My primary research interest in the biostatistics area involves the design and analysis of early phase clinical trials, multiple comparisons, time-to-event endpoints analysis, imaging data analysis, concordance, and longitudinal data analysis. As a collaborative track faculty member, my collaborative research interests are diverse. I have actively collaborated with investigators affiliated with the Blood and Marrow Transplant and Cellular Immunotherapy (BMT-CI), Malignant Hematology, Imaging, Radiology, Radiation Oncology, Health Outcomes & Behavior (HOB), Cancer Epidemiology (CE), Geriatric, GI, Thoracic, and Basic Science programs. My role includes the development of LOIs/IITs, the development of extramural/intramural grants applications, the design and analysis of the early phase clinical trials, and the analysis of retrospective studies. Furthermore, I have enthusiastically developed novel methods and applied state-of-the-art approaches in practice. For instance, I developed the Modified Simon\u2019s design with Dr. Michael Schell for the design of single-arm phase II IITs.\n  *"
@@ -55,6 +55,14 @@
       "journal": "Blood"
     },
     {
+      "title": "Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide",
+      "pubmed_id": "40617898",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H",
+      "journal": "Bone Marrow Transplant"
+    },
+    {
       "title": "Ibrutinib for therapy of steroid-refractory chronic graft-versus-host disease: a multicenter real-world analysis",
       "pubmed_id": "39454280",
       "pmc_id": "PMC11909441",
@@ -62,14 +70,6 @@
       "publication_date": "2025 Mar",
       "authors": "Pidala JA, Kim J, Kalos D, Cutler CS, DeFilipp Z, Flowers ME, Hamilton BK, Chin KK, Rotta M, El Jurdi N, Hamadani M, Ahmed G, Kitko CL, Ponce DM, Sung AD, Tang H, Farhadfar N, Nemecek ER, Pusic I, Qayed M, Rangarajan HG, Hogan WJ, Etra AM, Jaglowski SM",
       "journal": "Blood Adv"
-    },
-    {
-      "title": "Letermovir reduces cytomegalovirus in HLA-matched and mismatched allogeneic hematopoietic cell transplant patients receiving post-transplant cyclophosphamide",
-      "pubmed_id": "40617898",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Schmitz J, Gaskill E, Price S, Cao B, Kim J, Baluch A, Klinkova O, Faramand R, Mishra A, Perez L, Khimani F, Lazaryan A, Ochoa-Bayona JL, Liu H, Mirza AS, Nieder M, Anasetti C, Nishihori T, Pidala JA, Bejanyan N, Elmariah H",
-      "journal": "Bone Marrow Transplant"
     },
     {
       "title": "Preoperative prediction of high-risk lymph nodes in penile cancer: Graafland criteria vs radiomics",
@@ -123,11 +123,14 @@
     }
   ],
   "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=9OIdgPgAAAAJ",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers/KimJongphil_4228.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=4228"
   },
-  "content_hash": "b4aade5af487816982da383b70ec05b30671ec1e8684ed90c3f33a03a9ac61ca",
-  "researcher_name": "Jongphil Kim",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "e54ef53bf245e75b788fa72ed8714658d4ae684faaf4a21d25c2e2a76824e934",
+  "researcher_name": "jongphil kim",
+  "department": "biostatistics and bioinformatics"
 }

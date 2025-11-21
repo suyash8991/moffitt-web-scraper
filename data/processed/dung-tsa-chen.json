@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/dung-tsa-chen",
-  "last_updated": "2025-10-21T16:36:31.747574",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/dung-tsa-chen/",
+  "last_updated": "2025-11-21T22:50:23.558630",
   "researcher_id": "3829",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Biostatistics and Bioinformatics",
-  "research_program": "Molecular Medicine Program",
+  "primary_program": "biostatistics and bioinformatics",
+  "research_program": "molecular medicine",
   "overview": "Statistical application in clinical trial data analysis, such as development of adverse event as valuable biomarker in predicting clinical outcomes.",
   "research_interests": [
     "Dr. Chen has been on numerous NCI grants as a co-investigator involving in the design, conduct, and analysis of research projects in cancer and has over 100 peer-reviewed publications. His key areas of expertise include microarray data analysis, mixed models, survival data analysis, biomarker analysis and clinical trials.His work involves the identification of novel biomarker strategies using genomics and other emerging technologies to guide clinical decision making. He has developed a statistical outlier approach to derive a malignancy-risk gene signature in breast cancer. This statistical outlier method has potential unique applications in cancer research, such as improved prediction of cancer risk, thereby providing better individualized therapy. Statistical outlier methods could be useful tools to help identify subgroups of individuals who may have high risk of cancer development and need special chemopreventive treatments. For example, an outlier gene signature to identifying high-risk normal breast tissue could improve the potential for breast biopsy to identify at-risk patients and refine the current practice of intraoperative assessment of the margins of the resected breast tissues based on histology alone, and may prove useful in guiding treatment choices after lumpectomy.\n  *"
@@ -151,11 +151,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/ChenDung-Tsa_3829.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=3829"
   },
-  "content_hash": "801a39e87e1825059a3315499424321525bff994c5b7a53d938368b46453bc5f",
-  "researcher_name": "Dung Tsa Chen",
-  "department": "Biostatistics and Bioinformatics"
+  "content_hash": "70b22f0db49e6f4c6ce109b5feffc64ebcfed595e91e7557d89e659f558ee98f",
+  "researcher_name": "dung tsa chen",
+  "department": "biostatistics and bioinformatics"
 }

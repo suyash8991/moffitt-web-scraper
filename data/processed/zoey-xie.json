@@ -1,0 +1,154 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/zoey-xie/",
+  "last_updated": "2025-11-21T22:50:27.525330",
+  "researcher_id": "33318",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "malignant hematology",
+  "research_program": "molecular medicine",
+  "overview": "Dr. Xie's primary research focuses on Hematologic Malignancies, particularly myeloid malignancy and Clonal hematopoiesis. She possesses extensive expertise in clinical research and clinical trials. She is a lead clinical investigator in the clonal hematopoiesis clinic at Moffitt Cancer Center. Her clinical research contributions extend to the design and implementation of clinical trials targeting novel therapies for myeloid neoplasms. In addition to research, she is dedicated to enhancing patient care through the development of precision medicine-based clinical trials.",
+  "research_interests": [
+    "I am interested in Clonal Hematopoiesis (CH) research- As the lead clinical investigator for the CH clinic at MCC., I am interested in studying the risk of CH progression to myeloid malignancy. I developed the Clonal Cytopenia Risk Score, which was published in the Blood Journal. Further, I designed the NCI-sponsored phase II clinical trial NCT03418038, \"Using Ascorbic Acid (AA) in Patients with TET2-mutated clonal cytopenia\", one of the first clinical trials in the CH space. This project has been recognized with an ASH CRTI award. I am currently working with other collaborators to evaluate clonal evolution and design other novel clinical trials for preventing CH progression and improving the outcome of patients with CH. I have co-authored over 50 peer-reviewed publications, 14 of which I am the first author. My work has earned me multiple accolades, including the ASH CRTI award, the ASH Abstract Achievement Award, the Outstanding Hematology-Oncology Fellow Award from the Minnesota Society of Clinical Oncology, and the Robert A Winn Career Development Award.\n  *"
+  ],
+  "associations": [
+    "Malignant Hematology",
+    "Molecular Medicine Program"
+  ],
+  "education": [],
+  "publications": [
+    {
+      "title": "Transfusion Independence Corresponds With Survival in Patients With Lower-Risk Myelodysplastic Syndrome: Real-World Evidence From United States Insurance Claims",
+      "pubmed_id": "40410022",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Komrokji RS, Supina D, Navada S, Potluri R, Tyagi R, Werwath T, Xie Z, Padron E, Sallman DA",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "Clinical correlation and prognostic impact of cytogenetic clone size for myelodysplastic syndromes/neoplasm",
+      "pubmed_id": "40453136",
+      "pmc_id": "PMC12067887",
+      "year": "2025",
+      "publication_date": "2025 May",
+      "authors": "Xie Z, Al Ali N, Zhang L, Papenhausen P, Volpe VO, Chan O, Kuykendall A, Yun S, Walker A, Sweet K, Lancet JE, Padron E, Sallman DA, Komrokji RS",
+      "journal": "Blood Neoplasia"
+    },
+    {
+      "title": "Reducing clinical trial eligibility barriers for patients with MDS: an icMDS position statement",
+      "pubmed_id": "40146152",
+      "pmc_id": "PMC11969261",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Borate U, Pugh K, Waller A, Welkie RL, Huang Y, Bewersdorf JP, Stahl M, DeZern AE, Platzbecker U, Sekeres MA, Wei AH, Buckstein RJ, Roboz GJ, Savona MR, Loghavi S, Hasserjian RP, Fenaux P, Sallman DA, Hourigan CS, Della Porta MG, Nimer S, Little RF, Santini V, Efficace F, Taylor J, Garcia-Manero G, Odenike O, Kim TK, Halene S, Komrokji RS, Griffiths EA, Greenberg PL, Xu ML, Xie Z, Bejar R, Sanz GF, Patnaik MM, Figueroa M, Carraway HE, Abdel-Wahab O, Starczynowski D, Padron E, Boultwood J, Gore S, Daver NG, Churpek JE, Majeti R, Bennett JM, List AF, Brunner AM, Zeidan AM",
+      "journal": "Blood"
+    },
+    {
+      "title": "Serum hypoalbuminemia is an independent prognostic factor in Chronic Myelomonocytic Leukemia (CMML)",
+      "pubmed_id": "39921921",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Komrokji Z, Ali NA, Xie Z, Chan O, Yun S, Walker A, Lancet J, Kuykendall A, Sallman D, Padron E, Komrokji RS",
+      "journal": "Leuk Res"
+    },
+    {
+      "title": "Characteristics and survival outcomes of patients with myelodysplastic syndromes with isolated 11q deletion",
+      "pubmed_id": "39938357",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Takaoka K, Komrokji R, Chien K, Montalban-Bravo G, Salman JB, Urrutia S, Bataller A, Bazinet A, Kekedjian J, Al Ali NH, Sallman D, Padron E, Xie Z, Kanagal-Shamanna R, Tang G, Yang H, Rodriguez-Sevilla JJ, Garcia-Manero G, Sasaki K",
+      "journal": "Leuk Res"
+    },
+    {
+      "title": "Oral azacitidine maintenance after intensive chemotherapy versus venetoclax and azacitidine: real world outcomes in newly diagnosed acute myeloid leukemia",
+      "pubmed_id": "39606887",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Mims A, Xie Z, Potluri R, Rotter D, Chevli M, Prebet T, Gaugler L, Strocchia M, Vasconcelos A, Sieluk J",
+      "journal": "Leuk Lymphoma"
+    },
+    {
+      "title": "Hematological Response to Frontline Treatment in Lower Risk Myelodysplastic Syndromes (LRMDS) is Associated With Better Overall Survival",
+      "pubmed_id": "40113545",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Komrokji RS, Ammad-Ud-Din M, Ali NHA, Xie Z, Chan O, Kuykendall AT, Yun S, Walker AR, Lancet J, Padron E, Sallman DA",
+      "journal": "Clin Lymphoma Myeloma Leuk"
+    },
+    {
+      "title": "Response to luspatercept can be predicted and improves overall survival in the real-life treatment of LR-MDS",
+      "pubmed_id": "39944234",
+      "pmc_id": "PMC11814532",
+      "year": "2025",
+      "publication_date": "2025 Feb",
+      "authors": "Consagra A, Lanino L, Al Ali NH, Aguirre L, Xie Z, Chan O, Andreossi G, Raddi MG, Rigodanza L, Sanna A, Mattiuz G, Tofacchi E, Amato C, Tanturli M, De Pourcq S, Walker A, Kuykendall A, Lancet J, Padron E, Sallman DA, Restuccia F, Perego A, Ubezio M, Fattizzo B, Riva M, Maggioni G, Campagna A, Della Porta MG, Santini V, Komrokji RS",
+      "journal": "Hemasphere"
+    },
+    {
+      "title": "Factors affecting treatment decisions for lower-risk myelodysplastic syndromes across practice settings",
+      "pubmed_id": "40853277",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Sekeres MA, Venugopal S, Chandhok NS, Watts JM, Bradley T, Taylor J, Sallman DA, Xie Z, Padron E, Zyborowicz E, Anderson Chadha C, Carter J, Heggen C, Sullivan S, Gurska L, Komrokji RS",
+      "journal": "Leuk Lymphoma"
+    },
+    {
+      "title": "Multiple TET2 mutations confer additional survival benefit in both myelodysplastic and myeloproliferative chronic myelomonocytic leukemia subtypes",
+      "pubmed_id": "40555734",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Csizmar CM, Natu A, Gurney M, Fathima S, Alsugair AKA, Kanagal-Shamanna R, Loghavi S, Bazinet A, Chien K, Hammond D, DiNardo C, Kadia T, Ravandi-Kashani F, Pemmaraju N, Sasaki K, Lasho TL, Finke CM, Al-Kali A, Alkhateeb H, Begna K, Gangat N, Hefazi Torghabeh M, Matin A, Mangaonkar AA, Saliba AN, Tefferi A, Garcia-Manero G, Kantarjian HM, Komrokji RS, Xie Z, Ali NA, Sallman D, Padron E, Montalban-Bravo G, Patnaik MM",
+      "journal": "Leukemia"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: Optimizing Patient Diversity in the ABNL-MARROW Trial: A Comprehensive Approach to Ensure Representative Enrollment of the Hispanic Community in the Evaluation of Novel Myeloid Target Compound Combinations for MDS/MPN Overlap Neoplasms  \nAward Number:   \nSponsor: Medical College of Virginia Foundation (MCVF)  \nXie, Z. (PD/PI)",
+      "title": "Optimizing Patient Diversity in the ABNL-MARROW Trial: A Comprehensive Approach to Ensure Representative Enrollment of the Hispanic Community in the Evaluation of Novel Myeloid Target Compound Combinations for MDS/MPN Overlap Neoplasms",
+      "award_number": "",
+      "sponsor": "Medical College of Virginia Foundation (MCVF)",
+      "source": "Foundation",
+      "investigators": [
+        {
+          "name": "Xie, Z.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22190/",
+      "trial_id": "22190",
+      "title": "A phase 1b, open label, multi-center, dose optimization and dose expansion study to assess the safety and efficacy of DFV890 in adult patients with myeloid diseases",
+      "condition": "Malignant Hematology",
+      "intervention": "DFV890 ()",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22596/",
+      "trial_id": "22596",
+      "title": "Clonal Hematopoiesis, Clonal Cytopenia, Myeloid Neoplasms Study Group",
+      "condition": "Malignant Hematology",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23254/",
+      "trial_id": "23254",
+      "title": "A Phase 1/1b Open-Label, Dose-Escalation, First-in-Human Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Preliminary Anti-leukemic Activity of the Orally Available CDC-Like Kinase (CLK) Inhibitor BH-30236 in Adults with Relapsed or Refractory Acute Myelogenous Leukemia (R/R AML) or Higher-Risk Myelodysplastic Syndrome (HR-MDS)",
+      "condition": "Malignant Hematology",
+      "intervention": "BH-30236 (); GDC-0199 (Venetoclax); Venetoclax ()",
+      "status": "OPEN (SUSPENDED)"
+    }
+  ],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/XieZoey_33318.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=33318"
+  },
+  "content_hash": "2a2e23d4ff95e2ddfcda5c221c33ad50f2bc9a19c163da4270f31e6880f34c2d",
+  "researcher_name": "zoey xie",
+  "department": ""
+}

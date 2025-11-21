@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/jessica-islam",
-  "last_updated": "2025-10-21T16:36:00.680149",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/jessica-islam/",
+  "last_updated": "2025-11-21T22:50:24.416065",
   "researcher_id": "28432",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Cancer Epidemiology",
-  "research_program": "Cancer Epidemiology Program",
+  "primary_program": "cancer epidemiology",
+  "research_program": "cancer epidemiology",
   "overview": "Dr. Islam's research focuses on improving cancer care quality across the care continuum, at the intersection of infections and cancer. Through her research program, Dr. Islam aims to improve cancer outcomes among vulnerable populations, such as people living with HIV, using multi-level approaches, epidemiological methods, and an equity-focused lens to ensure high-quality cancer care for all.",
   "research_interests": [
     "Dr. Jessica Islam, PhD, MPH is formally trained as a cancer epidemiologist, with additional training in implementation science and health services research. She is a population health scientist focused on evaluating cancer care quality across the continuum, specifically at the intersection of infections and cancer. Her research foci include: the prevention of cancers caused by infection, and quality of cancer care delivery to people with HIV (PWH) both in the US and globally. Her early work, focused on identifying novel and effective methods for the detection and service delivery of cervical cancer screening to women living with and without HIV in low-resource settings globally. Her research continues to focus more broadly on infection-associated cancers, including evaluating the use of home-based methods to test for high-risk HPV and optimal strategies for triage after a positive screen. Dr. Islam is dedicated to improving cancer care delivery to PWH by identifying and intervening on poor care quality they may experience starting from cancer prevention through survivorship. To conduct this research, Dr. Islam leverages \u2018big data\u2019 resources, including state-level novel data linkages and multi-payer insurance claims. Using these data sources, Dr. Islam's lab leverages machine learning, natural language processing, and causal inference methods to identify mechanisms leading to poor cancer quality to guide intervention development. She prioritizes community voices and also integrates mixed methods approaches to integrate qualitative findings to contextualize results from her epidemiological studies. Dr. Islam is developing an active research portfolio focused on cancer prevention care delivery to PWH to reduce the incidence of cancer diagnoses at advanced stages among PWH and reduce the burden of preventable cancer deaths in Florida, a region with HIV incidence and poor cancer outcomes. She has published over 100 manuscripts in peer-reviewed journals and received multiple NIH/NCI grants as PI and Co-Investigator. To inform her research on improving cancer care delivery to PWH, she has undergone training in implementation science as a fellow of the HIV Implementation Science Program developed by the Center for AIDS Research at Johns Hopkins (2021-2022). Currently, she is a fellow of the HIV, Infectious Disease and Global Health Implementation Research Institute (HIGH IRI) at Washington University in St. Louis. Overall, Dr. Islam's career goal is to become an independent, interdisciplinary investigator of cancer care quality, with research specifically aimed at the intersection of infections and cancer, both in the United States and globally. \n  *"
@@ -40,6 +40,15 @@
       "publication_date": "2025 Sep",
       "authors": "Yang S, Li Y, Wheldon CW, Islam JY, Prosperi M, George TJ, Shenkman EA, Wang F, Bian J, Guo Y",
       "journal": "JMIR Cancer"
+    },
+    {
+      "title": "Comfort With Sharing Food Insecurity Risk for Clinical Care Among Individuals With and Without a Cancer History: Findings From a National Survey",
+      "pubmed_id": "40910030",
+      "pmc_id": "PMC12405682",
+      "year": "2025",
+      "publication_date": "2025 Oct",
+      "authors": "Benyahia SA, Torikashvili J, Paturu T, Mikhael M, Nguyen OT, Islam JY, Tabriz AA, Hong YR, Turner KL",
+      "journal": "AJPM Focus"
     },
     {
       "title": "Early Supportive and Nutritional Care For Adults With Pancreatic Cancer: A Pilot Study",
@@ -102,15 +111,6 @@
       "journal": "J Cancer Educ"
     },
     {
-      "title": "Identifying People Living With or Those at Risk for HIV in a Nationally Sampled Electronic Health Record Repository Called the National Clinical Cohort Collaborative: Computational Phenotyping Study",
-      "pubmed_id": "40644699",
-      "pmc_id": "PMC12299939",
-      "year": "2025",
-      "publication_date": "2025 Jul",
-      "authors": "Hurwitz E, Varley CD, Anzolone AJ, Madhira V, Olex AL, Sun J, Vaidya D, Fadul N, Islam JY, Jackson LE, Wilkins KJ, Butzin-Dozier Z, Li D, Safo SE, McMurry JA, Maheria P, Williams T, Hassan SA, Haendel MA, Patel RC",
-      "journal": "JMIR Med Inform"
-    },
-    {
       "title": "Self-collection for high-risk HPV-RNA detection among HIV-seropositive and HIV-seronegative women engaged in sex work in Kenya",
       "pubmed_id": "40169350",
       "year": "2025",
@@ -142,6 +142,19 @@
       "award_number": "1R01CA305812-01",
       "sponsor": "National Cancer Institute (NCI)",
       "source": "NCI",
+      "investigators": [
+        {
+          "name": "Islam, J.",
+          "role": "PD/PI"
+        }
+      ]
+    },
+    {
+      "description": "Title: Leveraging Data Science Methods to Deliver Individualized Treatment Effects in Metastatic Hormone Sensitive Prostate Cancer  \nAward Number: HT9245-25-1-0253  \nSponsor: Department of Defense (DOD)  \nIslam, J. (PD/PI)",
+      "title": "Leveraging Data Science Methods to Deliver Individualized Treatment Effects in Metastatic Hormone Sensitive Prostate Cancer",
+      "award_number": "HT9245-25-1-0253",
+      "sponsor": "Department of Defense (DOD)",
+      "source": "DOD",
       "investigators": [
         {
           "name": "Islam, J.",
@@ -238,11 +251,36 @@
       ]
     }
   ],
+  "participating_trials": [
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-22179/",
+      "trial_id": "22179",
+      "title": "Determinants of Cancer Survivorship Among People Living with HIV (HIV/AIDS/AGING/CANCER)",
+      "condition": "Multiple",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23568/",
+      "trial_id": "23568",
+      "title": "Inequities and Trends in Lung Cancer Screening Among People with HIV in the US",
+      "condition": "Thoracic",
+      "status": "Open"
+    },
+    {
+      "trial_url": "https://www.moffitt.org/clinical-trials-and-studies/clinical-trial-23910/",
+      "trial_id": "23910",
+      "title": "Harnessing Big Data to Understand the Confluence of HIV and Cancer Stigma in the US Southeast",
+      "condition": "Multiple",
+      "status": "Open"
+    }
+  ],
+  "lab_page_url": "https://lab.moffitt.org/cancercaredelivery/",
+  "google_scholar_url": "http://scholar.google.com/citations?user=F5FAiA0AAAAJ&hl=en",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/IslamJessica_28432.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=28432"
   },
-  "content_hash": "fb68b71f48a002df7b8c1388cf98e68fe1d396d4b43b8c3e09e49d497452c5cc",
-  "researcher_name": "Jessica Islam",
-  "department": "Cancer Epidemiology"
+  "content_hash": "17f15b46089b401ca0483a9a4681004e0c505bf01177852f169440e81409b171",
+  "researcher_name": "jessica islam",
+  "department": "cancer epidemiology"
 }

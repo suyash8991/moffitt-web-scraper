@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/theresa-boyle)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/theresa-boyle)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -541,8 +540,8 @@ Research Interests: To develop assays, such as the proximity ligation assay (PLA
     * Stewart PA, Welsh EA, Slebos RJC, Fang B, Izumi V, Chambers M, Zhang G, Cen L, Pettersson F, Zhang Y, Chen Z, Cheng CH, Thapa R, Thompson Z, Fellows KM, Francis JM, Saller JJ, Mesa T, Zhang C, Yoder S, DeNicola GM, Beg AA, Boyle TA, Teer JK, Ann Chen Y, Koomen JM, Eschrich SA, Haura EB. Proteogenomic landscape of squamous cell lung cancer. Nat Commun. 2019 Aug.10(1):3578. Pubmedid: [31395880](https://www.ncbi.nlm.nih.gov/pubmed/31395880). Pmcid: PMC6687710. 
     * Kellish P, Shabashvili D, Rahman MM, Nawab A, Guijarro MV, Zhang M, Cao C, Moussatche N, Boyle T, Antonia S, Reinhard M, Hartzell C, Jantz M, Mehta HJ, McFadden G, Kaye FJ, Zajac-Kaye M. Oncolytic virotherapy for small-cell lung cancer induces immune infiltration and prolongs survival. J Clin Invest. 2019 Apr.129(6):2279-2292. Pubmedid: [31033480](https://www.ncbi.nlm.nih.gov/pubmed/31033480). Pmcid: PMC6546459. 
     * Farago AF, Taylor MS, Doebele RC, Zhu VW, Kummar S, Spira AI, Boyle TA, Haura EB, Arcila ME, Benayed R, Aisner DL, Horick NK, Lennerz JK, Le LP, Iafrate AJ, Ou SI, Shaw AT, Mino-Kenudson M, Drilon A. Clinicopathologic Features of Non-Small-Cell Lung Cancer Harboring an NTRK Gene Fusion. JCO Precis Oncol. 2018 Sep.2018. Pubmedid: [30215037](https://www.ncbi.nlm.nih.gov/pubmed/30215037). Pmcid: PMC6132056. 
-    * Nichols D, Boyle TA, Noyes D, Latifi K, Feygelman V, Jackson I, Vujaskovic Z, Antonia S, Perez BA. Evaluation of combined anti-PD-1 immunotherapy and radiation therapy in a preclinical mouse model of pneumonitis and fibrosis. J Thorac Dis. 2018 Nov.10(11):6254-6260. Pubmedid: [30622798](https://www.ncbi.nlm.nih.gov/pubmed/30622798). Pmcid: PMC6297393. 
     * Pérez-Morales J, Mejías-Morales D, Rivera-Rivera S, González-Flores J, González-Loperena M, Cordero-Báez FY, Pedreira-García WM, Chardón-Colón C, Cabán-Rivera J, Cress WD, Gordian ER, Muñoz-Antonia T, Cabrera-Ríos M, Isidro A, Coppola D, Rosa M, Boyle TA, Izumi V, Koomen JM, Santiago-Cardona PG. Hyper-phosphorylation of Rb S249 together with CDK5R2/p39 overexpression are associated with impaired cell adhesion and epithelial-to-mesenchymal transition: Implications as a potential lung cancer grading and staging biomarker. PLoS One. 2018 Nov.13(11):e0207483. Pubmedid: [30452490](https://www.ncbi.nlm.nih.gov/pubmed/30452490). Pmcid: PMC6242691. 
+    * Nichols D, Boyle TA, Noyes D, Latifi K, Feygelman V, Jackson I, Vujaskovic Z, Antonia S, Perez BA. Evaluation of combined anti-PD-1 immunotherapy and radiation therapy in a preclinical mouse model of pneumonitis and fibrosis. J Thorac Dis. 2018 Nov.10(11):6254-6260. Pubmedid: [30622798](https://www.ncbi.nlm.nih.gov/pubmed/30622798). Pmcid: PMC6297393. 
     * Gray JE, Chiappori A, Williams CC, Tanvetyanon T, Haura EB, Creelan BC, Kim J, Boyle TA, Pinder-Schenck M, Khalil F, Altiok S, Devane R, Noyes D, Mediavilla-Varela M, Smilee R, Hopewell EL, Kelley L, Antonia SJ. A phase I/randomized phase II study of GM.CD40L vaccine in combination with CCL21 in patients with advanced lung adenocarcinoma. Cancer Immunol Immun. 2018 Dec.67(12):1853-1862. Pubmedid: [30209589](https://www.ncbi.nlm.nih.gov/pubmed/30209589). Pmcid: PMC6244998. 
     * Le X, Puri S, Negrao MV, Nilsson M, Robichaux JP, Boyle TA, Hicks JK, Lovinger K, Roarty EB, Rinsurongkawong W, Tang M, Sun H, Elamin YY, Lacerda L, Lewis J, Lee JJ, Roth JA, Swisher SG, Zhang J, William WN, Glisson BS, Papadimitrakopoulou VA, Gray JE, Heymach JV. Landscape of EGFR-Dependent and -Independent Resistance Mechanisms to Osimertinib and Continuation Therapy Beyond Progression in EGFR-Mutant NSCLC. Clin Cancer Res. 2018 Dec.24(24):6195-6203. Pubmedid: [30228210](https://www.ncbi.nlm.nih.gov/pubmed/30228210). Pmcid: PMC6295279. 
     * Hicks JK, Boyle T, Albacker LA, Madison R, Frampton G, Creelan BC. Clinical Activity of Crizotinib in Lung Adenocarcinoma Harboring a Rare ZCCHC8-ROS1 Fusion. J Thorac Oncol. 2018 Aug.13(8):e148-e150. Pubmedid: [30049378](https://www.ncbi.nlm.nih.gov/pubmed/30049378). 
@@ -651,7 +650,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -706,7 +705,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/theresa-boyle#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/theresa-boyle#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -724,7 +723,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1078,7 +1077,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/theresa-boyle#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/theresa-boyle#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

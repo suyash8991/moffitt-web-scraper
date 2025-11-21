@@ -1,0 +1,169 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/lary-robinson/",
+  "last_updated": "2025-11-21T22:50:25.215626",
+  "researcher_id": "1912",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "thoracic oncology",
+  "research_program": "cancer epidemiology",
+  "overview": "Dr. Robinson specializes in the early detection of lung cancer and evaluation of indeterminant lung nodules. He is currently carrying out a clinical trial evaluation of blood biomarkers to diagnosis early-stage lung cancer.",
+  "research_interests": [
+    "Nutritional prehabilitation of patients with advanced lung cancer prior to immunotherapy using fermented foods and alsoin another study using a keto diet. He is evaluating the potential risk factors for the development of lung cancer in never smoking females. Finally, he is evaluating blood biomarkers for lung cancer early detection.\n  *"
+  ],
+  "associations": [
+    "Thoracic Oncology",
+    "Center for Immunization & Infection Research in Cancer",
+    "Cancer Epidemiology Program",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "Washington University School of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Internship",
+      "institution": "Duke University Medical Center",
+      "position": "Intern",
+      "specialty": "General & Thoracic Surgery"
+    },
+    {
+      "type": "Residency",
+      "institution": "Duke University Medical Center",
+      "specialty": "General & Thoracic Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Duke University Medical Center",
+      "specialty": "Surgery Research"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "St. Thomas' Hospital, London",
+      "specialty": "Cardiac Surgery"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Duke University Medical Center",
+      "specialty": "Cardiothoracic Surgery"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Factors impacting cardiac dose and overall survival in post-operative non-small cell lung cancer patients",
+      "pubmed_id": "40854381",
+      "year": "2025",
+      "publication_date": "2025 Nov",
+      "authors": "Cruz-Chamorro R, Bryant JM, Henning J, Robinson LA, Lee DH, Fontaine J, Toloza E, Rosenberg SA, Kim J, Naqa IE, Dilling TJ",
+      "journal": "Radiother Oncol"
+    },
+    {
+      "title": "Easy ensemble classifier-group and intersectional fairness and threshold (EEC-GIFT): a fairness-aware machine learning framework for lung cancer screening eligibility using real-world data",
+      "pubmed_id": "40111867",
+      "pmc_id": "PMC11986816",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Conahan P, Robinson LA, Le T, Valdes G, Schabath MB, Byrne MM, Green L, El Naqa I, Luo Y",
+      "journal": "JNCI Cancer Spectr"
+    },
+    {
+      "title": "Implantation of polyglycolic acid mesh over lung resection staple lines to prevent air leaks",
+      "pubmed_id": "40814658",
+      "pmc_id": "PMC12348291",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Robinson LA, Bryant S, Sun X, Kaki MS, Freyaldenhoven ST, Schwer T, Bailey A, Kim Y",
+      "journal": "JTCVS Tech"
+    },
+    {
+      "title": "Surgery and Stereotactic Radiotherapy for Stage I Small-Cell Lung Carcinoma: A 25-Year Experience",
+      "pubmed_id": "38926078",
+      "year": "2024",
+      "publication_date": "2024 Sep",
+      "authors": "Robinson LA, Tanvetyanon T, Robinson NA, Bryant S, Bailey A, Reed DR, Dilling T",
+      "journal": "Clin Lung Cancer"
+    },
+    {
+      "title": "High Pretreatment DHEA Is Associated with Inferior Immunotherapy Response in Metastatic Non-Small Cell Lung Cancer",
+      "pubmed_id": "38539486",
+      "pmc_id": "PMC10968948",
+      "year": "2024",
+      "publication_date": "2024 Mar",
+      "authors": "Zhang Y, Darville L, Hogue S, Hallanger Johnson JE, Rose T, Kim Y, Bailey A, Gray JE, Robinson LA",
+      "journal": "Cancers (Basel)"
+    },
+    {
+      "title": "The Tumor Microbiome Reacts to Hypoxia and Can Influence Response to Radiation Treatment in Colorectal Cancer",
+      "pubmed_id": "38904265",
+      "pmc_id": "PMC11234499",
+      "year": "2024",
+      "publication_date": "2024 Jul",
+      "authors": "Benej M, Hoyd R, Kreamer M, Wheeler CE, Grencewicz DJ, Choueiry F, Chan CHF, Zakharia Y, Ma Q, Dodd RD, Ulrich CM, Hardikar S, Churchman ML, Tarhini AA, Robinson LA, Singer EA, Ikeguchi AP, McCarter MD, Tinoco G, Husain M, Jin N, Tan AC, Osman AEG, Eljilany I, Riedlinger G, Schneider BP, Benejova K, Kery M, Papandreou I, Zhu J, Denko N, Spakowicz D",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "A Bioinformatics Tool for Identifying Intratumoral Microbes from the ORIEN Dataset",
+      "pubmed_id": "38259095",
+      "pmc_id": "PMC10840455",
+      "year": "2024",
+      "publication_date": "2024 Feb",
+      "authors": "Wang C, Ma A, Li Y, McNutt ME, Zhang S, Zhu J, Hoyd R, Wheeler CE, Robinson LA, Chan CHF, Zakharia Y, Dodd RD, Ulrich CM, Hardikar S, Churchman ML, Tarhini AA, Singer EA, Ikeguchi AP, McCarter MD, Denko N, Tinoco G, Husain M, Jin N, Osman AEG, Eljilany I, Tan AC, Coleman SS, Denko L, Riedlinger G, Schneider BP, Spakowicz D, Ma Q",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "The Tumor Microbiome as a Predictor of Outcomes in Patients with Metastatic Melanoma Treated with Immune Checkpoint Inhibitors",
+      "pubmed_id": "39015091",
+      "pmc_id": "PMC11307144",
+      "year": "2024",
+      "publication_date": "2024 Aug",
+      "authors": "Dravillas CE, Coleman SS, Hoyd R, Caryotakis G, Denko L, Chan CHF, Churchman ML, Denko N, Dodd RD, Eljilany I, Hardikar S, Husain M, Ikeguchi AP, Jin N, Ma Q, McCarter MD, Osman AEG, Robinson LA, Singer EA, Tinoco G, Ulrich CM, Zakharia Y, Spakowicz D, Tarhini AA, Tan AC",
+      "journal": "Cancer Res Commun"
+    },
+    {
+      "title": "Impact of Robotic-Assisted Thoracic Surgery on the Completion of Adjuvant Chemotherapy Following Lung Cancer Resection",
+      "pubmed_id": "36407249",
+      "pmc_id": "PMC9665910",
+      "year": "2022",
+      "publication_date": "2022 Oct",
+      "authors": "Abdelghany K, Robinson LA, Tanvetyanon T",
+      "journal": "Cureus"
+    },
+    {
+      "title": "\"Alterations in the Skin Microbiota Are Associated With Symptom Severity in Mycosis Fungoides\"",
+      "pubmed_id": "35656034",
+      "pmc_id": "PMC9152451",
+      "year": "2022",
+      "publication_date": "2022 May",
+      "authors": "Zhang Y, Seminario-Vidal L, Cohen L, Hussaini M, Yao J, Rutenberg D, Kim Y, Giuliano A, Robinson LA, Sokol L",
+      "journal": "Front Cell Infect Microbiol"
+    }
+  ],
+  "grants": [
+    {
+      "description": "Title: 2025-2026 SER Regional Partnership Award  \nAward Number: 111264  \nSponsor: American Cancer Society, Inc. (ACS)  \nRobinson, L. (PD/PI)",
+      "title": "2025-2026 SER Regional Partnership Award",
+      "award_number": "111264",
+      "sponsor": "American Cancer Society, Inc. (ACS)",
+      "source": "American Cancer Society",
+      "investigators": [
+        {
+          "name": "Robinson, L.",
+          "role": "PD/PI"
+        }
+      ]
+    }
+  ],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/RobinsonLary_1912.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=1912"
+  },
+  "content_hash": "97b8ea6e81bd6c30d3ecc98ba4345f278921a17619aa3f1ef7873c4072aaf364",
+  "researcher_name": "lary robinson",
+  "department": ""
+}

@@ -1,0 +1,141 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/john-greene/",
+  "last_updated": "2025-11-21T22:50:24.623507",
+  "researcher_id": "902",
+  "degrees": [
+    "MD"
+  ],
+  "title": "",
+  "primary_program": "infectious diseases",
+  "research_program": "molecular medicine",
+  "overview": "Research purpose includes infections in cancer patients with special focus on infections associated with prolonged neutropenia.",
+  "research_interests": [
+    "Research interest includes infections in cancer patients with special focus on infections associated with prolonged neutropenia.\n  *"
+  ],
+  "associations": [
+    "Internal and Hospital Medicine",
+    "Center for Immunization & Infection Research in Cancer",
+    "Molecular Medicine Program",
+    "Experimental Therapeutics Program"
+  ],
+  "education": [
+    {
+      "type": "Medical School",
+      "institution": "University of South Florida College of Medicine",
+      "degree": "MD"
+    },
+    {
+      "type": "Residency",
+      "institution": "University of South Florida College of Medicine",
+      "position": "Intern",
+      "specialty": "al Medicine"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "University of South Florida",
+      "specialty": "Infectious Disease and Tropical Medicine"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Atypical Presentations of Acyclovir-Resistant Herpes Simplex Virus in Immunocompromised Patients: A Case Series",
+      "pubmed_id": "41141181",
+      "pmc_id": "PMC12553515",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Allen K, Wang A, Hibdon MA, Castro R, Greene J",
+      "journal": "Cureus"
+    },
+    {
+      "title": "An Atypical Case of Concurrent Emphysematous Cystitis and Osteomyelitis in a Patient With Metastatic Cancer",
+      "pubmed_id": "41170274",
+      "pmc_id": "PMC12571489",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Jussa K, Labban W, Tran M, Greene J",
+      "journal": "Cureus"
+    },
+    {
+      "title": "Emphysematous Cystitis in an Immunocompromised Patient With Ovarian Cancer: A Case Report",
+      "pubmed_id": "41127780",
+      "pmc_id": "PMC12539756",
+      "year": "2025",
+      "publication_date": "2025 Sep",
+      "authors": "Winebrenner K, Manuel M, Greene J",
+      "journal": "Cureus"
+    },
+    {
+      "title": "Malignant Fungating Wounds in Locally Aggressive Cutaneous Squamous Cell Carcinoma: A Case Series",
+      "pubmed_id": "40276457",
+      "pmc_id": "PMC12018283",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Zieneldien T, Lam H, Ma S, Kim J, Mattar A, Greene J",
+      "journal": "Cureus"
+    },
+    {
+      "title": "Rare Cases of Escherichia coli-Induced Aortitis in Immunocompromised Patients",
+      "pubmed_id": "40118596",
+      "pmc_id": "PMC12011148",
+      "year": "2025",
+      "publication_date": "2025 Mar",
+      "authors": "Kornblum DS, Rosero Basurto MF, Chima RS, Greene JN",
+      "journal": "JACC Case Rep"
+    },
+    {
+      "title": "E",
+      "pubmed_id": "40677509",
+      "pmc_id": "PMC12269526",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Hibdon MA, Allen KK, Wang A, Greene J",
+      "journal": "coli Pyogenic Ventriculitis: A Comprehensive Case Report"
+    },
+    {
+      "title": "Brain Abscess Complicating Metastatic Scalp Basal Cell Carcinoma With a Malignant Fungating Wound: A Case Report and Literature Review",
+      "pubmed_id": "40861596",
+      "pmc_id": "PMC12372854",
+      "year": "2025",
+      "publication_date": "2025 Jul",
+      "authors": "Ma S, Zieneldien T, Kim J, Greene J",
+      "journal": "Cureus"
+    },
+    {
+      "title": "Strongyloides stercoralis Hyperinfection Presenting As Ascending Cholangitis and Escherichia coli Bacteremia in a Patient With Metastatic Pancreatic Cancer",
+      "pubmed_id": "40979041",
+      "pmc_id": "PMC12449278",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Wang A, Greene J",
+      "journal": "Cureus"
+    },
+    {
+      "title": "Unmasking Sapovirus: Chronic Enteritis in an Immunocompromised Adult With Hypogammaglobulinemia",
+      "pubmed_id": "40951241",
+      "pmc_id": "PMC12433061",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Wang A, Greene J",
+      "journal": "Cureus"
+    },
+    {
+      "title": "Cutaneous Lesions at the Crossroads of Infection and Immunity",
+      "pubmed_id": "40747596",
+      "year": "2025",
+      "publication_date": "2025 Aug",
+      "authors": "Renteria J, Shah S, Li P, Greene J, Klinkova O",
+      "journal": "Clin Infect Dis"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "",
+  "google_scholar_url": "",
+  "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GreeneJohn_902.jpg",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=902"
+  },
+  "content_hash": "ee19206c716ece9e0b9fe7c0fccbaf748e7021931080c3f9395179db382cc7e7",
+  "researcher_name": "john greene",
+  "department": ""
+}

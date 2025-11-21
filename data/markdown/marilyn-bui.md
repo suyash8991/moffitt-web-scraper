@@ -14,7 +14,7 @@ English
   * [Cancer Types & Treatments](https://www.moffitt.org/research-science/researchers/marilyn-bui)
     * [ Cancers ](https://www.moffitt.org/cancers/)
       * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-      * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+      * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
       * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
       * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
       * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -32,7 +32,7 @@ English
       * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
       * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
       * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-      * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+      * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
       * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
       * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
       * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -348,7 +348,6 @@ English
     * [ Physician Relations ](https://www.moffitt.org/for-healthcare-professionals/physician-relations/)
     * [ Continuing Education ](https://www.moffitt.org/for-healthcare-professionals/continuing-education/)
       * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-      * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
       * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
   * [Research](https://www.moffitt.org/research-science/researchers/marilyn-bui)
     * [ Research Science ](https://www.moffitt.org/research-science/)
@@ -503,8 +502,8 @@ Dr. Bui is the primary sarcoma pathologist at Moffitt.
   * ## Research Interest
 Dr. Bui is passionate about translational research which identifies or validates diagnostic, prognostic and predictive biomarkers for cancer, especially for sarcoma and breast cancer, using methods of molecular, immunohistochemical and digital pathology.
   * ## Publications
-    * Lobo A, Dhillon G, Bui MM. Solitary Fibrous Tumor of the Seminal Vesicle With Entrapped Benign Glands Mimicking a Mixed Epithelial and Stromal Tumor: A Case Report With Literature Review. Int J Surg Pathol. 2025 Jun. Pubmedid: [40462658](https://www.ncbi.nlm.nih.gov/pubmed/40462658). 
     * Goetz KE, Boland MV, Chu Z, Reed AA, Clark SD, Towbin AJ, Purt B, O'Donnell K, Bui MM, Eid M, Roth CJ, Luviano DM, Folio LR. Ocular Imaging Challenges, Current State, and a Path to Interoperability: A HIMSS-SIIM Enterprise Imaging Community Whitepaper. J Imaging Inform Med. 2025 Jun.38(3):1283-1290. Pubmedid: [39354293](https://www.ncbi.nlm.nih.gov/pubmed/39354293). Pmcid: PMC12092316. 
+    * Lobo A, Dhillon G, Bui MM. Solitary Fibrous Tumor of the Seminal Vesicle With Entrapped Benign Glands Mimicking a Mixed Epithelial and Stromal Tumor: A Case Report With Literature Review. Int J Surg Pathol. 2025 Jun. Pubmedid: [40462658](https://www.ncbi.nlm.nih.gov/pubmed/40462658). 
     * Hassell LA, Forsythe ML, Bhalodia A, Lan T, Rashid T, Powers A, Bui MM, Brickman A, Gu Q, Bychkov A, Cree I, Pantanowitz L. Toward Optimizing the Impact of Digital Pathology and Augmented Intelligence on Issues of Diagnosis, Grading, Staging, and Classification. Mod Pathol. 2025 Jul.38(7):100765. Pubmedid: [40204094](https://www.ncbi.nlm.nih.gov/pubmed/40204094). Pmcid: PMC12272330. 
     * Herman M, Schukow C, Tatarian A, El-Zaatari ZM, Sura GH, Bui MM. #PathArt: from glass slide to canvas; with a mission of enlightening the burdens of life. Acad Pathol. 2025 Feb.12(1):100157. Pubmedid: [39981158](https://www.ncbi.nlm.nih.gov/pubmed/39981158). Pmcid: PMC11840207. 
     * Waqas A, Khan A, Ozturk ZG, Saeed-Vafa D, Chen W, Dhillon J, Bychkov A, Bui MM, Ullah E, Khalil F, Chumbalkar V, Jameel Z, Bittar HT, Singh RS, Parwani AV, Schabath MB, Rasool G. REASONING BEYOND ACCURACY: EXPERT EVALUATION OF LARGE LANGUAGE MODELS IN DIAGNOSTIC PATHOLOGY. medRxiv. 2025 Apr. Pubmedid: [40297448](https://www.ncbi.nlm.nih.gov/pubmed/40297448). Pmcid: PMC12036407. 
@@ -579,8 +578,8 @@ Dr. Bui is passionate about translational research which identifies or validates
     * Ibrahim-Hashim A, Robertson-Tessi M, Enrizues-Navas P, Damaghi M, Balagurunathan Y, Wojtkowiak JW, Russell S, Yoonseok K, Lloyd MC, Bui MM, Brown JS, Anderson AR, Gillies RJ, Gatenby RA. Defining Cancer Subpopulations by Adaptive Strategies Rather Than Molecular Properties Provides Novel Insights into Intratumoral Evolution. Cancer Res. 2017 May.77(9):2242-2254. Pubmedid: [28249898](https://www.ncbi.nlm.nih.gov/pubmed/28249898). Pmcid: PMC6005351. 
     * Grossmann P, Stringfield O, El-Hachem N, Bui MM, Rios Velazquez E, Parmar C, Leijenaar RT, Haibe-Kains B, Lambin P, Gillies R, Aerts HJ. Defining the biological basis of radiomic phenotypes in lung cancer. Elife. 2017 Jul.6. Pubmedid: [28731408](https://www.ncbi.nlm.nih.gov/pubmed/28731408). Pmcid: PMC5590809. 
     * Naghavi AO, Gonzalez RJ, Scott JG, Mullinax JE, Abuodeh YA, Kim Y, Binitie O, Ahmed KA, Bui MM, Saini AS, Zager JS, Biagioli MC, Letson D, Harrison LB, Fernandez DC. Implications of staged reconstruction and adjuvant brachytherapy in the treatment of recurrent soft tissue sarcoma. Brachytherapy. 2017 Jul.15(4):495-503. Pubmedid: [27180128](https://www.ncbi.nlm.nih.gov/pubmed/27180128). Pmcid: PMC7771533. 
-    * Liu Y, Bui MM, Xu B. Urothelial Carcinoma With Squamous Differentiation Is Associated With High Tumor Stage and Pelvic Lymph-Node Metastasis. Cancer Control. 2017 Jan.24(1):78-82. Pubmedid: [28178718](https://www.ncbi.nlm.nih.gov/pubmed/28178718). 
     * Ding Y, Gibbs J, Xiong G, Guo S, Raj S, Bui MM. Endometriosis Mimicking Soft-Tissue Neoplasms: A Potential Diagnostic Pitfall. Cancer Control. 2017 Jan.24(1):83-88. Pubmedid: [28178719](https://www.ncbi.nlm.nih.gov/pubmed/28178719). 
+    * Liu Y, Bui MM, Xu B. Urothelial Carcinoma With Squamous Differentiation Is Associated With High Tumor Stage and Pelvic Lymph-Node Metastasis. Cancer Control. 2017 Jan.24(1):78-82. Pubmedid: [28178718](https://www.ncbi.nlm.nih.gov/pubmed/28178718). 
     * Wei S, Henderson-Jackson E, Qian X, Bui MM. Soft Tissue Tumor Immunohistochemistry Update: Illustrative Examples of Diagnostic Pearls to Avoid Pitfalls. Arch Pathol Lab Med. 2017 Aug.141(8):1072-1091. Pubmedid: [28745570](https://www.ncbi.nlm.nih.gov/pubmed/28745570). Pmcid: PMC7864385. 
     * Hoggard TM, Henderson-Jackson E, Bui MM, Caracciolo J, Teer JK, Yoder S, Binitie O, Gonzalez RJ, Brohl AS, Reed DR. Myoepithelial carcinoma with RB1 mutation: remarkable chemosensitivity to carcinoma of unknown origin therapy. BMC Cancer. 2017 Apr.17(1):250. Pubmedid: [28390395](https://www.ncbi.nlm.nih.gov/pubmed/28390395). Pmcid: PMC5385017. 
     * Gibbs J, Henderson-Jackson E, Bui MM. Bone and Soft Tissue Pathology: Diagnostic and Prognostic Implications. Surg Clin N Am. 2016 Oct.96(5):915-962. Pubmedid: [27542635](https://www.ncbi.nlm.nih.gov/pubmed/27542635). 
@@ -624,16 +623,16 @@ Dr. Bui is passionate about translational research which identifies or validates
     * Rusthoven CG, Liu AK, Bui MM, Schefter TE, Elias AD, Lu X, Gonzalez RJ. Sarcomas of the aorta: a systematic review and pooled analysis of published reports. Ann Vasc Surg. 2014 Feb.28(2):515-525. Pubmedid: [24485779](https://www.ncbi.nlm.nih.gov/pubmed/24485779). 
     * Wu H, Bui MM, Leston DG, Shao H, Sokol L, Sotomayor EM, Zhang L. Clinical characteristics and prognostic factors of bone lymphomas: focus on the clinical significance of multifocal bone involvement by primary bone large B-cell lymphomas. BMC Cancer. 2014 Dec.14:900. Pubmedid: [25465716](https://www.ncbi.nlm.nih.gov/pubmed/25465716). Pmcid: PMC4265495. 
     * Seifert RP, Bulkeley W, Zhang L, Menes M, Bui MM. A practical approach to diagnose soft tissue myeloid sarcoma preceding or coinciding with acute myeloid leukemia. Ann Diagn Pathol. 2014 Aug.18(4):253-260. Pubmedid: [24969631](https://www.ncbi.nlm.nih.gov/pubmed/24969631). 
+    * Lloyd MC, Alfarouk KO, Verduzco D, Bui MM, Gillies RJ, Ibrahim ME, Brown JS, Gatenby RA. Vascular measurements correlate with estrogen receptor status. BMC Cancer. 2014 Apr.14:279. Pubmedid: [24755315](https://www.ncbi.nlm.nih.gov/pubmed/24755315). Pmcid: PMC4012762. 
     * Ding Y, Griffin JE, Raghavan M, Xu H, Henderson-Jackson E, Bui MM. Tenosynovial giant cell tumors lacking giant cells: report of diagnostic pitfalls. Ann Clin Lab Sci. 2014 Apr.44(2):222-227. Pubmedid: [24795064](https://www.ncbi.nlm.nih.gov/pubmed/24795064). 
     * von Mehren M, Randall RL, Benjamin RS, Boles S, Bui MM, Casper ES, Conrad EU, Delaney TF, Ganjoo KN, George S, Gonzalez RJ, Heslin MJ, Kane JM, Mayerson J, McGarry SV, Meyer C, O'Donnell RJ, Pappo AS, Paz IB, Pfeifer JD, Riedel RF, Schuetze S, Schupak KD, Schwartz HS, Van Tine BA, Wayne JD, Bergman MA, Sundar H. Soft tissue sarcoma, version 2.2014. J Natl Compr Canc Ne. 2014 Apr.12(4):473-483. Pubmedid: [24717567](https://www.ncbi.nlm.nih.gov/pubmed/24717567). 
-    * Lloyd MC, Alfarouk KO, Verduzco D, Bui MM, Gillies RJ, Ibrahim ME, Brown JS, Gatenby RA. Vascular measurements correlate with estrogen receptor status. BMC Cancer. 2014 Apr.14:279. Pubmedid: [24755315](https://www.ncbi.nlm.nih.gov/pubmed/24755315). Pmcid: PMC4012762. 
     * Bui MM, Myers C. Book Review: So You're Going to Collect a Blood Specimen. Ann Clin Lab Sci. 2014.44(1):109. 
     * Kreahling JM, Foroutan P, Reed D, Martinez G, Razabdouski T, Bui MM, Raghavan M, Letson D, Gillies RJ, Altiok S. Wee1 inhibition by MK-1775 leads to tumor inhibition and enhances efficacy of gemcitabine in human sarcomas. PLoS One. 2013 Sep.8(3):e57523. Pubmedid: [23520471](https://www.ncbi.nlm.nih.gov/pubmed/23520471). Pmcid: PMC3592874. 
     * Deneve JL, Messina JL, Bui MM, Marzban SS, Letson GD, Cheong D, Gonzalez RJ, Sondak VK, Zager JS. Cutaneous leiomyosarcoma: treatment and outcomes with a standardized margin of resection. Cancer Control. 2013 Oct.20(4):307-312. Pubmedid: [24077407](https://www.ncbi.nlm.nih.gov/pubmed/24077407). Pmcid: PMC4504421. 
     * Perez MC, Padhya TA, Messina JL, Jackson RS, Gonzalez RJ, Bui MM, Letson GD, Cruse CW, Lavey RS, Cheong D, Forster MR, Fulp WJ, Sondak VK, Zager JS. Cutaneous angiosarcoma: a single-institution experience. Ann Surg Oncol. 2013 Oct.20(11):3391-3397. Pubmedid: [23835652](https://www.ncbi.nlm.nih.gov/pubmed/23835652). Pmcid: PMC4509495. 
     * Cubitt CL, Menth J, Dawson J, Martinez GV, Foroutan P, Morse DL, Bui MM, Letson GD, Sullivan DM, Reed DR. Rapid screening of novel agents for combination therapy in sarcomas. Sarcoma. 2013 Nov.2013:365723. Pubmedid: [24282374](https://www.ncbi.nlm.nih.gov/pubmed/24282374). Pmcid: PMC3824404. 
-    * Demicco EG, Wang WL, Madewell JE, Huang D, Bui MM, Bridge JA, Meis JM. Osseous myxochondroid sarcoma: a detailed study of 5 cases of extraskeletal myxoid chondrosarcoma of the bone. Am J Surg Pathol. 2013 May.37(5):752-762. Pubmedid: [23588370](https://www.ncbi.nlm.nih.gov/pubmed/23588370). 
     * Soliman H, Rawal B, Fulp J, Lee JH, Lopez A, Bui MM, Khalil F, Antonia S, Yfantis HG, Lee DH, Dorsey TH, Ambs S. Analysis of indoleamine 2-3 dioxygenase (IDO1) expression in breast cancer tissue by immunohistochemistry. Cancer Immunol Immun. 2013 May.62(5):829-837. Pubmedid: [23344392](https://www.ncbi.nlm.nih.gov/pubmed/23344392). Pmcid: PMC4501769. 
+    * Demicco EG, Wang WL, Madewell JE, Huang D, Bui MM, Bridge JA, Meis JM. Osseous myxochondroid sarcoma: a detailed study of 5 cases of extraskeletal myxoid chondrosarcoma of the bone. Am J Surg Pathol. 2013 May.37(5):752-762. Pubmedid: [23588370](https://www.ncbi.nlm.nih.gov/pubmed/23588370). 
     * Fu W, Sharma SS, Ma L, Chu B, Bui MM, Reed D, Pledger WJ. Apoptosis of osteosarcoma cultures by the combination of the cyclin-dependent kinase inhibitor SCH727965 and a heat shock protein 90 inhibitor. Cell Death Dis. 2013 Mar.4:e566. Pubmedid: [23538447](https://www.ncbi.nlm.nih.gov/pubmed/23538447). Pmcid: PMC3613821. 
     * Vohra NA, Turaga KK, Gonzalez RJ, Conley A, Reed D, Bui MM, Cheong D, Letson DG, Zager JS. The use of isolated limb infusion in limb threatening extremity sarcomas. Int J Hyperthermia. 2013 Jun.29(1):1-7. Pubmedid: [23205633](https://www.ncbi.nlm.nih.gov/pubmed/23205633). Pmcid: PMC4509503. 
     * Koohbanani B, Han G, Reed D, Zhao Q, Yi D, Henderson-Jackson E, Bui MM. Ethnicity and age disparities in Ewing sarcoma outcome. Fetal Pediatr Pathol. 2013 Jul.32(4):246-252. Pubmedid: [23043418](https://www.ncbi.nlm.nih.gov/pubmed/23043418). 
@@ -656,10 +655,10 @@ Dr. Bui is passionate about translational research which identifies or validates
     * Nasir A, Helm J, Turner L, Chen DT, Strosberg J, Hafez N, Henderson-Jackson EB, Hodul P, Bui MM, Nasir NA, Hakam A, Malafa MP, Yeatman TJ, Coppola D, Kvols LK. RUNX1T1: a novel predictor of liver metastasis in primary pancreatic endocrine neoplasms. Pancreas. 2011 May.40(4):627-633. Pubmedid: [21499216](https://www.ncbi.nlm.nih.gov/pubmed/21499216). Pmcid: PMC4732279. 
     * Fu W, Ma L, Chu B, Wang X, Bui MM, Gemmer J, Altiok S, Pledger WJ. The cyclin-dependent kinase inhibitor SCH 727965 (dinacliclib) induces the apoptosis of osteosarcoma cells. Mol Cancer Ther. 2011 Jun.10(6):1018-1027. Pubmedid: [21490307](https://www.ncbi.nlm.nih.gov/pubmed/21490307). Pmcid: PMC4727401. 
     * Zhang X, Bui MM, Caracciolo J, Field TL, Zhang L. Adult anaplastic large cell lymphoma involving the central nervous system: a rare clinical scenario. Ann Hematol. 2011 Jun.90(6):721-723. Pubmedid: [20838823](https://www.ncbi.nlm.nih.gov/pubmed/20838823). 
+    * Shackelford RE, Allam-Nandyala P, Bui MM, Kiluk JV, Esposito NN. Primary colorectal adenocarcinoma metastatic to the breast: case report and review of nineteen cases. Case Rep Med. 2011 Jul.2011:738413. Pubmedid: [21738536](https://www.ncbi.nlm.nih.gov/pubmed/21738536). Pmcid: PMC3123911. 
     * Bui MM, Han G, Acs G, Reed D, Gonzalez RJ, Pasha TL, Zhang PJ. Connexin 43 is a potential prognostic biomarker for ewing sarcoma/primitive neuroectodermal tumor. Sarcoma. 2011 Jul.2011:971050. Pubmedid: [21647307](https://www.ncbi.nlm.nih.gov/pubmed/21647307). Pmcid: PMC3103998. 
     * Riddle ND, Quigley BC, Browarsky I, Bui MM. Leiomyosarcoma arising in the pancreatic duct: a case report and review of the current literature. Case Rep Med. 2011 Jul.2010:252364. Pubmedid: [20589089](https://www.ncbi.nlm.nih.gov/pubmed/20589089). Pmcid: PMC2892659. 
     * Riddle ND, Gonzalez RJ, Bridge JA, Antonia S, Bui MM. A CD117 and CD34 immunoreactive sarcoma masquerading as a gastrointestinal stromal tumor: diagnostic pitfalls of ancillary studies in sarcoma. Cancer Control. 2011 Jul.18(3):152-159. Pubmedid: [21666577](https://www.ncbi.nlm.nih.gov/pubmed/21666577). 
-    * Shackelford RE, Allam-Nandyala P, Bui MM, Kiluk JV, Esposito NN. Primary colorectal adenocarcinoma metastatic to the breast: case report and review of nineteen cases. Case Rep Med. 2011 Jul.2011:738413. Pubmedid: [21738536](https://www.ncbi.nlm.nih.gov/pubmed/21738536). Pmcid: PMC3123911. 
     * Tafreshi NK, Enkemann SA, Bui MM, Lloyd MC, Abrahams D, Huynh AS, Kim J, Grobmyer SR, Carter WB, Vagner J, Gillies RJ, Morse DL. A mammaglobin-A targeting agent for noninvasive detection of breast cancer metastasis in lymph nodes. Cancer Res. 2011 Feb.71(3):1050-1059. Pubmedid: [21169406](https://www.ncbi.nlm.nih.gov/pubmed/21169406). Pmcid: PMC4130564. 
     * Bui MM, Purohit CN, Hakam A. Fine needle aspiration biopsy of an osteoclast-rich undifferentiated urothelial carcinoma: A cytology case report and review of the literature. Cytojournal. 2010 Sep.7:18. Pubmedid: [20976205](https://www.ncbi.nlm.nih.gov/pubmed/20976205). Pmcid: PMC2955341. 
     * Henderson-Jackson EB, Helm J, Ghayouri M, Hakam A, Nasir A, Leon M, Bui M, Yeatman T, Coppola D. Correlation between Mcl-1 and pAKT protein expression in colorectal cancer. Int J Clin Exp Pathol. 2010 Oct.3(8):768-774. Pubmedid: [21151390](https://www.ncbi.nlm.nih.gov/pubmed/21151390). Pmcid: PMC2993227. 
@@ -673,8 +672,8 @@ Dr. Bui is passionate about translational research which identifies or validates
     * Moody P, Bui MM, Vrionis F, Setzer M, Rojiani AM. Synovial chondromatosis of spine: case report and review of the literature. Ann Clin Lab Sci. 2010 Feb.40(1):71-74. Pubmedid: [20124333](https://www.ncbi.nlm.nih.gov/pubmed/20124333). 
     * Riddle ND, Yamauchi H, Caracciolo JT, Cheong D, Khakpour N, Bui MM. Giant cell tumor of the anterior rib masquerading as a breast mass: a case report and review of current literature. Cases J. 2010 Feb.3:51. Pubmedid: [20205847](https://www.ncbi.nlm.nih.gov/pubmed/20205847). Pmcid: PMC2825505. 
     * Lloyd MC, Allam-Nandyala P, Purohit CN, Burke N, Coppola D, Bui MM. Using image analysis as a tool for assessment of prognostic and predictive biomarkers for breast cancer: How reliable is it?. J Pathol Inform. 2010 Dec.1:29. Pubmedid: [21221174](https://www.ncbi.nlm.nih.gov/pubmed/21221174). Pmcid: PMC3017682. 
-    * Chen Y, Gruidl M, Remily-Wood E, Liu RZ, Eschrich S, Lloyd M, Nasir A, Bui MM, Huang E, Shibata D, Yeatman T, Koomen JM. Quantification of beta-catenin signaling components in colon cancer cell lines, tissue sections, and microdissected tumor cells using reaction monitoring mass spectrometry. J Proteome Res. 2010 Aug.9(8):4215-4227. Pubmedid: [20590165](https://www.ncbi.nlm.nih.gov/pubmed/20590165). Pmcid: PMC2924816. 
     * Farma JM, Ammori JB, Zager JS, Marzban SS, Bui MM, Bichakjian CK, Johnson TM, Lowe L, Sabel MS, Wong SL, Letson GD, Messina JL, Cimmino VM, Sondak VK. Dermatofibrosarcoma protuberans: how wide should we resect?. Ann Surg Oncol. 2010 Aug.17(8):2112-2118. Pubmedid: [20354798](https://www.ncbi.nlm.nih.gov/pubmed/20354798). 
+    * Chen Y, Gruidl M, Remily-Wood E, Liu RZ, Eschrich S, Lloyd M, Nasir A, Bui MM, Huang E, Shibata D, Yeatman T, Koomen JM. Quantification of beta-catenin signaling components in colon cancer cell lines, tissue sections, and microdissected tumor cells using reaction monitoring mass spectrometry. J Proteome Res. 2010 Aug.9(8):4215-4227. Pubmedid: [20590165](https://www.ncbi.nlm.nih.gov/pubmed/20590165). Pmcid: PMC2924816. 
     * Bui MM, Zheng Z, Antonia S, Bepler G. Thymidylate synthase 1 (TS1) in-situ protein expression predicts the survival of Ewing/PNET. Fetal Pediatr Pathol. 2010.29(6):385-392. Pubmedid: [21043562](https://www.ncbi.nlm.nih.gov/pubmed/21043562). Pmcid: PMC3568950. 
     * Schlauder SM, Knapp C, Steffensen TS, Bui MM. Aromatase may play a critical role in the pathogenesis of juvenile nasopharyngeal angiofibroma. Fetal Pediatr Pathol. 2009 Oct.28(5):232-238. Pubmedid: [19842877](https://www.ncbi.nlm.nih.gov/pubmed/19842877). 
     * Yasuda T, Perry KD, Nelson M, Bui MM, Nasir A, Goldschmidt R, Gnepp DR, Bridge JA. Alveolar rhabdomyosarcoma of the head and neck region in older adults: genetic characterization and a review of the literature. Hum Pathol. 2009 Mar.40(3):341-348. Pubmedid: [18973919](https://www.ncbi.nlm.nih.gov/pubmed/18973919). Pmcid: PMC2753286. 
@@ -793,7 +792,7 @@ Resources
 Call Today
 [1-888-663-3488](tel:1-888-663-3488 "Call Today")
 [ ](https://www.facebook.com/MoffittCancerCenter "Facebook") [ ](https://twitter.com/MoffittNews "Twitter") [ ](https://www.instagram.com/moffittcancercenter/ "Instagram") [ ](https://www.youtube.com/user/MoffittNews "YouTube")
-[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://my.moffitt.org/?source=footer&_ga=2.263078223.2128654650.1660063894-1522311918.1659049215) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
+[ Getting Here ](https://www.moffitt.org/locations-directions/) [ Patient Portal ](https://www.moffitt.org/patient-family/preparing-for-your-appointment/mymoffitt-patient-portal/) [ Refer a Patient ](https://www.moffitt.org/eforms/referapatient/) [ Provider Portal ](https://rpp.moffitt.org/) [ Staff Login ](https://hlmconnect.moffitt.org/dana-na/auth/url_default/welcome.cgi?source=footer&_ga=2.192849257.2128654650.1660063894-1522311918.1659049215)
   * [Privacy Policy](https://www.moffitt.org/legal-statements-and-policies/privacy-policy/)
   * [Terms & Conditions](https://www.moffitt.org/terms-conditions/ "Terms & Condition")
   * [Unsubscribe](https://www.moffitt.org/eforms/unsubscribe/ "Unsubscribe")
@@ -848,7 +847,7 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/marilyn-bui#mm-3)[Cancers](https://www.moffitt.org/research-science/researchers/marilyn-bui#mm-3)
   * [Acute Lymphocytic Leukemia (ALL)](https://www.moffitt.org/cancers/acute-lymphocytic-leukemia-all/ "Acute Lymphocytic Leukemia \(ALL\)")
-  * [Acute Myelogenous Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myelogenous Leukemia \(AML\)")
+  * [Acute Myeloid Leukemia (AML)](https://www.moffitt.org/cancers/acute-myelogenous-leukemia/ "Acute Myeloid Leukemia \(AML\)")
   * [Acute Promyelocytic Leukemia (APL)](https://www.moffitt.org/cancers/acute-promyelocytic-leukemia-apl/ "Acute Promyelocytic Leukemia \(APL\)")
   * [Adrenal Cancer](https://www.moffitt.org/cancers/adrenal-cancer/ "Adrenal Cancer")
   * [Anal Cancer](https://www.moffitt.org/cancers/anal-cancer/ "Anal Cancer")
@@ -866,7 +865,7 @@ English
   * [Chronic Lymphocytic Leukemia (CLL)](https://www.moffitt.org/cancers/chronic-lymphocytic-leukemia/ "Chronic Lymphocytic Leukemia \(CLL\)")
   * [Colon Cancer](https://www.moffitt.org/cancers/colon-cancer/ "Colon Cancer")
   * [Colorectal Cancer](https://www.moffitt.org/cancers/colorectal-cancer/ "Colorectal Cancer")
-  * [Chronic Myelogenous Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myelogenous Leukemia \(CML\)")
+  * [Chronic Myeloid Leukemia (CML)](https://www.moffitt.org/cancers/chronic-myelogenous-leukemia-cml/ "Chronic Myeloid Leukemia \(CML\)")
   * [Cutaneous Lymphoma (CTCL)](https://www.moffitt.org/cancers/cutaneous-t-cell-lymphoma/ "Cutaneous Lymphoma \(CTCL\)")
   * [Diffuse Large B-Cell Lymphoma](https://www.moffitt.org/cancers/diffuse-large-b-cell-lymphoma/ "Diffuse Large B-Cell Lymphoma")
   * [Ductal Carcinoma In Situ](https://www.moffitt.org/cancers/ductal-carcinoma-in-situ/ "Ductal Carcinoma In Situ")
@@ -1220,7 +1219,6 @@ English
 
 [](https://www.moffitt.org/research-science/researchers/marilyn-bui#mm-31)[Continuing Education](https://www.moffitt.org/research-science/researchers/marilyn-bui#mm-31)
   * [Moffitt Grand Rounds](https://www.moffitt.org/for-healthcare-professionals/continuing-education/moffitt-grand-rounds/ "Moffitt Grand Rounds")
-  * [Multidisciplinary Programs](https://www.moffitt.org/for-healthcare-professionals/continuing-education/multidisciplinary-programs/ "Multidisciplinary Programs")
   * [Provider Conferences](https://www.moffitt.org/for-healthcare-professionals/continuing-education/provider-conferences/ "Provider Conferences")
 
 

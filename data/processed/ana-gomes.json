@@ -1,13 +1,13 @@
 {
-  "profile_url": "https://www.moffitt.org/research-science/researchers/ana-gomes",
-  "last_updated": "2025-10-21T16:34:47.034137",
+  "profile_url": "https://www.moffitt.org/research-science/researchers/ana-gomes/",
+  "last_updated": "2025-11-21T22:50:22.641111",
   "researcher_id": "26666",
   "degrees": [
     "PhD"
   ],
   "title": "",
-  "primary_program": "Molecular Oncology",
-  "research_program": "Cancer Biology & Evolution Program",
+  "primary_program": "molecular oncology",
+  "research_program": "cancer biology & evolution",
   "overview": "The Gomes Laboratory is interested in understanding how age-driven metabolic and epigenetic changes drive tumor progression and metastasis formation. http://lab.moffitt.org/gomes",
   "research_interests": [
     "The Gomes Laboratory is interested in understanding how age-driven metabolic and epigenetic changes drive tumor progression and metastasis formation. Dr. Gomes will continue her transformative research by addressing three critical questions: (1) Are there age-induced factors that affect resistance to conventional anti-cancer therapies? (2) What are the age-driven changes that occur within a tissue that may aid the progression of tumors and resistance to anti-cancer therapies? (3) Are there ways to harness this knowledge to define biomarkers of responsiveness to therapies as well as design better therapeutic strategies that factor in aging? Answering these questions will allow for the discovery of novel pathways that regulate the tumorigenic process and the development of more efficacious therapeutic strategies for aggressive cancers. \n  *"
@@ -213,11 +213,14 @@
       ]
     }
   ],
+  "participating_trials": [],
+  "lab_page_url": "http://lab.moffitt.org/gomes",
+  "google_scholar_url": "",
   "photo_url": "https://www.moffitt.org/globalassets/images/researchers_bio/GomesAna_26666.jpg",
   "contact": {
     "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=26666"
   },
-  "content_hash": "fb32f11bf2b65264699592e7ba63e37afd0474da9321ed1474f8cb2a0d8e9cff",
-  "researcher_name": "Ana Gomes",
-  "department": "Molecular Oncology"
+  "content_hash": "84af4f3ff6186d95ded05423173909c53666f93e3943da25da76ac7e6267d405",
+  "researcher_name": "ana gomes",
+  "department": "molecular oncology"
 }

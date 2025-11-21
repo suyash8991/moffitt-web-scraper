@@ -1,0 +1,136 @@
+{
+  "profile_url": "https://www.moffitt.org/research-science/researchers/wayne-guida/",
+  "last_updated": "2025-11-21T22:50:27.344662",
+  "researcher_id": "925",
+  "degrees": [
+    "PhD"
+  ],
+  "title": "",
+  "primary_program": "",
+  "research_program": "molecular medicine",
+  "overview": "The Guida Lab uses computational modeling to discover and design novel therapeutic agents for the treatment of cancer.",
+  "research_interests": [
+    "My research is focused on computer aided drug design. An area of specific interest to our lab is the design of enzymes essential for the biosynthesis of polyamines, which are critical for the replication of DNA and are elevated in a number of human tumors. This work has focused on the design of S-adenosylmethionin decarboxylase inhibitors as potential anti-cancer agents. Through collaboration with other investigators at Moffitt, we have been involved in the computational design of inhibitors of other enzymes and inhibitors of protein-protein interactions that have therapeutic releveance in cancer. This work includes the following biomolecular targets: farnesyl transferase and geranylgeranyl transferase (in collaboration with Drs. Said Sebti and Nick Lawrence), the 20S Proteasome (with Drs. Said Sebti and Mark McLaughlin), MDM2 p53 and MDMX-P53 (with Drs. Jiandong Chen and Mark McLaughlin) and Shp2 (with Drs. Jerry Wu and Nick Lawrence). We are also interested in developing enhanced methods for the docking of inhibitors into protein binding sites and in applying computational techniques to the problem of elucidating the mechanistic details of enzyme catalysis and in the design, synthesis, and study of model complexes that mimic zinc metallproteases.\n  *"
+  ],
+  "associations": [
+    "Molecular Oncology & Drug Discovery Program",
+    "Molecular Medicine Program"
+  ],
+  "education": [
+    {
+      "type": "Graduate",
+      "institution": "University of South Florida, PhD"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Duke University",
+      "specialty": "Bio-organic Chemistry"
+    },
+    {
+      "type": "Fellowship",
+      "institution": "Columbia University",
+      "specialty": "Computational Chemistry"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Discovery of Clonixeril as a Sub-Femtomolar Modulator of the Human STING Receptor",
+      "pubmed_id": "40585794",
+      "pmc_id": "PMC12203428",
+      "year": "2025",
+      "publication_date": "2025 Jun",
+      "authors": "Sparks RP, Lawless W, Kharitonova A, Metcalf R, Nunziata J, Binder GA, Chaudhuri S, Gambino CSR, Wilde M, Harding LS, Crews JJ, Gopu M, Dalamangas E, Lawless S, Eschenfelder M, Green RM, Nompleggi EX, Tran TH, Yang Y, Trask DV, Thompson PR, Patel R, Patel NA, Brooks WH, Bradley G, Acevedo-Duncan ME, Mullen AC, Leahy JW, Daniel KG, Guida WC",
+      "journal": "ACS Cent Sci"
+    },
+    {
+      "title": "Correction: A small-molecule competitive inhibitor of phosphatidic acid binding by the AAA+ protein NSF/Sec18 blocks the SNARE-priming stage of vacuole fusion",
+      "pubmed_id": "36257250",
+      "pmc_id": "PMC9579040",
+      "year": "2022",
+      "publication_date": "2022 Nov",
+      "authors": "Sparks RP, Arango AS, Starr ML, Aboff ZL, Hurst LR, Rivera-Kohr DA, Zhang C, Harnden KA, Jenkins JL, Guida WC, Tajkhorshid E, Fratti RA",
+      "journal": "J Biol Chem"
+    },
+    {
+      "title": "Cardioprotective Effects of 1-(3,6-Dibromo-carbazol-9-yl)-3-Phenylamino-Propan-2-Ol in Diabetic Hearts via Nicotinamide Phosphoribosyltransferase Activation",
+      "pubmed_id": "35680376",
+      "pmc_id": "PMC9372916",
+      "year": "2022",
+      "publication_date": "2022 Aug",
+      "authors": "Tur J, Badole SL, Manickam R, Chapalamadugu KC, Xuan W, Guida W, Crews JJ, Bisht KS, Tipparaju SM",
+      "journal": "J Pharmacol Exp Ther"
+    },
+    {
+      "title": "The p",
+      "pubmed_id": "33468626",
+      "year": "2021",
+      "publication_date": "2021 Feb",
+      "authors": "Burgos M, Philippe R, Antigny F, Buscaglia P, Masson E, Mukherjee S, Dubar P, Le Mar\u00e9chal C, Campeotto F, Lebonvallet N, Frieden M, Llopis J, Domingo B, Stathopulos PB, Ikura M, Brooks W, Guida W, Chen JM, Ferec C, Capiod T, Mignen O",
+      "journal": "E"
+    },
+    {
+      "title": "An Allosteric Binding Site on Sortilin Regulates the Trafficking of VLDL, PCSK9, and LDLR in Hepatocytes",
+      "pubmed_id": "33153264",
+      "pmc_id": "PMC7674269",
+      "year": "2020",
+      "publication_date": "2020 Nov",
+      "authors": "Sparks RP, Arango AS, Jenkins JL, Guida WC, Tajkhorshid E, Sparks CE, Sparks JD, Fratti RA",
+      "journal": "Biochemistry-Us"
+    },
+    {
+      "title": "A specific small-molecule inhibitor of protein kinase C\u03b4I activity improves metabolic dysfunction in human adipocytes from obese individuals",
+      "pubmed_id": "31413114",
+      "pmc_id": "PMC6791326",
+      "year": "2019",
+      "publication_date": "2019 Oct",
+      "authors": "Sparks RP, Lui A, Bader D, Patel R, Murr M, Guida W, Fratti RA, Patel NA",
+      "journal": "J Biol Chem"
+    },
+    {
+      "title": "A small-molecule competitive inhibitor of phosphatidic acid binding by the AAA+ protein NSF/Sec18 blocks the SNARE-priming stage of vacuole fusion",
+      "pubmed_id": "31515268",
+      "pmc_id": "PMC6873166",
+      "year": "2019",
+      "publication_date": "2019 Nov",
+      "authors": "Sparks RP, Arango AS, Starr ML, Aboff ZL, Hurst LR, Rivera-Kohr DA, Zhang C, Harden KA, Jenkins JL, Guida WC, Tajkhorshid E, Fratti RA",
+      "journal": "J Biol Chem"
+    },
+    {
+      "title": "Mechanistic Studies of 1-Deoxy-D-Xylulose-5-Phosphate Synthase from Deinococcus radiodurans",
+      "pubmed_id": "29552677",
+      "pmc_id": "PMC5851014",
+      "year": "2018",
+      "publication_date": "2018 Mar",
+      "authors": "Handa S, Dempsey DR, Ramamoorthy D, Cook N, Guida WC, Spradling TJ, White JK, Woodcock HL, Merkler DJ",
+      "journal": "Biochem Mol Biol J"
+    },
+    {
+      "title": "Ligand-mediated protein degradation reveals functional conservation among sequence variants of the CUL4-type E3 ligase substrate receptor cereblon",
+      "pubmed_id": "29449372",
+      "pmc_id": "PMC5912449",
+      "year": "2018",
+      "publication_date": "2018 Apr",
+      "authors": "Akuffo AA, Alontaga AY, Metcalf R, Beatty MS, Becker A, McDaniel JM, Hesterberg RS, Goodheart WE, Gunawan S, Ayaz M, Yang Y, Karim MR, Orobello ME, Daniel K, Guida W, Yoder JA, Rajadhyaksha AM, Schonbrunn E, Lawrence HR, Lawrence NJ, Epling-Burnette PK",
+      "journal": "J Biol Chem"
+    },
+    {
+      "title": "Molecular Dynamics Simulations of Membrane-Bound STIM1 to Investigate Conformational Changes during STIM1 Activation upon Calcium Release",
+      "pubmed_id": "28151650",
+      "year": "2017",
+      "publication_date": "2017 02",
+      "authors": "Mukherjee S, Karolak A, Debant M, Buscaglia P, Renaudineau Y, Mignen O, Guida WC, Brooks WH",
+      "journal": "J Chem Inf Model"
+    }
+  ],
+  "grants": [],
+  "participating_trials": [],
+  "lab_page_url": "http://labpages.moffitt.org/guidaw",
+  "google_scholar_url": "",
+  "photo_url": "",
+  "contact": {
+    "contact_url": "https://eforms.moffitt.org/ContactResearchersForm?PERID=925"
+  },
+  "content_hash": "4a4f32380554dc6d940d9a86f24114a9508f2514ffc64ad361e2fb722e6c8df2",
+  "researcher_name": "wayne guida",
+  "department": ""
+}
